@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- SBML created with CBMPy (0.7.19.631) on Fri, 08 Dec 2017 17:21:09 -->
-<sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" xmlns:fbc="http://www.sbml.org/sbml/level3/version1/fbc/version2" xmlns:html="http://www.w3.org/1999/xhtml" level="3" version="1" fbc:required="false">
-  <model metaid="meta_STR" id="STR" substanceUnits="mmol_per_gdw" timeUnits="hour" extentUnits="mmol_per_gdw" fbc:strict="true">
+<!-- SBML created with CBMPy (0.7.20.637) on Mon, 29 Jan 2018 22:57:15 -->
+<sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" xmlns:fbc="http://www.sbml.org/sbml/level3/version1/fbc/version2" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:groups="http://www.sbml.org/sbml/level3/version1/groups/version1" level="3" version="1" fbc:required="false" groups:required="false">
+  <model metaid="meta_Streptococcus_thermophilus_LMG18311" id="Streptococcus_thermophilus_LMG18311" substanceUnits="mmol_per_gdw" timeUnits="hour" extentUnits="mmol_per_gdw" fbc:strict="true">
     <notes>
       <html:p>
-        <html:span style="font-family: Courier New,Courier,monospace;">Model STR (STR) generated with PySCeS CBM (0.7.0) on Thu, 08 Jan 2015 15:12:51.</html:span>
+        <html:span style="font-family: Courier New,Courier,monospace;">Streptococcus_thermophilus_LMG18311.xml converted from the original Simpheny simulation into SBML Level 3 FBC version 2 using CBMPy (http://cbmpy.sourceforge.net).
+
+Please contact a team member for more information: http://teusinkbruggemanlab.nl/team/</html:span>
       </html:p>
     </notes>
+    <annotation>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+        <rdf:Description rdf:about="#meta_Streptococcus_thermophilus_LMG18311">
+          <dcterms:creator>
+            <rdf:Bag>
+              <rdf:li rdf:parseType="Resource">
+                <vCard:N rdf:parseType="Resource">
+                  <vCard:Family>Teusink</vCard:Family>
+                  <vCard:Given>Bas</vCard:Given>
+                </vCard:N>
+                <vCard:ORG rdf:parseType="Resource">
+                  <vCard:Orgname>Systems Bioinformatics, Vrije Universiteit Amsterdam</vCard:Orgname>
+                </vCard:ORG>
+              </rdf:li>
+            </rdf:Bag>
+          </dcterms:creator>
+          <dcterms:created rdf:parseType="Resource">
+            <dcterms:W3CDTF>2018-01-29T21:55:51Z</dcterms:W3CDTF>
+          </dcterms:created>
+          <dcterms:modified rdf:parseType="Resource">
+            <dcterms:W3CDTF>2018-01-29T21:57:15Z</dcterms:W3CDTF>
+          </dcterms:modified>
+        </rdf:Description>
+      </rdf:RDF>
+    </annotation>
     <listOfUnitDefinitions>
       <unitDefinition id="mmol_per_hour" name="mmol_per_hour">
         <listOfUnits>
@@ -646,33 +673,6 @@
       <parameter metaid="meta_bnd_par6" sboTerm="SBO:0000625" id="bnd_par6" value="999999" constant="true"/>
     </listOfParameters>
     <listOfReactions>
-      <reaction metaid="meta_R_MALTPTabc" id="R_MALTPTabc" name="R_maltopentaose_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_maltpt_e" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_maltpt_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction metaid="meta_R_EX_pro_L_e_" id="R_EX_pro_L_e_" name="R_L_Proline_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -1099,8 +1099,8 @@
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_3oxdeacp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
@@ -1908,34 +1908,33 @@
           <fbc:geneProductRef fbc:geneProduct="stu2016"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_PUNP7" id="R_PUNP7" name="R_purine_nucleoside_phosphorylase__Xanthosine_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_MCMAT5" id="R_MCMAT5" name="R_Decanoyl_acyl_carrier_proteinmalonyl_acyl_carrier_protein_C_acyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( stu0941  or  stu1113 )</html:p>
+          <html:p>GENE ASSOCIATION: stu0388</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( stu0941  or  stu1113 )"/>
+            <data id="GENE_ASSOCIATION" value="stu0388"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_xtsn_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_decacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_malacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_xan_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_r1p_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_3oxddacp_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_PUNP7_assoc" fbc:name="R_PUNP7_assoc">
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu0941"/>
-            <fbc:geneProductRef fbc:geneProduct="stu1113"/>
-          </fbc:or>
+        <fbc:geneProductAssociation fbc:id="R_MCMAT5_assoc" fbc:name="R_MCMAT5_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0388"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_DHPS3" id="R_DHPS3" name="R_dihydropteroate_synthase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -2167,39 +2166,6 @@
           <fbc:geneProductRef fbc:geneProduct="stu0031"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_DHORD1" id="R_DHORD1" name="R_dihydoorotic_acid_dehydrogenase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( ( stu0954  and  stu0955 )  or  stu1207 )</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( ( stu0954  and  stu0955 )  or  stu1207 )"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_dhor_S_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_orot_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o2_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_DHORD1_assoc" fbc:name="R_DHORD1_assoc">
-          <fbc:or>
-            <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="stu0955"/>
-              <fbc:geneProductRef fbc:geneProduct="stu0954"/>
-            </fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="stu1207"/>
-          </fbc:or>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_MNLpts" id="R_MNLpts" name="R_mannitol_transport_via_PEPPyr_PTS" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -2274,27 +2240,33 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_EX_glyc_e_" id="R_EX_glyc_e_" name="R_Glycerol_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_ACTPASE" id="R_ACTPASE" name="R_acylphosphatase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0246</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
+            <data id="GENE_ASSOCIATION" value="stu0246"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_glyc_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_actp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_glyc_b" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ac_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_ACTPASE_assoc" fbc:name="R_ACTPASE_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0246"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_PAPPT1" id="R_PAPPT1" name="R_phospho_N_acetylmuramoyl_pentapeptide_transferase__alpha_glutamate_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -2801,40 +2773,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_PUNP8" id="R_PUNP8" name="R_purine_nucleoside_phosphorylase__nebularine_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( stu1117  or  ( stu0941  or  stu1113 ) )</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( stu1117  or  ( stu0941  or  stu1113 ) )"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nebari_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_r1p_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_purine_1_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_PUNP8_assoc" fbc:name="R_PUNP8_assoc">
-          <fbc:or>
-            <fbc:or>
-              <fbc:geneProductRef fbc:geneProduct="stu0941"/>
-              <fbc:geneProductRef fbc:geneProduct="stu1113"/>
-            </fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu1117"/>
-          </fbc:or>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_KARA1" id="R_KARA1" name="R_ketol_acid_reductoisomerase__2_3_dihydroxy_3_methylbutanoate_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -3014,55 +2952,6 @@
         <listOfProducts>
           <speciesReference species="M_thr_L_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction metaid="meta_R_EX_asp_L_e_" id="R_EX_asp_L_e_" name="R_L_Aspartate_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_asp_L_e" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_asp_L_b" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction metaid="meta_R_MALTHXabc" id="R_MALTHXabc" name="R_maltohexaose_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_malthx_e" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_malthx_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_SERD_L" id="R_SERD_L" name="R_L_serine_deaminase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -3459,33 +3348,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_ACGAMT_assoc" fbc:name="R_ACGAMT_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu0163"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_DHORTS" id="R_DHORTS" name="R_dihydroorotase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu1054</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu1054"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_dhor_S_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cbasp_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_DHORTS_assoc" fbc:name="R_DHORTS_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu1054"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_TDPDRE" id="R_TDPDRE" name="R_dTDP_4_dehydrorhamnose_3_5_epimerase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -3903,6 +3765,33 @@
           <fbc:geneProductRef fbc:geneProduct="stu0979"/>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction metaid="meta_R_UPPRT" id="R_UPPRT" name="R_uracil_phosphoribosyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0355</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu0355"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_prpp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ura_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ppi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ump_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_UPPRT_assoc" fbc:name="R_UPPRT_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0355"/>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction metaid="meta_R_HBUR1" id="R_HBUR1" name="R__3R__3_Hydroxybutanoyl_acyl_carrier_proteinNADP_oxidoreductase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -4165,6 +4054,32 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_ALAR_assoc" fbc:name="R_ALAR_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu1726"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_HODHL8" id="R_HODHL8" name="R__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_hydro_lyase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0390</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu0390"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_3hocdacp_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_2tocdacp_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_HODHL8_assoc" fbc:name="R_HODHL8_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0390"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_SOD" id="R_SOD" name="R_superoxide_dismutase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -4857,8 +4772,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_4ampm_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_HMPK1_assoc" fbc:name="R_HMPK1_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu0123"/>
@@ -5248,31 +5163,32 @@
           <fbc:geneProductRef fbc:geneProduct="stu0477"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_HODHL8" id="R_HODHL8" name="R__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_hydro_lyase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_MALTHXabc" id="R_MALTHXabc" name="R_maltohexaose_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0390</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0390"/>
+            <data id="GENE_ASSOCIATION"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_3hocdacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_malthx_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_2tocdacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_malthx_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_HODHL8_assoc" fbc:name="R_HODHL8_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0390"/>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_ACPS2" id="R_ACPS2" name="R_acyl_carrier_protein_synthase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -5672,6 +5588,34 @@
           <speciesReference species="M_glu_L_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
+      </reaction>
+      <reaction metaid="meta_R_ALCD19" id="R_ALCD19" name="R_alcohol_dehydrogenase__glycerol_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0936</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu0936"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_glyald_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_ALCD19_assoc" fbc:name="R_ALCD19_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0936"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_HDMAT7" id="R_HDMAT7" name="R_Hexadecanoyl_acyl_carrier_proteinmalonyl_CoA__C_acyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -6084,33 +6028,6 @@
           <speciesReference species="M_oxa_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_ACGK" id="R_ACGK" name="R_acetylglutamate_kinase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0466</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0466"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_acglu_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_acg5p_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_ACGK_assoc" fbc:name="R_ACGK_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0466"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_METDabc_2" id="R_METDabc_2" name="R_D_methionine_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -6132,9 +6049,9 @@
           <speciesReference species="M_met_D_2_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_met_D_2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
@@ -6193,32 +6110,38 @@
           <fbc:geneProductRef fbc:geneProduct="stu0387"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_PPND" id="R_PPND" name="R_prephenate_dehydrogenase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_ARGabc" id="R_ARGabc" name="R_L_arginine_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0642</html:p>
+          <html:p>GENE ASSOCIATION: ( stu1492  or  stu1494  or  stu1495 )</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0642"/>
+            <data id="GENE_ASSOCIATION" value="( stu1492  or  stu1494  or  stu1495 )"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_pphn_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_arg_L_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_34hpp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_arg_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_PPND_assoc" fbc:name="R_PPND_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0642"/>
+        <fbc:geneProductAssociation fbc:id="R_ARGabc_assoc" fbc:name="R_ARGabc_assoc">
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu1492"/>
+            <fbc:geneProductRef fbc:geneProduct="stu1495"/>
+            <fbc:geneProductRef fbc:geneProduct="stu1494"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_EX_lys_L_e_" id="R_EX_lys_L_e_" name="R_L_Lysine_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -6624,8 +6547,8 @@
           <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_akg_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_ICDHy_assoc" fbc:name="R_ICDHy_assoc">
@@ -7026,31 +6949,31 @@
           <fbc:geneProductRef fbc:geneProduct="stu0906"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_NDPK3" id="R_NDPK3" name="R_nucleoside_diphosphate_kinase__ATPCDP_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_MTHFC" id="R_MTHFC" name="R_methenyltetrahydrofolate_cyclohydrolase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0906</html:p>
+          <html:p>GENE ASSOCIATION: stu0611</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0906"/>
+            <data id="GENE_ASSOCIATION" value="stu0611"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_cdp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_methf_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_ctp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_10fthf_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_NDPK3_assoc" fbc:name="R_NDPK3_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0906"/>
+        <fbc:geneProductAssociation fbc:id="R_MTHFC_assoc" fbc:name="R_MTHFC_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0611"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_NDPK2" id="R_NDPK2" name="R_nucleoside_diphosphate_kinase__ATPUDP_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -7413,8 +7336,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nadph_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
           <speciesReference species="M_hmgcoa_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_HMGCOAR_assoc" fbc:name="R_HMGCOAR_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu0576"/>
@@ -7797,38 +7720,34 @@
           <fbc:geneProductRef fbc:geneProduct="stu0906"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_ARGabc" id="R_ARGabc" name="R_L_arginine_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_GLNS" id="R_GLNS" name="R_glutamine_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( stu1492  or  stu1494  or  stu1495 )</html:p>
+          <html:p>GENE ASSOCIATION: stu1776</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( stu1492  or  stu1494  or  stu1495 )"/>
+            <data id="GENE_ASSOCIATION" value="stu1776"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_arg_L_e" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_glu_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nh4_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_arg_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_gln_L_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_ARGabc_assoc" fbc:name="R_ARGabc_assoc">
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu1492"/>
-            <fbc:geneProductRef fbc:geneProduct="stu1495"/>
-            <fbc:geneProductRef fbc:geneProduct="stu1494"/>
-          </fbc:or>
+        <fbc:geneProductAssociation fbc:id="R_GLNS_assoc" fbc:name="R_GLNS_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu1776"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_RNTR4" id="R_RNTR4" name="R_ribonucleoside_triphosphate_reductase__UTP_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -8276,6 +8195,36 @@
           <fbc:geneProductRef fbc:geneProduct="stu0611"/>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction metaid="meta_R_PRASCS" id="R_PRASCS" name="R_phosphoribosylaminoimidazolesuccinocarboxamide_synthase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0030</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu0030"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_5aizc_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_asp_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_25aics_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_PRASCS_assoc" fbc:name="R_PRASCS_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0030"/>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction metaid="meta_R_PGMT_B" id="R_PGMT_B" name="R_b_phosphoglucomutase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -8324,31 +8273,31 @@
           <fbc:geneProductRef fbc:geneProduct="stu0920"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_MTHFC" id="R_MTHFC" name="R_methenyltetrahydrofolate_cyclohydrolase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_NDPK3" id="R_NDPK3" name="R_nucleoside_diphosphate_kinase__ATPCDP_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0611</html:p>
+          <html:p>GENE ASSOCIATION: stu0906</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0611"/>
+            <data id="GENE_ASSOCIATION" value="stu0906"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_methf_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cdp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_10fthf_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ctp_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_MTHFC_assoc" fbc:name="R_MTHFC_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0611"/>
+        <fbc:geneProductAssociation fbc:id="R_NDPK3_assoc" fbc:name="R_NDPK3_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0906"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_PROTS_STR" id="R_PROTS_STR" name="R_protein_synthesis_for_thermophilus_CNRZ1066" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -8453,6 +8402,33 @@
             </fbc:or>
             <fbc:geneProductRef fbc:geneProduct="stu1117"/>
           </fbc:or>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_LPGS_LLA" id="R_LPGS_LLA" name="R_lysylphosphatidyl_glycerol_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu1256</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu1256"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_lystrna_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pg_LLA_c" stoichiometry="0.01" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_lyspg_LLA_c" stoichiometry="0.01" constant="true"/>
+          <speciesReference species="M_trnalys_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_LPGS_LLA_assoc" fbc:name="R_LPGS_LLA_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu1256"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_PTAr" id="R_PTAr" name="R_phosphotransacetylase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -9076,6 +9052,32 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction metaid="meta_R_HTDHL6" id="R_HTDHL6" name="R__3R__3_Hydroxypalmitoyl_acyl_carrier_protein_hydro_lyase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0390</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu0390"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_3htdacp_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_2ttdeacp_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_HTDHL6_assoc" fbc:name="R_HTDHL6_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0390"/>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction metaid="meta_R_GALTpts" id="R_GALTpts" name="R_Galactitol_transport_via_PEPPyr_PTS" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -9220,46 +9222,6 @@
         <fbc:geneProductAssociation fbc:id="R_OMPDC_assoc" fbc:name="R_OMPDC_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu0967"/>
         </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_PEPTL" id="R_PEPTL" name="R_milk_derived_peptidolysis" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_mpept_c" stoichiometry="0.001" constant="true"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_val_L_c" stoichiometry="0.055" constant="true"/>
-          <speciesReference species="M_asp_L_c" stoichiometry="0.076" constant="true"/>
-          <speciesReference species="M_cys_L_c" stoichiometry="0.014" constant="true"/>
-          <speciesReference species="M_ser_L_c" stoichiometry="0.058" constant="true"/>
-          <speciesReference species="M_his_L_c" stoichiometry="0.024" constant="true"/>
-          <speciesReference species="M_leu_L_c" stoichiometry="0.09" constant="true"/>
-          <speciesReference species="M_tyr_L_c" stoichiometry="0.046" constant="true"/>
-          <speciesReference species="M_glu_L_c" stoichiometry="0.224" constant="true"/>
-          <speciesReference species="M_arg_L_c" stoichiometry="0.031" constant="true"/>
-          <speciesReference species="M_ala_L_c" stoichiometry="0.032" constant="true"/>
-          <speciesReference species="M_phe_L_c" stoichiometry="0.054" constant="true"/>
-          <speciesReference species="M_pro_L_c" stoichiometry="0.088" constant="true"/>
-          <speciesReference species="M_thr_L_c" stoichiometry="0.043" constant="true"/>
-          <speciesReference species="M_lys_L_c" stoichiometry="0.076" constant="true"/>
-          <speciesReference species="M_trp_L_c" stoichiometry="0.008" constant="true"/>
-          <speciesReference species="M_ile_L_c" stoichiometry="0.041" constant="true"/>
-          <speciesReference species="M_gly_c" stoichiometry="0.017" constant="true"/>
-          <speciesReference species="M_met_L_c" stoichiometry="0.023" constant="true"/>
-        </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_GLUabc" id="R_GLUabc" name="R_L_glutamate_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -9646,8 +9608,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_glu_L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_adp_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cbp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
         </listOfProducts>
@@ -10676,33 +10638,27 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_ALCD19" id="R_ALCD19" name="R_alcohol_dehydrogenase__glycerol_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_EX_asp_L_e_" id="R_EX_asp_L_e_" name="R_L_Aspartate_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0936</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0936"/>
+            <data id="GENE_ASSOCIATION"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_glyald_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_asp_L_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_glyc_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_asp_L_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_ALCD19_assoc" fbc:name="R_ALCD19_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0936"/>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_GALK2" id="R_GALK2" name="R_galactokinase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -11207,34 +11163,32 @@
           <speciesReference species="M_o2_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_UAGCVT" id="R_UAGCVT" name="R_UDP_N_acetylglucosamine_1_carboxyvinyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_NOX1" id="R_NOX1" name="R_NADH_oxidase__H2O2_forming_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( stu1167  or  stu1560 )</html:p>
+          <html:p>GENE ASSOCIATION: stu1281</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( stu1167  or  stu1560 )"/>
+            <data id="GENE_ASSOCIATION" value="stu1281"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_pep_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_uacgam_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_uaccg_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o2_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_UAGCVT_assoc" fbc:name="R_UAGCVT_assoc">
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu1560"/>
-            <fbc:geneProductRef fbc:geneProduct="stu1167"/>
-          </fbc:or>
+        <fbc:geneProductAssociation fbc:id="R_NOX1_assoc" fbc:name="R_NOX1_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu1281"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_UDCPDPS" id="R_UDCPDPS" name="R_Undecaprenyl_diphosphate_synthase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -11377,36 +11331,33 @@
           <fbc:geneProductRef fbc:geneProduct="stu1857"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_DAHPS" id="R_DAHPS" name="R_3_deoxy_D_arabino_heptulosonate_7_phosphate_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_kaasIII" id="R_kaasIII" name="R_beta_ketoacyl_ACP_synthase_III" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( stu0641  or  stu1728  or  stu1729 )</html:p>
+          <html:p>GENE ASSOCIATION: stu0382</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( stu0641  or  stu1728  or  stu1729 )"/>
+            <data id="GENE_ASSOCIATION" value="stu0382"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_e4p_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_pep_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_accoa_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_malacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_2dda7p_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_aaacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_coa_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_DAHPS_assoc" fbc:name="R_DAHPS_assoc">
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu1729"/>
-            <fbc:geneProductRef fbc:geneProduct="stu1728"/>
-            <fbc:geneProductRef fbc:geneProduct="stu0641"/>
-          </fbc:or>
+        <fbc:geneProductAssociation fbc:id="R_kaasIII_assoc" fbc:name="R_kaasIII_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0382"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_GMPS2" id="R_GMPS2" name="R_GMP_synthase__glutamine_hydrolysing_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -11439,6 +11390,38 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_GMPS2_assoc" fbc:name="R_GMPS2_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu0886"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_DAHPS" id="R_DAHPS" name="R_3_deoxy_D_arabino_heptulosonate_7_phosphate_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: ( stu0641  or  stu1728  or  stu1729 )</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="( stu0641  or  stu1728  or  stu1729 )"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_e4p_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pep_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_2dda7p_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_DAHPS_assoc" fbc:name="R_DAHPS_assoc">
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu1729"/>
+            <fbc:geneProductRef fbc:geneProduct="stu1728"/>
+            <fbc:geneProductRef fbc:geneProduct="stu0641"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_AGPR" id="R_AGPR" name="R_N_acetyl_g_glutamyl_phosphate_reductase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -11618,34 +11601,36 @@
           <fbc:geneProductRef fbc:geneProduct="stu0186"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_TRDR" id="R_TRDR" name="R_thioredoxin_reductase__NADPH_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_DHORD1" id="R_DHORD1" name="R_dihydoorotic_acid_dehydrogenase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: ( stu1417  or  stu1650 )</html:p>
+          <html:p>GENE ASSOCIATION: ( ( stu0954  and  stu0955 )  or  stu1207 )</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="( stu1417  or  stu1650 )"/>
+            <data id="GENE_ASSOCIATION" value="( ( stu0954  and  stu0955 )  or  stu1207 )"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_trdox_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dhor_S_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_trdrd_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_orot_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o2_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_TRDR_assoc" fbc:name="R_TRDR_assoc">
+        <fbc:geneProductAssociation fbc:id="R_DHORD1_assoc" fbc:name="R_DHORD1_assoc">
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu1650"/>
-            <fbc:geneProductRef fbc:geneProduct="stu1417"/>
+            <fbc:and>
+              <fbc:geneProductRef fbc:geneProduct="stu0955"/>
+              <fbc:geneProductRef fbc:geneProduct="stu0954"/>
+            </fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="stu1207"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -11677,7 +11662,7 @@
           <fbc:geneProductRef fbc:geneProduct="stu0646"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_EX_urea_e_" id="R_EX_urea_e_" name="R_Urea_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par5" fbc:upperFluxBound="bnd_par0">
+      <reaction metaid="meta_R_EX_glyc_e_" id="R_EX_glyc_e_" name="R_Glycerol_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
           <html:p>GENE ASSOCIATION: None</html:p>
@@ -11693,10 +11678,10 @@
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_urea_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_glyc_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_urea_b" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_glyc_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_PNTK" id="R_PNTK" name="R_pantothenate_kinase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -11910,9 +11895,9 @@
           <speciesReference species="M_hco3_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_malcoa_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_ACCOAC_assoc" fbc:name="R_ACCOAC_assoc">
@@ -12033,6 +12018,60 @@
         <fbc:geneProductAssociation fbc:id="R_URIK2_assoc" fbc:name="R_URIK2_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu1260"/>
         </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_TRDR" id="R_TRDR" name="R_thioredoxin_reductase__NADPH_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: ( stu1417  or  stu1650 )</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="( stu1417  or  stu1650 )"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_nadph_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_trdox_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_trdrd_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nadp_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_TRDR_assoc" fbc:name="R_TRDR_assoc">
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu1650"/>
+            <fbc:geneProductRef fbc:geneProduct="stu1417"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_ADSL1r" id="R_ADSL1r" name="R_adenylsuccinate_lyase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_dcamp_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_fum_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_amp_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_EX_ac_e_" id="R_EX_ac_e_" name="R_Acetate_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -12486,10 +12525,10 @@
           <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_malt_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_malt_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction metaid="meta_R_FABM" id="R_FABM" name="R_Fatty_acid_enoyl_isomerase__FabM_reaction_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -12649,31 +12688,32 @@
           <fbc:geneProductRef fbc:geneProduct="stu1013"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_LPGS_LLA" id="R_LPGS_LLA" name="R_lysylphosphatidyl_glycerol_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_PPND" id="R_PPND" name="R_prephenate_dehydrogenase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu1256</html:p>
+          <html:p>GENE ASSOCIATION: stu0642</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu1256"/>
+            <data id="GENE_ASSOCIATION" value="stu0642"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_lystrna_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_pg_LLA_c" stoichiometry="0.01" constant="true"/>
+          <speciesReference species="M_pphn_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_lyspg_LLA_c" stoichiometry="0.01" constant="true"/>
-          <speciesReference species="M_trnalys_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_34hpp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_LPGS_LLA_assoc" fbc:name="R_LPGS_LLA_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu1256"/>
+        <fbc:geneProductAssociation fbc:id="R_PPND_assoc" fbc:name="R_PPND_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0642"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_NADS1" id="R_NADS1" name="R_NAD_synthase__nh4_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -12869,7 +12909,7 @@
           <speciesReference species="M_met_L_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_ADSL1r" id="R_ADSL1r" name="R_adenylsuccinate_lyase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_EX_ribflv_e_" id="R_EX_ribflv_e_" name="R_Riboflavin_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par5" fbc:upperFluxBound="bnd_par0">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
           <html:p>GENE ASSOCIATION: None</html:p>
@@ -12885,40 +12925,33 @@
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_dcamp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ribflv_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_fum_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_amp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ribflv_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_ADPRDP" id="R_ADPRDP" name="R_ADPribose_diphosphatase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_EX_pnto_R_e_" id="R_EX_pnto_R_e_" name="R__R__Pantothenate_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par5" fbc:upperFluxBound="bnd_par0">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0564</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0564"/>
+            <data id="GENE_ASSOCIATION"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_adprib_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pnto_R_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_r5p_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_amp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pnto_R_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_ADPRDP_assoc" fbc:name="R_ADPRDP_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0564"/>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_GTHRD" id="R_GTHRD" name="R_glutathione_disulfide_reductase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -13077,33 +13110,6 @@
           <fbc:geneProductRef fbc:geneProduct="stu0035"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_LEUTA" id="R_LEUTA" name="R_leucine_transaminase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0590</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0590"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_leu_L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_akg_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_glu_L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_4mop_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_LEUTA_assoc" fbc:name="R_LEUTA_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0590"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_PTPAT" id="R_PTPAT" name="R_pantetheine_phosphate_adenylyltransferase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -13132,34 +13138,31 @@
           <fbc:geneProductRef fbc:geneProduct="stu1648"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_PRASCS" id="R_PRASCS" name="R_phosphoribosylaminoimidazolesuccinocarboxamide_synthase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_DHORTS" id="R_DHORTS" name="R_dihydroorotase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0030</html:p>
+          <html:p>GENE ASSOCIATION: stu1054</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0030"/>
+            <data id="GENE_ASSOCIATION" value="stu1054"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_5aizc_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_asp_L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dhor_S_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_25aics_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cbasp_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_PRASCS_assoc" fbc:name="R_PRASCS_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0030"/>
+        <fbc:geneProductAssociation fbc:id="R_DHORTS_assoc" fbc:name="R_DHORTS_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu1054"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_PPM2" id="R_PPM2" name="R_phosphopentomutase__deoxyribose_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -13222,29 +13225,34 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_ACONT" id="R_ACONT" name="R_aconitase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_UAGCVT" id="R_UAGCVT" name="R_UDP_N_acetylglucosamine_1_carboxyvinyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu1268</html:p>
+          <html:p>GENE ASSOCIATION: ( stu1167  or  stu1560 )</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu1268"/>
+            <data id="GENE_ASSOCIATION" value="( stu1167  or  stu1560 )"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_cit_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pep_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_uacgam_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_icit_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_uaccg_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_ACONT_assoc" fbc:name="R_ACONT_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu1268"/>
+        <fbc:geneProductAssociation fbc:id="R_UAGCVT_assoc" fbc:name="R_UAGCVT_assoc">
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu1560"/>
+            <fbc:geneProductRef fbc:geneProduct="stu1167"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_HEX1" id="R_HEX1" name="R_hexokinase__D_glucoseATP_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -13529,34 +13537,32 @@
           <fbc:geneProductRef fbc:geneProduct="stu0755"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_MCMAT5" id="R_MCMAT5" name="R_Decanoyl_acyl_carrier_proteinmalonyl_acyl_carrier_protein_C_acyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_MALTPTabc" id="R_MALTPTabc" name="R_maltopentaose_transport_via_ABC_system" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0388</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0388"/>
+            <data id="GENE_ASSOCIATION"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_decacp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_malacp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_maltpt_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_acp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_3oxddacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_maltpt_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_MCMAT5_assoc" fbc:name="R_MCMAT5_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0388"/>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_MCMAT4" id="R_MCMAT4" name="R_Octanoyl_acyl_carrier_proteinmalonyl_acyl_carrier_protein___C_acyltransferase__decarboxylating_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -13727,79 +13733,94 @@
           <speciesReference species="M_pydam_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_EX_pnto_R_e_" id="R_EX_pnto_R_e_" name="R__R__Pantothenate_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par5" fbc:upperFluxBound="bnd_par0">
+      <reaction metaid="meta_R_ADPRDP" id="R_ADPRDP" name="R_ADPribose_diphosphatase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0564</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
+            <data id="GENE_ASSOCIATION" value="stu0564"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_pnto_R_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adprib_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_pnto_R_b" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_r5p_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_amp_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-      </reaction>
-      <reaction metaid="meta_R_GLNS" id="R_GLNS" name="R_glutamine_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu1776</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu1776"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_glu_L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nh4_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_gln_L_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_GLNS_assoc" fbc:name="R_GLNS_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu1776"/>
+        <fbc:geneProductAssociation fbc:id="R_ADPRDP_assoc" fbc:name="R_ADPRDP_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0564"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_EX_ribflv_e_" id="R_EX_ribflv_e_" name="R_Riboflavin_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par5" fbc:upperFluxBound="bnd_par0">
+      <reaction metaid="meta_R_LEUTA" id="R_LEUTA" name="R_leucine_transaminase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0590</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION"/>
+            <data id="GENE_ASSOCIATION" value="stu0590"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_ribflv_e" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_leu_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_akg_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ribflv_b" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_glu_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_4mop_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_LEUTA_assoc" fbc:name="R_LEUTA_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0590"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction metaid="meta_R_PUNP8" id="R_PUNP8" name="R_purine_nucleoside_phosphorylase__nebularine_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: ( stu1117  or  ( stu0941  or  stu1113 ) )</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="( stu1117  or  ( stu0941  or  stu1113 ) )"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_nebari_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_r1p_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_purine_1_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_PUNP8_assoc" fbc:name="R_PUNP8_assoc">
+          <fbc:or>
+            <fbc:or>
+              <fbc:geneProductRef fbc:geneProduct="stu0941"/>
+              <fbc:geneProductRef fbc:geneProduct="stu1113"/>
+            </fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu1117"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_OCMAT3" id="R_OCMAT3" name="R_Octanoyl_acyl_carrier_proteinmalonyl_CoA_C_acyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -13920,34 +13941,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_UAGDP_assoc" fbc:name="R_UAGDP_assoc">
           <fbc:geneProductRef fbc:geneProduct="stu0563"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_NOX1" id="R_NOX1" name="R_NADH_oxidase__H2O2_forming_" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
-        <notes>
-          <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu1281</html:p>
-          <html:p>PROTEIN_CLASS: None</html:p>
-          <html:p>PROTEIN_ASSOCIATION: None</html:p>
-        </notes>
-        <annotation>
-          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
-            <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu1281"/>
-            <data id="PROTEIN_CLASS"/>
-            <data id="PROTEIN_ASSOCIATION"/>
-          </listOfKeyValueData>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_o2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_nadh_c" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o2_c" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_NOX1_assoc" fbc:name="R_NOX1_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu1281"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_HODR8" id="R_HODR8" name="R__3R__3_Hydroxyoctadecanoyl_acyl_carrier_proteinNADP_oxidoreductase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -14393,34 +14386,34 @@
           <fbc:geneProductRef fbc:geneProduct="stu0747"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_CYSTRS" id="R_CYSTRS" name="R_Cysteinyl_tRNA_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_PUNP7" id="R_PUNP7" name="R_purine_nucleoside_phosphorylase__Xanthosine_" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0084</html:p>
+          <html:p>GENE ASSOCIATION: ( stu0941  or  stu1113 )</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0084"/>
+            <data id="GENE_ASSOCIATION" value="( stu0941  or  stu1113 )"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_trnacys_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cys_L_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_xtsn_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ppi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cystrna_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_amp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_xan_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_r1p_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_CYSTRS_assoc" fbc:name="R_CYSTRS_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0084"/>
+        <fbc:geneProductAssociation fbc:id="R_PUNP7_assoc" fbc:name="R_PUNP7_assoc">
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu0941"/>
+            <fbc:geneProductRef fbc:geneProduct="stu1113"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_G1PTMT" id="R_G1PTMT" name="R_glucose_1_phosphate_thymidylyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
@@ -14799,31 +14792,27 @@
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_HTDHL6" id="R_HTDHL6" name="R__3R__3_Hydroxypalmitoyl_acyl_carrier_protein_hydro_lyase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_EX_urea_e_" id="R_EX_urea_e_" name="R_Urea_exchange" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par5" fbc:upperFluxBound="bnd_par0">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0390</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0390"/>
+            <data id="GENE_ASSOCIATION"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_3htdacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_urea_e" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_2ttdeacp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_urea_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_HTDHL6_assoc" fbc:name="R_HTDHL6_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0390"/>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_HISTRS" id="R_HISTRS" name="R_Histidyl_tRNA_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -15153,32 +15142,45 @@
           <speciesReference species="M_lac_L_b" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_UPPRT" id="R_UPPRT" name="R_uracil_phosphoribosyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_PEPTL" id="R_PEPTL" name="R_milk_derived_peptidolysis" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0355</html:p>
+          <html:p>GENE ASSOCIATION: None</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0355"/>
+            <data id="GENE_ASSOCIATION"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_prpp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_ura_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_mpept_c" stoichiometry="0.001" constant="true"/>
+          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ppi_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_ump_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_val_L_c" stoichiometry="0.055" constant="true"/>
+          <speciesReference species="M_asp_L_c" stoichiometry="0.076" constant="true"/>
+          <speciesReference species="M_cys_L_c" stoichiometry="0.014" constant="true"/>
+          <speciesReference species="M_ser_L_c" stoichiometry="0.058" constant="true"/>
+          <speciesReference species="M_his_L_c" stoichiometry="0.024" constant="true"/>
+          <speciesReference species="M_leu_L_c" stoichiometry="0.09" constant="true"/>
+          <speciesReference species="M_tyr_L_c" stoichiometry="0.046" constant="true"/>
+          <speciesReference species="M_glu_L_c" stoichiometry="0.224" constant="true"/>
+          <speciesReference species="M_arg_L_c" stoichiometry="0.031" constant="true"/>
+          <speciesReference species="M_ala_L_c" stoichiometry="0.032" constant="true"/>
+          <speciesReference species="M_phe_L_c" stoichiometry="0.054" constant="true"/>
+          <speciesReference species="M_pro_L_c" stoichiometry="0.088" constant="true"/>
+          <speciesReference species="M_thr_L_c" stoichiometry="0.043" constant="true"/>
+          <speciesReference species="M_lys_L_c" stoichiometry="0.076" constant="true"/>
+          <speciesReference species="M_trp_L_c" stoichiometry="0.008" constant="true"/>
+          <speciesReference species="M_ile_L_c" stoichiometry="0.041" constant="true"/>
+          <speciesReference species="M_gly_c" stoichiometry="0.017" constant="true"/>
+          <speciesReference species="M_met_L_c" stoichiometry="0.023" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_UPPRT_assoc" fbc:name="R_UPPRT_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0355"/>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_PGGT2" id="R_PGGT2" name="R_peptidoglycan_glycosyltransferase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
@@ -15204,40 +15206,40 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="R_PGGT2_assoc" fbc:name="R_PGGT2_assoc">
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="stu0080"/>
-            <fbc:geneProductRef fbc:geneProduct="stu0230"/>
             <fbc:geneProductRef fbc:geneProduct="stu1869"/>
-            <fbc:or>
-              <fbc:geneProductRef fbc:geneProduct="stu1155"/>
-              <fbc:geneProductRef fbc:geneProduct="stu0596"/>
-            </fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="stu0230"/>
+            <fbc:geneProductRef fbc:geneProduct="stu0080"/>
             <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="stu0212"/>
-              <fbc:geneProductRef fbc:geneProduct="stu0613"/>
               <fbc:or>
                 <fbc:geneProductRef fbc:geneProduct="stu0496"/>
                 <fbc:geneProductRef fbc:geneProduct="stu0117"/>
                 <fbc:geneProductRef fbc:geneProduct="stu0869"/>
               </fbc:or>
+              <fbc:geneProductRef fbc:geneProduct="stu0212"/>
+              <fbc:geneProductRef fbc:geneProduct="stu0613"/>
               <fbc:or>
                 <fbc:geneProductRef fbc:geneProduct="stu1155"/>
                 <fbc:geneProductRef fbc:geneProduct="stu0596"/>
               </fbc:or>
               <fbc:geneProductRef fbc:geneProduct="stu0230"/>
             </fbc:and>
+            <fbc:or>
+              <fbc:geneProductRef fbc:geneProduct="stu1155"/>
+              <fbc:geneProductRef fbc:geneProduct="stu0596"/>
+            </fbc:or>
             <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="stu1701"/>
-              <fbc:geneProductRef fbc:geneProduct="stu0212"/>
               <fbc:or>
                 <fbc:geneProductRef fbc:geneProduct="stu0496"/>
                 <fbc:geneProductRef fbc:geneProduct="stu0117"/>
                 <fbc:geneProductRef fbc:geneProduct="stu0869"/>
               </fbc:or>
+              <fbc:geneProductRef fbc:geneProduct="stu1701"/>
+              <fbc:geneProductRef fbc:geneProduct="stu0212"/>
+              <fbc:geneProductRef fbc:geneProduct="stu0230"/>
               <fbc:or>
                 <fbc:geneProductRef fbc:geneProduct="stu1155"/>
                 <fbc:geneProductRef fbc:geneProduct="stu0596"/>
               </fbc:or>
-              <fbc:geneProductRef fbc:geneProduct="stu0230"/>
             </fbc:and>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -15436,33 +15438,31 @@
           <fbc:geneProductRef fbc:geneProduct="stu1281"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_kaasIII" id="R_kaasIII" name="R_beta_ketoacyl_ACP_synthase_III" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_ACGK" id="R_ACGK" name="R_acetylglutamate_kinase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0382</html:p>
+          <html:p>GENE ASSOCIATION: stu0466</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0382"/>
+            <data id="GENE_ASSOCIATION" value="stu0466"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_accoa_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_malacp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acglu_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_aaacp_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_coa_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_adp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acg5p_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_kaasIII_assoc" fbc:name="R_kaasIII_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0382"/>
+        <fbc:geneProductAssociation fbc:id="R_ACGK_assoc" fbc:name="R_ACGK_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0466"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_PGAMT" id="R_PGAMT" name="R_phosphoglucosamine_mutase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -15673,6 +15673,36 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction metaid="meta_R_CYSTRS" id="R_CYSTRS" name="R_Cysteinyl_tRNA_synthetase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+        <notes>
+          <html:p>SUBSYSTEM: None</html:p>
+          <html:p>GENE ASSOCIATION: stu0084</html:p>
+          <html:p>PROTEIN_CLASS: None</html:p>
+          <html:p>PROTEIN_ASSOCIATION: None</html:p>
+        </notes>
+        <annotation>
+          <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
+            <data id="SUBSYSTEM"/>
+            <data id="GENE_ASSOCIATION" value="stu0084"/>
+            <data id="PROTEIN_CLASS"/>
+            <data id="PROTEIN_ASSOCIATION"/>
+          </listOfKeyValueData>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="M_trnacys_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cys_L_c" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ppi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cystrna_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_amp_c" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation fbc:id="R_CYSTRS_assoc" fbc:name="R_CYSTRS_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu0084"/>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction metaid="meta_R_PHEt6" id="R_PHEt6" name="R_L_phenylalanine_transport_inout_via_proton_symport" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
@@ -15721,32 +15751,29 @@
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_ACTPASE" id="R_ACTPASE" name="R_acylphosphatase" reversible="false" fast="false" fbc:lowerFluxBound="bnd_par0" fbc:upperFluxBound="bnd_par6">
+      <reaction metaid="meta_R_ACONT" id="R_ACONT" name="R_aconitase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
         <notes>
           <html:p>SUBSYSTEM: None</html:p>
-          <html:p>GENE ASSOCIATION: stu0246</html:p>
+          <html:p>GENE ASSOCIATION: stu1268</html:p>
           <html:p>PROTEIN_CLASS: None</html:p>
           <html:p>PROTEIN_ASSOCIATION: None</html:p>
         </notes>
         <annotation>
           <listOfKeyValueData xmlns="http://pysces.sourceforge.net/KeyValueData">
             <data id="SUBSYSTEM"/>
-            <data id="GENE_ASSOCIATION" value="stu0246"/>
+            <data id="GENE_ASSOCIATION" value="stu1268"/>
             <data id="PROTEIN_CLASS"/>
             <data id="PROTEIN_ASSOCIATION"/>
           </listOfKeyValueData>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_actp_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_cit_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ac_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_icit_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
-        <fbc:geneProductAssociation fbc:id="R_ACTPASE_assoc" fbc:name="R_ACTPASE_assoc">
-          <fbc:geneProductRef fbc:geneProduct="stu0246"/>
+        <fbc:geneProductAssociation fbc:id="R_ACONT_assoc" fbc:name="R_ACONT_assoc">
+          <fbc:geneProductRef fbc:geneProduct="stu1268"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_ENO" id="R_ENO" name="R_enolase" reversible="true" fast="false" fbc:lowerFluxBound="bnd_par1" fbc:upperFluxBound="bnd_par6">
@@ -16158,413 +16185,416 @@
       </fbc:objective>
     </fbc:listOfObjectives>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct metaid="meta_stu0647" fbc:id="stu0647" fbc:label="stu0647"/>
-      <fbc:geneProduct metaid="meta_stu0457" fbc:id="stu0457" fbc:label="stu0457"/>
-      <fbc:geneProduct metaid="meta_stu1398" fbc:id="stu1398" fbc:label="stu1398"/>
-      <fbc:geneProduct metaid="meta_stu0755" fbc:id="stu0755" fbc:label="stu0755"/>
-      <fbc:geneProduct metaid="meta_stu1012" fbc:id="stu1012" fbc:label="stu1012"/>
-      <fbc:geneProduct metaid="meta_stu0194" fbc:id="stu0194" fbc:label="stu0194"/>
+      <fbc:geneProduct metaid="meta_stu0384" fbc:id="stu0384" fbc:label="stu0384"/>
+      <fbc:geneProduct metaid="meta_stu1727" fbc:id="stu1727" fbc:label="stu1727"/>
+      <fbc:geneProduct metaid="meta_stu1539" fbc:id="stu1539" fbc:label="stu1539"/>
+      <fbc:geneProduct metaid="meta_stu0924" fbc:id="stu0924" fbc:label="stu0924"/>
+      <fbc:geneProduct metaid="meta_stu0030" fbc:id="stu0030" fbc:label="stu0030"/>
+      <fbc:geneProduct metaid="meta_stu0979" fbc:id="stu0979" fbc:label="stu0979"/>
+      <fbc:geneProduct metaid="meta_stu1913" fbc:id="stu1913" fbc:label="stu1913"/>
+      <fbc:geneProduct metaid="meta_stu1284" fbc:id="stu1284" fbc:label="stu1284"/>
+      <fbc:geneProduct metaid="meta_stu1267" fbc:id="stu1267" fbc:label="stu1267"/>
+      <fbc:geneProduct metaid="meta_stu1724" fbc:id="stu1724" fbc:label="stu1724"/>
+      <fbc:geneProduct metaid="meta_stu0817" fbc:id="stu0817" fbc:label="stu0817"/>
+      <fbc:geneProduct metaid="meta_stu0751" fbc:id="stu0751" fbc:label="stu0751"/>
+      <fbc:geneProduct metaid="meta_stu1648" fbc:id="stu1648" fbc:label="stu1648"/>
+      <fbc:geneProduct metaid="meta_stu0387" fbc:id="stu0387" fbc:label="stu0387"/>
       <fbc:geneProduct metaid="meta_stu1264" fbc:id="stu1264" fbc:label="stu1264"/>
       <fbc:geneProduct metaid="meta_stu1265" fbc:id="stu1265" fbc:label="stu1265"/>
-      <fbc:geneProduct metaid="meta_stu1940" fbc:id="stu1940" fbc:label="stu1940"/>
-      <fbc:geneProduct metaid="meta_stu0023" fbc:id="stu0023" fbc:label="stu0023"/>
-      <fbc:geneProduct metaid="meta_stu1460" fbc:id="stu1460" fbc:label="stu1460"/>
-      <fbc:geneProduct metaid="meta_stu0818" fbc:id="stu0818" fbc:label="stu0818"/>
-      <fbc:geneProduct metaid="meta_stu0578" fbc:id="stu0578" fbc:label="stu0578"/>
-      <fbc:geneProduct metaid="meta_stu0489" fbc:id="stu0489" fbc:label="stu0489"/>
-      <fbc:geneProduct metaid="meta_stu0387" fbc:id="stu0387" fbc:label="stu0387"/>
-      <fbc:geneProduct metaid="meta_stu0771" fbc:id="stu0771" fbc:label="stu0771"/>
-      <fbc:geneProduct metaid="meta_stu1724" fbc:id="stu1724" fbc:label="stu1724"/>
-      <fbc:geneProduct metaid="meta_stu0639" fbc:id="stu0639" fbc:label="stu0639"/>
-      <fbc:geneProduct metaid="meta_stu0638" fbc:id="stu0638" fbc:label="stu0638"/>
-      <fbc:geneProduct metaid="meta_stu1640" fbc:id="stu1640" fbc:label="stu1640"/>
-      <fbc:geneProduct metaid="meta_stu1657" fbc:id="stu1657" fbc:label="stu1657"/>
-      <fbc:geneProduct metaid="meta_stu1652" fbc:id="stu1652" fbc:label="stu1652"/>
-      <fbc:geneProduct metaid="meta_stu1399" fbc:id="stu1399" fbc:label="stu1399"/>
-      <fbc:geneProduct metaid="meta_stu0760" fbc:id="stu0760" fbc:label="stu0760"/>
-      <fbc:geneProduct metaid="meta_stu0761" fbc:id="stu0761" fbc:label="stu0761"/>
-      <fbc:geneProduct metaid="meta_stu0762" fbc:id="stu0762" fbc:label="stu0762"/>
-      <fbc:geneProduct metaid="meta_stu0763" fbc:id="stu0763" fbc:label="stu0763"/>
-      <fbc:geneProduct metaid="meta_stu0764" fbc:id="stu0764" fbc:label="stu0764"/>
-      <fbc:geneProduct metaid="meta_stu0134" fbc:id="stu0134" fbc:label="stu0134"/>
-      <fbc:geneProduct metaid="meta_stu0923" fbc:id="stu0923" fbc:label="stu0923"/>
-      <fbc:geneProduct metaid="meta_stu0380" fbc:id="stu0380" fbc:label="stu0380"/>
-      <fbc:geneProduct metaid="meta_stu0633" fbc:id="stu0633" fbc:label="stu0633"/>
-      <fbc:geneProduct metaid="meta_stu0241" fbc:id="stu0241" fbc:label="stu0241"/>
-      <fbc:geneProduct metaid="meta_stu1886" fbc:id="stu1886" fbc:label="stu1886"/>
-      <fbc:geneProduct metaid="meta_stu0640" fbc:id="stu0640" fbc:label="stu0640"/>
-      <fbc:geneProduct metaid="meta_stu0941" fbc:id="stu0941" fbc:label="stu0941"/>
-      <fbc:geneProduct metaid="meta_stu1113" fbc:id="stu1113" fbc:label="stu1113"/>
-      <fbc:geneProduct metaid="meta_stu1117" fbc:id="stu1117" fbc:label="stu1117"/>
-      <fbc:geneProduct metaid="meta_stu0047" fbc:id="stu0047" fbc:label="stu0047"/>
-      <fbc:geneProduct metaid="meta_stu0145" fbc:id="stu0145" fbc:label="stu0145"/>
-      <fbc:geneProduct metaid="meta_stu1459" fbc:id="stu1459" fbc:label="stu1459"/>
-      <fbc:geneProduct metaid="meta_stu0826" fbc:id="stu0826" fbc:label="stu0826"/>
-      <fbc:geneProduct metaid="meta_stu2016" fbc:id="stu2016" fbc:label="stu2016"/>
-      <fbc:geneProduct metaid="meta_stu0388" fbc:id="stu0388" fbc:label="stu0388"/>
-      <fbc:geneProduct metaid="meta_stu1543" fbc:id="stu1543" fbc:label="stu1543"/>
-      <fbc:geneProduct metaid="meta_stu0789" fbc:id="stu0789" fbc:label="stu0789"/>
-      <fbc:geneProduct metaid="meta_stu1243" fbc:id="stu1243" fbc:label="stu1243"/>
-      <fbc:geneProduct metaid="meta_stu1268" fbc:id="stu1268" fbc:label="stu1268"/>
-      <fbc:geneProduct metaid="meta_stu0478" fbc:id="stu0478" fbc:label="stu0478"/>
-      <fbc:geneProduct metaid="meta_stu0479" fbc:id="stu0479" fbc:label="stu0479"/>
-      <fbc:geneProduct metaid="meta_stu0480" fbc:id="stu0480" fbc:label="stu0480"/>
-      <fbc:geneProduct metaid="meta_stu0481" fbc:id="stu0481" fbc:label="stu0481"/>
-      <fbc:geneProduct metaid="meta_stu0482" fbc:id="stu0482" fbc:label="stu0482"/>
-      <fbc:geneProduct metaid="meta_stu0483" fbc:id="stu0483" fbc:label="stu0483"/>
-      <fbc:geneProduct metaid="meta_stu0484" fbc:id="stu0484" fbc:label="stu0484"/>
-      <fbc:geneProduct metaid="meta_stu0485" fbc:id="stu0485" fbc:label="stu0485"/>
-      <fbc:geneProduct metaid="meta_stu1734" fbc:id="stu1734" fbc:label="stu1734"/>
-      <fbc:geneProduct metaid="meta_stu1200" fbc:id="stu1200" fbc:label="stu1200"/>
-      <fbc:geneProduct metaid="meta_stu1201" fbc:id="stu1201" fbc:label="stu1201"/>
-      <fbc:geneProduct metaid="meta_stu0252" fbc:id="stu0252" fbc:label="stu0252"/>
-      <fbc:geneProduct metaid="meta_stu1135" fbc:id="stu1135" fbc:label="stu1135"/>
-      <fbc:geneProduct metaid="meta_stu0996" fbc:id="stu0996" fbc:label="stu0996"/>
-      <fbc:geneProduct metaid="meta_stu0329" fbc:id="stu0329" fbc:label="stu0329"/>
-      <fbc:geneProduct metaid="meta_stu1539" fbc:id="stu1539" fbc:label="stu1539"/>
-      <fbc:geneProduct metaid="meta_stu0524" fbc:id="stu0524" fbc:label="stu0524"/>
-      <fbc:geneProduct metaid="meta_stu0192" fbc:id="stu0192" fbc:label="stu0192"/>
-      <fbc:geneProduct metaid="meta_stu0080" fbc:id="stu0080" fbc:label="stu0080"/>
-      <fbc:geneProduct metaid="meta_stu0117" fbc:id="stu0117" fbc:label="stu0117"/>
-      <fbc:geneProduct metaid="meta_stu0212" fbc:id="stu0212" fbc:label="stu0212"/>
-      <fbc:geneProduct metaid="meta_stu0230" fbc:id="stu0230" fbc:label="stu0230"/>
-      <fbc:geneProduct metaid="meta_stu0496" fbc:id="stu0496" fbc:label="stu0496"/>
-      <fbc:geneProduct metaid="meta_stu0596" fbc:id="stu0596" fbc:label="stu0596"/>
-      <fbc:geneProduct metaid="meta_stu0613" fbc:id="stu0613" fbc:label="stu0613"/>
-      <fbc:geneProduct metaid="meta_stu0869" fbc:id="stu0869" fbc:label="stu0869"/>
-      <fbc:geneProduct metaid="meta_stu1155" fbc:id="stu1155" fbc:label="stu1155"/>
-      <fbc:geneProduct metaid="meta_stu1701" fbc:id="stu1701" fbc:label="stu1701"/>
-      <fbc:geneProduct metaid="meta_stu1869" fbc:id="stu1869" fbc:label="stu1869"/>
-      <fbc:geneProduct metaid="meta_stu1878" fbc:id="stu1878" fbc:label="stu1878"/>
-      <fbc:geneProduct metaid="meta_stu1871" fbc:id="stu1871" fbc:label="stu1871"/>
-      <fbc:geneProduct metaid="meta_stu0150" fbc:id="stu0150" fbc:label="stu0150"/>
-      <fbc:geneProduct metaid="meta_stu1832" fbc:id="stu1832" fbc:label="stu1832"/>
-      <fbc:geneProduct metaid="meta_stu1857" fbc:id="stu1857" fbc:label="stu1857"/>
-      <fbc:geneProduct metaid="meta_stu1316" fbc:id="stu1316" fbc:label="stu1316"/>
-      <fbc:geneProduct metaid="meta_stu1317" fbc:id="stu1317" fbc:label="stu1317"/>
-      <fbc:geneProduct metaid="meta_stu1149" fbc:id="stu1149" fbc:label="stu1149"/>
-      <fbc:geneProduct metaid="meta_stu1022" fbc:id="stu1022" fbc:label="stu1022"/>
-      <fbc:geneProduct metaid="meta_stu1024" fbc:id="stu1024" fbc:label="stu1024"/>
-      <fbc:geneProduct metaid="meta_stu0198" fbc:id="stu0198" fbc:label="stu0198"/>
-      <fbc:geneProduct metaid="meta_stu1833" fbc:id="stu1833" fbc:label="stu1833"/>
-      <fbc:geneProduct metaid="meta_stu1401" fbc:id="stu1401" fbc:label="stu1401"/>
-      <fbc:geneProduct metaid="meta_stu1483" fbc:id="stu1483" fbc:label="stu1483"/>
-      <fbc:geneProduct metaid="meta_stu1541" fbc:id="stu1541" fbc:label="stu1541"/>
-      <fbc:geneProduct metaid="meta_stu0584" fbc:id="stu0584" fbc:label="stu0584"/>
-      <fbc:geneProduct metaid="meta_stu0163" fbc:id="stu0163" fbc:label="stu0163"/>
-      <fbc:geneProduct metaid="meta_stu0033" fbc:id="stu0033" fbc:label="stu0033"/>
-      <fbc:geneProduct metaid="meta_stu0031" fbc:id="stu0031" fbc:label="stu0031"/>
-      <fbc:geneProduct metaid="meta_stu1202" fbc:id="stu1202" fbc:label="stu1202"/>
-      <fbc:geneProduct metaid="meta_stu0741" fbc:id="stu0741" fbc:label="stu0741"/>
-      <fbc:geneProduct metaid="meta_stu1001" fbc:id="stu1001" fbc:label="stu1001"/>
-      <fbc:geneProduct metaid="meta_stu1002" fbc:id="stu1002" fbc:label="stu1002"/>
-      <fbc:geneProduct metaid="meta_stu1003" fbc:id="stu1003" fbc:label="stu1003"/>
-      <fbc:geneProduct metaid="meta_stu1004" fbc:id="stu1004" fbc:label="stu1004"/>
-      <fbc:geneProduct metaid="meta_stu1005" fbc:id="stu1005" fbc:label="stu1005"/>
-      <fbc:geneProduct metaid="meta_stu1006" fbc:id="stu1006" fbc:label="stu1006"/>
-      <fbc:geneProduct metaid="meta_stu0220" fbc:id="stu0220" fbc:label="stu0220"/>
-      <fbc:geneProduct metaid="meta_stu1431" fbc:id="stu1431" fbc:label="stu1431"/>
       <fbc:geneProduct metaid="meta_stu0011" fbc:id="stu0011" fbc:label="stu0011"/>
-      <fbc:geneProduct metaid="meta_stu0467" fbc:id="stu0467" fbc:label="stu0467"/>
-      <fbc:geneProduct metaid="meta_stu0505" fbc:id="stu0505" fbc:label="stu0505"/>
-      <fbc:geneProduct metaid="meta_stu0507" fbc:id="stu0507" fbc:label="stu0507"/>
-      <fbc:geneProduct metaid="meta_stu0979" fbc:id="stu0979" fbc:label="stu0979"/>
-      <fbc:geneProduct metaid="meta_stu0372" fbc:id="stu0372" fbc:label="stu0372"/>
-      <fbc:geneProduct metaid="meta_stu1726" fbc:id="stu1726" fbc:label="stu1726"/>
-      <fbc:geneProduct metaid="meta_stu1634" fbc:id="stu1634" fbc:label="stu1634"/>
-      <fbc:geneProduct metaid="meta_stu0430" fbc:id="stu0430" fbc:label="stu0430"/>
-      <fbc:geneProduct metaid="meta_stu0035" fbc:id="stu0035" fbc:label="stu0035"/>
-      <fbc:geneProduct metaid="meta_stu0618" fbc:id="stu0618" fbc:label="stu0618"/>
-      <fbc:geneProduct metaid="meta_stu0226" fbc:id="stu0226" fbc:label="stu0226"/>
-      <fbc:geneProduct metaid="meta_stu1310" fbc:id="stu1310" fbc:label="stu1310"/>
-      <fbc:geneProduct metaid="meta_stu1312" fbc:id="stu1312" fbc:label="stu1312"/>
-      <fbc:geneProduct metaid="meta_stu1260" fbc:id="stu1260" fbc:label="stu1260"/>
-      <fbc:geneProduct metaid="meta_stu1223" fbc:id="stu1223" fbc:label="stu1223"/>
-      <fbc:geneProduct metaid="meta_stu0359" fbc:id="stu0359" fbc:label="stu0359"/>
       <fbc:geneProduct metaid="meta_stu0360" fbc:id="stu0360" fbc:label="stu0360"/>
       <fbc:geneProduct metaid="meta_stu0361" fbc:id="stu0361" fbc:label="stu0361"/>
       <fbc:geneProduct metaid="meta_stu0362" fbc:id="stu0362" fbc:label="stu0362"/>
       <fbc:geneProduct metaid="meta_stu0363" fbc:id="stu0363" fbc:label="stu0363"/>
-      <fbc:geneProduct metaid="meta_stu0366" fbc:id="stu0366" fbc:label="stu0366"/>
-      <fbc:geneProduct metaid="meta_stu0846" fbc:id="stu0846" fbc:label="stu0846"/>
-      <fbc:geneProduct metaid="meta_stu1874" fbc:id="stu1874" fbc:label="stu1874"/>
-      <fbc:geneProduct metaid="meta_stu0645" fbc:id="stu0645" fbc:label="stu0645"/>
-      <fbc:geneProduct metaid="meta_stu0123" fbc:id="stu0123" fbc:label="stu0123"/>
-      <fbc:geneProduct metaid="meta_stu0409" fbc:id="stu0409" fbc:label="stu0409"/>
-      <fbc:geneProduct metaid="meta_stu1546" fbc:id="stu1546" fbc:label="stu1546"/>
-      <fbc:geneProduct metaid="meta_stu0579" fbc:id="stu0579" fbc:label="stu0579"/>
-      <fbc:geneProduct metaid="meta_stu1169" fbc:id="stu1169" fbc:label="stu1169"/>
-      <fbc:geneProduct metaid="meta_stu1400" fbc:id="stu1400" fbc:label="stu1400"/>
-      <fbc:geneProduct metaid="meta_stu1242" fbc:id="stu1242" fbc:label="stu1242"/>
-      <fbc:geneProduct metaid="meta_stu0264" fbc:id="stu0264" fbc:label="stu0264"/>
+      <fbc:geneProduct metaid="meta_stu0359" fbc:id="stu0359" fbc:label="stu0359"/>
+      <fbc:geneProduct metaid="meta_stu0921" fbc:id="stu0921" fbc:label="stu0921"/>
+      <fbc:geneProduct metaid="meta_stu1260" fbc:id="stu1260" fbc:label="stu1260"/>
+      <fbc:geneProduct metaid="meta_stu0562" fbc:id="stu0562" fbc:label="stu0562"/>
+      <fbc:geneProduct metaid="meta_stu1619" fbc:id="stu1619" fbc:label="stu1619"/>
+      <fbc:geneProduct metaid="meta_stu0413" fbc:id="stu0413" fbc:label="stu0413"/>
+      <fbc:geneProduct metaid="meta_stu1223" fbc:id="stu1223" fbc:label="stu1223"/>
       <fbc:geneProduct metaid="meta_stu0265" fbc:id="stu0265" fbc:label="stu0265"/>
       <fbc:geneProduct metaid="meta_stu0313" fbc:id="stu0313" fbc:label="stu0313"/>
+      <fbc:geneProduct metaid="meta_stu0264" fbc:id="stu0264" fbc:label="stu0264"/>
       <fbc:geneProduct metaid="meta_stu0314" fbc:id="stu0314" fbc:label="stu0314"/>
-      <fbc:geneProduct metaid="meta_stu0791" fbc:id="stu0791" fbc:label="stu0791"/>
+      <fbc:geneProduct metaid="meta_stu1587" fbc:id="stu1587" fbc:label="stu1587"/>
+      <fbc:geneProduct metaid="meta_stu1588" fbc:id="stu1588" fbc:label="stu1588"/>
+      <fbc:geneProduct metaid="meta_stu0227" fbc:id="stu0227" fbc:label="stu0227"/>
+      <fbc:geneProduct metaid="meta_stu0388" fbc:id="stu0388" fbc:label="stu0388"/>
+      <fbc:geneProduct metaid="meta_stu1263" fbc:id="stu1263" fbc:label="stu1263"/>
+      <fbc:geneProduct metaid="meta_stu0035" fbc:id="stu0035" fbc:label="stu0035"/>
       <fbc:geneProduct metaid="meta_stu0936" fbc:id="stu0936" fbc:label="stu0936"/>
-      <fbc:geneProduct metaid="meta_stu1814" fbc:id="stu1814" fbc:label="stu1814"/>
-      <fbc:geneProduct metaid="meta_stu1256" fbc:id="stu1256" fbc:label="stu1256"/>
-      <fbc:geneProduct metaid="meta_stu1710" fbc:id="stu1710" fbc:label="stu1710"/>
-      <fbc:geneProduct metaid="meta_stu0477" fbc:id="stu0477" fbc:label="stu0477"/>
+      <fbc:geneProduct metaid="meta_stu0566" fbc:id="stu0566" fbc:label="stu0566"/>
+      <fbc:geneProduct metaid="meta_stu0188" fbc:id="stu0188" fbc:label="stu0188"/>
+      <fbc:geneProduct metaid="meta_stu0197" fbc:id="stu0197" fbc:label="stu0197"/>
+      <fbc:geneProduct metaid="meta_stu0481" fbc:id="stu0481" fbc:label="stu0481"/>
+      <fbc:geneProduct metaid="meta_stu0480" fbc:id="stu0480" fbc:label="stu0480"/>
+      <fbc:geneProduct metaid="meta_stu0483" fbc:id="stu0483" fbc:label="stu0483"/>
+      <fbc:geneProduct metaid="meta_stu0482" fbc:id="stu0482" fbc:label="stu0482"/>
+      <fbc:geneProduct metaid="meta_stu0485" fbc:id="stu0485" fbc:label="stu0485"/>
+      <fbc:geneProduct metaid="meta_stu0484" fbc:id="stu0484" fbc:label="stu0484"/>
+      <fbc:geneProduct metaid="meta_stu0478" fbc:id="stu0478" fbc:label="stu0478"/>
+      <fbc:geneProduct metaid="meta_stu0479" fbc:id="stu0479" fbc:label="stu0479"/>
+      <fbc:geneProduct metaid="meta_stu1483" fbc:id="stu1483" fbc:label="stu1483"/>
+      <fbc:geneProduct metaid="meta_stu0123" fbc:id="stu0123" fbc:label="stu0123"/>
+      <fbc:geneProduct metaid="meta_stu0771" fbc:id="stu0771" fbc:label="stu0771"/>
+      <fbc:geneProduct metaid="meta_stu0526" fbc:id="stu0526" fbc:label="stu0526"/>
+      <fbc:geneProduct metaid="meta_stu0527" fbc:id="stu0527" fbc:label="stu0527"/>
+      <fbc:geneProduct metaid="meta_stu0561" fbc:id="stu0561" fbc:label="stu0561"/>
+      <fbc:geneProduct metaid="meta_stu2016" fbc:id="stu2016" fbc:label="stu2016"/>
+      <fbc:geneProduct metaid="meta_stu1281" fbc:id="stu1281" fbc:label="stu1281"/>
+      <fbc:geneProduct metaid="meta_stu0611" fbc:id="stu0611" fbc:label="stu0611"/>
+      <fbc:geneProduct metaid="meta_stu1455" fbc:id="stu1455" fbc:label="stu1455"/>
+      <fbc:geneProduct metaid="meta_stu1527" fbc:id="stu1527" fbc:label="stu1527"/>
+      <fbc:geneProduct metaid="meta_stu1732" fbc:id="stu1732" fbc:label="stu1732"/>
+      <fbc:geneProduct metaid="meta_stu1181" fbc:id="stu1181" fbc:label="stu1181"/>
       <fbc:geneProduct metaid="meta_stu0390" fbc:id="stu0390" fbc:label="stu0390"/>
-      <fbc:geneProduct metaid="meta_stu0384" fbc:id="stu0384" fbc:label="stu0384"/>
-      <fbc:geneProduct metaid="meta_stu1727" fbc:id="stu1727" fbc:label="stu1727"/>
-      <fbc:geneProduct metaid="meta_stu1417" fbc:id="stu1417" fbc:label="stu1417"/>
+      <fbc:geneProduct metaid="meta_stu1135" fbc:id="stu1135" fbc:label="stu1135"/>
+      <fbc:geneProduct metaid="meta_stu0941" fbc:id="stu0941" fbc:label="stu0941"/>
+      <fbc:geneProduct metaid="meta_stu1113" fbc:id="stu1113" fbc:label="stu1113"/>
+      <fbc:geneProduct metaid="meta_stu0906" fbc:id="stu0906" fbc:label="stu0906"/>
+      <fbc:geneProduct metaid="meta_stu0034" fbc:id="stu0034" fbc:label="stu0034"/>
+      <fbc:geneProduct metaid="meta_stu0352" fbc:id="stu0352" fbc:label="stu0352"/>
+      <fbc:geneProduct metaid="meta_stu1604" fbc:id="stu1604" fbc:label="stu1604"/>
+      <fbc:geneProduct metaid="meta_stu1874" fbc:id="stu1874" fbc:label="stu1874"/>
+      <fbc:geneProduct metaid="meta_stu1591" fbc:id="stu1591" fbc:label="stu1591"/>
+      <fbc:geneProduct metaid="meta_stu0576" fbc:id="stu0576" fbc:label="stu0576"/>
+      <fbc:geneProduct metaid="meta_stu0489" fbc:id="stu0489" fbc:label="stu0489"/>
+      <fbc:geneProduct metaid="meta_stu0639" fbc:id="stu0639" fbc:label="stu0639"/>
       <fbc:geneProduct metaid="meta_stu1650" fbc:id="stu1650" fbc:label="stu1650"/>
-      <fbc:geneProduct metaid="meta_stu0331" fbc:id="stu0331" fbc:label="stu0331"/>
-      <fbc:geneProduct metaid="meta_stu0332" fbc:id="stu0332" fbc:label="stu0332"/>
-      <fbc:geneProduct metaid="meta_stu0333" fbc:id="stu0333" fbc:label="stu0333"/>
-      <fbc:geneProduct metaid="meta_stu0451" fbc:id="stu0451" fbc:label="stu0451"/>
-      <fbc:geneProduct metaid="meta_stu0349" fbc:id="stu0349" fbc:label="stu0349"/>
-      <fbc:geneProduct metaid="meta_stu0572" fbc:id="stu0572" fbc:label="stu0572"/>
+      <fbc:geneProduct metaid="meta_stu1417" fbc:id="stu1417" fbc:label="stu1417"/>
+      <fbc:geneProduct metaid="meta_stu1886" fbc:id="stu1886" fbc:label="stu1886"/>
+      <fbc:geneProduct metaid="meta_stu1652" fbc:id="stu1652" fbc:label="stu1652"/>
+      <fbc:geneProduct metaid="meta_stu0747" fbc:id="stu0747" fbc:label="stu0747"/>
+      <fbc:geneProduct metaid="meta_stu1121" fbc:id="stu1121" fbc:label="stu1121"/>
+      <fbc:geneProduct metaid="meta_stu1271" fbc:id="stu1271" fbc:label="stu1271"/>
+      <fbc:geneProduct metaid="meta_stu1270" fbc:id="stu1270" fbc:label="stu1270"/>
+      <fbc:geneProduct metaid="meta_stu1172" fbc:id="stu1172" fbc:label="stu1172"/>
+      <fbc:geneProduct metaid="meta_stu0280" fbc:id="stu0280" fbc:label="stu0280"/>
+      <fbc:geneProduct metaid="meta_stu0873" fbc:id="stu0873" fbc:label="stu0873"/>
+      <fbc:geneProduct metaid="meta_stu1837" fbc:id="stu1837" fbc:label="stu1837"/>
+      <fbc:geneProduct metaid="meta_stu0134" fbc:id="stu0134" fbc:label="stu0134"/>
+      <fbc:geneProduct metaid="meta_stu0923" fbc:id="stu0923" fbc:label="stu0923"/>
+      <fbc:geneProduct metaid="meta_stu0192" fbc:id="stu0192" fbc:label="stu0192"/>
+      <fbc:geneProduct metaid="meta_stu1832" fbc:id="stu1832" fbc:label="stu1832"/>
+      <fbc:geneProduct metaid="meta_stu0198" fbc:id="stu0198" fbc:label="stu0198"/>
+      <fbc:geneProduct metaid="meta_stu0505" fbc:id="stu0505" fbc:label="stu0505"/>
+      <fbc:geneProduct metaid="meta_stu0507" fbc:id="stu0507" fbc:label="stu0507"/>
+      <fbc:geneProduct metaid="meta_stu0955" fbc:id="stu0955" fbc:label="stu0955"/>
+      <fbc:geneProduct metaid="meta_stu0954" fbc:id="stu0954" fbc:label="stu0954"/>
+      <fbc:geneProduct metaid="meta_stu1207" fbc:id="stu1207" fbc:label="stu1207"/>
+      <fbc:geneProduct metaid="meta_stu1658" fbc:id="stu1658" fbc:label="stu1658"/>
       <fbc:geneProduct metaid="meta_stu1120" fbc:id="stu1120" fbc:label="stu1120"/>
+      <fbc:geneProduct metaid="meta_stu0033" fbc:id="stu0033" fbc:label="stu0033"/>
+      <fbc:geneProduct metaid="meta_stu1726" fbc:id="stu1726" fbc:label="stu1726"/>
+      <fbc:geneProduct metaid="meta_stu1631" fbc:id="stu1631" fbc:label="stu1631"/>
+      <fbc:geneProduct metaid="meta_stu1492" fbc:id="stu1492" fbc:label="stu1492"/>
+      <fbc:geneProduct metaid="meta_stu1495" fbc:id="stu1495" fbc:label="stu1495"/>
+      <fbc:geneProduct metaid="meta_stu1494" fbc:id="stu1494" fbc:label="stu1494"/>
+      <fbc:geneProduct metaid="meta_stu1459" fbc:id="stu1459" fbc:label="stu1459"/>
+      <fbc:geneProduct metaid="meta_stu0145" fbc:id="stu0145" fbc:label="stu0145"/>
+      <fbc:geneProduct metaid="meta_stu1871" fbc:id="stu1871" fbc:label="stu1871"/>
+      <fbc:geneProduct metaid="meta_stu1583" fbc:id="stu1583" fbc:label="stu1583"/>
+      <fbc:geneProduct metaid="meta_stu0023" fbc:id="stu0023" fbc:label="stu0023"/>
+      <fbc:geneProduct metaid="meta_stu1460" fbc:id="stu1460" fbc:label="stu1460"/>
+      <fbc:geneProduct metaid="meta_stu0621" fbc:id="stu0621" fbc:label="stu0621"/>
+      <fbc:geneProduct metaid="meta_stu0329" fbc:id="stu0329" fbc:label="stu0329"/>
+      <fbc:geneProduct metaid="meta_stu1963" fbc:id="stu1963" fbc:label="stu1963"/>
+      <fbc:geneProduct metaid="meta_stu0144" fbc:id="stu0144" fbc:label="stu0144"/>
+      <fbc:geneProduct metaid="meta_stu1398" fbc:id="stu1398" fbc:label="stu1398"/>
+      <fbc:geneProduct metaid="meta_stu0646" fbc:id="stu0646" fbc:label="stu0646"/>
+      <fbc:geneProduct metaid="meta_stu0451" fbc:id="stu0451" fbc:label="stu0451"/>
+      <fbc:geneProduct metaid="meta_stu0806" fbc:id="stu0806" fbc:label="stu0806"/>
+      <fbc:geneProduct metaid="meta_stu1838" fbc:id="stu1838" fbc:label="stu1838"/>
+      <fbc:geneProduct metaid="meta_stu0378" fbc:id="stu0378" fbc:label="stu0378"/>
+      <fbc:geneProduct metaid="meta_stu1244" fbc:id="stu1244" fbc:label="stu1244"/>
+      <fbc:geneProduct metaid="meta_stu1002" fbc:id="stu1002" fbc:label="stu1002"/>
+      <fbc:geneProduct metaid="meta_stu1003" fbc:id="stu1003" fbc:label="stu1003"/>
+      <fbc:geneProduct metaid="meta_stu1001" fbc:id="stu1001" fbc:label="stu1001"/>
+      <fbc:geneProduct metaid="meta_stu1006" fbc:id="stu1006" fbc:label="stu1006"/>
+      <fbc:geneProduct metaid="meta_stu1004" fbc:id="stu1004" fbc:label="stu1004"/>
+      <fbc:geneProduct metaid="meta_stu1005" fbc:id="stu1005" fbc:label="stu1005"/>
+      <fbc:geneProduct metaid="meta_stu1243" fbc:id="stu1243" fbc:label="stu1243"/>
+      <fbc:geneProduct metaid="meta_stu1401" fbc:id="stu1401" fbc:label="stu1401"/>
       <fbc:geneProduct metaid="meta_stu0026" fbc:id="stu0026" fbc:label="stu0026"/>
-      <fbc:geneProduct metaid="meta_stu0817" fbc:id="stu0817" fbc:label="stu0817"/>
-      <fbc:geneProduct metaid="meta_stu0720" fbc:id="stu0720" fbc:label="stu0720"/>
-      <fbc:geneProduct metaid="meta_stu1625" fbc:id="stu1625" fbc:label="stu1625"/>
+      <fbc:geneProduct metaid="meta_stu1242" fbc:id="stu1242" fbc:label="stu1242"/>
+      <fbc:geneProduct metaid="meta_stu1733" fbc:id="stu1733" fbc:label="stu1733"/>
+      <fbc:geneProduct metaid="meta_stu0807" fbc:id="stu0807" fbc:label="stu0807"/>
+      <fbc:geneProduct metaid="meta_stu0349" fbc:id="stu0349" fbc:label="stu0349"/>
+      <fbc:geneProduct metaid="meta_stu1200" fbc:id="stu1200" fbc:label="stu1200"/>
+      <fbc:geneProduct metaid="meta_stu1201" fbc:id="stu1201" fbc:label="stu1201"/>
+      <fbc:geneProduct metaid="meta_stu1203" fbc:id="stu1203" fbc:label="stu1203"/>
+      <fbc:geneProduct metaid="meta_stu1634" fbc:id="stu1634" fbc:label="stu1634"/>
+      <fbc:geneProduct metaid="meta_stu1251" fbc:id="stu1251" fbc:label="stu1251"/>
+      <fbc:geneProduct metaid="meta_stu1236" fbc:id="stu1236" fbc:label="stu1236"/>
+      <fbc:geneProduct metaid="meta_stu1117" fbc:id="stu1117" fbc:label="stu1117"/>
+      <fbc:geneProduct metaid="meta_stu0750" fbc:id="stu0750" fbc:label="stu0750"/>
+      <fbc:geneProduct metaid="meta_stu0563" fbc:id="stu0563" fbc:label="stu0563"/>
+      <fbc:geneProduct metaid="meta_stu0158" fbc:id="stu0158" fbc:label="stu0158"/>
+      <fbc:geneProduct metaid="meta_stu0477" fbc:id="stu0477" fbc:label="stu0477"/>
+      <fbc:geneProduct metaid="meta_stu0559" fbc:id="stu0559" fbc:label="stu0559"/>
+      <fbc:geneProduct metaid="meta_stu0226" fbc:id="stu0226" fbc:label="stu0226"/>
+      <fbc:geneProduct metaid="meta_stu0220" fbc:id="stu0220" fbc:label="stu0220"/>
+      <fbc:geneProduct metaid="meta_stu0032" fbc:id="stu0032" fbc:label="stu0032"/>
+      <fbc:geneProduct metaid="meta_stu0409" fbc:id="stu0409" fbc:label="stu0409"/>
+      <fbc:geneProduct metaid="meta_stu1546" fbc:id="stu1546" fbc:label="stu1546"/>
+      <fbc:geneProduct metaid="meta_stu0764" fbc:id="stu0764" fbc:label="stu0764"/>
+      <fbc:geneProduct metaid="meta_stu0760" fbc:id="stu0760" fbc:label="stu0760"/>
+      <fbc:geneProduct metaid="meta_stu0761" fbc:id="stu0761" fbc:label="stu0761"/>
+      <fbc:geneProduct metaid="meta_stu0762" fbc:id="stu0762" fbc:label="stu0762"/>
+      <fbc:geneProduct metaid="meta_stu0763" fbc:id="stu0763" fbc:label="stu0763"/>
+      <fbc:geneProduct metaid="meta_stu1197" fbc:id="stu1197" fbc:label="stu1197"/>
+      <fbc:geneProduct metaid="meta_stu1399" fbc:id="stu1399" fbc:label="stu1399"/>
+      <fbc:geneProduct metaid="meta_stu0741" fbc:id="stu0741" fbc:label="stu0741"/>
+      <fbc:geneProduct metaid="meta_stu0996" fbc:id="stu0996" fbc:label="stu0996"/>
+      <fbc:geneProduct metaid="meta_stu0438" fbc:id="stu0438" fbc:label="stu0438"/>
+      <fbc:geneProduct metaid="meta_stu0031" fbc:id="stu0031" fbc:label="stu0031"/>
+      <fbc:geneProduct metaid="meta_stu1735" fbc:id="stu1735" fbc:label="stu1735"/>
+      <fbc:geneProduct metaid="meta_stu0366" fbc:id="stu0366" fbc:label="stu0366"/>
+      <fbc:geneProduct metaid="meta_stu0846" fbc:id="stu0846" fbc:label="stu0846"/>
+      <fbc:geneProduct metaid="meta_stu1169" fbc:id="stu1169" fbc:label="stu1169"/>
+      <fbc:geneProduct metaid="meta_stu1400" fbc:id="stu1400" fbc:label="stu1400"/>
+      <fbc:geneProduct metaid="meta_stu1402" fbc:id="stu1402" fbc:label="stu1402"/>
       <fbc:geneProduct metaid="meta_stu1626" fbc:id="stu1626" fbc:label="stu1626"/>
       <fbc:geneProduct metaid="meta_stu1627" fbc:id="stu1627" fbc:label="stu1627"/>
-      <fbc:geneProduct metaid="meta_stu0494" fbc:id="stu0494" fbc:label="stu0494"/>
-      <fbc:geneProduct metaid="meta_stu1839" fbc:id="stu1839" fbc:label="stu1839"/>
+      <fbc:geneProduct metaid="meta_stu1625" fbc:id="stu1625" fbc:label="stu1625"/>
+      <fbc:geneProduct metaid="meta_stu0787" fbc:id="stu0787" fbc:label="stu0787"/>
+      <fbc:geneProduct metaid="meta_stu1280" fbc:id="stu1280" fbc:label="stu1280"/>
+      <fbc:geneProduct metaid="meta_stu0333" fbc:id="stu0333" fbc:label="stu0333"/>
+      <fbc:geneProduct metaid="meta_stu0332" fbc:id="stu0332" fbc:label="stu0332"/>
+      <fbc:geneProduct metaid="meta_stu0331" fbc:id="stu0331" fbc:label="stu0331"/>
+      <fbc:geneProduct metaid="meta_stu0590" fbc:id="stu0590" fbc:label="stu0590"/>
+      <fbc:geneProduct metaid="meta_stu0692" fbc:id="stu0692" fbc:label="stu0692"/>
+      <fbc:geneProduct metaid="meta_stu0755" fbc:id="stu0755" fbc:label="stu0755"/>
+      <fbc:geneProduct metaid="meta_stu1710" fbc:id="stu1710" fbc:label="stu1710"/>
+      <fbc:geneProduct metaid="meta_stu1013" fbc:id="stu1013" fbc:label="stu1013"/>
+      <fbc:geneProduct metaid="meta_stu1592" fbc:id="stu1592" fbc:label="stu1592"/>
+      <fbc:geneProduct metaid="meta_stu1593" fbc:id="stu1593" fbc:label="stu1593"/>
+      <fbc:geneProduct metaid="meta_stu0579" fbc:id="stu0579" fbc:label="stu0579"/>
+      <fbc:geneProduct metaid="meta_stu1250" fbc:id="stu1250" fbc:label="stu1250"/>
+      <fbc:geneProduct metaid="meta_stu0424" fbc:id="stu0424" fbc:label="stu0424"/>
+      <fbc:geneProduct metaid="meta_stu0312" fbc:id="stu0312" fbc:label="stu0312"/>
+      <fbc:geneProduct metaid="meta_stu0583" fbc:id="stu0583" fbc:label="stu0583"/>
+      <fbc:geneProduct metaid="meta_stu1297" fbc:id="stu1297" fbc:label="stu1297"/>
+      <fbc:geneProduct metaid="meta_stu0524" fbc:id="stu0524" fbc:label="stu0524"/>
+      <fbc:geneProduct metaid="meta_stu0826" fbc:id="stu0826" fbc:label="stu0826"/>
+      <fbc:geneProduct metaid="meta_stu1313" fbc:id="stu1313" fbc:label="stu1313"/>
+      <fbc:geneProduct metaid="meta_stu0791" fbc:id="stu0791" fbc:label="stu0791"/>
+      <fbc:geneProduct metaid="meta_stu0570" fbc:id="stu0570" fbc:label="stu0570"/>
+      <fbc:geneProduct metaid="meta_stu0569" fbc:id="stu0569" fbc:label="stu0569"/>
+      <fbc:geneProduct metaid="meta_stu1222" fbc:id="stu1222" fbc:label="stu1222"/>
+      <fbc:geneProduct metaid="meta_stu0391" fbc:id="stu0391" fbc:label="stu0391"/>
+      <fbc:geneProduct metaid="meta_stu0393" fbc:id="stu0393" fbc:label="stu0393"/>
+      <fbc:geneProduct metaid="meta_stu0392" fbc:id="stu0392" fbc:label="stu0392"/>
+      <fbc:geneProduct metaid="meta_stu1173" fbc:id="stu1173" fbc:label="stu1173"/>
+      <fbc:geneProduct metaid="meta_stu0389" fbc:id="stu0389" fbc:label="stu0389"/>
+      <fbc:geneProduct metaid="meta_stu0848" fbc:id="stu0848" fbc:label="stu0848"/>
+      <fbc:geneProduct metaid="meta_stu0083" fbc:id="stu0083" fbc:label="stu0083"/>
+      <fbc:geneProduct metaid="meta_stu1529" fbc:id="stu1529" fbc:label="stu1529"/>
+      <fbc:geneProduct metaid="meta_stu1788" fbc:id="stu1788" fbc:label="stu1788"/>
+      <fbc:geneProduct metaid="meta_stu0128" fbc:id="stu0128" fbc:label="stu0128"/>
+      <fbc:geneProduct metaid="meta_stu0642" fbc:id="stu0642" fbc:label="stu0642"/>
+      <fbc:geneProduct metaid="meta_stu0380" fbc:id="stu0380" fbc:label="stu0380"/>
+      <fbc:geneProduct metaid="meta_stu1563" fbc:id="stu1563" fbc:label="stu1563"/>
+      <fbc:geneProduct metaid="meta_stu0786" fbc:id="stu0786" fbc:label="stu0786"/>
+      <fbc:geneProduct metaid="meta_stu1022" fbc:id="stu1022" fbc:label="stu1022"/>
+      <fbc:geneProduct metaid="meta_stu1024" fbc:id="stu1024" fbc:label="stu1024"/>
+      <fbc:geneProduct metaid="meta_stu1054" fbc:id="stu1054" fbc:label="stu1054"/>
+      <fbc:geneProduct metaid="meta_stu0572" fbc:id="stu0572" fbc:label="stu0572"/>
+      <fbc:geneProduct metaid="meta_stu1590" fbc:id="stu1590" fbc:label="stu1590"/>
+      <fbc:geneProduct metaid="meta_stu1196" fbc:id="stu1196" fbc:label="stu1196"/>
+      <fbc:geneProduct metaid="meta_stu0385" fbc:id="stu0385" fbc:label="stu0385"/>
+      <fbc:geneProduct metaid="meta_stu1431" fbc:id="stu1431" fbc:label="stu1431"/>
+      <fbc:geneProduct metaid="meta_stu0467" fbc:id="stu0467" fbc:label="stu0467"/>
+      <fbc:geneProduct metaid="meta_stu1899" fbc:id="stu1899" fbc:label="stu1899"/>
+      <fbc:geneProduct metaid="meta_stu0731" fbc:id="stu0731" fbc:label="stu0731"/>
+      <fbc:geneProduct metaid="meta_stu0386" fbc:id="stu0386" fbc:label="stu0386"/>
+      <fbc:geneProduct metaid="meta_stu0092" fbc:id="stu0092" fbc:label="stu0092"/>
+      <fbc:geneProduct metaid="meta_stu0578" fbc:id="stu0578" fbc:label="stu0578"/>
+      <fbc:geneProduct metaid="meta_stu0720" fbc:id="stu0720" fbc:label="stu0720"/>
       <fbc:geneProduct metaid="meta_stu0799" fbc:id="stu0799" fbc:label="stu0799"/>
-      <fbc:geneProduct metaid="meta_stu0227" fbc:id="stu0227" fbc:label="stu0227"/>
-      <fbc:geneProduct metaid="meta_stu0463" fbc:id="stu0463" fbc:label="stu0463"/>
-      <fbc:geneProduct metaid="meta_stu1492" fbc:id="stu1492" fbc:label="stu1492"/>
-      <fbc:geneProduct metaid="meta_stu1494" fbc:id="stu1494" fbc:label="stu1494"/>
-      <fbc:geneProduct metaid="meta_stu1495" fbc:id="stu1495" fbc:label="stu1495"/>
-      <fbc:geneProduct metaid="meta_stu1648" fbc:id="stu1648" fbc:label="stu1648"/>
+      <fbc:geneProduct metaid="meta_stu0246" fbc:id="stu0246" fbc:label="stu0246"/>
+      <fbc:geneProduct metaid="meta_stu0163" fbc:id="stu0163" fbc:label="stu0163"/>
+      <fbc:geneProduct metaid="meta_stu1311" fbc:id="stu1311" fbc:label="stu1311"/>
+      <fbc:geneProduct metaid="meta_stu0847" fbc:id="stu0847" fbc:label="stu0847"/>
+      <fbc:geneProduct metaid="meta_stu0818" fbc:id="stu0818" fbc:label="stu0818"/>
       <fbc:geneProduct metaid="meta_stu0560" fbc:id="stu0560" fbc:label="stu0560"/>
+      <fbc:geneProduct metaid="meta_stu1012" fbc:id="stu1012" fbc:label="stu1012"/>
+      <fbc:geneProduct metaid="meta_stu1857" fbc:id="stu1857" fbc:label="stu1857"/>
+      <fbc:geneProduct metaid="meta_stu1330" fbc:id="stu1330" fbc:label="stu1330"/>
+      <fbc:geneProduct metaid="meta_stu1540" fbc:id="stu1540" fbc:label="stu1540"/>
+      <fbc:geneProduct metaid="meta_stu1397" fbc:id="stu1397" fbc:label="stu1397"/>
+      <fbc:geneProduct metaid="meta_stu0785" fbc:id="stu0785" fbc:label="stu0785"/>
+      <fbc:geneProduct metaid="meta_stu1461" fbc:id="stu1461" fbc:label="stu1461"/>
+      <fbc:geneProduct metaid="meta_stu0545" fbc:id="stu0545" fbc:label="stu0545"/>
+      <fbc:geneProduct metaid="meta_stu0953" fbc:id="stu0953" fbc:label="stu0953"/>
+      <fbc:geneProduct metaid="meta_stu0412" fbc:id="stu0412" fbc:label="stu0412"/>
+      <fbc:geneProduct metaid="meta_stu0411" fbc:id="stu0411" fbc:label="stu0411"/>
+      <fbc:geneProduct metaid="meta_stu1305" fbc:id="stu1305" fbc:label="stu1305"/>
+      <fbc:geneProduct metaid="meta_stu0041" fbc:id="stu0041" fbc:label="stu0041"/>
+      <fbc:geneProduct metaid="meta_stu0042" fbc:id="stu0042" fbc:label="stu0042"/>
+      <fbc:geneProduct metaid="meta_stu0194" fbc:id="stu0194" fbc:label="stu0194"/>
+      <fbc:geneProduct metaid="meta_stu0372" fbc:id="stu0372" fbc:label="stu0372"/>
+      <fbc:geneProduct metaid="meta_stu0186" fbc:id="stu0186" fbc:label="stu0186"/>
+      <fbc:geneProduct metaid="meta_stu1839" fbc:id="stu1839" fbc:label="stu1839"/>
+      <fbc:geneProduct metaid="meta_stu1782" fbc:id="stu1782" fbc:label="stu1782"/>
+      <fbc:geneProduct metaid="meta_stu0150" fbc:id="stu0150" fbc:label="stu0150"/>
+      <fbc:geneProduct metaid="meta_stu1813" fbc:id="stu1813" fbc:label="stu1813"/>
+      <fbc:geneProduct metaid="meta_stu1268" fbc:id="stu1268" fbc:label="stu1268"/>
+      <fbc:geneProduct metaid="meta_stu1536" fbc:id="stu1536" fbc:label="stu1536"/>
+      <fbc:geneProduct metaid="meta_stu1537" fbc:id="stu1537" fbc:label="stu1537"/>
+      <fbc:geneProduct metaid="meta_stu1535" fbc:id="stu1535" fbc:label="stu1535"/>
+      <fbc:geneProduct metaid="meta_stu1538" fbc:id="stu1538" fbc:label="stu1538"/>
+      <fbc:geneProduct metaid="meta_stu1734" fbc:id="stu1734" fbc:label="stu1734"/>
+      <fbc:geneProduct metaid="meta_stu0084" fbc:id="stu0084" fbc:label="stu0084"/>
+      <fbc:geneProduct metaid="meta_stu1357" fbc:id="stu1357" fbc:label="stu1357"/>
+      <fbc:geneProduct metaid="meta_stu1543" fbc:id="stu1543" fbc:label="stu1543"/>
+      <fbc:geneProduct metaid="meta_stu1776" fbc:id="stu1776" fbc:label="stu1776"/>
+      <fbc:geneProduct metaid="meta_stu2010" fbc:id="stu2010" fbc:label="stu2010"/>
+      <fbc:geneProduct metaid="meta_stu0564" fbc:id="stu0564" fbc:label="stu0564"/>
+      <fbc:geneProduct metaid="meta_stu0470" fbc:id="stu0470" fbc:label="stu0470"/>
+      <fbc:geneProduct metaid="meta_stu1812" fbc:id="stu1812" fbc:label="stu1812"/>
+      <fbc:geneProduct metaid="meta_stu0160" fbc:id="stu0160" fbc:label="stu0160"/>
+      <fbc:geneProduct metaid="meta_stu0525" fbc:id="stu0525" fbc:label="stu0525"/>
+      <fbc:geneProduct metaid="meta_stu0645" fbc:id="stu0645" fbc:label="stu0645"/>
+      <fbc:geneProduct metaid="meta_stu0466" fbc:id="stu0466" fbc:label="stu0466"/>
+      <fbc:geneProduct metaid="meta_stu1457" fbc:id="stu1457" fbc:label="stu1457"/>
+      <fbc:geneProduct metaid="meta_stu0465" fbc:id="stu0465" fbc:label="stu0465"/>
+      <fbc:geneProduct metaid="meta_stu1149" fbc:id="stu1149" fbc:label="stu1149"/>
+      <fbc:geneProduct metaid="meta_stu0463" fbc:id="stu0463" fbc:label="stu0463"/>
+      <fbc:geneProduct metaid="meta_stu1729" fbc:id="stu1729" fbc:label="stu1729"/>
+      <fbc:geneProduct metaid="meta_stu1728" fbc:id="stu1728" fbc:label="stu1728"/>
+      <fbc:geneProduct metaid="meta_stu0641" fbc:id="stu0641" fbc:label="stu0641"/>
+      <fbc:geneProduct metaid="meta_stu0633" fbc:id="stu0633" fbc:label="stu0633"/>
+      <fbc:geneProduct metaid="meta_stu0241" fbc:id="stu0241" fbc:label="stu0241"/>
+      <fbc:geneProduct metaid="meta_stu0501" fbc:id="stu0501" fbc:label="stu0501"/>
+      <fbc:geneProduct metaid="meta_stu1870" fbc:id="stu1870" fbc:label="stu1870"/>
+      <fbc:geneProduct metaid="meta_stu0577" fbc:id="stu0577" fbc:label="stu0577"/>
+      <fbc:geneProduct metaid="meta_stu1312" fbc:id="stu1312" fbc:label="stu1312"/>
+      <fbc:geneProduct metaid="meta_stu1310" fbc:id="stu1310" fbc:label="stu1310"/>
+      <fbc:geneProduct metaid="meta_stu1544" fbc:id="stu1544" fbc:label="stu1544"/>
+      <fbc:geneProduct metaid="meta_stu0638" fbc:id="stu0638" fbc:label="stu0638"/>
+      <fbc:geneProduct metaid="meta_stu0718" fbc:id="stu0718" fbc:label="stu0718"/>
+      <fbc:geneProduct metaid="meta_stu1878" fbc:id="stu1878" fbc:label="stu1878"/>
+      <fbc:geneProduct metaid="meta_stu1971" fbc:id="stu1971" fbc:label="stu1971"/>
+      <fbc:geneProduct metaid="meta_stu0408" fbc:id="stu0408" fbc:label="stu0408"/>
+      <fbc:geneProduct metaid="meta_stu1532" fbc:id="stu1532" fbc:label="stu1532"/>
+      <fbc:geneProduct metaid="meta_stu0200" fbc:id="stu0200" fbc:label="stu0200"/>
+      <fbc:geneProduct metaid="meta_stu1315" fbc:id="stu1315" fbc:label="stu1315"/>
+      <fbc:geneProduct metaid="meta_stu0488" fbc:id="stu0488" fbc:label="stu0488"/>
+      <fbc:geneProduct metaid="meta_stu0789" fbc:id="stu0789" fbc:label="stu0789"/>
+      <fbc:geneProduct metaid="meta_stu0252" fbc:id="stu0252" fbc:label="stu0252"/>
+      <fbc:geneProduct metaid="meta_stu0522" fbc:id="stu0522" fbc:label="stu0522"/>
+      <fbc:geneProduct metaid="meta_stu1505" fbc:id="stu1505" fbc:label="stu1505"/>
+      <fbc:geneProduct metaid="meta_stu0122" fbc:id="stu0122" fbc:label="stu0122"/>
+      <fbc:geneProduct metaid="meta_stu0211" fbc:id="stu0211" fbc:label="stu0211"/>
+      <fbc:geneProduct metaid="meta_stu1456" fbc:id="stu1456" fbc:label="stu1456"/>
+      <fbc:geneProduct metaid="meta_stu0262" fbc:id="stu0262" fbc:label="stu0262"/>
+      <fbc:geneProduct metaid="meta_stu0995" fbc:id="stu0995" fbc:label="stu0995"/>
+      <fbc:geneProduct metaid="meta_stu1814" fbc:id="stu1814" fbc:label="stu1814"/>
       <fbc:geneProduct metaid="meta_stu1025" fbc:id="stu1025" fbc:label="stu1025"/>
       <fbc:geneProduct metaid="meta_stu1027" fbc:id="stu1027" fbc:label="stu1027"/>
-      <fbc:geneProduct metaid="meta_stu0424" fbc:id="stu0424" fbc:label="stu0424"/>
-      <fbc:geneProduct metaid="meta_stu0556" fbc:id="stu0556" fbc:label="stu0556"/>
-      <fbc:geneProduct metaid="meta_stu0873" fbc:id="stu0873" fbc:label="stu0873"/>
-      <fbc:geneProduct metaid="meta_stu0188" fbc:id="stu0188" fbc:label="stu0188"/>
-      <fbc:geneProduct metaid="meta_stu0200" fbc:id="stu0200" fbc:label="stu0200"/>
-      <fbc:geneProduct metaid="meta_stu0389" fbc:id="stu0389" fbc:label="stu0389"/>
-      <fbc:geneProduct metaid="meta_stu0391" fbc:id="stu0391" fbc:label="stu0391"/>
-      <fbc:geneProduct metaid="meta_stu0392" fbc:id="stu0392" fbc:label="stu0392"/>
-      <fbc:geneProduct metaid="meta_stu0393" fbc:id="stu0393" fbc:label="stu0393"/>
-      <fbc:geneProduct metaid="meta_stu1173" fbc:id="stu1173" fbc:label="stu1173"/>
-      <fbc:geneProduct metaid="meta_stu1266" fbc:id="stu1266" fbc:label="stu1266"/>
-      <fbc:geneProduct metaid="meta_stu0807" fbc:id="stu0807" fbc:label="stu0807"/>
-      <fbc:geneProduct metaid="meta_stu0488" fbc:id="stu0488" fbc:label="stu0488"/>
-      <fbc:geneProduct metaid="meta_stu0785" fbc:id="stu0785" fbc:label="stu0785"/>
+      <fbc:geneProduct metaid="meta_stu1969" fbc:id="stu1969" fbc:label="stu1969"/>
+      <fbc:geneProduct metaid="meta_stu0382" fbc:id="stu0382" fbc:label="stu0382"/>
+      <fbc:geneProduct metaid="meta_stu1796" fbc:id="stu1796" fbc:label="stu1796"/>
       <fbc:geneProduct metaid="meta_stu1216" fbc:id="stu1216" fbc:label="stu1216"/>
-      <fbc:geneProduct metaid="meta_stu0559" fbc:id="stu0559" fbc:label="stu0559"/>
-      <fbc:geneProduct metaid="meta_stu0906" fbc:id="stu0906" fbc:label="stu0906"/>
-      <fbc:geneProduct metaid="meta_stu0787" fbc:id="stu0787" fbc:label="stu0787"/>
-      <fbc:geneProduct metaid="meta_stu0611" fbc:id="stu0611" fbc:label="stu0611"/>
+      <fbc:geneProduct metaid="meta_stu0469" fbc:id="stu0469" fbc:label="stu0469"/>
+      <fbc:geneProduct metaid="meta_stu0430" fbc:id="stu0430" fbc:label="stu0430"/>
+      <fbc:geneProduct metaid="meta_stu0968" fbc:id="stu0968" fbc:label="stu0968"/>
+      <fbc:geneProduct metaid="meta_stu0494" fbc:id="stu0494" fbc:label="stu0494"/>
+      <fbc:geneProduct metaid="meta_stu2018" fbc:id="stu2018" fbc:label="stu2018"/>
+      <fbc:geneProduct metaid="meta_stu1202" fbc:id="stu1202" fbc:label="stu1202"/>
+      <fbc:geneProduct metaid="meta_stu0618" fbc:id="stu0618" fbc:label="stu0618"/>
+      <fbc:geneProduct metaid="meta_stu1051" fbc:id="stu1051" fbc:label="stu1051"/>
+      <fbc:geneProduct metaid="meta_stu1050" fbc:id="stu1050" fbc:label="stu1050"/>
+      <fbc:geneProduct metaid="meta_stu1048" fbc:id="stu1048" fbc:label="stu1048"/>
+      <fbc:geneProduct metaid="meta_stu1049" fbc:id="stu1049" fbc:label="stu1049"/>
+      <fbc:geneProduct metaid="meta_stu0697" fbc:id="stu0697" fbc:label="stu0697"/>
+      <fbc:geneProduct metaid="meta_stu1204" fbc:id="stu1204" fbc:label="stu1204"/>
+      <fbc:geneProduct metaid="meta_stu1070" fbc:id="stu1070" fbc:label="stu1070"/>
+      <fbc:geneProduct metaid="meta_stu1292" fbc:id="stu1292" fbc:label="stu1292"/>
+      <fbc:geneProduct metaid="meta_stu1294" fbc:id="stu1294" fbc:label="stu1294"/>
+      <fbc:geneProduct metaid="meta_stu0635" fbc:id="stu0635" fbc:label="stu0635"/>
+      <fbc:geneProduct metaid="meta_stu0967" fbc:id="stu0967" fbc:label="stu0967"/>
+      <fbc:geneProduct metaid="meta_stu0541" fbc:id="stu0541" fbc:label="stu0541"/>
+      <fbc:geneProduct metaid="meta_stu0239" fbc:id="stu0239" fbc:label="stu0239"/>
+      <fbc:geneProduct metaid="meta_stu0647" fbc:id="stu0647" fbc:label="stu0647"/>
       <fbc:geneProduct metaid="meta_stu0732" fbc:id="stu0732" fbc:label="stu0732"/>
+      <fbc:geneProduct metaid="meta_stu0355" fbc:id="stu0355" fbc:label="stu0355"/>
+      <fbc:geneProduct metaid="meta_stu1541" fbc:id="stu1541" fbc:label="stu1541"/>
+      <fbc:geneProduct metaid="meta_stu1256" fbc:id="stu1256" fbc:label="stu1256"/>
+      <fbc:geneProduct metaid="meta_stu1254" fbc:id="stu1254" fbc:label="stu1254"/>
+      <fbc:geneProduct metaid="meta_stu0151" fbc:id="stu0151" fbc:label="stu0151"/>
+      <fbc:geneProduct metaid="meta_stu0431" fbc:id="stu0431" fbc:label="stu0431"/>
+      <fbc:geneProduct metaid="meta_stu0640" fbc:id="stu0640" fbc:label="stu0640"/>
+      <fbc:geneProduct metaid="meta_stu0255" fbc:id="stu0255" fbc:label="stu0255"/>
+      <fbc:geneProduct metaid="meta_stu0377" fbc:id="stu0377" fbc:label="stu0377"/>
+      <fbc:geneProduct metaid="meta_stu0603" fbc:id="stu0603" fbc:label="stu0603"/>
+      <fbc:geneProduct metaid="meta_stu1852" fbc:id="stu1852" fbc:label="stu1852"/>
+      <fbc:geneProduct metaid="meta_stu1298" fbc:id="stu1298" fbc:label="stu1298"/>
+      <fbc:geneProduct metaid="meta_stu0644" fbc:id="stu0644" fbc:label="stu0644"/>
+      <fbc:geneProduct metaid="meta_stu1671" fbc:id="stu1671" fbc:label="stu1671"/>
+      <fbc:geneProduct metaid="meta_stu0457" fbc:id="stu0457" fbc:label="stu0457"/>
+      <fbc:geneProduct metaid="meta_stu0886" fbc:id="stu0886" fbc:label="stu0886"/>
+      <fbc:geneProduct metaid="meta_stu0584" fbc:id="stu0584" fbc:label="stu0584"/>
+      <fbc:geneProduct metaid="meta_stu1519" fbc:id="stu1519" fbc:label="stu1519"/>
+      <fbc:geneProduct metaid="meta_stu1316" fbc:id="stu1316" fbc:label="stu1316"/>
+      <fbc:geneProduct metaid="meta_stu1317" fbc:id="stu1317" fbc:label="stu1317"/>
+      <fbc:geneProduct metaid="meta_stu0987" fbc:id="stu0987" fbc:label="stu0987"/>
       <fbc:geneProduct metaid="meta_stu1824" fbc:id="stu1824" fbc:label="stu1824"/>
-      <fbc:geneProduct metaid="meta_stu1527" fbc:id="stu1527" fbc:label="stu1527"/>
-      <fbc:geneProduct metaid="meta_stu0159" fbc:id="stu0159" fbc:label="stu0159"/>
-      <fbc:geneProduct metaid="meta_stu0606" fbc:id="stu0606" fbc:label="stu0606"/>
       <fbc:geneProduct metaid="meta_stu0875" fbc:id="stu0875" fbc:label="stu0875"/>
       <fbc:geneProduct metaid="meta_stu0876" fbc:id="stu0876" fbc:label="stu0876"/>
       <fbc:geneProduct metaid="meta_stu0877" fbc:id="stu0877" fbc:label="stu0877"/>
-      <fbc:geneProduct metaid="meta_stu1164" fbc:id="stu1164" fbc:label="stu1164"/>
-      <fbc:geneProduct metaid="meta_stu1501" fbc:id="stu1501" fbc:label="stu1501"/>
       <fbc:geneProduct metaid="meta_stu1502" fbc:id="stu1502" fbc:label="stu1502"/>
+      <fbc:geneProduct metaid="meta_stu1501" fbc:id="stu1501" fbc:label="stu1501"/>
       <fbc:geneProduct metaid="meta_stu1579" fbc:id="stu1579" fbc:label="stu1579"/>
-      <fbc:geneProduct metaid="meta_stu0786" fbc:id="stu0786" fbc:label="stu0786"/>
-      <fbc:geneProduct metaid="meta_stu0577" fbc:id="stu0577" fbc:label="stu0577"/>
-      <fbc:geneProduct metaid="meta_stu0576" fbc:id="stu0576" fbc:label="stu0576"/>
-      <fbc:geneProduct metaid="meta_stu0566" fbc:id="stu0566" fbc:label="stu0566"/>
-      <fbc:geneProduct metaid="meta_stu1254" fbc:id="stu1254" fbc:label="stu1254"/>
-      <fbc:geneProduct metaid="meta_stu1397" fbc:id="stu1397" fbc:label="stu1397"/>
-      <fbc:geneProduct metaid="meta_stu0967" fbc:id="stu0967" fbc:label="stu0967"/>
-      <fbc:geneProduct metaid="meta_stu0751" fbc:id="stu0751" fbc:label="stu0751"/>
-      <fbc:geneProduct metaid="meta_stu0541" fbc:id="stu0541" fbc:label="stu0541"/>
-      <fbc:geneProduct metaid="meta_stu1197" fbc:id="stu1197" fbc:label="stu1197"/>
-      <fbc:geneProduct metaid="meta_stu1298" fbc:id="stu1298" fbc:label="stu1298"/>
-      <fbc:geneProduct metaid="meta_stu0092" fbc:id="stu0092" fbc:label="stu0092"/>
-      <fbc:geneProduct metaid="meta_stu0255" fbc:id="stu0255" fbc:label="stu0255"/>
-      <fbc:geneProduct metaid="meta_stu1776" fbc:id="stu1776" fbc:label="stu1776"/>
-      <fbc:geneProduct metaid="meta_stu0144" fbc:id="stu0144" fbc:label="stu0144"/>
-      <fbc:geneProduct metaid="meta_stu1963" fbc:id="stu1963" fbc:label="stu1963"/>
-      <fbc:geneProduct metaid="meta_stu0583" fbc:id="stu0583" fbc:label="stu0583"/>
-      <fbc:geneProduct metaid="meta_stu0750" fbc:id="stu0750" fbc:label="stu0750"/>
-      <fbc:geneProduct metaid="meta_stu0561" fbc:id="stu0561" fbc:label="stu0561"/>
-      <fbc:geneProduct metaid="meta_stu1284" fbc:id="stu1284" fbc:label="stu1284"/>
-      <fbc:geneProduct metaid="meta_stu1733" fbc:id="stu1733" fbc:label="stu1733"/>
-      <fbc:geneProduct metaid="meta_stu0569" fbc:id="stu0569" fbc:label="stu0569"/>
-      <fbc:geneProduct metaid="meta_stu0570" fbc:id="stu0570" fbc:label="stu0570"/>
-      <fbc:geneProduct metaid="meta_stu0030" fbc:id="stu0030" fbc:label="stu0030"/>
-      <fbc:geneProduct metaid="meta_stu0920" fbc:id="stu0920" fbc:label="stu0920"/>
-      <fbc:geneProduct metaid="meta_stu1457" fbc:id="stu1457" fbc:label="stu1457"/>
-      <fbc:geneProduct metaid="meta_stu1455" fbc:id="stu1455" fbc:label="stu1455"/>
-      <fbc:geneProduct metaid="meta_stu0603" fbc:id="stu0603" fbc:label="stu0603"/>
-      <fbc:geneProduct metaid="meta_stu1576" fbc:id="stu1576" fbc:label="stu1576"/>
-      <fbc:geneProduct metaid="meta_stu1671" fbc:id="stu1671" fbc:label="stu1671"/>
-      <fbc:geneProduct metaid="meta_stu0562" fbc:id="stu0562" fbc:label="stu0562"/>
-      <fbc:geneProduct metaid="meta_stu1263" fbc:id="stu1263" fbc:label="stu1263"/>
-      <fbc:geneProduct metaid="meta_stu0041" fbc:id="stu0041" fbc:label="stu0041"/>
-      <fbc:geneProduct metaid="meta_stu0042" fbc:id="stu0042" fbc:label="stu0042"/>
-      <fbc:geneProduct metaid="meta_stu1270" fbc:id="stu1270" fbc:label="stu1270"/>
-      <fbc:geneProduct metaid="meta_stu1271" fbc:id="stu1271" fbc:label="stu1271"/>
-      <fbc:geneProduct metaid="meta_stu0312" fbc:id="stu0312" fbc:label="stu0312"/>
-      <fbc:geneProduct metaid="meta_stu1604" fbc:id="stu1604" fbc:label="stu1604"/>
-      <fbc:geneProduct metaid="meta_stu1357" fbc:id="stu1357" fbc:label="stu1357"/>
-      <fbc:geneProduct metaid="meta_stu1563" fbc:id="stu1563" fbc:label="stu1563"/>
-      <fbc:geneProduct metaid="meta_stu1305" fbc:id="stu1305" fbc:label="stu1305"/>
-      <fbc:geneProduct metaid="meta_stu0847" fbc:id="stu0847" fbc:label="stu0847"/>
-      <fbc:geneProduct metaid="meta_stu0642" fbc:id="stu0642" fbc:label="stu0642"/>
-      <fbc:geneProduct metaid="meta_stu0158" fbc:id="stu0158" fbc:label="stu0158"/>
-      <fbc:geneProduct metaid="meta_stu0385" fbc:id="stu0385" fbc:label="stu0385"/>
-      <fbc:geneProduct metaid="meta_stu1535" fbc:id="stu1535" fbc:label="stu1535"/>
-      <fbc:geneProduct metaid="meta_stu1536" fbc:id="stu1536" fbc:label="stu1536"/>
-      <fbc:geneProduct metaid="meta_stu1537" fbc:id="stu1537" fbc:label="stu1537"/>
-      <fbc:geneProduct metaid="meta_stu1538" fbc:id="stu1538" fbc:label="stu1538"/>
-      <fbc:geneProduct metaid="meta_stu0999" fbc:id="stu0999" fbc:label="stu0999"/>
-      <fbc:geneProduct metaid="meta_stu0083" fbc:id="stu0083" fbc:label="stu0083"/>
-      <fbc:geneProduct metaid="meta_stu0848" fbc:id="stu0848" fbc:label="stu0848"/>
-      <fbc:geneProduct metaid="meta_stu1844" fbc:id="stu1844" fbc:label="stu1844"/>
-      <fbc:geneProduct metaid="meta_stu0526" fbc:id="stu0526" fbc:label="stu0526"/>
-      <fbc:geneProduct metaid="meta_stu0527" fbc:id="stu0527" fbc:label="stu0527"/>
-      <fbc:geneProduct metaid="meta_stu0438" fbc:id="stu0438" fbc:label="stu0438"/>
-      <fbc:geneProduct metaid="meta_stu1280" fbc:id="stu1280" fbc:label="stu1280"/>
-      <fbc:geneProduct metaid="meta_stu1913" fbc:id="stu1913" fbc:label="stu1913"/>
-      <fbc:geneProduct metaid="meta_stu0590" fbc:id="stu0590" fbc:label="stu0590"/>
-      <fbc:geneProduct metaid="meta_stu1592" fbc:id="stu1592" fbc:label="stu1592"/>
-      <fbc:geneProduct metaid="meta_stu1593" fbc:id="stu1593" fbc:label="stu1593"/>
-      <fbc:geneProduct metaid="meta_stu0987" fbc:id="stu0987" fbc:label="stu0987"/>
-      <fbc:geneProduct metaid="meta_stu0465" fbc:id="stu0465" fbc:label="stu0465"/>
-      <fbc:geneProduct metaid="meta_stu1735" fbc:id="stu1735" fbc:label="stu1735"/>
-      <fbc:geneProduct metaid="meta_stu0151" fbc:id="stu0151" fbc:label="stu0151"/>
-      <fbc:geneProduct metaid="meta_stu0431" fbc:id="stu0431" fbc:label="stu0431"/>
-      <fbc:geneProduct metaid="meta_stu1590" fbc:id="stu1590" fbc:label="stu1590"/>
-      <fbc:geneProduct metaid="meta_stu1797" fbc:id="stu1797" fbc:label="stu1797"/>
-      <fbc:geneProduct metaid="meta_stu1619" fbc:id="stu1619" fbc:label="stu1619"/>
-      <fbc:geneProduct metaid="meta_stu1540" fbc:id="stu1540" fbc:label="stu1540"/>
-      <fbc:geneProduct metaid="meta_stu0621" fbc:id="stu0621" fbc:label="stu0621"/>
-      <fbc:geneProduct metaid="meta_stu1121" fbc:id="stu1121" fbc:label="stu1121"/>
-      <fbc:geneProduct metaid="meta_stu1203" fbc:id="stu1203" fbc:label="stu1203"/>
-      <fbc:geneProduct metaid="meta_stu1297" fbc:id="stu1297" fbc:label="stu1297"/>
-      <fbc:geneProduct metaid="meta_stu0697" fbc:id="stu0697" fbc:label="stu0697"/>
-      <fbc:geneProduct metaid="meta_stu1070" fbc:id="stu1070" fbc:label="stu1070"/>
-      <fbc:geneProduct metaid="meta_stu1204" fbc:id="stu1204" fbc:label="stu1204"/>
-      <fbc:geneProduct metaid="meta_stu1782" fbc:id="stu1782" fbc:label="stu1782"/>
-      <fbc:geneProduct metaid="meta_stu0377" fbc:id="stu0377" fbc:label="stu0377"/>
-      <fbc:geneProduct metaid="meta_stu1402" fbc:id="stu1402" fbc:label="stu1402"/>
-      <fbc:geneProduct metaid="meta_stu1196" fbc:id="stu1196" fbc:label="stu1196"/>
-      <fbc:geneProduct metaid="meta_stu1251" fbc:id="stu1251" fbc:label="stu1251"/>
-      <fbc:geneProduct metaid="meta_stu0564" fbc:id="stu0564" fbc:label="stu0564"/>
-      <fbc:geneProduct metaid="meta_stu1315" fbc:id="stu1315" fbc:label="stu1315"/>
-      <fbc:geneProduct metaid="meta_stu1587" fbc:id="stu1587" fbc:label="stu1587"/>
-      <fbc:geneProduct metaid="meta_stu1588" fbc:id="stu1588" fbc:label="stu1588"/>
-      <fbc:geneProduct metaid="meta_stu1631" fbc:id="stu1631" fbc:label="stu1631"/>
-      <fbc:geneProduct metaid="meta_stu0128" fbc:id="stu0128" fbc:label="stu0128"/>
-      <fbc:geneProduct metaid="meta_stu1872" fbc:id="stu1872" fbc:label="stu1872"/>
-      <fbc:geneProduct metaid="meta_stu1873" fbc:id="stu1873" fbc:label="stu1873"/>
-      <fbc:geneProduct metaid="meta_stu1267" fbc:id="stu1267" fbc:label="stu1267"/>
-      <fbc:geneProduct metaid="meta_stu1837" fbc:id="stu1837" fbc:label="stu1837"/>
-      <fbc:geneProduct metaid="meta_stu0197" fbc:id="stu0197" fbc:label="stu0197"/>
-      <fbc:geneProduct metaid="meta_stu1222" fbc:id="stu1222" fbc:label="stu1222"/>
-      <fbc:geneProduct metaid="meta_stu0641" fbc:id="stu0641" fbc:label="stu0641"/>
-      <fbc:geneProduct metaid="meta_stu1728" fbc:id="stu1728" fbc:label="stu1728"/>
-      <fbc:geneProduct metaid="meta_stu1729" fbc:id="stu1729" fbc:label="stu1729"/>
-      <fbc:geneProduct metaid="meta_stu0886" fbc:id="stu0886" fbc:label="stu0886"/>
-      <fbc:geneProduct metaid="meta_stu0464" fbc:id="stu0464" fbc:label="stu0464"/>
-      <fbc:geneProduct metaid="meta_stu0413" fbc:id="stu0413" fbc:label="stu0413"/>
-      <fbc:geneProduct metaid="meta_stu0954" fbc:id="stu0954" fbc:label="stu0954"/>
-      <fbc:geneProduct metaid="meta_stu0955" fbc:id="stu0955" fbc:label="stu0955"/>
-      <fbc:geneProduct metaid="meta_stu1899" fbc:id="stu1899" fbc:label="stu1899"/>
-      <fbc:geneProduct metaid="meta_stu0186" fbc:id="stu0186" fbc:label="stu0186"/>
-      <fbc:geneProduct metaid="meta_stu1207" fbc:id="stu1207" fbc:label="stu1207"/>
-      <fbc:geneProduct metaid="meta_stu0646" fbc:id="stu0646" fbc:label="stu0646"/>
+      <fbc:geneProduct metaid="meta_stu1164" fbc:id="stu1164" fbc:label="stu1164"/>
+      <fbc:geneProduct metaid="meta_stu0159" fbc:id="stu0159" fbc:label="stu0159"/>
+      <fbc:geneProduct metaid="meta_stu0606" fbc:id="stu0606" fbc:label="stu0606"/>
       <fbc:geneProduct metaid="meta_stu1589" fbc:id="stu1589" fbc:label="stu1589"/>
-      <fbc:geneProduct metaid="meta_stu1048" fbc:id="stu1048" fbc:label="stu1048"/>
-      <fbc:geneProduct metaid="meta_stu1049" fbc:id="stu1049" fbc:label="stu1049"/>
-      <fbc:geneProduct metaid="meta_stu1050" fbc:id="stu1050" fbc:label="stu1050"/>
-      <fbc:geneProduct metaid="meta_stu1051" fbc:id="stu1051" fbc:label="stu1051"/>
-      <fbc:geneProduct metaid="meta_stu0382" fbc:id="stu0382" fbc:label="stu0382"/>
-      <fbc:geneProduct metaid="meta_stu1583" fbc:id="stu1583" fbc:label="stu1583"/>
-      <fbc:geneProduct metaid="meta_stu1870" fbc:id="stu1870" fbc:label="stu1870"/>
-      <fbc:geneProduct metaid="meta_stu0280" fbc:id="stu0280" fbc:label="stu0280"/>
-      <fbc:geneProduct metaid="meta_stu1969" fbc:id="stu1969" fbc:label="stu1969"/>
-      <fbc:geneProduct metaid="meta_stu1732" fbc:id="stu1732" fbc:label="stu1732"/>
-      <fbc:geneProduct metaid="meta_stu1181" fbc:id="stu1181" fbc:label="stu1181"/>
-      <fbc:geneProduct metaid="meta_stu1532" fbc:id="stu1532" fbc:label="stu1532"/>
-      <fbc:geneProduct metaid="meta_stu0806" fbc:id="stu0806" fbc:label="stu0806"/>
-      <fbc:geneProduct metaid="meta_stu0860" fbc:id="stu0860" fbc:label="stu0860"/>
-      <fbc:geneProduct metaid="meta_stu0692" fbc:id="stu0692" fbc:label="stu0692"/>
-      <fbc:geneProduct metaid="meta_stu2018" fbc:id="stu2018" fbc:label="stu2018"/>
-      <fbc:geneProduct metaid="meta_stu1852" fbc:id="stu1852" fbc:label="stu1852"/>
-      <fbc:geneProduct metaid="meta_stu1313" fbc:id="stu1313" fbc:label="stu1313"/>
-      <fbc:geneProduct metaid="meta_stu1311" fbc:id="stu1311" fbc:label="stu1311"/>
-      <fbc:geneProduct metaid="meta_stu1013" fbc:id="stu1013" fbc:label="stu1013"/>
-      <fbc:geneProduct metaid="meta_stu0525" fbc:id="stu0525" fbc:label="stu0525"/>
-      <fbc:geneProduct metaid="meta_stu0411" fbc:id="stu0411" fbc:label="stu0411"/>
-      <fbc:geneProduct metaid="meta_stu0412" fbc:id="stu0412" fbc:label="stu0412"/>
-      <fbc:geneProduct metaid="meta_stu0545" fbc:id="stu0545" fbc:label="stu0545"/>
-      <fbc:geneProduct metaid="meta_stu0953" fbc:id="stu0953" fbc:label="stu0953"/>
-      <fbc:geneProduct metaid="meta_stu1461" fbc:id="stu1461" fbc:label="stu1461"/>
-      <fbc:geneProduct metaid="meta_stu0921" fbc:id="stu0921" fbc:label="stu0921"/>
-      <fbc:geneProduct metaid="meta_stu0469" fbc:id="stu0469" fbc:label="stu0469"/>
-      <fbc:geneProduct metaid="meta_stu1529" fbc:id="stu1529" fbc:label="stu1529"/>
-      <fbc:geneProduct metaid="meta_stu1330" fbc:id="stu1330" fbc:label="stu1330"/>
-      <fbc:geneProduct metaid="meta_stu0408" fbc:id="stu0408" fbc:label="stu0408"/>
-      <fbc:geneProduct metaid="meta_stu2010" fbc:id="stu2010" fbc:label="stu2010"/>
-      <fbc:geneProduct metaid="meta_stu0355" fbc:id="stu0355" fbc:label="stu0355"/>
-      <fbc:geneProduct metaid="meta_stu1054" fbc:id="stu1054" fbc:label="stu1054"/>
-      <fbc:geneProduct metaid="meta_stu0122" fbc:id="stu0122" fbc:label="stu0122"/>
-      <fbc:geneProduct metaid="meta_stu0211" fbc:id="stu0211" fbc:label="stu0211"/>
-      <fbc:geneProduct metaid="meta_stu0262" fbc:id="stu0262" fbc:label="stu0262"/>
-      <fbc:geneProduct metaid="meta_stu0522" fbc:id="stu0522" fbc:label="stu0522"/>
-      <fbc:geneProduct metaid="meta_stu0995" fbc:id="stu0995" fbc:label="stu0995"/>
-      <fbc:geneProduct metaid="meta_stu1456" fbc:id="stu1456" fbc:label="stu1456"/>
-      <fbc:geneProduct metaid="meta_stu1505" fbc:id="stu1505" fbc:label="stu1505"/>
-      <fbc:geneProduct metaid="meta_stu1167" fbc:id="stu1167" fbc:label="stu1167"/>
-      <fbc:geneProduct metaid="meta_stu1560" fbc:id="stu1560" fbc:label="stu1560"/>
+      <fbc:geneProduct metaid="meta_stu0999" fbc:id="stu0999" fbc:label="stu0999"/>
       <fbc:geneProduct metaid="meta_stu0728" fbc:id="stu0728" fbc:label="stu0728"/>
-      <fbc:geneProduct metaid="meta_stu1796" fbc:id="stu1796" fbc:label="stu1796"/>
-      <fbc:geneProduct metaid="meta_stu0563" fbc:id="stu0563" fbc:label="stu0563"/>
-      <fbc:geneProduct metaid="meta_stu0239" fbc:id="stu0239" fbc:label="stu0239"/>
-      <fbc:geneProduct metaid="meta_stu0032" fbc:id="stu0032" fbc:label="stu0032"/>
-      <fbc:geneProduct metaid="meta_stu0352" fbc:id="stu0352" fbc:label="stu0352"/>
-      <fbc:geneProduct metaid="meta_stu1711" fbc:id="stu1711" fbc:label="stu1711"/>
-      <fbc:geneProduct metaid="meta_stu0731" fbc:id="stu0731" fbc:label="stu0731"/>
-      <fbc:geneProduct metaid="meta_stu0386" fbc:id="stu0386" fbc:label="stu0386"/>
-      <fbc:geneProduct metaid="meta_stu1813" fbc:id="stu1813" fbc:label="stu1813"/>
+      <fbc:geneProduct metaid="meta_stu1869" fbc:id="stu1869" fbc:label="stu1869"/>
+      <fbc:geneProduct metaid="meta_stu0230" fbc:id="stu0230" fbc:label="stu0230"/>
+      <fbc:geneProduct metaid="meta_stu0080" fbc:id="stu0080" fbc:label="stu0080"/>
+      <fbc:geneProduct metaid="meta_stu0496" fbc:id="stu0496" fbc:label="stu0496"/>
+      <fbc:geneProduct metaid="meta_stu0117" fbc:id="stu0117" fbc:label="stu0117"/>
+      <fbc:geneProduct metaid="meta_stu0869" fbc:id="stu0869" fbc:label="stu0869"/>
+      <fbc:geneProduct metaid="meta_stu0212" fbc:id="stu0212" fbc:label="stu0212"/>
+      <fbc:geneProduct metaid="meta_stu0613" fbc:id="stu0613" fbc:label="stu0613"/>
+      <fbc:geneProduct metaid="meta_stu1155" fbc:id="stu1155" fbc:label="stu1155"/>
+      <fbc:geneProduct metaid="meta_stu0596" fbc:id="stu0596" fbc:label="stu0596"/>
+      <fbc:geneProduct metaid="meta_stu1701" fbc:id="stu1701" fbc:label="stu1701"/>
+      <fbc:geneProduct metaid="meta_stu1940" fbc:id="stu1940" fbc:label="stu1940"/>
       <fbc:geneProduct metaid="meta_stu0400" fbc:id="stu0400" fbc:label="stu0400"/>
-      <fbc:geneProduct metaid="meta_stu1519" fbc:id="stu1519" fbc:label="stu1519"/>
-      <fbc:geneProduct metaid="meta_stu0160" fbc:id="stu0160" fbc:label="stu0160"/>
+      <fbc:geneProduct metaid="meta_stu1266" fbc:id="stu1266" fbc:label="stu1266"/>
+      <fbc:geneProduct metaid="meta_stu0556" fbc:id="stu0556" fbc:label="stu0556"/>
+      <fbc:geneProduct metaid="meta_stu1873" fbc:id="stu1873" fbc:label="stu1873"/>
+      <fbc:geneProduct metaid="meta_stu1872" fbc:id="stu1872" fbc:label="stu1872"/>
+      <fbc:geneProduct metaid="meta_stu0464" fbc:id="stu0464" fbc:label="stu0464"/>
+      <fbc:geneProduct metaid="meta_stu1711" fbc:id="stu1711" fbc:label="stu1711"/>
       <fbc:geneProduct metaid="meta_stu0040" fbc:id="stu0040" fbc:label="stu0040"/>
-      <fbc:geneProduct metaid="meta_stu1250" fbc:id="stu1250" fbc:label="stu1250"/>
-      <fbc:geneProduct metaid="meta_stu1591" fbc:id="stu1591" fbc:label="stu1591"/>
-      <fbc:geneProduct metaid="meta_stu0747" fbc:id="stu0747" fbc:label="stu0747"/>
-      <fbc:geneProduct metaid="meta_stu0084" fbc:id="stu0084" fbc:label="stu0084"/>
-      <fbc:geneProduct metaid="meta_stu1244" fbc:id="stu1244" fbc:label="stu1244"/>
-      <fbc:geneProduct metaid="meta_stu0281" fbc:id="stu0281" fbc:label="stu0281"/>
-      <fbc:geneProduct metaid="meta_stu0282" fbc:id="stu0282" fbc:label="stu0282"/>
-      <fbc:geneProduct metaid="meta_stu0283" fbc:id="stu0283" fbc:label="stu0283"/>
-      <fbc:geneProduct metaid="meta_stu0284" fbc:id="stu0284" fbc:label="stu0284"/>
-      <fbc:geneProduct metaid="meta_stu0285" fbc:id="stu0285" fbc:label="stu0285"/>
-      <fbc:geneProduct metaid="meta_stu0286" fbc:id="stu0286" fbc:label="stu0286"/>
+      <fbc:geneProduct metaid="meta_stu0047" fbc:id="stu0047" fbc:label="stu0047"/>
+      <fbc:geneProduct metaid="meta_stu1640" fbc:id="stu1640" fbc:label="stu1640"/>
+      <fbc:geneProduct metaid="meta_stu1657" fbc:id="stu1657" fbc:label="stu1657"/>
+      <fbc:geneProduct metaid="meta_stu1576" fbc:id="stu1576" fbc:label="stu1576"/>
+      <fbc:geneProduct metaid="meta_stu1833" fbc:id="stu1833" fbc:label="stu1833"/>
+      <fbc:geneProduct metaid="meta_stu1560" fbc:id="stu1560" fbc:label="stu1560"/>
+      <fbc:geneProduct metaid="meta_stu1167" fbc:id="stu1167" fbc:label="stu1167"/>
+      <fbc:geneProduct metaid="meta_stu0920" fbc:id="stu0920" fbc:label="stu0920"/>
+      <fbc:geneProduct metaid="meta_stu1797" fbc:id="stu1797" fbc:label="stu1797"/>
+      <fbc:geneProduct metaid="meta_stu0860" fbc:id="stu0860" fbc:label="stu0860"/>
       <fbc:geneProduct metaid="meta_stu0287" fbc:id="stu0287" fbc:label="stu0287"/>
-      <fbc:geneProduct metaid="meta_stu1788" fbc:id="stu1788" fbc:label="stu1788"/>
-      <fbc:geneProduct metaid="meta_stu1971" fbc:id="stu1971" fbc:label="stu1971"/>
-      <fbc:geneProduct metaid="meta_stu1172" fbc:id="stu1172" fbc:label="stu1172"/>
-      <fbc:geneProduct metaid="meta_stu1812" fbc:id="stu1812" fbc:label="stu1812"/>
-      <fbc:geneProduct metaid="meta_stu0968" fbc:id="stu0968" fbc:label="stu0968"/>
-      <fbc:geneProduct metaid="meta_stu1838" fbc:id="stu1838" fbc:label="stu1838"/>
-      <fbc:geneProduct metaid="meta_stu1236" fbc:id="stu1236" fbc:label="stu1236"/>
-      <fbc:geneProduct metaid="meta_stu1281" fbc:id="stu1281" fbc:label="stu1281"/>
-      <fbc:geneProduct metaid="meta_stu0466" fbc:id="stu0466" fbc:label="stu0466"/>
-      <fbc:geneProduct metaid="meta_stu0501" fbc:id="stu0501" fbc:label="stu0501"/>
-      <fbc:geneProduct metaid="meta_stu1658" fbc:id="stu1658" fbc:label="stu1658"/>
-      <fbc:geneProduct metaid="meta_stu0644" fbc:id="stu0644" fbc:label="stu0644"/>
-      <fbc:geneProduct metaid="meta_stu0246" fbc:id="stu0246" fbc:label="stu0246"/>
-      <fbc:geneProduct metaid="meta_stu0635" fbc:id="stu0635" fbc:label="stu0635"/>
-      <fbc:geneProduct metaid="meta_stu0924" fbc:id="stu0924" fbc:label="stu0924"/>
-      <fbc:geneProduct metaid="meta_stu0034" fbc:id="stu0034" fbc:label="stu0034"/>
-      <fbc:geneProduct metaid="meta_stu0470" fbc:id="stu0470" fbc:label="stu0470"/>
-      <fbc:geneProduct metaid="meta_stu1292" fbc:id="stu1292" fbc:label="stu1292"/>
-      <fbc:geneProduct metaid="meta_stu1294" fbc:id="stu1294" fbc:label="stu1294"/>
-      <fbc:geneProduct metaid="meta_stu0718" fbc:id="stu0718" fbc:label="stu0718"/>
-      <fbc:geneProduct metaid="meta_stu1544" fbc:id="stu1544" fbc:label="stu1544"/>
-      <fbc:geneProduct metaid="meta_stu0378" fbc:id="stu0378" fbc:label="stu0378"/>
+      <fbc:geneProduct metaid="meta_stu0286" fbc:id="stu0286" fbc:label="stu0286"/>
+      <fbc:geneProduct metaid="meta_stu0285" fbc:id="stu0285" fbc:label="stu0285"/>
+      <fbc:geneProduct metaid="meta_stu0284" fbc:id="stu0284" fbc:label="stu0284"/>
+      <fbc:geneProduct metaid="meta_stu0283" fbc:id="stu0283" fbc:label="stu0283"/>
+      <fbc:geneProduct metaid="meta_stu0282" fbc:id="stu0282" fbc:label="stu0282"/>
+      <fbc:geneProduct metaid="meta_stu0281" fbc:id="stu0281" fbc:label="stu0281"/>
+      <fbc:geneProduct metaid="meta_stu1844" fbc:id="stu1844" fbc:label="stu1844"/>
     </fbc:listOfGeneProducts>
+    <groups:listOfGroups>
+      <groups:group metaid="meta_g1" groups:id="g1" groups:name="default" groups:kind="collection"/>
+    </groups:listOfGroups>
   </model>
 </sbml>
