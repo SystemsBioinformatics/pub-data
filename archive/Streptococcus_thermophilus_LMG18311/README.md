@@ -1,4 +1,4 @@
-# Streptococcus_thermophilus_WCFS1
+# Streptococcus_thermophilus_LMG18311.xml
 
 Please [contact us](http://teusinkbruggemanlab.nl/team/) for more information. This model is in the process of being improved, especially with respect to annotation, feel free to submit any updates for inclusion in future versions.
 
