@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+HIBDkt:1 nad_c + 1 3hmp_c -> 1 h_c + 1 nadh_c + 1 mmtsa_c (1 Nicotinamide adenine dinucleotide + 1 3-Hydroxy-2-methylpropanoate -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 (S)-Methylmalonate semialdehyde)
+HOXPRx:1 nad_c + 1 glyc__R_c <=> 1 h_c + 1 nadh_c + 1 2h3opp_c (1 Nicotinamide adenine dinucleotide + 1 (R)-Glycerate <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 2 Hydroxy 3 oxopropanoate C3H3O4)
+
+
+AdditionalMetabolites:
+2h3opp_c (2 Hydroxy 3 oxopropanoate C3H3O4)
+mmtsa_c ((S)-Methylmalonate semialdehyde)
+
+

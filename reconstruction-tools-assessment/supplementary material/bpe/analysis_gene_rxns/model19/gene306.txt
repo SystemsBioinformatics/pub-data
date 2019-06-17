@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R01710:1 C00001_c + 1 C00007_c + 1 C00534_c <=> 1 C00014_c + 1 C00027_c + 1 C00250_c (1 H2O + 1 Oxygen + 1 Pyridoxamine <=> 1 Ammonia + 1 Hydrogen peroxide + 1 Pyridoxal)
+R01711:1 C00007_c + 1 C00314_c <=> 1 C00027_c + 1 C00250_c (1 Oxygen + 1 Pyridoxine <=> 1 Hydrogen peroxide + 1 Pyridoxal)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00014_c (Ammonia)
+C00027_c (Hydrogen peroxide)
+C00250_c (Pyridoxal)
+C00314_c (Pyridoxine)
+C00534_c (Pyridoxamine)
+
+

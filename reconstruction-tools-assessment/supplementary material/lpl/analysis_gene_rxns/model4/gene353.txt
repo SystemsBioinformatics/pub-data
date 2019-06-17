@@ -1,0 +1,4 @@
+notRecovered:
+ASAD:1 aspsa_c + 1 nadp_c + 1 pi_c <=> 1 4pasp_c + 1 h_c + 1 nadph_c (1 M_L_Aspartate_4_semialdehyde_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Phosphate_ <=> 1 M_4_Phospho_L_aspartate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_)
+
+

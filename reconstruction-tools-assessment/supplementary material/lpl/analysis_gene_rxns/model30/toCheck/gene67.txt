@@ -1,0 +1,16 @@
+notRecovered:
+SPMDabc:1 atp_c + 1 h2o_c + 1 spmd_e -> 1 adp_c + 1 h_c + 1 pi_c + 1 spmd_c (1 M_ATP_ + 1 M_H2O_ + 1 M_Spermidine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_Spermidine_)
+PTRCabc:1 atp_c + 1 h2o_c + 1 ptrc_e -> 1 adp_c + 1 h_c + 1 pi_c + 1 ptrc_c (1 M_ATP_ + 1 M_H2O_ + 1 M_Putrescine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_Putrescine_)
+
+
+AdditionalNotInModel:
+R01398:1 C00169_c + 1 C00077_c <=> 1 C00327_c + 1 C00009_c (1 Carbamoyl phosphate + 1 L-Ornithine <=> 1 L-Citrulline + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00077_c (L-Ornithine)
+C00169_c (Carbamoyl phosphate)
+C00327_c (L-Citrulline)
+
+

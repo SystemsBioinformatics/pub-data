@@ -1,0 +1,19 @@
+notRecovered:
+PDE2:1 35cdamp_c + 1 h2o_c -> 1 damp_c + 1 h_c (1 M_3__5__Cyclic_dAMP_ + 1 M_H2O_ -> 1 M_dAMP_ + 1 M_H_)
+PDE3:1 35cimp_c + 1 h2o_c -> 1 h_c + 1 imp_c (1 M_3__5__Cyclic_IMP_ + 1 M_H2O_ -> 1 M_H_ + 1 M_IMP_)
+PDE4:1 35cgmp_c + 1 h2o_c -> 1 gmp_c + 1 h_c (1 M_3__5__Cyclic_GMP_ + 1 M_H2O_ -> 1 M_GMP_ + 1 M_H_)
+PDE5:1 35ccmp_c + 1 h2o_c -> 1 cmp_c + 1 h_c (1 M_3__5__Cyclic_CMP_ + 1 M_H2O_ -> 1 M_CMP_ + 1 M_H_)
+PDE1:1 camp_c + 1 h2o_c -> 1 amp_c + 1 h_c (1 M_cAMP_ + 1 M_H2O_ -> 1 M_AMP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+3.1.4.17-RXN:1 Cyclic-3-5-Nucleoside-Monophosphates_c + 1 WATER_c -> 1 Nucleoside-Monophosphates_c + 1 PROTON_c (1 a nucleoside cyclic 3',5'-monophosphate + 1 H2O -> 1 a nucleoside 5'-monophosphate + 1 H+)
+
+
+AdditionalMetabolites:
+Cyclic-3-5-Nucleoside-Monophosphates_c (a nucleoside cyclic 3',5'-monophosphate)
+Nucleoside-Monophosphates_c (a nucleoside 5'-monophosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,24 @@
+notRecovered:
+BGLA1:1 6pgg_c + 1 h2o_c -> 1 g6p_c + 1 glc__D_c (1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_H2O_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+rxn03482:1 cpd00001_c + 1 cpd03698_c -> 1 cpd00863_c + 1 cpd01553_c (1 H2O_c0 + 1 Salicin_6P_c0 -> 1 beta_D_Glucose_6_phosphate_c0 + 1 Saligenin_c0)
+rxn03481:1 cpd00001_c + 1 cpd03697_c -> 1 cpd00863_c + 1 cpd00415_c (1 H2O_c0 + 1 Arbutin_6P_c0 -> 1 beta_D_Glucose_6_phosphate_c0 + 1 Quinol_c0)
+rxn08025:1 cpd00001_c + 1 cpd03697_c <=> 1 cpd00079_c + 1 cpd00415_c (1 H2O_c0 + 1 Arbutin_6P_c0 <=> 1 D_glucose_6_phosphate_c0 + 1 Quinol_c0)
+rxn09992:1 cpd00001_c + 1 cpd03698_c -> 1 cpd01553_c + 1 cpd00079_c (1 H2O_c0 + 1 Salicin_6P_c0 -> 1 Saligenin_c0 + 1 D_glucose_6_phosphate_c0)
+rxn00608:1 cpd00001_c + 1 cpd02760_c -> 1 cpd00027_c + 1 cpd00079_c (1 H2O_c0 + 1 cellobiose_6_phoshate_c0 -> 1 D_Glucose_c0 + 1 D_glucose_6_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00027_c (D_Glucose_c0)
+cpd00079_c (D_glucose_6_phosphate_c0)
+cpd00415_c (Quinol_c0)
+cpd00863_c (beta_D_Glucose_6_phosphate_c0)
+cpd01553_c (Saligenin_c0)
+cpd02760_c (cellobiose_6_phoshate_c0)
+cpd03697_c (Arbutin_6P_c0)
+cpd03698_c (Salicin_6P_c0)
+
+

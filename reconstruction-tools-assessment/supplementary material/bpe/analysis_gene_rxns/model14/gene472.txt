@@ -1,0 +1,6 @@
+notRecovered:
+DPR:1 2dhp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 pant__R_c (1 2-Dehydropantoate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-Pantoate)
+KARA1:1 23dhmb_c + 1 nadp_c <=> 1 alac__S_c + 1 h_c + 1 nadph_c (1 (R)-2,3-Dihydroxy-3-methylbutanoate + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 (S)-2-Acetolactate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+KARA2:1 2ahbut_c + 1 h_c + 1 nadph_c <=> 1 23dhmp_c + 1 nadp_c (1 (S)-2-Aceto-2-hydroxybutanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced <=> 1 (R)-2,3-Dihydroxy-3-methylpentanoate + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

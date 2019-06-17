@@ -1,0 +1,17 @@
+notRecovered:
+GTHPi:2 gthrd_c + 1 h2o2_c -> 1 gthox_c + 2 h2o_c (2 M_Reduced_glutathione_ + 1 M_Hydrogen_peroxide_ -> 1 M_Oxidized_glutathione_ + 2 M_H2O_)
+
+
+AdditionalNotInModel:
+RXN-13945:1 CPD-725_c + 1 NADPH_c + 1 PROTON_c -> 1 CPD-14994_c + 1 NADP_c + 1 WATER_c (1 13(S)-HPOTE + 1 NADPH + 1 H+ -> 1 (9Z,11E,13S,15Z)-13-hydroxyoctadeca-9,11,15- + 1 NADP+ + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-14994_c ((9Z,11E,13S,15Z)-13-hydroxyoctadeca-9,11,15-)
+CPD-725_c (13(S)-HPOTE)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+AACOAR_syn:1 aacoa_c + 1 h_c + 1 nadph_c -> 1 3hbcoa__R_c + 1 nadp_c (1 Acetoacetyl-CoA + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 (R)-3-hydroxybutanoyl-CoA + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

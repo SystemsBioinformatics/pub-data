@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R02377:1 C00004_c + 1 C00080_c + 1 C00479_c -> 1 C00003_c + 1 C05979_c (1 NADH + 1 H+ + 1 Propanal -> 1 NAD+ + 1 Propane-1-ol)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00479_c (Propanal)
+C05979_c (Propane-1-ol)
+
+

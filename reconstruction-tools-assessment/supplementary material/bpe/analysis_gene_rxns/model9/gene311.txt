@@ -1,0 +1,4 @@
+notRecovered:
+ACKr:1 ac_c + 1 atp_c <=> 1 actp_c + 1 adp_c (1 Acetate + 1 ATP <=> 1 Acetyl phosphate + 1 ADP)
+
+

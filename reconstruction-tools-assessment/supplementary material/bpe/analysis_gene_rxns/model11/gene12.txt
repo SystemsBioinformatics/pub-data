@@ -1,0 +1,7 @@
+notRecovered:
+GLYCLTDx:1 glx_c + 1 h_c + 1 nadh_c -> 1 glyclt_c + 1 nad_c (1 Glyoxylate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Glycolate + 1 Nicotinamide adenine dinucleotide)
+GLYCLTDy:1 glx_c + 1 h_c + 1 nadph_c -> 1 glyclt_c + 1 nadp_c (1 Glyoxylate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Glycolate + 1 Nicotinamide adenine dinucleotide phosphate)
+HPYRRy:1 h_c + 1 hpyr_c + 1 nadph_c -> 1 glyc__R_c + 1 nadp_c (1 H+ + 1 Hydroxypyruvate + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 (R)-Glycerate + 1 Nicotinamide adenine dinucleotide phosphate)
+HPYRRx:1 h_c + 1 hpyr_c + 1 nadh_c -> 1 glyc__R_c + 1 nad_c (1 H+ + 1 Hydroxypyruvate + 1 Nicotinamide adenine dinucleotide - reduced -> 1 (R)-Glycerate + 1 Nicotinamide adenine dinucleotide)
+
+

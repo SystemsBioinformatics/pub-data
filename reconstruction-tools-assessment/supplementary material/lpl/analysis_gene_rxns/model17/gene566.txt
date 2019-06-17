@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R10668:1 C00001_c + 1 C20773_c <=> 1 C00147_c + 1 C17010_c (1 H2O + 1 6-Amino-6-deoxyfutalosine <=> 1 Adenine + 1 Dehypoxanthine futalosine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00147_c (Adenine)
+C17010_c (Dehypoxanthine futalosine)
+C20773_c (6-Amino-6-deoxyfutalosine)
+
+

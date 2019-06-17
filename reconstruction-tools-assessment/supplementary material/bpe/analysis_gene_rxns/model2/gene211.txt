@@ -1,0 +1,33 @@
+notRecovered:
+CYSt3pp:1 cys__L_c + 1 h_p -> 1 cys__L_p + 1 h_c (1 L-Cysteine + 1 H+ -> 1 L-Cysteine + 1 H+)
+
+
+AdditionalNotInModel:
+CMtpp:1 h_p + 1 cm_p -> 1 h_c + 1 cm_e (1 H+ + 1 Chloramphenicol -> 1 H+ + 1 Chloramphenicol)
+DOXRBCNtpp:1 h_p + 1 doxrbcn_p -> 1 h_c + 1 doxrbcn_e (1 H+ + 1 Doxorubicin -> 1 H+ + 1 Doxorubicin)
+FUSAtpp:1 h_p + 1 fusa_p -> 1 h_c + 1 fusa_e (1 H+ + 1 Fusidic acid -> 1 H+ + 1 Fusidic acid)
+MINCYCtpp:1 h_p + 1 mincyc_p -> 1 h_c + 1 mincyc_e (1 H+ + 1 Minocycline -> 1 H+ + 1 Minocycline)
+NOVBCNtpp:1 h_p + 1 novbcn_p -> 1 h_c + 1 novbcn_e (1 H+ + 1 Novobiocin -> 1 H+ + 1 Novobiocin)
+RFAMPtpp:1 h_p + 1 rfamp_p -> 1 h_c + 1 rfamp_e (1 H+ + 1 Rifampin -> 1 H+ + 1 Rifampin)
+TTRCYCtpp:1 h_p + 1 ttrcyc_p -> 1 h_c + 1 ttrcyc_e (1 H+ + 1 Tetracycline -> 1 H+ + 1 Tetracycline)
+
+
+AdditionalMetabolites:
+cm_e (Chloramphenicol)
+cm_p (Chloramphenicol)
+doxrbcn_e (Doxorubicin)
+doxrbcn_p (Doxorubicin)
+fusa_e (Fusidic acid)
+fusa_p (Fusidic acid)
+mincyc_e (Minocycline)
+mincyc_p (Minocycline)
+novbcn_e (Novobiocin)
+novbcn_p (Novobiocin)
+rfamp_e (Rifampin)
+rfamp_p (Rifampin)
+ttrcyc_e (Tetracycline)
+ttrcyc_p (Tetracycline)
+
+
+AdditionalInModel:
+INDOLEt2pp:1 h_c + 1 indole_c -> 1 h_p + 1 indole_p (1 H+ + 1 Indole -> 1 H+ + 1 Indole)

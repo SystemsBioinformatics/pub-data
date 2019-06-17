@@ -1,0 +1,4 @@
+notRecovered:
+S7PI:1 s7p_c -> 1 gmhep7p_c (1 Sedoheptulose 7-phosphate -> 1 D-Glycero-D-manno-heptose 7-phosphate)
+
+

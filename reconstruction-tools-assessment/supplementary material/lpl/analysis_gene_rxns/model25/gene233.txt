@@ -1,0 +1,16 @@
+notRecovered:
+NADHPO:1 h2o2_c + 1 h_c + 1 nadh_c -> 2 h2o_c + 1 nad_c (1 M_Hydrogen_peroxide_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 2 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+RXN-14537:1 Elemental-Sulfur_c + 1 NADH-P-OR-NOP_c + 1 PROTON_c -> 1 HS_c + 1 NAD-P-OR-NOP_c (1 S0 + 1 NADH-P-OR-NOP + 1 H+ -> 1 hydrogen sulfide + 1 NAD-P-OR-NOP)
+
+
+AdditionalMetabolites:
+Elemental-Sulfur_c (S0)
+HS_c (hydrogen sulfide)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+PROTON_c (H+)
+
+

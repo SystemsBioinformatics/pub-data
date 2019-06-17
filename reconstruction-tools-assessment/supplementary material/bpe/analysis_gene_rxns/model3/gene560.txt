@@ -1,0 +1,8 @@
+notRecovered:
+INDPYRD:1 h_c + 1 indpyr_c -> 1 co2_c + 1 id3acald_c (1 H+ + 1 Indolepyruvate -> 1 CO2 + 1 Indole-3-acetaldehyde)
+KMBADC:1 h_c + 1 2kmb_c -> 1 co2_c + 1 methal_c (1 H+ + 1 2-keto-4-methylthiobutanoate -> 1 CO2 + 1 Methional)
+
+
+AdditionalInModel:
+ACHBS:1 h_c + 1 pyr_c + 1 2obut_c -> 1 co2_c + 1 2ahbut_c (1 H+ + 1 Pyruvate + 1 2-Oxobutanoate -> 1 CO2 + 1 (S)-2-Aceto-2-hydroxybutanoate)
+ACLS:1 h_c + 2 pyr_c -> 1 co2_c + 1 alac__S_c (1 H+ + 2 Pyruvate -> 1 CO2 + 1 (S)-2-Acetolactate)

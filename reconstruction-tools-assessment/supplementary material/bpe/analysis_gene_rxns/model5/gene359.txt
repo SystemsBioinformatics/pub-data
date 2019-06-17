@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+L_LACD3:1 lac__L_c + 1 mqn8_c -> 1 mql8_c + 1 pyr_c (1 L-Lactate + 1 Menaquinone 8 -> 1 Menaquinol 8 + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

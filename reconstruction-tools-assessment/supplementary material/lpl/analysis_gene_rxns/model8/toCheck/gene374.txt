@@ -1,0 +1,21 @@
+notRecovered:
+PGGT4:1 uaagmdalac_c -> 1 PGlac2_c + 1 udcpdp_c (1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_peptidoglycan_with_D_lac_as_C_terminal_residue_to_form_pentadepsipeptide_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+PGGT2:1 uaaAgla_c -> 1 udcpdp_c + 1 PG_c (1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine -> 1 Undecaprenyl diphosphate + 1 Peptidoglycan)
+PPTGS_TB2:1 uaaGgla_c -> 1 udcpdp_c + 1 peptido_TB2_c + 1 h_c (1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine -> 1 Undecaprenyl diphosphate + 1 Peptidoglycan subunit (for Mycobacterium tuberculosis) + 1 H+)
+PPTGS:1 uaagmda_c -> 1 udcpdp_c + 1 peptido_EC_c + 1 h_c (1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala -> 1 Undecaprenyl diphosphate + 1 Peptidoglycan subunit of Escherichia coli + 1 H+)
+PPTGS_TB1:1 uaaAgla_c -> 1 peptido_TB1_c + 1 udcpdp_c + 1 h_c (1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine -> 1 Peptidoglycan subunit (for Mycobacterium tuberculosis) + 1 Undecaprenyl diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+PG_c (Peptidoglycan)
+peptido_EC_c (Peptidoglycan subunit of Escherichia coli)
+peptido_TB1_c (Peptidoglycan subunit (for Mycobacterium tuberculosis))
+peptido_TB2_c (Peptidoglycan subunit (for Mycobacterium tuberculosis))
+uaaAgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uaaGgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uaagmda_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala)
+
+

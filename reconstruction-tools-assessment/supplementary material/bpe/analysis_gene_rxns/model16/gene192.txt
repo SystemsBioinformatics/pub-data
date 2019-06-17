@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R02061:1 C00129_c + 1 C00448_c <=> 1 C00013_c + 1 C00353_c (1 Isopentenyl diphosphate + 1 trans,trans-Farnesyl diphosphate <=> 1 Diphosphate + 1 Geranylgeranyl diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00129_c (Isopentenyl diphosphate)
+C00353_c (Geranylgeranyl diphosphate)
+C00448_c (trans,trans-Farnesyl diphosphate)
+
+

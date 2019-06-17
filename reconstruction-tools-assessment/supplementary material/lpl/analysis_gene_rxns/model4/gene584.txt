@@ -1,0 +1,4 @@
+notRecovered:
+HIBD:1 3hmp_c + 1 nad_c -> 1 2mop_c + 1 h_c + 1 nadh_c (1 M_3_Hydroxy_2_methylpropanoate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_2_Methyl_3_oxopropanoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+15DAPt2pp:1 15dap_c + 1 h_c -> 1 15dap_p + 1 h_p (1 1,5-Diaminopentane + 1 H+ -> 1 1,5-Diaminopentane + 1 H+)
+PTRCt2pp:1 h_p + 1 ptrc_p -> 1 h_c + 1 ptrc_c (1 H+ + 1 Putrescine -> 1 H+ + 1 Putrescine)
+AGMAt2pp:1 agm_c + 1 h_c -> 1 agm_p + 1 h_p (1 Agmatine + 1 H+ -> 1 Agmatine + 1 H+)
+SPMDt2pp:1 h_p + 1 spmd_p -> 1 h_c + 1 spmd_c (1 H+ + 1 Spermidine -> 1 H+ + 1 Spermidine)
+
+
+AdditionalNotInModel:
+GLYBt3pp:1 h_p + 1 glyb_c -> 1 glyb_p + 1 h_c (1 H+ + 1 Glycine betaine -> 1 Glycine betaine + 1 H+)
+
+
+AdditionalMetabolites:
+glyb_c (Glycine betaine)
+glyb_p (Glycine betaine)
+
+

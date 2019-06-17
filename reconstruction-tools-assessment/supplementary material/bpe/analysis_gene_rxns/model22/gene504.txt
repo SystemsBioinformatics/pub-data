@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+TRIPHOSPHATASE-RXN:1 P3I_c + 1 WATER_c -> 1 PPI_c + 1 Pi_c (1 PPPi + 1 H2O -> 1 diphosphate + 1 phosphate)
+
+
+AdditionalMetabolites:
+P3I_c (PPPi)
+PPI_c (diphosphate)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

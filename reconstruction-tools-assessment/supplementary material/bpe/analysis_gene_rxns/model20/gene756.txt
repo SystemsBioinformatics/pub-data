@@ -1,0 +1,18 @@
+notRecovered:
+AMPMS2:1 air_c + 1 h2o_c + 1 nad_c -> 1 4ampm_c + 2 for_c + 3 h_c + 1 nadh_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 4-Amino-2-methyl-5-phosphomethylpyrimidine + 2 Formate + 3 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+R03472:1 C00019_c + 1 C03373_c <=> 1 C00058_c + 1 C00073_c + 1 C00237_c + 1 C04556_c + 1 C05198_c (1 S-Adenosyl-L-methionine + 1 Aminoimidazole ribotide <=> 1 Formate + 1 L-Methionine + 1 CO + 1 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine + 1 5'-Deoxyadenosine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00058_c (Formate)
+C00073_c (L-Methionine)
+C00237_c (CO)
+C03373_c (Aminoimidazole ribotide)
+C04556_c (4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine)
+C05198_c (5'-Deoxyadenosine)
+
+

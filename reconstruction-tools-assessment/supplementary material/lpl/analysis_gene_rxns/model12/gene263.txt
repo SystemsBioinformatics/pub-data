@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-2901:1 B-ALANINE_c + 1 2-KETOGLUTARATE_c <=> 1 MALONATE-S-ALD_c + 1 GLT_c (1 beta-alanine + 1 2-oxoglutarate <=> 1 3-oxopropanoate + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+B-ALANINE_c (beta-alanine)
+GLT_c (L-glutamate)
+MALONATE-S-ALD_c (3-oxopropanoate)
+
+

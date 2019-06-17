@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R00942:1 C00002_c + 1 C00025_c + 1 C00101_c <=> 1 C00008_c + 1 C00009_c + 1 C09332_c (1 ATP + 1 L-Glutamate + 1 Tetrahydrofolate <=> 1 ADP + 1 Orthophosphate + 1 THF-L-glutamate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00025_c (L-Glutamate)
+C00101_c (Tetrahydrofolate)
+C09332_c (THF-L-glutamate)
+
+

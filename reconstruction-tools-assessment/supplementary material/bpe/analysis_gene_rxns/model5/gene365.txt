@@ -1,0 +1,15 @@
+notRecovered:
+HXAND:1 h2o_c + 1 hxan_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xan_c (1 H2O + 1 Hypoxanthine + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Xanthine)
+
+
+AdditionalNotInModel:
+4HBZR:1 4hbzcoa_c + 1 fdxr_42_c + 6 h_c -> 1 benzcoa_c + 1 fdxo_42_c + 1 h2o_c (1 4 hydroxybenoyl CoA C28H36N7O18P3S + 1 Ferredoxin (reduced form 4:2) + 6 H+ -> 1 Benzoyl-CoA + 1 Ferredoxin (oxidized form 4:2) + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+4hbzcoa_c (4 hydroxybenoyl CoA C28H36N7O18P3S)
+benzcoa_c (Benzoyl-CoA)
+fdxo_42_c (Ferredoxin (oxidized form 4:2))
+fdxr_42_c (Ferredoxin (reduced form 4:2))
+
+

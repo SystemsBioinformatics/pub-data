@@ -1,0 +1,4 @@
+notRecovered:
+PRAIi:1 pran_c <=> 1 2cpr5p_c (1 M_N__5_Phospho_D_ribosyl_anthranilate_ <=> 1 M_1__2_Carboxyphenylamino__1_deoxy_D_ribulose_5_phosphate_)
+
+

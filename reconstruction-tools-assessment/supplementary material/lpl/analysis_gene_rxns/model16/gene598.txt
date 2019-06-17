@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+rxn05957:1 cpd00239_c + 1 cpd00822_c -> 1 cpd00135_c + 1 cpd00036_c (1 H2S_c0 + 1 O_Succinyl_L_homoserine_c0 -> 1 Homocysteine_c0 + 1 Succinate_c0)
+rxn06078:1 cpd11421_c + 1 cpd00268_c + 1 cpd00790_c -> 1 cpd00067_c + 1 cpd00135_c + 1 cpd11420_c + 1 cpd00029_c + 1 cpd00081_c (1 trdrd_c0 + 1 H2S2O3_c0 + 1 O_Acetyl_L_homoserine_c0 -> 1 H_plus__c0 + 1 Homocysteine_c0 + 1 trdox_c0 + 1 Acetate_c0 + 1 Sulfite_c0)
+
+
+AdditionalMetabolites:
+cpd00029_c (Acetate_c0)
+cpd00036_c (Succinate_c0)
+cpd00067_c (H_plus__c0)
+cpd00081_c (Sulfite_c0)
+cpd00135_c (Homocysteine_c0)
+cpd00239_c (H2S_c0)
+cpd00268_c (H2S2O3_c0)
+cpd00790_c (O_Acetyl_L_homoserine_c0)
+cpd00822_c (O_Succinyl_L_homoserine_c0)
+cpd11420_c (trdox_c0)
+cpd11421_c (trdrd_c0)
+
+

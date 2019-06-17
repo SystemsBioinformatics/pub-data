@@ -1,0 +1,18 @@
+notRecovered:
+SO3OX:1 h2o_p + 1 o2_p + 1 so3_p -> 1 h2o2_p + 1 so4_p (1 H2O + 1 O2 + 1 Sulfite -> 1 Hydrogen peroxide + 1 Sulfate)
+
+
+AdditionalNotInModel:
+RXN-17652:1 ETR-Quinols_c + 1 Protein-L-methionine-S-S-oxides_c -> 1 ETR-Quinones_c + 1 Protein-L-methionine_c + 1 WATER_c (1 ETR-Quinols + 1 Protein-L-methionine-S-S-oxides -> 1 ETR-Quinones + 1 Protein-L-methionine + 1 H2O)
+RXN-17663:1 ETR-Quinols_c + 1 Protein-L-methionine-R-S-oxides_c -> 1 ETR-Quinones_c + 1 Protein-L-methionine_c + 1 WATER_c (1 ETR-Quinols + 1 Protein-L-methionine-R-S-oxides -> 1 ETR-Quinones + 1 Protein-L-methionine + 1 H2O)
+
+
+AdditionalMetabolites:
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+Protein-L-methionine-R-S-oxides_c (Protein-L-methionine-R-S-oxides)
+Protein-L-methionine-S-S-oxides_c (Protein-L-methionine-S-S-oxides)
+Protein-L-methionine_c (Protein-L-methionine)
+WATER_c (H2O)
+
+

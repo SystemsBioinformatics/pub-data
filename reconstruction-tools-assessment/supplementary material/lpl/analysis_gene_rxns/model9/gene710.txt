@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+MMSAD2:1 nad_c + 1 coa_c + 1 ppal_c <=> 1 nadh_c + 1 ppcoa_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 Propanal <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Propanoyl-CoA + 1 H+)
+
+
+AdditionalMetabolites:
+ppal_c (Propanal)
+ppcoa_c (Propanoyl-CoA)
+
+
+AdditionalInModel:
+ALCD19:1 nadh_c + 1 glyald_c + 1 h_c <=> 1 nad_c + 1 glyc_c (1 Nicotinamide adenine dinucleotide - reduced + 1 D-Glyceraldehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 Glycerol)

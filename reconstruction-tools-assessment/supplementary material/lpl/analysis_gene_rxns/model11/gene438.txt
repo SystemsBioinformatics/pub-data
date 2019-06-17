@@ -1,0 +1,4 @@
+notRecovered:
+ACGAMT:1 uacgam_c + 1 udcpp_c -> 1 ump_c + 1 unaga_c (1 M_UDP_N_acetyl_D_glucosamine_ + 1 M_Undecaprenyl_phosphate_ -> 1 M_UMP_ + 1 M_Undecaprenyl_diphospho_N_acetyl_glucosamine_)
+
+

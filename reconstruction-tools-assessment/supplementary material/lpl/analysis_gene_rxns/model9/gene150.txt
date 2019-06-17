@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+BILIRED:1 nadph_c + 1 biliverd_c + 1 h_c -> 1 nadp_c + 1 bilirub_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Biliverdin cytosol + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Bilirubin cytosol)
+INOSR:1 nadp_c + 1 inost_c <=> 1 nadph_c + 1 2ins_c + 1 h_c (1 Nicotinamide adenine dinucleotide phosphate + 1 Myo-Inositol <=> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-Inosose + 1 H+)
+UACGAMDH:1 nad_c + 1 uacgam_c <=> 1 nadh_c + 1 h_c + 1 uacgamo_c (1 Nicotinamide adenine dinucleotide + 1 UDP-N-acetyl-D-glucosamine <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 UDP-2-acetamido-2-deoxy-alpha-D-ribo-hexopyranos-3-ulose)
+
+
+AdditionalMetabolites:
+bilirub_c (Bilirubin cytosol)
+biliverd_c (Biliverdin cytosol)
+uacgamo_c (UDP-2-acetamido-2-deoxy-alpha-D-ribo-hexopyranos-3-ulose)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+R09247:4 C00129_c + 1 C00448_c <=> 4 C00013_c + 1 C04216_c (4 Isopentenyl diphosphate + 1 trans,trans-Farnesyl diphosphate <=> 4 Diphosphate + 1 all-trans-Heptaprenyl diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00129_c (Isopentenyl diphosphate)
+C00448_c (trans,trans-Farnesyl diphosphate)
+C04216_c (all-trans-Heptaprenyl diphosphate)
+
+

@@ -1,0 +1,25 @@
+AdditionalNotInModel:
+ACETATE--COA-LIGASE-ADP-FORMING-RXN:1 ACET_c + 1 ATP_c + 1 CO-A_c <=> 1 ACETYL-COA_c + 1 ADP_c + 1 Pi_c (1 acetate + 1 ATP + 1 coenzyme A <=> 1 acetyl-CoA + 1 ADP + 1 phosphate)
+RXN-18446:1 ISOVALERATE_c + 1 ATP_c + 1 CO-A_c -> 1 AMP_c + 1 PPI_c + 1 ISOVALERYL-COA_c (1 isovalerate + 1 ATP + 1 coenzyme A -> 1 AMP + 1 diphosphate + 1 isovaleryl-CoA)
+ACETATE--COA-LIGASE-RXN:1 ACET_c + 1 ATP_c + 1 CO-A_c -> 1 ACETYL-COA_c + 1 AMP_c + 1 PPI_c (1 acetate + 1 ATP + 1 coenzyme A -> 1 acetyl-CoA + 1 AMP + 1 diphosphate)
+RXN-18448:1 CPD-7076_c + 1 ATP_c + 1 CO-A_c -> 1 2-METHYL-BUTYRYL-COA_c + 1 AMP_c + 1 PPI_c (1 2-methylbutanoate + 1 ATP + 1 coenzyme A -> 1 2-methylbutanoyl-CoA + 1 AMP + 1 diphosphate)
+RXN-18447:1 ISOBUTYRATE_c + 1 ATP_c + 1 CO-A_c -> 1 ISOBUTYRYL-COA_c + 1 AMP_c + 1 PPI_c (1 isobutanoate + 1 ATP + 1 coenzyme A -> 1 isobutanoyl-CoA + 1 AMP + 1 diphosphate)
+
+
+AdditionalMetabolites:
+2-METHYL-BUTYRYL-COA_c (2-methylbutanoyl-CoA)
+ACETYL-COA_c (acetyl-CoA)
+ACET_c (acetate)
+ADP_c (ADP)
+AMP_c (AMP)
+ATP_c (ATP)
+CO-A_c (coenzyme A)
+CPD-7076_c (2-methylbutanoate)
+ISOBUTYRATE_c (isobutanoate)
+ISOBUTYRYL-COA_c (isobutanoyl-CoA)
+ISOVALERATE_c (isovalerate)
+ISOVALERYL-COA_c (isovaleryl-CoA)
+PPI_c (diphosphate)
+Pi_c (phosphate)
+
+

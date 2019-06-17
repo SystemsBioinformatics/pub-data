@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+GLYC3PDEHYDROGBIOSYN-RXN-GLYCEROL-3P/NADP//DIHYDROXY-ACETONE-PHOSPHATE/NADPH/PROTON.59.:1 NADPH_c + 1 DIHYDROXY-ACETONE-PHOSPHATE_c + 1 PROTON_c -> 1 GLYCEROL-3P_c + 1 NADP_c (1 NADPH + 1 glycerone phosphate + 1 H+ -> 1 sn-glycerol 3-phosphate + 1 NADP+)
+
+
+AdditionalMetabolites:
+DIHYDROXY-ACETONE-PHOSPHATE_c (glycerone phosphate)
+GLYCEROL-3P_c (sn-glycerol 3-phosphate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

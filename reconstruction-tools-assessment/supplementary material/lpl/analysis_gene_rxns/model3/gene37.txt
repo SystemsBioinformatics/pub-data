@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+HPPK2:1 atp_c + 1 6hmhpt_c -> 1 h_c + 1 amp_c + 1 6hmhptpp_c (1 ATP + 1 6-hydroxymethyl dihydropterin -> 1 H+ + 1 AMP + 1 6-hydroxymethyl-dihydropterin pyrophosphate)
+
+
+AdditionalMetabolites:
+6hmhpt_c (6-hydroxymethyl dihydropterin)
+6hmhptpp_c (6-hydroxymethyl-dihydropterin pyrophosphate)
+
+
+AdditionalInModel:
+FOLD3:1 4abz_c + 1 2ahhmd_c -> 1 ppi_c + 1 dhpt_c (1 4-Aminobenzoate + 1 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2 -> 1 Diphosphate + 1 Dihydropteroate)

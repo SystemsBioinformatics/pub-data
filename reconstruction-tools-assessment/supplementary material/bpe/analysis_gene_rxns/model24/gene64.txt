@@ -1,0 +1,4 @@
+notRecovered:
+FBA:1 fdp_c <=> 1 dhap_c + 1 g3p_c (1 D-Fructose 1,6-bisphosphate <=> 1 Dihydroxyacetone phosphate + 1 Glyceraldehyde 3-phosphate)
+
+

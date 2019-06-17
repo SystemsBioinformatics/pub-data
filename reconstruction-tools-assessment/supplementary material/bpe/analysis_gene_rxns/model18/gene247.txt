@@ -1,0 +1,15 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00019:2 C00080_c + 2 C00138_c <=> 2 C00139_c + 1 C00282_c (2 H+ + 2 Reduced ferredoxin <=> 2 Oxidized ferredoxin + 1 Hydrogen)
+
+
+AdditionalMetabolites:
+C00080_c (H+)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00282_c (Hydrogen)
+
+

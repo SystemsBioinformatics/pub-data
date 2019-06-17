@@ -1,0 +1,21 @@
+notRecovered:
+PRAIS_1:1 atp_c + 1 fpram_c -> 1 adp_c + 1 air_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_2__Formamido__N1__5_phospho_D_ribosyl_acetamidine_ -> 1 M_ADP_ + 1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+rxn03147:1 cpd00002_c + 1 cpd00041_c + 1 cpd02893_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd02921_c (1 ATP_c0 + 1 L_Aspartate_c0 + 1 5_Phosphoribosyl_4_carboxy_5_aminoimidazole_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 SAICAR_c0)
+rxn02937:1 cpd00002_c + 1 cpd02826_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd02140_c (1 ATP_c0 + 1 5_Phosphoribosylformylglycinamidine_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 AIR_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd00067_c (H_plus__c0)
+cpd02140_c (AIR_c0)
+cpd02826_c (5_Phosphoribosylformylglycinamidine_c0)
+cpd02893_c (5_Phosphoribosyl_4_carboxy_5_aminoimidazole_c0)
+cpd02921_c (SAICAR_c0)
+
+

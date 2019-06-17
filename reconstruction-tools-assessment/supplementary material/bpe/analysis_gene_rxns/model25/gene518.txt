@@ -1,0 +1,4 @@
+notRecovered:
+NI2tpp:1 ni2_p -> 1 ni2_c (1 nickel -> 1 nickel)
+
+

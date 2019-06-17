@@ -1,0 +1,5 @@
+notRecovered:
+PYDXK2:1 atp_c + 1 pydx_c -> 1 adp_c + 2 h_c + 1 pydx5p_c (1 M_ATP_ + 1 M_Pyridoxal_ -> 1 M_ADP_ + 2 M_H_ + 1 M_Pyridoxal_5__phosphate_)
+PYDAMK:1 atp_c + 1 pydam_c -> 1 adp_c + 1 h_c + 1 pyam5p_c (1 M_ATP_ + 1 M_Pyridoxamine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Pyridoxamine_5__phosphate_)
+
+

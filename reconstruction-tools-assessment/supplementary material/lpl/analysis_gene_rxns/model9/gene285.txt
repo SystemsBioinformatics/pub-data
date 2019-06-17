@@ -1,0 +1,2 @@
+AdditionalInModel:
+PRAIi:1 pran_c -> 1 2cpr5p_c (1 N-(5-Phospho-D-ribosyl)anthranilate -> 1 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate)

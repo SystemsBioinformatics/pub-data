@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+SOTA:1 sucorn_c + 1 akg_c -> 1 glu__L_c + 1 sucgsa_c (1 N2-Succinyl-L-ornithine + 1 2-Oxoglutarate -> 1 L-Glutamate + 1 N2-Succinyl-L-glutamate 5-semialdehyde)
+
+
+AdditionalMetabolites:
+sucgsa_c (N2-Succinyl-L-glutamate 5-semialdehyde)
+sucorn_c (N2-Succinyl-L-ornithine)
+
+

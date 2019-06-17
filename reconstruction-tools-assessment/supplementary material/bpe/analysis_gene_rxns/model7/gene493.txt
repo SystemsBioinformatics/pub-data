@@ -1,0 +1,5 @@
+notRecovered:
+ENTERES:1 enter_c + 3 h2o_c -> 3 23dhbzs_c + 3 h_c (1 Enterochelin + 3 H2O -> 3 2,3-dihydroxybenzoylserine + 3 H+)
+ENTERES2:1 feenter_c + 3 h2o_c -> 3 23dhbzs_c + 1 fe3_c + 3 h_c (1 Fe-enterobactin + 3 H2O -> 3 2,3-dihydroxybenzoylserine + 1 Fe3+ + 3 H+)
+
+

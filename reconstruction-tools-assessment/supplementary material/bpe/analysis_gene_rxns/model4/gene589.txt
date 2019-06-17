@@ -1,0 +1,6 @@
+notRecovered:
+TARTD:1 tartr__L_c -> 1 h2o_c + 1 oaa_c (1 L-tartrate -> 1 H2O + 1 Oxaloacetate)
+
+
+AdditionalInModel:
+IPMD:1 3c2hmp_c + 1 nad_c -> 1 3c4mop_c + 1 h_c + 1 nadh_c (1 3-Carboxy-2-hydroxy-4-methylpentanoate + 1 Nicotinamide adenine dinucleotide -> 1 3-Carboxy-4-methyl-2-oxopentanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)

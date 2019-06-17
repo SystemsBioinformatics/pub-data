@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+G5SD2:1 glu5p_c + 1 nadh_c + 1 h_c -> 1 pi_c + 1 nad_c + 1 glu5sa_c (1 L-Glutamate 5-phosphate + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ -> 1 Phosphate + 1 Nicotinamide adenine dinucleotide + 1 L-Glutamate 5-semialdehyde)
+
+

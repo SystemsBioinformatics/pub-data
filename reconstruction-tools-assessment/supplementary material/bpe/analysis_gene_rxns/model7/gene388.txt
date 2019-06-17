@@ -1,0 +1,8 @@
+notRecovered:
+3OADPCOAT:1 3oxoadp_c + 1 succoa_c -> 1 oxadpcoa_c + 1 succ_c (1 3-Oxoadipate + 1 Succinyl-CoA -> 1 3-Oxoadipyl-CoA + 1 Succinate)
+
+
+AdditionalInModel:
+BUTCT:1 but_c + 1 accoa_c -> 1 ac_c + 1 btcoa_c (1 Butyrate (n-C4:0) + 1 Acetyl-CoA -> 1 Acetate + 1 Butanoyl-CoA)
+HXCT:1 accoa_c + 1 hxa_c -> 1 ac_c + 1 hxcoa_c (1 Acetyl-CoA + 1 Hexanoate (n-C6:0) -> 1 Acetate + 1 Hexanoyl-CoA (n-C6:0CoA))
+ACACCT:1 accoa_c + 1 acac_c -> 1 ac_c + 1 aacoa_c (1 Acetyl-CoA + 1 Acetoacetate -> 1 Acetate + 1 Acetoacetyl-CoA)

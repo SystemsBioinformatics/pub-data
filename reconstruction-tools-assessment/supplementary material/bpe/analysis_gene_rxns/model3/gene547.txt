@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+AKGDa:1 h_c + 1 akg_c + 1 lpam_c <=> 1 co2_c + 1 sdhlam_c (1 H+ + 1 2-Oxoglutarate + 1 Lipoamide C8H15NOS2 <=> 1 CO2 + 1 S Succinyldihydrolipoamide C12H20NO4S2)
+GLCOASYNT:1 coa_c + 1 S_gtrdhdlp_c -> 1 dhlam_c + 1 glutcoa_c (1 Coenzyme A + 1 S-Glutaryldihydrolipoamide -> 1 Dihydrolipoamide C8H17NOS2 + 1 Glutaryl-CoA)
+
+
+AdditionalMetabolites:
+S_gtrdhdlp_c (S-Glutaryldihydrolipoamide)
+dhlam_c (Dihydrolipoamide C8H17NOS2)
+lpam_c (Lipoamide C8H15NOS2)
+sdhlam_c (S Succinyldihydrolipoamide C12H20NO4S2)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+MALT:1 h2o_c + 1 malt_c -> 2 glc__D_c (1 M_H2O_ + 1 M_Maltose_ -> 2 M_D_Glucose_)
+
+

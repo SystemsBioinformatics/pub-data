@@ -1,0 +1,17 @@
+notRecovered:
+GTHS:1 atp_c + 1 glucys_c + 1 gly_c -> 1 adp_c + 1 gthrd_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_gamma_L_Glutamyl_L_cysteine_ + 1 M_Glycine_ -> 1 M_ADP_ + 1 M_Reduced_glutathione_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R10993:1 C00002_c + 1 C00025_c + 1 C02356_c <=> 1 C00008_c + 1 C00009_c + 1 C21015_c (1 ATP + 1 L-Glutamate + 1 (S)-2-Aminobutanoate <=> 1 ADP + 1 Orthophosphate + 1 gamma-L-Glutamyl-L-2-aminobutyrate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00025_c (L-Glutamate)
+C02356_c ((S)-2-Aminobutanoate)
+C21015_c (gamma-L-Glutamyl-L-2-aminobutyrate)
+
+

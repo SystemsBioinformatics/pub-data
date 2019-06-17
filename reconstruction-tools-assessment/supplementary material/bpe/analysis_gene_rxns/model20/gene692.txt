@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R04594:1 C00001_c + 1 C04778_c <=> 1 C00009_c + 1 C05775_c (1 H2O + 1 N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole <=> 1 Orthophosphate + 1 alpha-Ribazole)
+R11173:1 C00001_c + 1 C21153_c <=> 1 C00009_c + 1 C00194_c (1 H2O + 1 Adenosylcobalamin 5'-phosphate <=> 1 Orthophosphate + 1 Cobamide coenzyme)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00194_c (Cobamide coenzyme)
+C04778_c (N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+C05775_c (alpha-Ribazole)
+C21153_c (Adenosylcobalamin 5'-phosphate)
+
+

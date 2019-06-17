@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01635:1 cpd00013_c + 1 cpd00340_c -> 1 cpd00067_c + 1 cpd00001_c + 1 cpd02626_c (1 NH3_c0 + 1 2_5_Dioxopentanoate_c0 -> 1 H_plus__c0 + 1 H2O_c0 + 1 1_Pyrroline_4_hydroxy_2_carboxylate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd00340_c (2_5_Dioxopentanoate_c0)
+cpd02626_c (1_Pyrroline_4_hydroxy_2_carboxylate_c0)
+
+

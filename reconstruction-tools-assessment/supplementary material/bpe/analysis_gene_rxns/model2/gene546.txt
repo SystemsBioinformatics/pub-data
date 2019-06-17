@@ -1,0 +1,5 @@
+notRecovered:
+DMQMT:1 2omhmbl_c + 1 amet_c -> 1 ahcys_c + 1 h_c + 1 q8h2_c (1 2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol + 1 S-Adenosyl-L-methionine -> 1 S-Adenosyl-L-homocysteine + 1 H+ + 1 Ubiquinol-8)
+OHPHM:1 2ohph_c + 1 amet_c -> 1 2omph_c + 1 ahcys_c + 1 h_c (1 2-Octaprenyl-6-hydroxyphenol + 1 S-Adenosyl-L-methionine -> 1 2-Octaprenyl-6-methoxyphenol + 1 S-Adenosyl-L-homocysteine + 1 H+)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 2-Oxoglutarate + 1 L-Tryptophan <=> 1 L-Glutamate + 1 Indolepyruvate)
+
+
+AdditionalNotInModel:
+ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN:1 GLYOX_c + 1 L-ALPHA-ALANINE_c <=> 1 GLY_c + 1 PYRUVATE_c (1 glyoxylate + 1 L-alanine <=> 1 glycine + 1 pyruvate)
+
+
+AdditionalMetabolites:
+GLYOX_c (glyoxylate)
+GLY_c (glycine)
+L-ALPHA-ALANINE_c (L-alanine)
+PYRUVATE_c (pyruvate)
+
+

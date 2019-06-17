@@ -1,0 +1,17 @@
+notRecovered:
+IMPD:1 h2o_c + 1 imp_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xmp_c (1 M_H2O_ + 1 M_IMP_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Xanthosine_5__phosphate_)
+
+
+AdditionalNotInModel:
+R01134:1 C00130_c + 1 C00006_c + 1 C00014_c <=> 1 C00005_c + 1 C00144_c + 1 C00080_c (1 IMP + 1 NADP+ + 1 Ammonia <=> 1 NADPH + 1 GMP + 1 H+)
+
+
+AdditionalMetabolites:
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00014_c (Ammonia)
+C00080_c (H+)
+C00130_c (IMP)
+C00144_c (GMP)
+
+

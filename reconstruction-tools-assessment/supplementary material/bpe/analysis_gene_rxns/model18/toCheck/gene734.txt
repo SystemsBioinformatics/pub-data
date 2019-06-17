@@ -1,0 +1,20 @@
+notRecovered:
+ANTHDIODC:1 anth_c + 3 h_c + 1 nadh_c + 1 o2_c -> 1 catechol_c + 1 co2_c + 1 nad_c + 1 nh4_c (1 Anthranilate + 3 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 O2 -> 1 Catechol + 1 CO2 + 1 Nicotinamide adenine dinucleotide + 1 Ammonium)
+
+
+AdditionalNotInModel:
+R03391:1 C00004_c + 1 C00080_c + 1 C01219_c -> 1 C00001_c + 1 C00003_c + 1 C04297_c (1 NADH + 1 H+ + 1 CDP-4-dehydro-6-deoxy-D-glucose -> 1 H2O + 1 NAD+ + 1 CDP-4-dehydro-3,6-dideoxy-D-glucose)
+R03392:1 C00005_c + 1 C00080_c + 1 C01219_c -> 1 C00001_c + 1 C00006_c + 1 C04297_c (1 NADPH + 1 H+ + 1 CDP-4-dehydro-6-deoxy-D-glucose -> 1 H2O + 1 NADP+ + 1 CDP-4-dehydro-3,6-dideoxy-D-glucose)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C01219_c (CDP-4-dehydro-6-deoxy-D-glucose)
+C04297_c (CDP-4-dehydro-3,6-dideoxy-D-glucose)
+
+

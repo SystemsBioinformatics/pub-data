@@ -1,0 +1,5 @@
+AdditionalNotInModel:
+PYDXNO:1 o2_c + 1 pydxn_c -> 1 h2o2_c + 1 pydx_c (1 O2 + 1 Pyridoxine -> 1 Hydrogen peroxide + 1 Pyridoxal)
+PYDXO:2 h2o_c + 1 nh4_c + 0.5 o2_c + 1 pydx_c <=> 2 h2o2_c + 1 pydam_c (2 H2O + 1 Ammonium + 0.5 O2 + 1 Pyridoxal <=> 2 Hydrogen peroxide + 1 Pyridoxamine)
+
+

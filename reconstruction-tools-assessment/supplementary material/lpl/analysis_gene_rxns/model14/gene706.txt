@@ -1,0 +1,16 @@
+notRecovered:
+GHMT2r:1 ser__L_c + 1 thf_c <=> 1 gly_c + 1 h2o_c + 1 mlthf_c (1 M_L_Serine_ + 1 M_5_6_7_8_Tetrahydrofolate_ <=> 1 M_Glycine_ + 1 M_H2O_ + 1 M_5_10_Methylenetetrahydrofolate_)
+
+
+AdditionalNotInModel:
+GLYOHMETRANS-RXN:1 THF-GLU-N_c + 1 SER_c <=> 1 GLY_c + 1 METHYLENE-THF-GLU-N_c + 1 WATER_c (1 a tetrahydrofolate + 1 L-serine <=> 1 glycine + 1 a 5,10-methylenetetrahydrofolate + 1 H2O)
+
+
+AdditionalMetabolites:
+GLY_c (glycine)
+METHYLENE-THF-GLU-N_c (a 5,10-methylenetetrahydrofolate)
+SER_c (L-serine)
+THF-GLU-N_c (a tetrahydrofolate)
+WATER_c (H2O)
+
+

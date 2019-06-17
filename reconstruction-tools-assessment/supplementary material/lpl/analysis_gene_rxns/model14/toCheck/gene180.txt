@@ -1,0 +1,13 @@
+notRecovered:
+GLCS1:1 adpglc_c -> 1 adp_c + 1 glycogen_c + 1 h_c (1 M_ADPglucose_ -> 1 M_ADP_ + 1 M_glycogen_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RXN-14371:1 1-4-alpha-D-Glucan_c -> 1 Alpha-6-alpha-14-glucans_c (1 a 1,4-alpha-D-glucan -> 1 a (1,6)-alpha-D-glucosyl-(1,4)-alpha-glucan)
+
+
+AdditionalMetabolites:
+1-4-alpha-D-Glucan_c (a 1,4-alpha-D-glucan)
+Alpha-6-alpha-14-glucans_c (a (1,6)-alpha-D-glucosyl-(1,4)-alpha-glucan)
+
+

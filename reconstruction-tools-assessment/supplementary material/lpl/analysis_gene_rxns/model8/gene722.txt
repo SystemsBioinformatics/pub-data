@@ -1,0 +1,2 @@
+AdditionalInModel:
+PRAIS_1:1 fpram_c + 1 atp_c -> 1 pi_c + 1 adp_c + 1 h_c + 1 air_c (1 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine + 1 ATP C10H12N5O13P3 -> 1 Phosphate + 1 ADP C10H12N5O10P2 + 1 H+ + 1 5-amino-1-(5-phospho-D-ribosyl)imidazole)

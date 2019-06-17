@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R03004:1 C00001_c + 1 C00857_c <=> 1 C00020_c + 1 C01185_c (1 H2O + 1 Deamino-NAD+ <=> 1 AMP + 1 Nicotinate D-ribonucleotide)
+R11104:1 C00001_c + 1 C00004_c <=> 1 C00020_c + 1 C21113_c (1 H2O + 1 NADH <=> 1 AMP + 1 NMNH)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00004_c (NADH)
+C00020_c (AMP)
+C00857_c (Deamino-NAD+)
+C01185_c (Nicotinate D-ribonucleotide)
+C21113_c (NMNH)
+
+

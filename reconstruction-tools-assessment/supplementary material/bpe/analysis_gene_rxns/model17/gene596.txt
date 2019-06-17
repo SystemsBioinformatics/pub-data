@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00426:1 C00001_c + 1 C00044_c -> 1 C00013_c + 1 C00144_c (1 H2O + 1 GTP -> 1 Diphosphate + 1 GMP)
+R01855:1 C00001_c + 1 C00286_c -> 1 C00013_c + 1 C00362_c (1 H2O + 1 dGTP -> 1 Diphosphate + 1 dGMP)
+R02100:1 C00001_c + 1 C00460_c <=> 1 C00013_c + 1 C00365_c (1 H2O + 1 dUTP <=> 1 Diphosphate + 1 dUMP)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C00044_c (GTP)
+C00144_c (GMP)
+C00286_c (dGTP)
+C00362_c (dGMP)
+C00365_c (dUMP)
+C00460_c (dUTP)
+
+

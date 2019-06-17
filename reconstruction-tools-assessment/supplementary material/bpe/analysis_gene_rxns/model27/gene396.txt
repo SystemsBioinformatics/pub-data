@@ -1,0 +1,4 @@
+notRecovered:
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 2-Oxoglutarate + 1 L-Tryptophan <=> 1 L-Glutamate + 1 Indolepyruvate)
+
+

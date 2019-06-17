@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R07035:1 C05966_c + 2 C00051_c <=> 1 C04742_c + 1 C00127_c + 1 C00001_c (1 15(S)-HPETE + 2 Glutathione <=> 1 (15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate + 1 Glutathione disulfide + 1 H2O)
+R07034:1 C05356_c + 2 C00051_c <=> 1 C04805_c + 1 C00127_c + 1 C00001_c (1 5(S)-HPETE + 2 Glutathione <=> 1 5(S)-HETE + 1 Glutathione disulfide + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00051_c (Glutathione)
+C00127_c (Glutathione disulfide)
+C04742_c ((15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate)
+C04805_c (5(S)-HETE)
+C05356_c (5(S)-HPETE)
+C05966_c (15(S)-HPETE)
+
+

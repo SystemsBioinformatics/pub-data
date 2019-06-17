@@ -1,0 +1,18 @@
+notRecovered:
+CYTBO3_4pp:4 h_c + 0.5 o2_c + 1 q8h2_c -> 1 h2o_c + 4 h_p + 1 q8_c (4 H+ + 0.5 O2 + 1 Ubiquinol-8 -> 1 H2O + 4 H+ + 1 Ubiquinone-8)
+
+
+AdditionalNotInModel:
+RXN0-5266:2 Ubiquinols_c + 1 OXYGEN-MOLECULE_c + 4 PROTON_c -> 4 PROTON_e + 2 Ubiquinones_c + 2 WATER_c (2 an ubiquinol + 1 oxygen + 4 H+ -> 4 H+ + 2 a ubiquinone + 2 H2O)
+RXN0-5268:2 Ubiquinols_c + 1 OXYGEN-MOLECULE_c + 5 PROTON_c -> 5 PROTON_e + 2 Ubiquinones_c + 2 WATER_c (2 an ubiquinol + 1 oxygen + 5 H+ -> 5 H+ + 2 a ubiquinone + 2 H2O)
+
+
+AdditionalMetabolites:
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+PROTON_e (H+)
+Ubiquinols_c (an ubiquinol)
+Ubiquinones_c (a ubiquinone)
+WATER_c (H2O)
+
+

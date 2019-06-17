@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+NADHHS:1 nadh_c + 1 h2o_c -> 1 nadhx__S_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H2O H2O -> 1 Adenosine 5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl} dihydrogen diphosphate))
+NADPHHR:1 nadph_c + 1 h2o_c -> 1 nadphx__R_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 H2O H2O -> 1 (R)-NADPHX)
+E4PD:1 nad_c + 1 e4p_c + 1 h2o_c <=> 1 nadh_c + 1 4per_c + 2 h_c (1 Nicotinamide adenine dinucleotide + 1 D-Erythrose 4-phosphate + 1 H2O H2O <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 4-Phospho-D-erythronate + 2 H+)
+NADHHR:1 nadh_c + 1 h2o_c -> 1 nadhx__R_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H2O H2O -> 1 (R)-NADHX)
+NADPHHS:1 nadph_c + 1 h2o_c -> 1 nadphx__S_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 H2O H2O -> 1 (S)-NADPHX)
+GAPDi_nadp:1 nadph_c + 1 13dpg_c + 1 h_c -> 1 g3p_c + 1 pi_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-Phospho-D-glyceroyl phosphate + 1 H+ -> 1 Glyceraldehyde 3-phosphate + 1 Phosphate + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+4per_c (4-Phospho-D-erythronate)
+nadhx__R_c ((R)-NADHX)
+nadhx__S_c (Adenosine 5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl} dihydrogen diphosphate))
+nadphx__R_c ((R)-NADPHX)
+nadphx__S_c ((S)-NADPHX)
+
+

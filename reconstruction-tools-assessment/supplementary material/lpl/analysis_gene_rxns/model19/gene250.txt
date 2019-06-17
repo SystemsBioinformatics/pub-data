@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00921:1 C00009_c + 1 C00100_c <=> 1 C00010_c + 1 C02876_c (1 Orthophosphate + 1 Propanoyl-CoA <=> 1 CoA + 1 Propanoyl phosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00010_c (CoA)
+C00100_c (Propanoyl-CoA)
+C02876_c (Propanoyl phosphate)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+DAGK_LPL:1 atp_c + 0.01 dag_LPL_c -> 1 adp_c + 1 h_c + 0.01 pa_LPL_c (1 M_ATP_ + 0.01 M_1_2_Diacylglycerol__LPL_specific_ -> 1 M_ADP_ + 1 M_H_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__)
+
+

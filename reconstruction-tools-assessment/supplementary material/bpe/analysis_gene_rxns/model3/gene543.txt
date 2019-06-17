@@ -1,0 +1,2 @@
+AdditionalInModel:
+ORNTA:1 akg_c + 1 orn_c -> 1 glu__L_c + 1 glu5sa_c (1 2-Oxoglutarate + 1 Ornithine -> 1 L-Glutamate + 1 L-Glutamate 5-semialdehyde)

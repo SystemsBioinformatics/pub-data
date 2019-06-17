@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+RXN-9386:1 ATP_c + 1 GLN-tRNAs_c + 1 GLT_c -> 1 AMP_c + 1 L-glutamyl-tRNAGln_c + 1 PPI_c (1 ATP + 1 GLN-tRNAs + 1 L-glutamate -> 1 AMP + 1 L-glutamyl-tRNAGln + 1 diphosphate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+GLN-tRNAs_c (GLN-tRNAs)
+GLT_c (L-glutamate)
+L-glutamyl-tRNAGln_c (L-glutamyl-tRNAGln)
+PPI_c (diphosphate)
+
+

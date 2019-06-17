@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R02984:1 C00842_c <=> 1 C02097_c (1 dTDP-glucose <=> 1 dTDP-galactose)
+
+
+AdditionalMetabolites:
+C00842_c (dTDP-glucose)
+C02097_c (dTDP-galactose)
+
+

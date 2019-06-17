@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+rxn02703:1 cpd00002_c + 1 cpd01407_c <=> 1 cpd00008_c + 1 cpd03722_c (1 ATP_c0 + 1 Volemulose_c0 <=> 1 ADP_c0 + 1 Sedoheptulose_1_phosphate_c0)
+rxn00627:1 cpd00002_c + 1 cpd00082_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00802_c (1 ATP_c0 + 1 D_Fructose_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_fructose_1_phosphate_c0)
+rxn03047:1 cpd00002_c + 1 cpd02524_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02666_c (1 ATP_c0 + 1 N_Pantothenoylcysteine_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 R_4_Phosphopantothenoyl_L_cysteine_c0)
+rxn02128:1 cpd00002_c + 1 cpd00620_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00834_c (1 ATP_c0 + 1 Pantetheine_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphopantetheine_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00082_c (D_Fructose_c0)
+cpd00620_c (Pantetheine_c0)
+cpd00802_c (D_fructose_1_phosphate_c0)
+cpd00834_c (Phosphopantetheine_c0)
+cpd01407_c (Volemulose_c0)
+cpd02524_c (N_Pantothenoylcysteine_c0)
+cpd02666_c (R_4_Phosphopantothenoyl_L_cysteine_c0)
+cpd03722_c (Sedoheptulose_1_phosphate_c0)
+
+

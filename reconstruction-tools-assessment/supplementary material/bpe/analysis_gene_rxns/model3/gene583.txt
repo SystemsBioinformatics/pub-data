@@ -1,0 +1,6 @@
+notRecovered:
+ASPR:1 asp__D_c <=> 1 asp__L_c (1 D-Aspartate <=> 1 L-Aspartate)
+
+
+AdditionalInModel:
+GLUR:1 glu__D_c <=> 1 glu__L_c (1 D-Glutamate <=> 1 L-Glutamate)

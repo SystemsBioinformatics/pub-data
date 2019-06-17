@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn06197:1 cpd00002_c + 1 cpd11712_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd12508_c (1 ATP_c0 + 1 Protein_histidine_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Protein_N_pros_phosphohistidine_c0)
+rxn00985:1 cpd00002_c + 1 cpd00141_c <=> 1 cpd00008_c + 1 cpd01844_c (1 ATP_c0 + 1 Propionate_c0 <=> 1 ADP_c0 + 1 Propionyl_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00141_c (Propionate_c0)
+cpd01844_c (Propionyl_phosphate_c0)
+cpd11712_c (Protein_histidine_c0)
+cpd12508_c (Protein_N_pros_phosphohistidine_c0)
+
+

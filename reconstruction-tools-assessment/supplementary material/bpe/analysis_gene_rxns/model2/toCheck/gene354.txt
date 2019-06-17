@@ -1,0 +1,13 @@
+notRecovered:
+Kt2pp:1 h_p + 1 k_p -> 1 h_c + 1 k_c (1 H+ + 1 potassium -> 1 H+ + 1 potassium)
+
+
+AdditionalNotInModel:
+SALCHS4FEtonex:1 h_p + 1 salchs4fe_e -> 1 h_c + 1 salchs4fe_p (1 H+ + 1 Salmochelin-S4-Fe-III -> 1 H+ + 1 Salmochelin-S4-Fe-III)
+
+
+AdditionalMetabolites:
+salchs4fe_e (Salmochelin-S4-Fe-III)
+salchs4fe_p (Salmochelin-S4-Fe-III)
+
+

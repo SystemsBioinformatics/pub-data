@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+HISTALDEHYD-RXN:1 HISTIDINAL_c + 1 NAD_c + 1 WATER_c -> 1 HIS_c + 1 NADH_c + 2 PROTON_c (1 histidinal + 1 NAD+ + 1 H2O -> 1 L-histidine + 1 NADH + 2 H+)
+HISTOLDEHYD-RXN:1 HISTIDINOL_c + 1 NAD_c <=> 1 HISTIDINAL_c + 1 NADH_c + 1 PROTON_c (1 histidinol + 1 NAD+ <=> 1 histidinal + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+HISTIDINAL_c (histidinal)
+HISTIDINOL_c (histidinol)
+HIS_c (L-histidine)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,12 @@
+notRecovered:
+ACGApts:1 acgam_e + 1 pep_c -> 1 acgam6p_c + 1 pyr_c (1 M_N_Acetyl_D_glucosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_Acetyl_D_glucosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+ACGAptspp:1 pep_c + 1 acgam_p -> 1 pyr_c + 1 acgam6p_c (1 Phosphoenolpyruvate + 1 N-Acetyl-D-glucosamine -> 1 Pyruvate + 1 N-Acetyl-D-glucosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+acgam_p (N-Acetyl-D-glucosamine)
+
+

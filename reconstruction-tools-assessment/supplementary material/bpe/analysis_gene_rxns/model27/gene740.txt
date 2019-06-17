@@ -1,0 +1,15 @@
+notRecovered:
+DTDP4D6ACGAMAT_BP:1 dtdp4d6dacgam_c + 1 glu__L_c <=> 1 akg_c + 1 dtdp4a6dacgam_c (1 dTDP-2-N-acetyl-4,6-dideoxy-glucosamine + 1 L-Glutamate <=> 1 2-Oxoglutarate + 1 dTDP-2-N-acetyl-4-amino-6-deoxy-galactosamine (=dTDP-2-N-acetyl-4-amino-fucose))
+
+
+AdditionalNotInModel:
+R07659:1 C16155_c + 1 C00025_c <=> 1 C16153_c + 1 C00026_c (1 UDP-L-Ara4O + 1 L-Glutamate <=> 1 UDP-L-Ara4N + 1 2-Oxoglutarate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C16153_c (UDP-L-Ara4N)
+C16155_c (UDP-L-Ara4O)
+
+

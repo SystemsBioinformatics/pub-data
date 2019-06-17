@@ -1,0 +1,22 @@
+notRecovered:
+GALK2:1 a_gal__D_c + 1 atp_c -> 1 adp_c + 1 gal1p_c + 1 h_c (1 M_alpha_D_galactose_ + 1 M_ATP_ -> 1 M_ADP_ + 1 M_alpha_D_Galactose_1_phosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn01492:1 cpd00002_c + 1 cpd00802_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00290_c (1 ATP_c0 + 1 D_fructose_1_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_fructose_1_6_bisphosphate_c0)
+rxn02314:1 cpd00002_c + 1 cpd00805_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02371_c (1 ATP_c0 + 1 D_Tagatose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_Tagatose_1_6_biphosphate_c0)
+rxn00808:1 cpd00002_c + 1 cpd00108_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00348_c (1 ATP_c0 + 1 Galactose_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_Galactose_1_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00108_c (Galactose_c0)
+cpd00290_c (D_fructose_1_6_bisphosphate_c0)
+cpd00348_c (D_Galactose_1_phosphate_c0)
+cpd00802_c (D_fructose_1_phosphate_c0)
+cpd00805_c (D_Tagatose_6_phosphate_c0)
+cpd02371_c (D_Tagatose_1_6_biphosphate_c0)
+
+

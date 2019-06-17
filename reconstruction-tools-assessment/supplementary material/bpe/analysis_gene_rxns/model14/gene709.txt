@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00910:1 cpd00006_c + 1 cpd00345_c <=> 1 cpd00067_c + 1 cpd00005_c + 1 cpd00125_c (1 NADP_c0 + 1 5_Methyltetrahydrofolate_c0 <=> 1 H_plus__c0 + 1 NADPH_c0 + 1 5_10_Methylenetetrahydrofolate_c0)
+
+
+AdditionalMetabolites:
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00125_c (5_10_Methylenetetrahydrofolate_c0)
+cpd00345_c (5_Methyltetrahydrofolate_c0)
+
+

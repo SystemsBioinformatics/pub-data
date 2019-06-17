@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R02404:1 C00490_c + 1 C00002_c + 1 C00010_c <=> 1 C00531_c + 1 C00009_c + 1 C00008_c (1 Itaconate + 1 ATP + 1 CoA <=> 1 Itaconyl-CoA + 1 Orthophosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00010_c (CoA)
+C00490_c (Itaconate)
+C00531_c (Itaconyl-CoA)
+
+

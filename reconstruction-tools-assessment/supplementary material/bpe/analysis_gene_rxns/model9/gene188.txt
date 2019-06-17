@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-8675:1 CPD-9038_c + 1 S-ADENOSYLMETHIONINE_c -> 1 DIHYDROSIROHYDROCHLORIN_c + 1 ADENOSYL-HOMO-CYS_c (1 precorrin-1 + 1 S-adenosyl-L-methionine -> 1 precorrin-2 + 1 S-adenosyl-L-homocysteine)
+UROPORIIIMETHYLTRANSA-RXN:1 UROPORPHYRINOGEN-III_c + 1 S-ADENOSYLMETHIONINE_c -> 1 CPD-9038_c + 1 PROTON_c + 1 ADENOSYL-HOMO-CYS_c (1 uroporphyrinogen-III + 1 S-adenosyl-L-methionine -> 1 precorrin-1 + 1 H+ + 1 S-adenosyl-L-homocysteine)
+
+
+AdditionalMetabolites:
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+CPD-9038_c (precorrin-1)
+DIHYDROSIROHYDROCHLORIN_c (precorrin-2)
+PROTON_c (H+)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+UROPORPHYRINOGEN-III_c (uroporphyrinogen-III)
+
+

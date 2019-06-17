@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+PPM:1 r1p_c <=> 1 r5p_c (1 Alpha-D-Ribose 1-phosphate <=> 1 Alpha-D-Ribose 5-phosphate)
+ACGAMPM:1 acgam6p_c <=> 1 acgam1p_c (1 N-Acetyl-D-glucosamine 6-phosphate <=> 1 N-Acetyl-D-glucosamine 1-phosphate)
+
+
+AdditionalInModel:
+PMANM:1 man1p_c <=> 1 man6p_c (1 D-Mannose 1-phosphate <=> 1 D-Mannose 6-phosphate)
+PGMT:1 g1p_c <=> 1 g6p_c (1 D-Glucose 1-phosphate <=> 1 D-Glucose 6-phosphate)

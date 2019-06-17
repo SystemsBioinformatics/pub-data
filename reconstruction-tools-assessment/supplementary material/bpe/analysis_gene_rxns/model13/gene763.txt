@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+rxn05142:1 cpd00001_c + 1 cpd00003_c + 1 cpd03333_c <=> 2 cpd00067_c + 1 cpd00004_c + 1 cpd00373_c (1 H2O_c0 + 1 NAD_c0 + 1 Sinapaldehyde_c0 <=> 2 H_plus__c0 + 1 NADH_c0 + 1 Sinapate_c0)
+rxn05143:1 cpd00001_c + 1 cpd00006_c + 1 cpd03333_c <=> 2 cpd00067_c + 1 cpd00005_c + 1 cpd00373_c (1 H2O_c0 + 1 NADP_c0 + 1 Sinapaldehyde_c0 <=> 2 H_plus__c0 + 1 NADPH_c0 + 1 Sinapate_c0)
+rxn03970:1 cpd00001_c + 1 cpd00003_c + 1 cpd01733_c <=> 2 cpd00067_c + 1 cpd00004_c + 1 cpd01059_c (1 H2O_c0 + 1 NAD_c0 + 1 Ferulaldehyde_c0 <=> 2 H_plus__c0 + 1 NADH_c0 + 1 Ferulate_c0)
+rxn03971:1 cpd00001_c + 1 cpd00006_c + 1 cpd01733_c <=> 2 cpd00067_c + 1 cpd00005_c + 1 cpd01059_c (1 H2O_c0 + 1 NADP_c0 + 1 Ferulaldehyde_c0 <=> 2 H_plus__c0 + 1 NADPH_c0 + 1 Ferulate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00373_c (Sinapate_c0)
+cpd01059_c (Ferulate_c0)
+cpd01733_c (Ferulaldehyde_c0)
+cpd03333_c (Sinapaldehyde_c0)
+
+

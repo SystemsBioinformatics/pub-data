@@ -1,0 +1,26 @@
+notRecovered:
+ACALD:1 acald_c + 1 coa_c + 1 nad_c <=> 1 accoa_c + 1 h_c + 1 nadh_c (1 M_Acetaldehyde_ + 1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_Acetyl_CoA_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+HEXANOL-RXN:1 HEXANAL_c + 1 NADH_c + 1 PROTON_c -> 1 HEXANOL-CMPD_c + 1 NAD_c (1 1-hexanal + 1 NADH + 1 H+ -> 1 1-hexanol + 1 NAD+)
+RXN-161:1 BUTANOL_c + 1 NAD_c <=> 1 BUTANAL_c + 1 NADH_c + 1 PROTON_c (1 butan-1-ol + 1 NAD+ <=> 1 butan-1-al + 1 NADH + 1 H+)
+RXN-12568:1 HEXANOYL-COA_c + 1 NADH-P-OR-NOP_c + 1 PROTON_c -> 1 CO-A_c + 1 HEXANAL_c + 1 NAD-P-OR-NOP_c (1 hexanoyl-CoA + 1 NADH-P-OR-NOP + 1 H+ -> 1 coenzyme A + 1 1-hexanal + 1 NAD-P-OR-NOP)
+BUTANAL-DEHYDROGENASE-RXN:1 BUTANAL_c + 1 CO-A_c + 1 NAD-P-OR-NOP_c <=> 1 BUTYRYL-COA_c + 1 NADH-P-OR-NOP_c + 1 PROTON_c (1 butan-1-al + 1 coenzyme A + 1 NAD-P-OR-NOP <=> 1 butanoyl-CoA + 1 NADH-P-OR-NOP + 1 H+)
+
+
+AdditionalMetabolites:
+BUTANAL_c (butan-1-al)
+BUTANOL_c (butan-1-ol)
+BUTYRYL-COA_c (butanoyl-CoA)
+CO-A_c (coenzyme A)
+HEXANAL_c (1-hexanal)
+HEXANOL-CMPD_c (1-hexanol)
+HEXANOYL-COA_c (hexanoyl-CoA)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

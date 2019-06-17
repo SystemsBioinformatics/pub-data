@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+THZT:1 2c4mthzep_c -> 1 cthzp_c (1 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate -> 1 4-Methyl-5-[2-(phosphonooxy)ethyl]-1,3-thiazole-2-carboxylate)
+TMPPP_1:2 h_c + 1 2mahmp_c + 1 cthzp_c -> 1 thmmp_c + 1 co2_c + 1 ppi_c (2 H+ + 1 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + 1 4-Methyl-5-[2-(phosphonooxy)ethyl]-1,3-thiazole-2-carboxylate -> 1 Thiamin monophosphate + 1 CO2 CO2 + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+2c4mthzep_c (2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate)
+cthzp_c (4-Methyl-5-[2-(phosphonooxy)ethyl]-1,3-thiazole-2-carboxylate)
+
+

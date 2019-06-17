@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+ALCOHOL-DEHYDROG-GENERIC-RXN:1 NAD_c + 1 Primary-Alcohols_c <=> 1 Aldehydes_c + 1 NADH_c + 1 PROTON_c (1 NAD+ + 1 Primary-Alcohols <=> 1 Aldehydes + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+Aldehydes_c (Aldehydes)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+Primary-Alcohols_c (Primary-Alcohols)
+
+

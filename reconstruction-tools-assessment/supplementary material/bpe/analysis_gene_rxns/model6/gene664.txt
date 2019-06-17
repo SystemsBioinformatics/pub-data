@@ -1,0 +1,13 @@
+notRecovered:
+PHEMEabcpp2:1 atp_c + 1 h2o_c + 1 pheme_p -> 1 adp_c + 1 h_c + 1 pheme_c + 1 pi_c (1 ATP + 1 H2O + 1 Protoheme -> 1 ADP + 1 H+ + 1 Protoheme + 1 Phosphate)
+
+
+AdditionalNotInModel:
+CBL2abc:1 atp_c + 1 cbl2_e + 1 h2o_c -> 1 adp_c + 1 cbl2_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Cob II alamin C62H88CoN13O14P + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Cob II alamin C62H88CoN13O14P + 1 H+ + 1 Phosphate)
+
+
+AdditionalMetabolites:
+cbl2_c (Cob II alamin C62H88CoN13O14P)
+cbl2_e (Cob II alamin C62H88CoN13O14P)
+
+

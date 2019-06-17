@@ -1,0 +1,19 @@
+notRecovered:
+MALDDH:1 mal__D_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 pyr_c (1 D-Malate + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+TARTD:1 tartr__L_c -> 1 h2o_c + 1 oaa_c (1 L-tartrate -> 1 H2O + 1 Oxaloacetate)
+
+
+AdditionalNotInModel:
+TARTRATE-DEHYDROGENASE-RXN:1 TARTRATE_c + 1 NAD_c <=> 1 CPD-66_c + 1 NADH_c + 1 PROTON_c (1 L-tartrate + 1 NAD+ <=> 1 2-hydroxy-3-oxosuccinate + 1 NADH + 1 H+)
+RXN-8643:1 MESO-TARTRATE_c + 1 NAD_c <=> 1 CPD-66_c + 1 NADH_c + 1 PROTON_c (1 meso-tartrate + 1 NAD+ <=> 1 2-hydroxy-3-oxosuccinate + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-66_c (2-hydroxy-3-oxosuccinate)
+MESO-TARTRATE_c (meso-tartrate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+TARTRATE_c (L-tartrate)
+
+

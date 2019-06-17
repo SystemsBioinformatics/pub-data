@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R00825:1 C00005_c + 1 C00007_c + 1 C00080_c + 1 C00108_c <=> 1 C00006_c + 1 C00011_c + 1 C00014_c + 1 C00090_c (1 NADPH + 1 Oxygen + 1 H+ + 1 Anthranilate <=> 1 NADP+ + 1 CO2 + 1 Ammonia + 1 Catechol)
+
+
+AdditionalMetabolites:
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00007_c (Oxygen)
+C00011_c (CO2)
+C00014_c (Ammonia)
+C00080_c (H+)
+C00090_c (Catechol)
+C00108_c (Anthranilate)
+
+

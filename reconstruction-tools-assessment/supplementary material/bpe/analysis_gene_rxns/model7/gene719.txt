@@ -1,0 +1,4 @@
+notRecovered:
+ALCA:1 fadh2_c + 1 o2_c + 1 ptrc_c -> 1 fad_c + 1 h2o_c + 1 hptrc_c (1 Flavin adenine dinucleotide reduced + 1 O2 + 1 Putrescine -> 1 Flavin adenine dinucleotide oxidized + 1 H2O + 1 N4-hydroxyputrescine)
+
+

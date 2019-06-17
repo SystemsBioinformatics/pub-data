@@ -1,0 +1,18 @@
+notRecovered:
+L_LACD2:1 lac__L_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 L-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+RXN0-7227:1 CPD-3564_c + 1 ETR-Quinones_c -> 1 2-OXOBUTANOATE_c + 1 ETR-Quinols_c (1 (S)-2-hydroxybutanoate + 1 ETR-Quinones -> 1 2-oxobutanoate + 1 ETR-Quinols)
+L-LACTDEHYDROGFMN-RXN:1 ETR-Quinones_c + 1 L-LACTATE_c -> 1 ETR-Quinols_c + 1 PYRUVATE_c (1 ETR-Quinones + 1 (S)-lactate -> 1 ETR-Quinols + 1 pyruvate)
+
+
+AdditionalMetabolites:
+2-OXOBUTANOATE_c (2-oxobutanoate)
+CPD-3564_c ((S)-2-hydroxybutanoate)
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+L-LACTATE_c ((S)-lactate)
+PYRUVATE_c (pyruvate)
+
+

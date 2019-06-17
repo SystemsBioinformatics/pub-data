@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+DHNPTE:1 dhnpt_c <=> 1 dhmpt_c (1 Dihydroneopterin <=> 1 Dihydromonapterin)
+
+
+AdditionalMetabolites:
+dhmpt_c (Dihydromonapterin)
+
+

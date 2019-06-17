@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+FAO1:1 atp_c + 6 h2o_c + 6 nad_c + 7 coa_c + 1 ttdca_c + 6 fad_c -> 6 h_c + 6 nadh_c + 1 amp_c + 1 ppi_c + 7 accoa_c + 6 fadh2_c (1 ATP + 6 H2O + 6 Nicotinamide adenine dinucleotide + 7 Coenzyme A + 1 Tetradecanoate (n-C14:0) + 6 Flavin adenine dinucleotide oxidized -> 6 H+ + 6 Nicotinamide adenine dinucleotide - reduced + 1 AMP + 1 Diphosphate + 7 Acetyl-CoA + 6 Flavin adenine dinucleotide reduced)
+FAO2:1 atp_c + 7 h2o_c + 7 nad_c + 8 coa_c + 1 hdca_c + 7 fad_c -> 7 h_c + 7 nadh_c + 1 amp_c + 1 ppi_c + 8 accoa_c + 7 fadh2_c (1 ATP + 7 H2O + 7 Nicotinamide adenine dinucleotide + 8 Coenzyme A + 1 Hexadecanoate (n-C16:0) + 7 Flavin adenine dinucleotide oxidized -> 7 H+ + 7 Nicotinamide adenine dinucleotide - reduced + 1 AMP + 1 Diphosphate + 8 Acetyl-CoA + 7 Flavin adenine dinucleotide reduced)
+FAO3:1 atp_c + 8 h2o_c + 8 nad_c + 9 coa_c + 1 ocdca_c + 8 fad_c -> 8 h_c + 8 nadh_c + 1 amp_c + 1 ppi_c + 9 accoa_c + 8 fadh2_c (1 ATP + 8 H2O + 8 Nicotinamide adenine dinucleotide + 9 Coenzyme A + 1 Octadecanoate (n-C18:0) + 8 Flavin adenine dinucleotide oxidized -> 8 H+ + 8 Nicotinamide adenine dinucleotide - reduced + 1 AMP + 1 Diphosphate + 9 Acetyl-CoA + 8 Flavin adenine dinucleotide reduced)
+
+

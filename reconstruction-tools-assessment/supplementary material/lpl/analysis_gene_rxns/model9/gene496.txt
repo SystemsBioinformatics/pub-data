@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GALTptspp:1 galt_p + 1 pep_c -> 1 pyr_c + 1 galt1p_c (1 Galactitol + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 Galactitol 1-phosphate)
+
+
+AdditionalMetabolites:
+galt_p (Galactitol)
+
+

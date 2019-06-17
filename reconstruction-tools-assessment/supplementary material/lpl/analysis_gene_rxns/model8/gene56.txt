@@ -1,0 +1,2 @@
+AdditionalInModel:
+URIDK2r_copy2:1 atp_c + 1 dump_c <=> 1 dudp_c + 1 adp_c (1 ATP C10H12N5O13P3 + 1 DUMP C9H11N2O8P <=> 1 DUDP C9H11N2O11P2 + 1 ADP C10H12N5O10P2)

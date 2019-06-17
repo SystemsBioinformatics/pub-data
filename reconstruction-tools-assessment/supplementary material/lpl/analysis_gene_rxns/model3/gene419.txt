@@ -1,0 +1,4 @@
+notRecovered:
+ASNTRS_1:1 asn__L_c + 1 atp_c + 1 trnaasn_c -> 1 amp_c + 1 asntrna_c + 1 h_c + 1 ppi_c (1 M_L_Asparagine_ + 1 M_ATP_ + 1 M_tRNA_Asn__ -> 1 M_AMP_ + 1 M_L_Asparaginyl_tRNA_Asn__ + 1 M_H_ + 1 M_Diphosphate_)
+
+

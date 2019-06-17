@@ -1,0 +1,4 @@
+notRecovered:
+ACACCT:1 acac_c + 1 accoa_c -> 1 aacoa_c + 1 ac_c (1 Acetoacetate + 1 Acetyl-CoA -> 1 Acetoacetyl-CoA + 1 Acetate)
+
+

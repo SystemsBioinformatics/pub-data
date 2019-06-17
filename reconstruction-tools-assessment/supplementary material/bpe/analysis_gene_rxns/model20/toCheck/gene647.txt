@@ -1,0 +1,16 @@
+notRecovered:
+LDH_D2:1 lac__D_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 D-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00704:1 C00003_c + 1 C00256_c <=> 1 C00004_c + 1 C00022_c + 1 C00080_c (1 NAD+ + 1 (R)-Lactate <=> 1 NADH + 1 Pyruvate + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00022_c (Pyruvate)
+C00080_c (H+)
+C00256_c ((R)-Lactate)
+
+

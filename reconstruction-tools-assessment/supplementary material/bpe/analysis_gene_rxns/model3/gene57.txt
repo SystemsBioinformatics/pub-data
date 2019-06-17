@@ -1,0 +1,4 @@
+notRecovered:
+TRPS2:1 indole_c + 1 ser__L_c -> 1 h2o_c + 1 trp__L_c (1 Indole + 1 L-Serine -> 1 H2O + 1 L-Tryptophan)
+
+

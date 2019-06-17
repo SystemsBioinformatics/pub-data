@@ -1,0 +1,35 @@
+notRecovered:
+ACCOAPT:1 2maacoa_c + 1 coa_c + 2 h2o_c -> 1 accoa_c + 1 ppcoa_c (1 2-methylacetoacetyl-coenzyme A + 1 Coenzyme A + 2 H2O -> 1 Acetyl-CoA + 1 Propanoyl-CoA)
+
+
+AdditionalNotInModel:
+rxn03248:1 cpd00022_c + 1 cpd03124_c <=> 1 cpd00010_c + 1 cpd03121_c (1 Acetyl_CoA_c0 + 1 Hexanoyl_CoA_c0 <=> 1 CoA_c0 + 1 3_Oxooctanoyl_CoA_c0)
+rxn00178:2 cpd00022_c <=> 1 cpd00010_c + 1 cpd00279_c (2 Acetyl_CoA_c0 <=> 1 CoA_c0 + 1 Acetoacetyl_CoA_c0)
+rxn02680:1 cpd00022_c + 1 cpd01335_c <=> 1 cpd00010_c + 1 cpd03119_c (1 Acetyl_CoA_c0 + 1 Octanoyl_CoA_c0 <=> 1 CoA_c0 + 1 3_Oxodecanoyl_CoA_c0)
+rxn02804:1 cpd00022_c + 1 cpd01695_c <=> 1 cpd00010_c + 1 cpd03114_c (1 Acetyl_CoA_c0 + 1 Myristoyl_CoA_c0 <=> 1 CoA_c0 + 1 3_Oxopalmitoyl_CoA_c0)
+rxn03243:1 cpd00022_c + 1 cpd03128_c <=> 1 cpd00010_c + 1 cpd03117_c (1 Acetyl_CoA_c0 + 1 Decanoyl_CoA_c0 <=> 1 CoA_c0 + 1 3_Oxododecanoyl_CoA_c0)
+rxn00676:1 cpd00022_c + 1 cpd00086_c <=> 1 cpd00010_c + 1 cpd02124_c (1 Acetyl_CoA_c0 + 1 Propionyl_CoA_c0 <=> 1 CoA_c0 + 1 2_Methylacetoacetyl_CoA_c0)
+rxn00874:1 cpd00022_c + 1 cpd00120_c <=> 1 cpd00010_c + 1 cpd03123_c (1 Acetyl_CoA_c0 + 1 Butyryl_CoA_c0 <=> 1 CoA_c0 + 1 3_Oxohexanoyl_CoA_c0)
+rxn06510:1 cpd00022_c + 1 cpd01260_c <=> 1 cpd00010_c + 1 cpd12689_c (1 Acetyl_CoA_c0 + 1 Lauroyl_CoA_c0 <=> 1 CoA_c0 + 1 3_Oxotetradecanoyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00086_c (Propionyl_CoA_c0)
+cpd00120_c (Butyryl_CoA_c0)
+cpd00279_c (Acetoacetyl_CoA_c0)
+cpd01260_c (Lauroyl_CoA_c0)
+cpd01335_c (Octanoyl_CoA_c0)
+cpd01695_c (Myristoyl_CoA_c0)
+cpd02124_c (2_Methylacetoacetyl_CoA_c0)
+cpd03114_c (3_Oxopalmitoyl_CoA_c0)
+cpd03117_c (3_Oxododecanoyl_CoA_c0)
+cpd03119_c (3_Oxodecanoyl_CoA_c0)
+cpd03121_c (3_Oxooctanoyl_CoA_c0)
+cpd03123_c (3_Oxohexanoyl_CoA_c0)
+cpd03124_c (Hexanoyl_CoA_c0)
+cpd03128_c (Decanoyl_CoA_c0)
+cpd12689_c (3_Oxotetradecanoyl_CoA_c0)
+
+

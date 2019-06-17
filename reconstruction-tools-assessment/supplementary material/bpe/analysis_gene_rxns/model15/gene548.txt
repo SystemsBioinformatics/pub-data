@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R02570:1 C00091_c + 1 C15973_c <=> 1 C00010_c + 1 C16254_c (1 Succinyl-CoA + 1 Enzyme N6-(dihydrolipoyl)lysine <=> 1 CoA + 1 [Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine)
+R02571:1 C00527_c + 1 C15973_c <=> 1 C00010_c + 1 C06157_c (1 Glutaryl-CoA + 1 Enzyme N6-(dihydrolipoyl)lysine <=> 1 CoA + 1 [Dihydrolipoyllysine-residue succinyltransferase] S-glutaryldihydrolipoyllysine)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00091_c (Succinyl-CoA)
+C00527_c (Glutaryl-CoA)
+C06157_c ([Dihydrolipoyllysine-residue succinyltransferase] S-glutaryldihydrolipoyllysine)
+C15973_c (Enzyme N6-(dihydrolipoyl)lysine)
+C16254_c ([Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine)
+
+

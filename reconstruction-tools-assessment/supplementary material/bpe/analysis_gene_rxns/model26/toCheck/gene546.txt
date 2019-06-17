@@ -1,0 +1,15 @@
+notRecovered:
+DMQMT:1 2omhmbl_c + 1 amet_c -> 1 ahcys_c + 1 h_c + 1 q8h2_c (1 2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol + 1 S-Adenosyl-L-methionine -> 1 S-Adenosyl-L-homocysteine + 1 H+ + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R05614:1 C00019_c + 1 C05815_c <=> 1 C00021_c + 1 C17569_c (1 S-Adenosyl-L-methionine + 1 2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone <=> 1 S-Adenosyl-L-homocysteine + 1 Ubiquinone-8)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C05815_c (2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone)
+C17569_c (Ubiquinone-8)
+
+

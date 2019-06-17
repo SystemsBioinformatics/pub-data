@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn02925:1 cpd00287_c + 1 cpd00035_c <=> 1 cpd00020_c + 1 cpd02096_c (1 3_Oxo_2_methylpropanoate_c0 + 1 L_Alanine_c0 <=> 1 Pyruvate_c0 + 1 L_3_Amino_isobutyrate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00035_c (L_Alanine_c0)
+cpd00287_c (3_Oxo_2_methylpropanoate_c0)
+cpd02096_c (L_3_Amino_isobutyrate_c0)
+
+

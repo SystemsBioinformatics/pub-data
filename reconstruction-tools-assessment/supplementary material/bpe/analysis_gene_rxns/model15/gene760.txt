@@ -1,0 +1,4 @@
+notRecovered:
+METSOXR2:1 metsox_R__L_c + 1 trdrd_c -> 1 h2o_c + 1 met__L_c + 1 trdox_c (1 L-methionine-R-sulfoxide + 1 Reduced thioredoxin -> 1 H2O + 1 L-Methionine + 1 Oxidized thioredoxin)
+
+

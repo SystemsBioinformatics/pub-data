@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01014:1 cpd00067_c + 1 cpd00145_c <=> 1 cpd00011_c + 1 cpd00229_c (1 H_plus__c0 + 1 Hydroxypyruvate_c0 <=> 1 CO2_c0 + 1 Glycolaldehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd00145_c (Hydroxypyruvate_c0)
+cpd00229_c (Glycolaldehyde_c0)
+
+

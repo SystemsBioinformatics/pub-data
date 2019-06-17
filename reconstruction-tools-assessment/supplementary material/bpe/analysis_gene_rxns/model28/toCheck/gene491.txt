@@ -1,0 +1,20 @@
+notRecovered:
+CYSDESULF:1 cys__L_c + 1 o2_c -> 1 ala__L_c + 1 so2_c (1 L-Cysteine + 1 O2 -> 1 L-Alanine + 1 sulfur dioxide)
+THZPSN:1 atp_c + 1 cys__L_c + 1 dxyl5p_c + 1 tyr__L_c -> 1 4hba_c + 1 4mpetz_c + 1 ala__L_c + 1 amp_c + 1 co2_c + 1 h2o_c + 1 h_c + 1 ppi_c (1 ATP + 1 L-Cysteine + 1 1-deoxy-D-xylulose 5-phosphate + 1 L-Tyrosine -> 1 4-Hydroxy-benzyl alcohol + 1 4-Methyl-5-(2-phosphoethyl)-thiazole + 1 L-Alanine + 1 AMP + 1 CO2 + 1 H2O + 1 H+ + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+R07460:1 C00097_c + 1 C15811_c <=> 1 C15812_c + 1 C00041_c (1 L-Cysteine + 1 [Enzyme]-cysteine <=> 1 [Enzyme]-S-sulfanylcysteine + 1 L-Alanine)
+R11529:1 C15812_c + 1 C02743_c <=> 1 C21440_c + 1 C15811_c (1 [Enzyme]-S-sulfanylcysteine + 1 [Protein]-L-cysteine <=> 1 [Protein]-S-sulfanyl-L-cysteine + 1 [Enzyme]-cysteine)
+R11528:1 C00097_c + 1 C02743_c <=> 1 C21440_c + 1 C00041_c (1 L-Cysteine + 1 [Protein]-L-cysteine <=> 1 [Protein]-S-sulfanyl-L-cysteine + 1 L-Alanine)
+
+
+AdditionalMetabolites:
+C00041_c (L-Alanine)
+C00097_c (L-Cysteine)
+C02743_c ([Protein]-L-cysteine)
+C15811_c ([Enzyme]-cysteine)
+C15812_c ([Enzyme]-S-sulfanylcysteine)
+C21440_c ([Protein]-S-sulfanyl-L-cysteine)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+rxn01334:1 cpd00349_c <=> 1 cpd00095_c + 1 cpd00236_c (1 Sedoheptulose_1_7_bisphosphate_c0 <=> 1 Glycerone_phosphate_c0 + 1 D_Erythrose4_phosphate_c0)
+rxn01870:1 cpd00802_c <=> 1 cpd00095_c + 1 cpd00448_c (1 D_fructose_1_phosphate_c0 <=> 1 Glycerone_phosphate_c0 + 1 D_Glyceraldehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00095_c (Glycerone_phosphate_c0)
+cpd00236_c (D_Erythrose4_phosphate_c0)
+cpd00349_c (Sedoheptulose_1_7_bisphosphate_c0)
+cpd00448_c (D_Glyceraldehyde_c0)
+cpd00802_c (D_fructose_1_phosphate_c0)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+AGPAT141:1 1tdec7eg3p_c + 1 tdeACP_c -> 1 ACP_c + 1 pa141_c (1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1) -> 1 acyl carrier protein + 1 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate)
+
+

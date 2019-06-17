@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R01829:1 C00447_c <=> 1 C00111_c + 1 C00279_c (1 Sedoheptulose 1,7-bisphosphate <=> 1 Glycerone phosphate + 1 D-Erythrose 4-phosphate)
+R02568:1 C01094_c <=> 1 C00111_c + 1 C00577_c (1 D-Fructose 1-phosphate <=> 1 Glycerone phosphate + 1 D-Glyceraldehyde)
+R01068:1 C00354_c <=> 1 C00118_c + 1 C00111_c (1 D-Fructose 1,6-bisphosphate <=> 1 D-Glyceraldehyde 3-phosphate + 1 Glycerone phosphate)
+
+
+AdditionalMetabolites:
+C00111_c (Glycerone phosphate)
+C00118_c (D-Glyceraldehyde 3-phosphate)
+C00279_c (D-Erythrose 4-phosphate)
+C00354_c (D-Fructose 1,6-bisphosphate)
+C00447_c (Sedoheptulose 1,7-bisphosphate)
+C00577_c (D-Glyceraldehyde)
+C01094_c (D-Fructose 1-phosphate)
+
+

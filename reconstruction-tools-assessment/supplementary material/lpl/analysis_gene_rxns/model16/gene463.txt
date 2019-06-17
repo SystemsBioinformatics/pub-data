@@ -1,0 +1,42 @@
+notRecovered:
+GLTAL:0.01 LTA_LPL_c + 25 udpg_c -> 0.01 LTAglc_LPL_c + 25 h_c + 25 udp_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_UDPglucose_ -> 0.01 M_Lipoteichoic_acid__n25_with_glucose_residues__LPL_specific__ + 25 M_H_ + 25 M_UDP_)
+
+
+AdditionalNotInModel:
+rxn10298:24 cpd00026_c + 1 cpd15746_c <=> 24 cpd00014_c + 1 cpd15755_c (24 UDP_glucose_c0 + 1 Palmitoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Palmitoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10304:24 cpd00026_c + 1 cpd15752_c <=> 24 cpd00014_c + 1 cpd15761_c (24 UDP_glucose_c0 + 1 Isopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Isopentadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10302:24 cpd00026_c + 1 cpd15750_c <=> 24 cpd00014_c + 1 cpd15759_c (24 UDP_glucose_c0 + 1 Anteisoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Anteisoheptadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10299:24 cpd00026_c + 1 cpd15747_c <=> 24 cpd00014_c + 1 cpd15756_c (24 UDP_glucose_c0 + 1 Myristoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Myristoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10193:45 cpd00026_c + 1 cpd15661_c <=> 45 cpd00014_c + 1 cpd15662_c (45 UDP_glucose_c0 + 1 Prenol_45n_teichoic_acid_c0 <=> 45 UDP_c0 + 1 Prenol_45n_teichoic_acid_glucose_substituted_c0)
+rxn10305:24 cpd00026_c + 1 cpd15753_c <=> 24 cpd00014_c + 1 cpd15762_c (24 UDP_glucose_c0 + 1 Anteisopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Anteisopentadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10303:24 cpd00026_c + 1 cpd15751_c <=> 24 cpd00014_c + 1 cpd15760_c (24 UDP_glucose_c0 + 1 Isotetradecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Isotetradecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10306:24 cpd00026_c + 1 cpd15754_c <=> 24 cpd00014_c + 1 cpd15763_c (24 UDP_glucose_c0 + 1 Isohexadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Isohexadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10301:24 cpd00026_c + 1 cpd15749_c <=> 24 cpd00014_c + 1 cpd15758_c (24 UDP_glucose_c0 + 1 Isoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Isoheptadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+rxn10300:24 cpd00026_c + 1 cpd15748_c <=> 24 cpd00014_c + 1 cpd15757_c (24 UDP_glucose_c0 + 1 Stearoyllipoteichoic_acid_n24__linked__unsubstituted_c0 <=> 24 UDP_c0 + 1 Stearoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+
+
+AdditionalMetabolites:
+cpd00014_c (UDP_c0)
+cpd00026_c (UDP_glucose_c0)
+cpd15661_c (Prenol_45n_teichoic_acid_c0)
+cpd15662_c (Prenol_45n_teichoic_acid_glucose_substituted_c0)
+cpd15746_c (Palmitoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15747_c (Myristoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15748_c (Stearoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15749_c (Isoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15750_c (Anteisoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15751_c (Isotetradecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15752_c (Isopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15753_c (Anteisopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15754_c (Isohexadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15755_c (Palmitoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15756_c (Myristoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15757_c (Stearoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15758_c (Isoheptadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15759_c (Anteisoheptadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15760_c (Isotetradecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15761_c (Isopentadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15762_c (Anteisopentadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+cpd15763_c (Isohexadecanoyllipoteichoic_acid_n24__linked__glucose_substituted_c0)
+
+

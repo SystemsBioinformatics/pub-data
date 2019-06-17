@@ -1,0 +1,15 @@
+notRecovered:
+AICART:1 10fthf_c + 1 aicar_c <=> 1 fprica_c + 1 thf_c (1 M_10_Formyltetrahydrofolate_ + 1 M_5_Amino_1__5_Phospho_D_ribosyl_imidazole_4_carboxamide_ <=> 1 M_5_Formamido_1__5_phospho_D_ribosyl_imidazole_4_carboxamide_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+
+AdditionalNotInModel:
+AICARTRANSFORM-RXN:1 AICAR_c + 1 FORMYL-THF-GLU-N_c <=> 1 PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE_c + 1 THF-GLU-N_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + 1 FORMYL-THF-GLU-N <=> 1 5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide + 1 THF-GLU-N)
+
+
+AdditionalMetabolites:
+AICAR_c (5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide)
+FORMYL-THF-GLU-N_c (FORMYL-THF-GLU-N)
+PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE_c (5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide)
+THF-GLU-N_c (THF-GLU-N)
+
+

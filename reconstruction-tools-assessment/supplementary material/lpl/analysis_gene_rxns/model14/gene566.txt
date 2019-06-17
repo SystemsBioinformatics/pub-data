@@ -1,0 +1,5 @@
+notRecovered:
+MTAN:1 5mta_c + 1 h2o_c -> 1 5mtr_c + 1 ade_c (1 M_5_Methylthioadenosine_ + 1 M_H2O_ -> 1 M_5_Methylthio_D_ribose_ + 1 M_Adenine_)
+AHCYSNS:1 ahcys_c + 1 h2o_c -> 1 ade_c + 1 rhcys_c (1 M_S_Adenosyl_L_homocysteine_ + 1 M_H2O_ -> 1 M_Adenine_ + 1 M_S_Ribosyl_L_homocysteine_)
+
+

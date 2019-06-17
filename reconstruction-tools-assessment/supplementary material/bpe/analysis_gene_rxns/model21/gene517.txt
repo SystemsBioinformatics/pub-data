@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-15129:1 CYS_c -> 1 2-AMINOACRYLATE_c + 1 HS_c + 1 PROTON_c (1 L-cysteine -> 1 2-aminoprop-2-enoate + 1 hydrogen sulfide + 1 H+)
+
+
+AdditionalMetabolites:
+2-AMINOACRYLATE_c (2-aminoprop-2-enoate)
+CYS_c (L-cysteine)
+HS_c (hydrogen sulfide)
+PROTON_c (H+)
+
+

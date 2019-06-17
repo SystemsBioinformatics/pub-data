@@ -1,0 +1,8 @@
+notRecovered:
+RNDR4b:1 grxrd_c + 1 udp_c -> 1 dudp_c + 1 grxox_c + 1 h2o_c (1 glutaredoxin (reduced) + 1 UDP -> 1 dUDP + 1 glutaredoxin (oxidized) + 1 H2O)
+RNDR1b:1 adp_c + 1 grxrd_c -> 1 dadp_c + 1 grxox_c + 1 h2o_c (1 ADP + 1 glutaredoxin (reduced) -> 1 dADP + 1 glutaredoxin (oxidized) + 1 H2O)
+RNDR3b:1 cdp_c + 1 grxrd_c -> 1 dcdp_c + 1 grxox_c + 1 h2o_c (1 CDP + 1 glutaredoxin (reduced) -> 1 dCDP + 1 glutaredoxin (oxidized) + 1 H2O)
+PAPSR2:1 grxrd_c + 1 paps_c -> 1 grxox_c + 2 h_c + 1 pap_c + 1 so3_c (1 glutaredoxin (reduced) + 1 3'-Phosphoadenylyl sulfate -> 1 glutaredoxin (oxidized) + 2 H+ + 1 Adenosine 3',5'-bisphosphate + 1 Sulfite)
+RNDR2b:1 gdp_c + 1 grxrd_c -> 1 dgdp_c + 1 grxox_c + 1 h2o_c (1 GDP + 1 glutaredoxin (reduced) -> 1 dGDP + 1 glutaredoxin (oxidized) + 1 H2O)
+
+

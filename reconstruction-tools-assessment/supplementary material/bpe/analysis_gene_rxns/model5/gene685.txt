@@ -1,0 +1,5 @@
+notRecovered:
+NACODA:1 acg5sa_c + 1 h2o_c -> 1 ac_c + 1 glu5sa_c (1 N-Acetyl-L-glutamate 5-semialdehyde + 1 H2O -> 1 Acetate + 1 L-Glutamate 5-semialdehyde)
+ACODA:1 acorn_c + 1 h2o_c -> 1 ac_c + 1 orn_c (1 N2-Acetyl-L-ornithine + 1 H2O -> 1 Acetate + 1 Ornithine)
+
+

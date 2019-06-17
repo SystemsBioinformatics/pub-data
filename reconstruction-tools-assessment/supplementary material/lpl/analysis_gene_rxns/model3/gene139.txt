@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+3HPAOX:1 o2_c + 1 h_c + 1 nadh_c + 1 3hoxpac_c -> 1 h2o_c + 1 nad_c + 1 34dhpha_c (1 O2 + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 3 Hydroxyphenylacetic acid C8H8O3 -> 1 H2O + 1 Nicotinamide adenine dinucleotide + 1 3-4-Dihydroxyphenylacetate)
+4HOXPACMOF:1 o2_c + 1 4hphac_c + 1 fadh2_c -> 1 h2o_c + 1 34dhpha_c + 1 fad_c (1 O2 + 1 4-Hydroxyphenylacetate + 1 Flavin adenine dinucleotide reduced -> 1 H2O + 1 3-4-Dihydroxyphenylacetate + 1 Flavin adenine dinucleotide oxidized)
+
+
+AdditionalMetabolites:
+3hoxpac_c (3 Hydroxyphenylacetic acid C8H8O3)
+fadh2_c (Flavin adenine dinucleotide reduced)
+
+

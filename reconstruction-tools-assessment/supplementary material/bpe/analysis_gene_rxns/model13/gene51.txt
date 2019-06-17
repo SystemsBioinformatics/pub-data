@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00700:1 cpd00038_c + 1 cpd00089_c <=> 1 cpd00012_c + 1 cpd00315_c (1 GTP_c0 + 1 Glucose_1_phosphate_c0 <=> 1 PPi_c0 + 1 GDP_glucose_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00038_c (GTP_c0)
+cpd00089_c (Glucose_1_phosphate_c0)
+cpd00315_c (GDP_glucose_c0)
+
+

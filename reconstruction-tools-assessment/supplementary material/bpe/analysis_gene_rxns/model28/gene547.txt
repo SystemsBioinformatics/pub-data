@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+R01933:1 C00010_c + 1 C00003_c + 1 C00322_c <=> 1 C00527_c + 1 C00011_c + 1 C00004_c + 1 C00080_c (1 CoA + 1 NAD+ + 1 2-Oxoadipate <=> 1 Glutaryl-CoA + 1 CO2 + 1 NADH + 1 H+)
+R03316:1 C05381_c + 1 C15972_c <=> 1 C00068_c + 1 C16254_c (1 3-Carboxy-1-hydroxypropyl-ThPP + 1 Enzyme N6-(lipoyl)lysine <=> 1 Thiamin diphosphate + 1 [Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine)
+R00621:1 C00068_c + 1 C00026_c <=> 1 C05381_c + 1 C00011_c (1 Thiamin diphosphate + 1 2-Oxoglutarate <=> 1 3-Carboxy-1-hydroxypropyl-ThPP + 1 CO2)
+R01940:1 C15972_c + 1 C00322_c <=> 1 C00011_c + 1 C06157_c (1 Enzyme N6-(lipoyl)lysine + 1 2-Oxoadipate <=> 1 CO2 + 1 [Dihydrolipoyllysine-residue succinyltransferase] S-glutaryldihydrolipoyllysine)
+R01700:1 C15972_c + 1 C00026_c <=> 1 C00011_c + 1 C16254_c (1 Enzyme N6-(lipoyl)lysine + 1 2-Oxoglutarate <=> 1 CO2 + 1 [Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00010_c (CoA)
+C00011_c (CO2)
+C00026_c (2-Oxoglutarate)
+C00068_c (Thiamin diphosphate)
+C00080_c (H+)
+C00322_c (2-Oxoadipate)
+C00527_c (Glutaryl-CoA)
+C05381_c (3-Carboxy-1-hydroxypropyl-ThPP)
+C06157_c ([Dihydrolipoyllysine-residue succinyltransferase] S-glutaryldihydrolipoyllysine)
+C15972_c (Enzyme N6-(lipoyl)lysine)
+C16254_c ([Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+GLCTR_BP:1 ghhlipa_BP_c + 1 udpg_c -> 1 gghhlipa_BP_c + 1 h_c + 1 udp_c (1 glucurono-heptosyl-heptosyl-KDO-lipidA (B. pertussis specific) + 1 UDPglucose -> 1 glucurono-heptosyl-(gluco-)heptosyl-KDO-lipidA (B. pertussis specific) + 1 H+ + 1 UDP)
+
+
+AdditionalNotInModel:
+GLCTR4:1 udpg_c + 1 hhlipa_c -> 1 h_c + 1 udp_c + 1 ghhlipa_c (1 UDPglucose + 1 Heptosyl-heptosyl-kdo2-lipidA -> 1 H+ + 1 UDP + 1 Glucosyl-heptosyl-heptosyl-kdo2-lipidA)
+
+
+AdditionalMetabolites:
+ghhlipa_c (Glucosyl-heptosyl-heptosyl-kdo2-lipidA)
+hhlipa_c (Heptosyl-heptosyl-kdo2-lipidA)
+
+

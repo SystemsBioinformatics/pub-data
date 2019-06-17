@@ -1,0 +1,5 @@
+notRecovered:
+URIDK2r:1 atp_c + 1 dump_c <=> 1 adp_c + 1 dudp_c (1 ATP + 1 dUMP <=> 1 ADP + 1 dUDP)
+UMPK:1 atp_c + 1 ump_c <=> 1 adp_c + 1 udp_c (1 ATP + 1 UMP <=> 1 ADP + 1 UDP)
+
+

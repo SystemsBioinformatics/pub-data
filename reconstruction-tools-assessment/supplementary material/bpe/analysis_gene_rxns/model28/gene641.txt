@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01827:1 C05382_c + 1 C00118_c <=> 1 C00279_c + 1 C05345_c (1 Sedoheptulose 7-phosphate + 1 D-Glyceraldehyde 3-phosphate <=> 1 D-Erythrose 4-phosphate + 1 beta-D-Fructose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00118_c (D-Glyceraldehyde 3-phosphate)
+C00279_c (D-Erythrose 4-phosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+C05382_c (Sedoheptulose 7-phosphate)
+
+

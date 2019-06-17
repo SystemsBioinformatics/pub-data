@@ -1,0 +1,4 @@
+notRecovered:
+GLUDy:1 glu__L_c + 1 h2o_c + 1 nadp_c <=> 1 akg_c + 1 h_c + 1 nadph_c + 1 nh4_c (1 M_L_Glutamate_ + 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ <=> 1 M_2_Oxoglutarate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Ammonium_)
+
+

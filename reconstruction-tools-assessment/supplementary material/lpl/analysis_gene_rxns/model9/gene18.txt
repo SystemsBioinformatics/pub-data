@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+OBTFL:1 2obut_c + 1 coa_c -> 1 for_c + 1 ppcoa_c (1 2-Oxobutanoate + 1 Coenzyme A -> 1 Formate + 1 Propanoyl-CoA)
+
+
+AdditionalMetabolites:
+ppcoa_c (Propanoyl-CoA)
+
+

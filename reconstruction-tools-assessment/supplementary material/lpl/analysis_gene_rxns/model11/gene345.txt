@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+PSERTRANSAMPYR-RXN:1 3OH-4P-OH-ALPHA-KETOBUTYRATE_c + 1 GLT_c -> 1 4-PHOSPHONOOXY-THREONINE_c + 1 2-KETOGLUTARATE_c (1 (3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate + 1 L-glutamate -> 1 4-phosphooxy-L-threonine + 1 2-oxoglutarate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+3OH-4P-OH-ALPHA-KETOBUTYRATE_c ((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)
+4-PHOSPHONOOXY-THREONINE_c (4-phosphooxy-L-threonine)
+GLT_c (L-glutamate)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 M_5_Methyltetrahydrofolate_ + 1 M_L_Homocysteine_ -> 1 M_H_ + 1 M_L_Methionine_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+
+AdditionalNotInModel:
+R00650:1 C00019_c + 1 C00155_c <=> 1 C00021_c + 1 C00073_c (1 S-Adenosyl-L-methionine + 1 L-Homocysteine <=> 1 S-Adenosyl-L-homocysteine + 1 L-Methionine)
+R11063:1 C03172_c + 1 C00155_c <=> 2 C00073_c (1 S-Methyl-L-methionine + 1 L-Homocysteine <=> 2 L-Methionine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C00073_c (L-Methionine)
+C00155_c (L-Homocysteine)
+C03172_c (S-Methyl-L-methionine)
+
+

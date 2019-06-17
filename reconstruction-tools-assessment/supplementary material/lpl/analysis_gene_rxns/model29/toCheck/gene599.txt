@@ -1,0 +1,18 @@
+notRecovered:
+FMETDF:1 fmet_c + 1 h2o_c -> 1 for_c + 1 met__L_c (1 M_N_Formyl_L_methionine_ + 1 M_H2O_ -> 1 M_Formate_ + 1 M_L_Methionine_)
+
+
+AdditionalNotInModel:
+R05635:1 C11439_c + 1 C00001_c <=> 1 C11440_c + 1 C00058_c (1 Formyl-L-methionyl peptide + 1 H2O <=> 1 Methionyl peptide + 1 Formate)
+R04268:1 C00001_c + 1 C04258_c <=> 1 C00058_c + 1 C03617_c (1 H2O + 1 N-Formyl-L-methionylaminoacyl-tRNA <=> 1 Formate + 1 L-Methionylaminoacyl-tRNA)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00058_c (Formate)
+C03617_c (L-Methionylaminoacyl-tRNA)
+C04258_c (N-Formyl-L-methionylaminoacyl-tRNA)
+C11439_c (Formyl-L-methionyl peptide)
+C11440_c (Methionyl peptide)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+FPGS_tm:4 atp_c + 4 glu__L_c + 1 thf_c <=> 1 thfglu_c + 4 adp_c + 4 pi_c + 4 h_c (4 ATP C10H12N5O13P3 + 4 L-Glutamate + 1 5,6,7,8-Tetrahydrofolate <=> 1 Tetrahydrofolyl Glu 2  C24H27N8O9 + 4 ADP C10H12N5O10P2 + 4 Phosphate + 4 H+)
+PTHPS:1 ahdt_c -> 1 pppi_c + 1 6pthp_c (1 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate -> 1 Inorganic triphosphate + 1 6-Pyruvoyl-5,6,7,8-tetrahydropterin)
+
+
+AdditionalMetabolites:
+6pthp_c (6-Pyruvoyl-5,6,7,8-tetrahydropterin)
+
+

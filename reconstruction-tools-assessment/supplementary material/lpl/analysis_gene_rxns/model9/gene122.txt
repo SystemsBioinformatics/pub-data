@@ -1,0 +1,6 @@
+notRecovered:
+PDE2:1 35cdamp_c + 1 h2o_c -> 1 damp_c + 1 h_c (1 M_3__5__Cyclic_dAMP_ + 1 M_H2O_ -> 1 M_dAMP_ + 1 M_H_)
+PDE3:1 35cimp_c + 1 h2o_c -> 1 h_c + 1 imp_c (1 M_3__5__Cyclic_IMP_ + 1 M_H2O_ -> 1 M_H_ + 1 M_IMP_)
+PDE5:1 35ccmp_c + 1 h2o_c -> 1 cmp_c + 1 h_c (1 M_3__5__Cyclic_CMP_ + 1 M_H2O_ -> 1 M_CMP_ + 1 M_H_)
+
+

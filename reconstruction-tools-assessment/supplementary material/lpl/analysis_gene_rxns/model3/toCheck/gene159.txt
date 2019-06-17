@@ -1,0 +1,42 @@
+notRecovered:
+3HAD180:1 3hoctaACP_c -> 1 toctd2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_ -> 1 M_trans_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD120:1 3hddecACP_c -> 1 tddec2eACP_c + 1 h2o_c (1 M__R__3_Hydroxydodecanoyl_acyl_carrier_protein_ -> 1 M_trans_Dodec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD60:1 3hhexACP_c -> 1 thex2eACP_c + 1 h2o_c (1 M__R__3_Hydroxyhexanoyl_acp_ -> 1 M_trans_Hex_2_enoyl_acp_ + 1 M_H2O_)
+3HAD140:1 3hmrsACP_c -> 1 tmrs2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxytetradecanoyl_acyl_carrier_protein_ -> 1 M_trans_Tetradec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD80:1 3hoctACP_c -> 1 toct2eACP_c + 1 h2o_c (1 M__R__3_Hydroxyoctanoyl_acyl_carrier_protein_ -> 1 M_trans_Oct_2_enoyl_acp_ + 1 M_H2O_)
+3HAD100:1 3hdecACP_c -> 1 tdec2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxydecanoyl_acyl_carrier_protein_ -> 1 M_trans_Dec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD40:1 3haACP_c -> 1 but2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxybutanoyl_acyl_carrier_protein_ -> 1 M_But_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD160:1 3hpalmACP_c -> 1 tpalm2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxypalmitoyl_acyl_carrier_protein_ -> 1 M_trans_Hexadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+
+
+AdditionalNotInModel:
+KAS1:14 h_c + 10 nadph_c + 5 malcoa_c + 1 ibcoa_c -> 4 h2o_c + 6 coa_c + 10 nadp_c + 5 co2_c + 1 fa1_c (14 H+ + 10 Nicotinamide adenine dinucleotide phosphate - reduced + 5 Malonyl-CoA + 1 Isobutyryl-CoA -> 4 H2O + 6 Coenzyme A + 10 Nicotinamide adenine dinucleotide phosphate + 5 CO2 + 1 Fatty acid (Iso-C14:0))
+KAS11:17 h_c + 12 nadph_c + 6 malcoa_c + 1 ivcoa_c -> 5 h2o_c + 7 coa_c + 12 nadp_c + 6 co2_c + 1 fa11_c (17 H+ + 12 Nicotinamide adenine dinucleotide phosphate - reduced + 6 Malonyl-CoA + 1 Isovaleryl-CoA -> 5 H2O + 7 Coenzyme A + 12 Nicotinamide adenine dinucleotide phosphate + 6 CO2 + 1 Fatty acid (Iso-C17:0))
+KAS12:17 h_c + 12 nadph_c + 6 malcoa_c + 1 2mbcoa_c -> 5 h2o_c + 7 coa_c + 12 nadp_c + 6 co2_c + 1 fa12_c (17 H+ + 12 Nicotinamide adenine dinucleotide phosphate - reduced + 6 Malonyl-CoA + 1 2-Methylbutanoyl-CoA -> 5 H2O + 7 Coenzyme A + 12 Nicotinamide adenine dinucleotide phosphate + 6 CO2 + 1 Fatty acid (Anteiso-C17:0))
+KAS13:23 h_c + 16 nadph_c + 8 malcoa_c + 1 accoa_c -> 7 h2o_c + 9 coa_c + 16 nadp_c + 1 ocdca_c + 8 co2_c (23 H+ + 16 Nicotinamide adenine dinucleotide phosphate - reduced + 8 Malonyl-CoA + 1 Acetyl-CoA -> 7 H2O + 9 Coenzyme A + 16 Nicotinamide adenine dinucleotide phosphate + 1 Octadecanoate (n-C18:0) + 8 CO2)
+KAS17:22 h_c + 15 nadph_c + 8 malcoa_c + 1 accoa_c -> 7 h2o_c + 9 coa_c + 15 nadp_c + 1 ocdcea_c + 8 co2_c (22 H+ + 15 Nicotinamide adenine dinucleotide phosphate - reduced + 8 Malonyl-CoA + 1 Acetyl-CoA -> 7 H2O + 9 Coenzyme A + 15 Nicotinamide adenine dinucleotide phosphate + 1 Octadecenoate (n-C18:1) + 8 CO2)
+KAS2:17 h_c + 12 nadph_c + 6 malcoa_c + 1 accoa_c -> 5 h2o_c + 7 coa_c + 12 nadp_c + 1 ttdca_c + 6 co2_c (17 H+ + 12 Nicotinamide adenine dinucleotide phosphate - reduced + 6 Malonyl-CoA + 1 Acetyl-CoA -> 5 H2O + 7 Coenzyme A + 12 Nicotinamide adenine dinucleotide phosphate + 1 Tetradecanoate (n-C14:0) + 6 CO2)
+KAS3:14 h_c + 10 nadph_c + 5 malcoa_c + 1 ivcoa_c -> 4 h2o_c + 6 coa_c + 10 nadp_c + 5 co2_c + 1 fa3_c (14 H+ + 10 Nicotinamide adenine dinucleotide phosphate - reduced + 5 Malonyl-CoA + 1 Isovaleryl-CoA -> 4 H2O + 6 Coenzyme A + 10 Nicotinamide adenine dinucleotide phosphate + 5 CO2 + 1 Fatty acid (Iso-C15:0))
+KAS4:14 h_c + 10 nadph_c + 5 malcoa_c + 1 2mbcoa_c -> 4 h2o_c + 6 coa_c + 10 nadp_c + 5 co2_c + 1 fa4_c (14 H+ + 10 Nicotinamide adenine dinucleotide phosphate - reduced + 5 Malonyl-CoA + 1 2-Methylbutanoyl-CoA -> 4 H2O + 6 Coenzyme A + 10 Nicotinamide adenine dinucleotide phosphate + 5 CO2 + 1 Fatty acid (Anteiso-C15:0))
+KAS6:17 h_c + 12 nadph_c + 6 malcoa_c + 1 ibcoa_c -> 5 h2o_c + 7 coa_c + 12 nadp_c + 6 co2_c + 1 fa6_c (17 H+ + 12 Nicotinamide adenine dinucleotide phosphate - reduced + 6 Malonyl-CoA + 1 Isobutyryl-CoA -> 5 H2O + 7 Coenzyme A + 12 Nicotinamide adenine dinucleotide phosphate + 6 CO2 + 1 Fatty acid (iso-C16:0))
+KAS7:19 h_c + 13 nadph_c + 7 malcoa_c + 1 accoa_c -> 6 h2o_c + 8 coa_c + 13 nadp_c + 1 hdcea_c + 7 co2_c (19 H+ + 13 Nicotinamide adenine dinucleotide phosphate - reduced + 7 Malonyl-CoA + 1 Acetyl-CoA -> 6 H2O + 8 Coenzyme A + 13 Nicotinamide adenine dinucleotide phosphate + 1 Hexadecenoate (n-C16:1) + 7 CO2)
+KAS8:20 h_c + 14 nadph_c + 7 malcoa_c + 1 accoa_c -> 6 h2o_c + 8 coa_c + 14 nadp_c + 1 hdca_c + 7 co2_c (20 H+ + 14 Nicotinamide adenine dinucleotide phosphate - reduced + 7 Malonyl-CoA + 1 Acetyl-CoA -> 6 H2O + 8 Coenzyme A + 14 Nicotinamide adenine dinucleotide phosphate + 1 Hexadecanoate (n-C16:0) + 7 CO2)
+
+
+AdditionalMetabolites:
+2mbcoa_c (2-Methylbutanoyl-CoA)
+fa11_c (Fatty acid (Iso-C17:0))
+fa12_c (Fatty acid (Anteiso-C17:0))
+fa1_c (Fatty acid (Iso-C14:0))
+fa3_c (Fatty acid (Iso-C15:0))
+fa4_c (Fatty acid (Anteiso-C15:0))
+fa6_c (Fatty acid (iso-C16:0))
+hdca_c (Hexadecanoate (n-C16:0))
+hdcea_c (Hexadecenoate (n-C16:1))
+ibcoa_c (Isobutyryl-CoA)
+ivcoa_c (Isovaleryl-CoA)
+ocdca_c (Octadecanoate (n-C18:0))
+ocdcea_c (Octadecenoate (n-C18:1))
+ttdca_c (Tetradecanoate (n-C14:0))
+
+

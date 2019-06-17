@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+2.1.1.64-RXN:1 CPD-7158_c + 1 S-ADENOSYLMETHIONINE_c -> 1 CPD-9957_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 3-demethylubiquinol-9 + 1 S-adenosyl-L-methionine -> 1 ubiquinol-9 + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN-9237:1 CPD-9873_c + 1 S-ADENOSYLMETHIONINE_c -> 1 CPD-9958_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 3-demethylubiquinol-10 + 1 S-adenosyl-L-methionine -> 1 ubiquinol-10 + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN-9229:1 CPD-9861_c + 1 S-ADENOSYLMETHIONINE_c -> 1 CPD-9955_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 3-demethylubiquinol-7 + 1 S-adenosyl-L-methionine -> 1 ubiquinol-7 + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN-11758:1 Demethylated-Ubiquinols_c + 1 S-ADENOSYLMETHIONINE_c -> 1 Ubiquinols_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 a 3-demethyubiquinol + 1 S-adenosyl-L-methionine -> 1 an ubiquinol + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN3O-102:1 2-HEXAPRENYL-3-METHYL-5-HYDROXY-6-METHOX_c + 1 S-ADENOSYLMETHIONINE_c -> 1 UBIQUINOL-30_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 3-demethylubiquinol-6 + 1 S-adenosyl-L-methionine -> 1 ubiquinol-6 + 1 S-adenosyl-L-homocysteine + 1 H+)
+
+
+AdditionalMetabolites:
+2-HEXAPRENYL-3-METHYL-5-HYDROXY-6-METHOX_c (3-demethylubiquinol-6)
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+CPD-7158_c (3-demethylubiquinol-9)
+CPD-9861_c (3-demethylubiquinol-7)
+CPD-9873_c (3-demethylubiquinol-10)
+CPD-9955_c (ubiquinol-7)
+CPD-9957_c (ubiquinol-9)
+CPD-9958_c (ubiquinol-10)
+Demethylated-Ubiquinols_c (a 3-demethyubiquinol)
+PROTON_c (H+)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+UBIQUINOL-30_c (ubiquinol-6)
+Ubiquinols_c (an ubiquinol)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+OMBZLM:1 2ombzl_c + 1 amet_c -> 1 2ommbl_c + 1 ahcys_c + 1 h_c (1 2-Octaprenyl-6-methoxy-1,4-benzoquinol + 1 S-Adenosyl-L-methionine -> 1 2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol + 1 S-Adenosyl-L-homocysteine + 1 H+)
+
+
+AdditionalNotInModel:
+ADOMET-DMK-METHYLTRANSFER-RXN:1 CPD-12115_c + 1 S-ADENOSYLMETHIONINE_c -> 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c + 1 REDUCED-MENAQUINONE_c (1 demethylmenaquinol-8 + 1 S-adenosyl-L-methionine -> 1 S-adenosyl-L-homocysteine + 1 H+ + 1 menaquinol-8)
+2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN:1 OCTAPRENYL-METHOXY-BENZOQUINONE_c + 1 S-ADENOSYLMETHIONINE_c -> 1 ADENOSYL-HOMO-CYS_c + 1 OCTAPRENYL-METHYL-METHOXY-BENZQ_c + 1 PROTON_c (1 2-methoxy-6-all trans-octaprenyl-1,4-benzoquinol + 1 S-adenosyl-L-methionine -> 1 S-adenosyl-L-homocysteine + 1 6-methoxy-3-methyl-2-all-trans-octaprenyl-1,4-benzoquinol + 1 H+)
+
+
+AdditionalMetabolites:
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+CPD-12115_c (demethylmenaquinol-8)
+OCTAPRENYL-METHOXY-BENZOQUINONE_c (2-methoxy-6-all trans-octaprenyl-1,4-benzoquinol)
+OCTAPRENYL-METHYL-METHOXY-BENZQ_c (6-methoxy-3-methyl-2-all-trans-octaprenyl-1,4-benzoquinol)
+PROTON_c (H+)
+REDUCED-MENAQUINONE_c (menaquinol-8)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+
+

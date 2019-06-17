@@ -1,0 +1,4 @@
+notRecovered:
+BDH:1 bhb_c + 1 nad_c <=> 1 acac_c + 1 h_c + 1 nadh_c (1 (R)-3-hydroxybutanoate + 1 Nicotinamide adenine dinucleotide <=> 1 Acetoacetate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+

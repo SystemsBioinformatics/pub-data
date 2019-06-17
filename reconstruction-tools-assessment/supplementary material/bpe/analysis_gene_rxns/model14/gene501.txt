@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+rxn05034:1 cpd00136_c + 1 cpd02172_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd02419_c (1 4_Hydroxybenzoate_c0 + 1 Solanesyl_diphosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 Nonaprenyl_4_hydroxybenzoate_c0)
+rxn02693:2 cpd00202_c + 1 cpd01371_c <=> 2 cpd00012_c + 2 cpd00067_c + 1 cpd01373_c (2 DMAPP_c0 + 1 Aspulvinone_E_c0 <=> 2 PPi_c0 + 2 H_plus__c0 + 1 Aspulvinone_H_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00136_c (4_Hydroxybenzoate_c0)
+cpd00202_c (DMAPP_c0)
+cpd01371_c (Aspulvinone_E_c0)
+cpd01373_c (Aspulvinone_H_c0)
+cpd02172_c (Solanesyl_diphosphate_c0)
+cpd02419_c (Nonaprenyl_4_hydroxybenzoate_c0)
+
+

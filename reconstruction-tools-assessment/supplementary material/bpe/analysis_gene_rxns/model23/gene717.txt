@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN0-6427:1 GDP-TP_c + 1 WATER_c -> 1 GTP_c + 1 PPI_c + 1 PROTON_c (1 pppGpp + 1 H2O -> 1 GTP + 1 diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+GDP-TP_c (pppGpp)
+GTP_c (GTP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

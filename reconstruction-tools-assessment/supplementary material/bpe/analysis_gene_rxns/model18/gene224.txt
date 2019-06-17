@@ -1,0 +1,5 @@
+notRecovered:
+GLYt4pp:1 gly_p + 1 na1_p <=> 1 gly_c + 1 na1_c (1 Glycine + 1 Sodium <=> 1 Glycine + 1 Sodium)
+ALAt4pp:1 ala__L_p + 1 na1_p <=> 1 ala__L_c + 1 na1_c (1 L-Alanine + 1 Sodium <=> 1 L-Alanine + 1 Sodium)
+
+

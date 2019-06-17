@@ -1,0 +1,4 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 M_Acetyl_CoA_ + 1 M_ATP_ + 1 M_Bicarbonate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Malonyl_CoA_ + 1 M_Phosphate_)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+GLCpts:1 glc__D_e + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 M_D_Glucose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_Pyruvate_)
+ACGALpts:1 acgala_e + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 M_N_Acetyl_D_galactosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_acetylgalactosamine_6_phosphate_ + 1 M_Pyruvate_)
+MNLpts:1 mnl_e + 1 pep_c -> 1 mnl1p_c + 1 pyr_c (1 M_D_Mannitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannitol_1_phosphate_ + 1 M_Pyruvate_)
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 M_Dihydroxyacetone_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Pyruvate_)
+MANpts:1 man_e + 1 pep_c -> 1 man6p_c + 1 pyr_c (1 M_D_Mannose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannose_6_phosphate_ + 1 M_Pyruvate_)
+SBTpts:1 pep_c + 1 sbt__D_e -> 1 pyr_c + 1 sbt6p_c (1 M_Phosphoenolpyruvate_ + 1 M_D_Sorbitol_ -> 1 M_Pyruvate_ + 1 M_D_Sorbitol_6_phosphate_)
+FRUpts:1 fru_e + 1 pep_c -> 1 f1p_c + 1 pyr_c (1 M_D_Fructose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Fructose_1_phosphate_ + 1 M_Pyruvate_)
+TREpts:1 pep_c + 1 tre_e -> 1 pyr_c + 1 tre6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Trehalose_ -> 1 M_Pyruvate_ + 1 M_alpha_alpha__Trehalose_6_phosphate_)
+ACGApts:1 acgam_e + 1 pep_c -> 1 acgam6p_c + 1 pyr_c (1 M_N_Acetyl_D_glucosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_Acetyl_D_glucosamine_6_phosphate_ + 1 M_Pyruvate_)
+GALTpts:1 galt_e + 1 pep_c -> 1 galt1p_c + 1 pyr_c (1 M_Galactitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Galactitol_1_phosphate_ + 1 M_Pyruvate_)
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+CELBpts:1 cellb_e + 1 pep_c -> 1 6pgg_c + 1 pyr_c (1 M_cellobiose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_Pyruvate_)
+
+

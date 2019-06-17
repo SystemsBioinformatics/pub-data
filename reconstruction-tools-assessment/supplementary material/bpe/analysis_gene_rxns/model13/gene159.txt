@@ -1,0 +1,39 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+
+
+AdditionalNotInModel:
+rxn03245:1 cpd03118_c <=> 1 cpd00001_c + 1 cpd03129_c (1 S_Hydroxydecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Decenoyl_CoA_c0)
+rxn02911:1 cpd03116_c <=> 1 cpd00001_c + 1 cpd02060_c (1 S_3_Hydroxydodecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Dodecenoyl_CoA_c0)
+rxn03440:1 cpd03588_c <=> 1 cpd00001_c + 1 cpd03589_c (1 L_erythro_3_Methylmalyl_CoA_c0 <=> 1 H2O_c0 + 1 Mesaconyl_CoA_c0)
+rxn03240:1 cpd03113_c <=> 1 cpd00001_c + 1 cpd03126_c (1 S_3_Hydroxyhexadecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Hexadecenoyl_CoA_c0)
+rxn02181:1 cpd03375_c <=> 1 cpd00001_c + 1 cpd00663_c (1 3_Hydroxypropanoyl_CoA_c0 <=> 1 H2O_c0 + 1 Acrylyl_CoA_c0)
+rxn02949:1 cpd00001_c + 1 cpd02187_c <=> 1 cpd03572_c (1 H2O_c0 + 1 Methacrylyl_CoA_c0 <=> 1 S_3_Hydroxyisobutyryl_CoA_c0)
+rxn02934:1 cpd02691_c <=> 1 cpd00001_c + 1 cpd02125_c (1 2_methyl_3_hydroxy_butyryl_CoA_c0 <=> 1 H2O_c0 + 1 Tiglyl_CoA_c0)
+rxn03247:1 cpd03120_c <=> 1 cpd00001_c + 1 cpd03130_c (1 S_Hydroxyoctanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Octenoyl_CoA_c0)
+rxn03241:1 cpd03115_c <=> 1 cpd00001_c + 1 cpd03127_c (1 S_3_Hydroxytetradecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Tetradecenoyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00663_c (Acrylyl_CoA_c0)
+cpd02060_c (2E_Dodecenoyl_CoA_c0)
+cpd02125_c (Tiglyl_CoA_c0)
+cpd02187_c (Methacrylyl_CoA_c0)
+cpd02691_c (2_methyl_3_hydroxy_butyryl_CoA_c0)
+cpd03113_c (S_3_Hydroxyhexadecanoyl_CoA_c0)
+cpd03115_c (S_3_Hydroxytetradecanoyl_CoA_c0)
+cpd03116_c (S_3_Hydroxydodecanoyl_CoA_c0)
+cpd03118_c (S_Hydroxydecanoyl_CoA_c0)
+cpd03120_c (S_Hydroxyoctanoyl_CoA_c0)
+cpd03126_c (2E_Hexadecenoyl_CoA_c0)
+cpd03127_c (2E_Tetradecenoyl_CoA_c0)
+cpd03129_c (2E_Decenoyl_CoA_c0)
+cpd03130_c (2E_Octenoyl_CoA_c0)
+cpd03375_c (3_Hydroxypropanoyl_CoA_c0)
+cpd03572_c (S_3_Hydroxyisobutyryl_CoA_c0)
+cpd03588_c (L_erythro_3_Methylmalyl_CoA_c0)
+cpd03589_c (Mesaconyl_CoA_c0)
+
+

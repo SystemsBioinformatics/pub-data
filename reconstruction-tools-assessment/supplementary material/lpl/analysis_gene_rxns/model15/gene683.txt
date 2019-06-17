@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+rxn01405:1 cpd00118_c + 1 cpd00264_c <=> 1 cpd00726_c + 1 cpd03802_c (1 Putrescine_c0 + 1 Spermidine_c0 <=> 1 1_3_Propanediamine_c0 + 1 Homospermidine_c0)
+rxn00015:2 cpd00118_c <=> 1 cpd00013_c + 1 cpd03802_c (2 Putrescine_c0 <=> 1 NH3_c0 + 1 Homospermidine_c0)
+rxn00740:1 cpd00001_c + 1 cpd00822_c -> 1 cpd00067_c + 1 cpd00036_c + 1 cpd00013_c + 1 cpd00094_c (1 H2O_c0 + 1 O_Succinyl_L_homoserine_c0 -> 1 H_plus__c0 + 1 Succinate_c0 + 1 NH3_c0 + 1 2_Oxobutyrate_c0)
+rxn01816:1 cpd00067_c + 1 cpd00036_c + 1 cpd00424_c <=> 1 cpd00084_c + 1 cpd00822_c (1 H_plus__c0 + 1 Succinate_c0 + 1 Cystathionine_c0 <=> 1 L_Cysteine_c0 + 1 O_Succinyl_L_homoserine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00036_c (Succinate_c0)
+cpd00067_c (H_plus__c0)
+cpd00084_c (L_Cysteine_c0)
+cpd00094_c (2_Oxobutyrate_c0)
+cpd00118_c (Putrescine_c0)
+cpd00264_c (Spermidine_c0)
+cpd00424_c (Cystathionine_c0)
+cpd00726_c (1_3_Propanediamine_c0)
+cpd00822_c (O_Succinyl_L_homoserine_c0)
+cpd03802_c (Homospermidine_c0)
+
+

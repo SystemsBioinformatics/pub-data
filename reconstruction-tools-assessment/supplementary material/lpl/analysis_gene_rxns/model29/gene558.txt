@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01229:1 C00144_c + 1 C00013_c <=> 1 C00242_c + 1 C00119_c (1 GMP + 1 Diphosphate <=> 1 Guanine + 1 5-Phospho-alpha-D-ribose 1-diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00119_c (5-Phospho-alpha-D-ribose 1-diphosphate)
+C00144_c (GMP)
+C00242_c (Guanine)
+
+

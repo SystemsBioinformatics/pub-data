@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01211:1 cpd00001_c + 1 cpd00347_c <=> 1 cpd00067_c + 1 cpd00201_c (1 H2O_c0 + 1 5_10_Methenyltetrahydrofolate_c0 <=> 1 H_plus__c0 + 1 10_Formyltetrahydrofolate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00067_c (H_plus__c0)
+cpd00201_c (10_Formyltetrahydrofolate_c0)
+cpd00347_c (5_10_Methenyltetrahydrofolate_c0)
+
+

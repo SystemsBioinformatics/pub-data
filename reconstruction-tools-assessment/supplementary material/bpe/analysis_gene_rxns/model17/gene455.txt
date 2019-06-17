@@ -1,0 +1,13 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 UDPglucose <=> 1 UDPgalactose)
+
+
+AdditionalNotInModel:
+R00418:1 C00043_c <=> 1 C00203_c (1 UDP-N-acetyl-alpha-D-glucosamine <=> 1 UDP-N-acetyl-D-galactosamine)
+
+
+AdditionalMetabolites:
+C00043_c (UDP-N-acetyl-alpha-D-glucosamine)
+C00203_c (UDP-N-acetyl-D-galactosamine)
+
+

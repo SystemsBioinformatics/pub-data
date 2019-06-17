@@ -1,0 +1,31 @@
+notRecovered:
+PROD2:1 fad_c + 1 pro__L_c <=> 1 1pyr5c_c + 1 fadh2_c + 1 h_c (1 Flavin adenine dinucleotide oxidized + 1 L-Proline <=> 1 1-Pyrroline-5-carboxylate + 1 Flavin adenine dinucleotide reduced + 1 H+)
+
+
+AdditionalNotInModel:
+R00245:1 C01165_c + 1 C00003_c + 1 C00001_c <=> 1 C00080_c + 1 C00004_c + 1 C00025_c (1 L-Glutamate 5-semialdehyde + 1 NAD+ + 1 H2O <=> 1 H+ + 1 NADH + 1 L-Glutamate)
+R00708:1 C03912_c + 1 C00006_c + 2 C00001_c <=> 1 C00005_c + 1 C00080_c + 1 C00025_c (1 (S)-1-Pyrroline-5-carboxylate + 1 NADP+ + 2 H2O <=> 1 NADPH + 1 H+ + 1 L-Glutamate)
+R05051:1 C05947_c + 1 C00080_c + 1 C00004_c <=> 1 C00003_c + 1 C00001_c + 1 C05938_c (1 L-erythro-4-Hydroxyglutamate + 1 H+ + 1 NADH <=> 1 NAD+ + 1 H2O + 1 L-4-Hydroxyglutamate semialdehyde)
+R04445:1 C00006_c + 2 C00001_c + 1 C04281_c <=> 1 C05947_c + 1 C00005_c + 1 C00080_c (1 NADP+ + 2 H2O + 1 L-1-Pyrroline-3-hydroxy-5-carboxylate <=> 1 L-erythro-4-Hydroxyglutamate + 1 NADPH + 1 H+)
+R04444:1 C00003_c + 2 C00001_c + 1 C04281_c <=> 1 C05947_c + 1 C00080_c + 1 C00004_c (1 NAD+ + 2 H2O + 1 L-1-Pyrroline-3-hydroxy-5-carboxylate <=> 1 L-erythro-4-Hydroxyglutamate + 1 H+ + 1 NADH)
+R01253:1 C00148_c + 1 C15602_c <=> 1 C03912_c + 1 C15603_c (1 L-Proline + 1 Quinone <=> 1 (S)-1-Pyrroline-5-carboxylate + 1 Hydroquinone)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00025_c (L-Glutamate)
+C00080_c (H+)
+C00148_c (L-Proline)
+C01165_c (L-Glutamate 5-semialdehyde)
+C03912_c ((S)-1-Pyrroline-5-carboxylate)
+C04281_c (L-1-Pyrroline-3-hydroxy-5-carboxylate)
+C05938_c (L-4-Hydroxyglutamate semialdehyde)
+C05947_c (L-erythro-4-Hydroxyglutamate)
+C15602_c (Quinone)
+C15603_c (Hydroquinone)
+
+

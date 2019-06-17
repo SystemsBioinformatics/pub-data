@@ -1,0 +1,52 @@
+notRecovered:
+PSD161:1 h_c + 1 ps161_c -> 1 co2_c + 1 pe161_c (1 H+ + 1 phosphatidylserine (dihexadec-9-enoyl, n-C16:1) -> 1 CO2 + 1 phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1))
+PSD181:1 h_c + 1 ps181_c -> 1 co2_c + 1 pe181_c (1 H+ + 1 phosphatidylserine (dioctadec-11-enoyl, n-C18:1) -> 1 CO2 + 1 phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1))
+PSD120:1 h_c + 1 ps120_c -> 1 co2_c + 1 pe120_c (1 H+ + 1 phosphatidylserine (didodecanoyl, n-C12:0) -> 1 CO2 + 1 phosphatidylethanolamine (didodecanoyl, n-C12:0))
+PSD141:1 h_c + 1 ps141_c -> 1 co2_c + 1 pe141_c (1 H+ + 1 phosphatidylserine (ditetradec-7-enoyl, n-C14:1) -> 1 CO2 + 1 phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1))
+PSD140:1 h_c + 1 ps140_c -> 1 co2_c + 1 pe140_c (1 H+ + 1 phosphatidylserine (ditetradecanoyl, n-C14:0) -> 1 CO2 + 1 phosphatidylethanolamine (ditetradecanoyl, n-C14:0))
+
+
+AdditionalNotInModel:
+rxn09198:2 cpd00067_c + 1 cpd15553_c <=> 1 cpd00011_c + 1 cpd15529_c (2 H_plus__c0 + 1 phosphatidylserine_ditetradecanoyl_c0 <=> 1 CO2_c0 + 1 phosphatidylethanolamine_ditetradecanoyl_c0)
+rxn10237:2 cpd00067_c + 1 cpd15694_c <=> 1 cpd00011_c + 1 cpd15700_c (2 H_plus__c0 + 1 Diisohexadecanoylphosphatidylserine_c0 <=> 1 CO2_c0 + 1 Diisohexadecanoylphosphatidylethanolamine_c0)
+rxn09197:2 cpd00067_c + 1 cpd15552_c <=> 1 cpd00011_c + 1 cpd15528_c (2 H_plus__c0 + 1 phosphatidylserine_didodecanoyl_c0 <=> 1 CO2_c0 + 1 phosphatidylethanolamine_didodecanoyl_c0)
+rxn10236:2 cpd00067_c + 1 cpd15693_c <=> 1 cpd00011_c + 1 cpd15699_c (2 H_plus__c0 + 1 Dianteisopentadecanoylphosphatidylserine_c0 <=> 1 CO2_c0 + 1 Dianteisopentadecanoylphosphatidylethanolamine_c0)
+rxn09201:2 cpd00067_c + 1 cpd15556_c <=> 1 cpd00011_c + 1 cpd15532_c (2 H_plus__c0 + 1 phosphatidylserine_dihexadec_9_enoyl_c0 <=> 1 CO2_c0 + 1 phosphatidylethanolamine_dihexadec_9enoyl_c0)
+rxn10235:2 cpd00067_c + 1 cpd15692_c <=> 1 cpd00011_c + 1 cpd15698_c (2 H_plus__c0 + 1 Diisopentadecanoylphosphatidylserine_c0 <=> 1 CO2_c0 + 1 Diisopentadecanoylphosphatidylethanolamine_c0)
+rxn10234:2 cpd00067_c + 1 cpd15691_c <=> 1 cpd00011_c + 1 cpd15697_c (2 H_plus__c0 + 1 Diisotetradecanoylphosphatidylserine_c0 <=> 1 CO2_c0 + 1 Diisotetradecanoylphosphatidylethanolamine_c0)
+rxn10233:2 cpd00067_c + 1 cpd15690_c <=> 1 cpd00011_c + 1 cpd15696_c (2 H_plus__c0 + 1 Dianteisoheptadecanoylphosphatidylserine_c0 <=> 1 CO2_c0 + 1 Dianteisoheptadecanoylphosphatidylethanolamine_c0)
+rxn09199:2 cpd00067_c + 1 cpd15554_c <=> 1 cpd00011_c + 1 cpd15530_c (2 H_plus__c0 + 1 phosphatidylserine_ditetradec_7_enoyl_c0 <=> 1 CO2_c0 + 1 phosphatidylethanolamine_ditetradec_7_enoyl_c0)
+rxn09203:2 cpd00067_c + 1 cpd15558_c <=> 1 cpd00011_c + 1 cpd15534_c (2 H_plus__c0 + 1 phosphatidylserine_dioctadec_11_enoyl_c0 <=> 1 CO2_c0 + 1 phosphatidylethanolamine_dioctadec_11_enoyl_c0)
+rxn10232:2 cpd00067_c + 1 cpd15689_c <=> 1 cpd00011_c + 1 cpd15695_c (2 H_plus__c0 + 1 Diisoheptadecanoylphosphatidylserine_c0 <=> 1 CO2_c0 + 1 Diisoheptadecanoylphosphatidylethanolamine_c0)
+rxn00921:1 cpd00067_c + 1 cpd00136_c <=> 1 cpd00011_c + 1 cpd00127_c (1 H_plus__c0 + 1 4_Hydroxybenzoate_c0 <=> 1 CO2_c0 + 1 Phenol_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd00127_c (Phenol_c0)
+cpd00136_c (4_Hydroxybenzoate_c0)
+cpd15528_c (phosphatidylethanolamine_didodecanoyl_c0)
+cpd15529_c (phosphatidylethanolamine_ditetradecanoyl_c0)
+cpd15530_c (phosphatidylethanolamine_ditetradec_7_enoyl_c0)
+cpd15532_c (phosphatidylethanolamine_dihexadec_9enoyl_c0)
+cpd15534_c (phosphatidylethanolamine_dioctadec_11_enoyl_c0)
+cpd15552_c (phosphatidylserine_didodecanoyl_c0)
+cpd15553_c (phosphatidylserine_ditetradecanoyl_c0)
+cpd15554_c (phosphatidylserine_ditetradec_7_enoyl_c0)
+cpd15556_c (phosphatidylserine_dihexadec_9_enoyl_c0)
+cpd15558_c (phosphatidylserine_dioctadec_11_enoyl_c0)
+cpd15689_c (Diisoheptadecanoylphosphatidylserine_c0)
+cpd15690_c (Dianteisoheptadecanoylphosphatidylserine_c0)
+cpd15691_c (Diisotetradecanoylphosphatidylserine_c0)
+cpd15692_c (Diisopentadecanoylphosphatidylserine_c0)
+cpd15693_c (Dianteisopentadecanoylphosphatidylserine_c0)
+cpd15694_c (Diisohexadecanoylphosphatidylserine_c0)
+cpd15695_c (Diisoheptadecanoylphosphatidylethanolamine_c0)
+cpd15696_c (Dianteisoheptadecanoylphosphatidylethanolamine_c0)
+cpd15697_c (Diisotetradecanoylphosphatidylethanolamine_c0)
+cpd15698_c (Diisopentadecanoylphosphatidylethanolamine_c0)
+cpd15699_c (Dianteisopentadecanoylphosphatidylethanolamine_c0)
+cpd15700_c (Diisohexadecanoylphosphatidylethanolamine_c0)
+
+

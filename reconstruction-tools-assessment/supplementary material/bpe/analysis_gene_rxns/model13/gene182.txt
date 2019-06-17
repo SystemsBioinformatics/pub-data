@@ -1,0 +1,30 @@
+AdditionalNotInModel:
+rxn10225:1 cpd00052_c + 1 cpd15682_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15688_c (1 CTP_c0 + 1 1_2_diisohexadecanoyl_sn_glycerol_3_phosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CDP_1_2_diisohexadecanoylglycerol_c0)
+rxn10222:1 cpd00052_c + 1 cpd15679_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15685_c (1 CTP_c0 + 1 1_2_diisotetradecanoyl_sn_glycerol_3_phosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CDP_1_2_diisotetradecanoylglycerol_c0)
+rxn10224:1 cpd00052_c + 1 cpd15681_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15687_c (1 CTP_c0 + 1 1_2_dianteisopentadecanoyl_sn_glycerol_3_phosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CDP_1_2_dianteisopentadecanoylglycerol_c0)
+rxn10221:1 cpd00052_c + 1 cpd15678_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15684_c (1 CTP_c0 + 1 1_2_dianteisoheptadecanoyl_sn_glycerol_3_phosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CDP_1_2_dianteisoheptadecanoylglycerol_c0)
+rxn02405:1 cpd00052_c + 1 cpd00875_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd02546_c (1 CTP_c0 + 1 KDO_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 CMP_KDO_c0)
+rxn10223:1 cpd00052_c + 1 cpd15680_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15686_c (1 CTP_c0 + 1 1_2_diisopentadecanoyl_sn_glycerol_3_phosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CDP_1_2_diisopentadecanoylglycerol_c0)
+rxn10220:1 cpd00052_c + 1 cpd15677_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15683_c (1 CTP_c0 + 1 1_2_diisoheptadecanoyl_sn_glycerol_3_phosphate_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CDP_1_2_diisoheptadecanoylglycerol_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00052_c (CTP_c0)
+cpd00067_c (H_plus__c0)
+cpd00875_c (KDO_c0)
+cpd02546_c (CMP_KDO_c0)
+cpd15677_c (1_2_diisoheptadecanoyl_sn_glycerol_3_phosphate_c0)
+cpd15678_c (1_2_dianteisoheptadecanoyl_sn_glycerol_3_phosphate_c0)
+cpd15679_c (1_2_diisotetradecanoyl_sn_glycerol_3_phosphate_c0)
+cpd15680_c (1_2_diisopentadecanoyl_sn_glycerol_3_phosphate_c0)
+cpd15681_c (1_2_dianteisopentadecanoyl_sn_glycerol_3_phosphate_c0)
+cpd15682_c (1_2_diisohexadecanoyl_sn_glycerol_3_phosphate_c0)
+cpd15683_c (CDP_1_2_diisoheptadecanoylglycerol_c0)
+cpd15684_c (CDP_1_2_dianteisoheptadecanoylglycerol_c0)
+cpd15685_c (CDP_1_2_diisotetradecanoylglycerol_c0)
+cpd15686_c (CDP_1_2_diisopentadecanoylglycerol_c0)
+cpd15687_c (CDP_1_2_dianteisopentadecanoylglycerol_c0)
+cpd15688_c (CDP_1_2_diisohexadecanoylglycerol_c0)
+
+

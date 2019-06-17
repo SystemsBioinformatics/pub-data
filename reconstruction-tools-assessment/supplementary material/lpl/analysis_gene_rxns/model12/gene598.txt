@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN:1 CPD-667_c + 1 CPD-7671_c <=> 1 MET_c + 1 ACET_c + 1 PROTON_c (1 O-acetyl-L-homoserine + 1 methanethiol <=> 1 L-methionine + 1 acetate + 1 H+)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+CPD-667_c (O-acetyl-L-homoserine)
+CPD-7671_c (methanethiol)
+MET_c (L-methionine)
+PROTON_c (H+)
+
+

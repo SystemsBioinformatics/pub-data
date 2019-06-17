@@ -1,0 +1,15 @@
+notRecovered:
+GALUi:1 g1p_c + 1 h_c + 1 utp_c <=> 1 ppi_c + 1 udpg_c (1 M_D_Glucose_1_phosphate_ + 1 M_H_ + 1 M_UTP_ <=> 1 M_Diphosphate_ + 1 M_UDPglucose_)
+
+
+AdditionalNotInModel:
+R02328:1 C00103_c + 1 C00459_c <=> 1 C00013_c + 1 C00842_c (1 D-Glucose 1-phosphate + 1 dTTP <=> 1 Diphosphate + 1 dTDP-glucose)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00103_c (D-Glucose 1-phosphate)
+C00459_c (dTTP)
+C00842_c (dTDP-glucose)
+
+

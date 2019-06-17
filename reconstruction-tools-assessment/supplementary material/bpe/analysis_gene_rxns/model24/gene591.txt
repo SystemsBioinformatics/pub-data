@@ -1,0 +1,5 @@
+notRecovered:
+NNATr:1 atp_c + 1 h_c + 1 nicrnt_c <=> 1 dnad_c + 1 ppi_c (1 ATP + 1 H+ + 1 Nicotinate D-ribonucleotide <=> 1 Deamino-NAD+ + 1 Diphosphate)
+NMNAT:1 atp_c + 1 h_c + 1 nmn_c -> 1 nad_c + 1 ppi_c (1 ATP + 1 H+ + 1 NMN -> 1 Nicotinamide adenine dinucleotide + 1 Diphosphate)
+
+

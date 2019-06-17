@@ -1,0 +1,15 @@
+notRecovered:
+SPODM:2 h_c + 2 o2s_c -> 1 h2o2_c + 1 o2_c (2 H+ + 2 Superoxide anion -> 1 Hydrogen peroxide + 1 O2)
+
+
+AdditionalNotInModel:
+rxn00206:2 cpd00067_c + 2 cpd00532_c -> 1 cpd00007_c + 1 cpd00025_c (2 H_plus__c0 + 2 O2__c0 -> 1 O2_c0 + 1 H2O2_c0)
+
+
+AdditionalMetabolites:
+cpd00007_c (O2_c0)
+cpd00025_c (H2O2_c0)
+cpd00067_c (H_plus__c0)
+cpd00532_c (O2__c0)
+
+

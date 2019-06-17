@@ -1,0 +1,22 @@
+notRecovered:
+ALATA_L:1 akg_c + 1 ala__L_c <=> 1 glu__L_c + 1 pyr_c (1 2-Oxoglutarate + 1 L-Alanine <=> 1 L-Glutamate + 1 Pyruvate)
+CYSTA:1 akg_c + 1 cys__L_c <=> 1 glu__L_c + 1 mercppyr_c (1 2-Oxoglutarate + 1 L-Cysteine <=> 1 L-Glutamate + 1 Mercaptopyruvate)
+
+
+AdditionalNotInModel:
+RXN-10814:1 2-KETOGLUTARATE_c + 1 PHE_c <=> 1 PHENYL-PYRUVATE_c + 1 GLT_c (1 2-oxoglutarate + 1 L-phenylalanine <=> 1 keto-phenylpyruvate + 1 L-glutamate)
+RXN-11737:1 L-CYSTEATE_c + 1 2-KETOGLUTARATE_c <=> 1 CPD-380_c + 1 GLT_c (1 L-cysteate + 1 2-oxoglutarate <=> 1 3-sulfopyruvate + 1 L-glutamate)
+ASPAMINOTRANS-RXN:1 L-ASPARTATE_c + 1 2-KETOGLUTARATE_c <=> 1 OXALACETIC_ACID_c + 1 GLT_c (1 L-aspartate + 1 2-oxoglutarate <=> 1 oxaloacetate + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CPD-380_c (3-sulfopyruvate)
+GLT_c (L-glutamate)
+L-ASPARTATE_c (L-aspartate)
+L-CYSTEATE_c (L-cysteate)
+OXALACETIC_ACID_c (oxaloacetate)
+PHENYL-PYRUVATE_c (keto-phenylpyruvate)
+PHE_c (L-phenylalanine)
+
+

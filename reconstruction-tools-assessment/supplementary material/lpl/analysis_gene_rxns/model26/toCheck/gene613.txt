@@ -1,0 +1,18 @@
+notRecovered:
+ASNS1:1 asp__L_c + 1 atp_c + 1 gln__L_c + 1 h2o_c -> 1 amp_c + 1 asn__L_c + 1 glu__L_c + 1 h_c + 1 ppi_c (1 M_L_Aspartate_ + 1 M_ATP_ + 1 M_L_Glutamine_ + 1 M_H2O_ -> 1 M_AMP_ + 1 M_L_Asparagine_ + 1 M_L_Glutamate_ + 1 M_H_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+RXN-11338:1 AMMONIUM_c + 1 ATP_c + 1 CPD-12302_c -> 1 AMP_c + 1 CPD-12295_c + 1 PPI_c + 1 PROTON_c (1 ammonium + 1 ATP + 1 ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-isoglutaminyl-N-(beta-D-asparatyl)-L-lysyl-D-alanyl-D-alanine -> 1 AMP + 1 ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-isoglutaminyl-N-(beta-D-asparaginyl)-L-lysyl-D-alanyl-D-alanine + 1 diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+AMP_c (AMP)
+ATP_c (ATP)
+CPD-12295_c (ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-isoglutaminyl-N-(beta-D-asparaginyl)-L-lysyl-D-alanyl-D-alanine)
+CPD-12302_c (ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-isoglutaminyl-N-(beta-D-asparatyl)-L-lysyl-D-alanyl-D-alanine)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

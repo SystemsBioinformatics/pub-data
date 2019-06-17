@@ -1,0 +1,15 @@
+notRecovered:
+SERD_D:1 ser__D_c -> 1 nh4_c + 1 pyr_c (1 D-Serine -> 1 Ammonium + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+RXN-15122:1 THR_c -> 1 CPD-15056_c + 1 PROTON_c + 1 WATER_c (1 L-threonine -> 1 (2Z)-2-aminobut-2-enoate + 1 H+ + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-15056_c ((2Z)-2-aminobut-2-enoate)
+PROTON_c (H+)
+THR_c (L-threonine)
+WATER_c (H2O)
+
+

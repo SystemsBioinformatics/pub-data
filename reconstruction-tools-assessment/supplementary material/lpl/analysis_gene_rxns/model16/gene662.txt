@@ -1,0 +1,15 @@
+notRecovered:
+CELBpts:1 cellb_e + 1 pep_c -> 1 6pgg_c + 1 pyr_c (1 M_cellobiose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+rxn05518:1 cpd00061_c + 1 cpd00158_e <=> 1 cpd00020_c + 1 cpd02760_c (1 Phosphoenolpyruvate_c0 + 1 CELB_e0 <=> 1 Pyruvate_c0 + 1 cellobiose_6_phoshate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00061_c (Phosphoenolpyruvate_c0)
+cpd00158_e (CELB_e0)
+cpd02760_c (cellobiose_6_phoshate_c0)
+
+

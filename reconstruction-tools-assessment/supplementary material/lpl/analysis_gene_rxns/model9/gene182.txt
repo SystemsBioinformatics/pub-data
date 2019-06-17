@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+H4THDPR:1 nadph_c + 1 4hthdp_c + 1 h_c -> 1 thdp_c + 1 nadp_c + 1 h2o_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + 1 H+ -> 1 2,3,4,5-Tetrahydrodipicolinate + 1 Nicotinamide adenine dinucleotide phosphate + 1 H2O H2O)
+DHDPRx_r:1 nadh_c + 1 23dhdp_c + 1 h_c <=> 1 thdp_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2,3-Dihydrodipicolinate + 1 H+ <=> 1 2,3,4,5-Tetrahydrodipicolinate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+4hthdp_c ((2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+

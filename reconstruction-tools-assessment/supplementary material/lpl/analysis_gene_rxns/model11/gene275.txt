@@ -1,0 +1,4 @@
+notRecovered:
+NPPDO:2 n2ppn_c + 1 o2_c -> 2 acetone_c + 2 h_c + 2 no2_c (2 M_2_Nitropropane_ + 1 M_O2_ -> 2 M_Acetone_ + 2 M_H_ + 2 M_Nitrite_)
+
+

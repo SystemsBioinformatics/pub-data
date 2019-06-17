@@ -1,0 +1,8 @@
+notRecovered:
+PROt4pp:1 na1_p + 1 pro__L_p <=> 1 na1_c + 1 pro__L_c (1 Sodium + 1 L-Proline <=> 1 Sodium + 1 L-Proline)
+
+
+AdditionalNotInModel:
+CHLt2:1 h_e + 1 chol_e <=> 1 h_c + 1 chol_c (1 H+ + 1 Choline <=> 1 H+ + 1 Choline)
+
+

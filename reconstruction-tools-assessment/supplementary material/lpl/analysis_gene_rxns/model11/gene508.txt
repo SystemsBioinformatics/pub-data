@@ -1,0 +1,5 @@
+notRecovered:
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 acald_c + 1 h_c + 1 nadh_c (1 M_Ethanol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_Acetaldehyde_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+ACALD:1 acald_c + 1 coa_c + 1 nad_c <=> 1 accoa_c + 1 h_c + 1 nadh_c (1 M_Acetaldehyde_ + 1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_Acetyl_CoA_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+PFL:1 coa_c + 1 pyr_c <=> 1 accoa_c + 1 for_c (1 M_Coenzyme_A_ + 1 M_Pyruvate_ <=> 1 M_Acetyl_CoA_ + 1 M_Formate_)
+
+
+AdditionalNotInModel:
+TDCEACT-RXN:1 Formate-acetyltransferase-glycine_c + 1 Reduced-flavodoxins_c + 1 S-ADENOSYLMETHIONINE_c -> 1 CH33ADO_c + 1 Flavodoxins-Semiquinones_c + 1 Formate-acetyltrans-glycine-radical_c + 1 MET_c + 1 PROTON_c (1 Formate-acetyltransferase-glycine + 1 Reduced-flavodoxins + 1 S-adenosyl-L-methionine -> 1 5'-deoxyadenosine + 1 Flavodoxins-Semiquinones + 1 Formate-acetyltrans-glycine-radical + 1 L-methionine + 1 H+)
+
+
+AdditionalMetabolites:
+CH33ADO_c (5'-deoxyadenosine)
+Flavodoxins-Semiquinones_c (Flavodoxins-Semiquinones)
+Formate-acetyltrans-glycine-radical_c (Formate-acetyltrans-glycine-radical)
+Formate-acetyltransferase-glycine_c (Formate-acetyltransferase-glycine)
+MET_c (L-methionine)
+PROTON_c (H+)
+Reduced-flavodoxins_c (Reduced-flavodoxins)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+
+

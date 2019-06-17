@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+METabc:1 atp_c + 1 h2o_c + 1 met__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 met__L_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Methionine)
+
+

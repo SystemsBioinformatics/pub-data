@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+rxn02586:1 cpd01673_c <=> 1 cpd00001_c + 1 cpd01117_c (1 Kievitone_hydrate_c0 <=> 1 H2O_c0 + 1 Kievitone_c0)
+rxn03061:1 cpd02799_c <=> 1 cpd00001_c + 1 cpd02597_c (1 Methylisocitrate_c0 <=> 1 H2O_c0 + 1 cis_2_Methylaconitate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd01117_c (Kievitone_c0)
+cpd01673_c (Kievitone_hydrate_c0)
+cpd02597_c (cis_2_Methylaconitate_c0)
+cpd02799_c (Methylisocitrate_c0)
+
+

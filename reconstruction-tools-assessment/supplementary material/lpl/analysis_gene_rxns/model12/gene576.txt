@@ -1,0 +1,4 @@
+notRecovered:
+MALt2r:1 h_e + 1 mal__L_e <=> 1 h_c + 1 mal__L_c (1 M_H_ + 1 M_L_Malate_ <=> 1 M_H_ + 1 M_L_Malate_)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+CGPT:1 cdpglyc_c + 1 unagama_c -> 1 cmp_c + 1 h_c + 1 unagamagp_c (1 M_CDPglycerol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_ -> 1 M_CMP_ + 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_)
+
+
+AdditionalNotInModel:
+rxn10192:45 cpd00402_c + 1 cpd02967_c <=> 45 cpd00067_c + 45 cpd00046_c + 1 cpd15661_c (45 CDPglycerol_c0 + 1 N_Acetyl_beta_D_mannosaminyl_1_4_N_acetyl_D__glucosaminyldiphosphoundecaprenol_c0 <=> 45 H_plus__c0 + 45 CMP_c0 + 1 Prenol_45n_teichoic_acid_c0)
+
+
+AdditionalMetabolites:
+cpd00046_c (CMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00402_c (CDPglycerol_c0)
+cpd02967_c (N_Acetyl_beta_D_mannosaminyl_1_4_N_acetyl_D__glucosaminyldiphosphoundecaprenol_c0)
+cpd15661_c (Prenol_45n_teichoic_acid_c0)
+
+

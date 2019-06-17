@@ -1,0 +1,4 @@
+notRecovered:
+ASPT:1 asp__L_c -> 1 fum_c + 1 nh4_c (1 M_L_Aspartate_ -> 1 M_Fumarate_ + 1 M_Ammonium_)
+
+

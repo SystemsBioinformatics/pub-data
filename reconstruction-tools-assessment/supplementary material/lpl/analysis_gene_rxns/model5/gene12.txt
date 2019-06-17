@@ -1,0 +1,4 @@
+notRecovered:
+PRPPS:1 atp_c + 1 r5p_c <=> 1 amp_c + 1 h_c + 1 prpp_c (1 M_ATP_ + 1 M_alpha_D_Ribose_5_phosphate_ <=> 1 M_AMP_ + 1 M_H_ + 1 M_5_Phospho_alpha_D_ribose_1_diphosphate_)
+
+

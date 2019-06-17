@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+rxn02402:1 cpd00067_c + 1 cpd00103_c + 1 cpd02333_c -> 1 cpd00012_c + 1 cpd00011_c + 1 cpd00873_c (1 H_plus__c0 + 1 PRPP_c0 + 1 Quinolinate_c0 -> 1 PPi_c0 + 1 CO2_c0 + 1 Nicotinate_ribonucleotide_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00103_c (PRPP_c0)
+cpd00873_c (Nicotinate_ribonucleotide_c0)
+cpd02333_c (Quinolinate_c0)
+
+

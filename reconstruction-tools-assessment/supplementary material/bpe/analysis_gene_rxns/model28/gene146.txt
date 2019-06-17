@@ -1,0 +1,4 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 Farnesyl diphosphate + 8 Isopentenyl diphosphate -> 8 Diphosphate + 1 Undecaprenyl diphosphate)
+
+

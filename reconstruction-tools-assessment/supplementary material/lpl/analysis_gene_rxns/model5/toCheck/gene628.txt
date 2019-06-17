@@ -1,0 +1,12 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+UDPDPS:1 decdp_c + 1 ipdp_c -> 1 ppi_c + 1 udcpdp_c (1 All trans Decaprenyl diphosphate + 1 Isopentenyl diphosphate -> 1 Diphosphate + 1 Undecaprenyl diphosphate)
+
+
+AdditionalMetabolites:
+decdp_c (All trans Decaprenyl diphosphate)
+
+

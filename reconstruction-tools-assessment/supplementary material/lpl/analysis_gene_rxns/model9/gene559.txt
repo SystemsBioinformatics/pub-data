@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+PPM:1 r1p_c <=> 1 r5p_c (1 Alpha-D-Ribose 1-phosphate <=> 1 Alpha-D-Ribose 5-phosphate)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn05627:1 cpd00067_e + 1 cpd00209_e <=> 1 cpd00067_c + 1 cpd00209_c (1 H_plus__e0 + 1 Nitrate_e0 <=> 1 H_plus__c0 + 1 Nitrate_c0)
+
+
+AdditionalMetabolites:
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+cpd00209_c (Nitrate_c0)
+cpd00209_e (Nitrate_e0)
+
+

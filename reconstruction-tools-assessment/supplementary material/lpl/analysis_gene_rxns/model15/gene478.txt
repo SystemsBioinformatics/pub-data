@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+rxn05814:1 cpd00002_c + 1 cpd12232_c <=> 1 cpd00008_c + 1 cpd00354_c (1 ATP_c0 + 1 Nucleoside_phosphate_c0 <=> 1 ADP_c0 + 1 NDP_c0)
+rxn01509:1 cpd00067_c + 1 cpd00002_c + 1 cpd00296_c <=> 1 cpd00008_c + 1 cpd00295_c (1 H_plus__c0 + 1 ATP_c0 + 1 dGMP_c0 <=> 1 ADP_c0 + 1 dGDP_c0)
+rxn01517:1 cpd00067_c + 1 cpd00002_c + 1 cpd00299_c <=> 1 cpd00008_c + 1 cpd00978_c (1 H_plus__c0 + 1 ATP_c0 + 1 dUMP_c0 <=> 1 ADP_c0 + 1 dUDP_c0)
+rxn00119:1 cpd00067_c + 1 cpd00002_c + 1 cpd00091_c <=> 1 cpd00008_c + 1 cpd00014_c (1 H_plus__c0 + 1 ATP_c0 + 1 UMP_c0 <=> 1 ADP_c0 + 1 UDP_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00014_c (UDP_c0)
+cpd00067_c (H_plus__c0)
+cpd00091_c (UMP_c0)
+cpd00295_c (dGDP_c0)
+cpd00296_c (dGMP_c0)
+cpd00299_c (dUMP_c0)
+cpd00354_c (NDP_c0)
+cpd00978_c (dUDP_c0)
+cpd12232_c (Nucleoside_phosphate_c0)
+
+

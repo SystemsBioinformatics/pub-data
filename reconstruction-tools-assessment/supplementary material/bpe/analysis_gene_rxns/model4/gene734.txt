@@ -1,0 +1,14 @@
+notRecovered:
+ANTHDIODC:1 anth_c + 3 h_c + 1 nadh_c + 1 o2_c -> 1 catechol_c + 1 co2_c + 1 nad_c + 1 nh4_c (1 Anthranilate + 3 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 O2 -> 1 Catechol + 1 CO2 + 1 Nicotinamide adenine dinucleotide + 1 Ammonium)
+
+
+AdditionalNotInModel:
+FADRx:1 fad_c + 1 h_c + 1 nadh_c -> 1 fadh2_c + 1 nad_c (1 Flavin adenine dinucleotide oxidized + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Flavin adenine dinucleotide reduced + 1 Nicotinamide adenine dinucleotide)
+FLVRx:1 h_c + 1 nadh_c + 1 ribflv_c -> 1 nad_c + 1 rbflvrd_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Riboflavin C17H20N4O6 -> 1 Nicotinamide adenine dinucleotide + 1 Reduced riboflavin)
+FMNRx:1 fmn_c + 1 h_c + 1 nadh_c -> 1 fmnh2_c + 1 nad_c (1 FMN C17H19N4O9P + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Reduced FMN + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalInModel:
+FE3Ri:1 fadh2_c + 2 fe3_c -> 1 fad_c + 2 fe2_c + 2 h_c (1 Flavin adenine dinucleotide reduced + 2 Iron (Fe3+) -> 1 Flavin adenine dinucleotide oxidized + 2 Fe2+ mitochondria + 2 H+)
+FLVR:1 h_c + 1 nadph_c + 1 ribflv_c -> 1 nadp_c + 1 rbflvrd_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Riboflavin C17H20N4O6 -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Reduced riboflavin)
+FMNRx2:1 fmn_c + 1 h_c + 1 nadph_c -> 1 fmnh2_c + 1 nadp_c (1 FMN C17H19N4O9P + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Reduced FMN + 1 Nicotinamide adenine dinucleotide phosphate)

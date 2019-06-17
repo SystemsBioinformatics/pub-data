@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+HMPK2:1 ctp_c + 1 4ahmmp_c -> 1 h_c + 1 4ampm_c + 1 cdp_c (1 CTP + 1 4-Amino-5-hydroxymethyl-2-methylpyrimidine -> 1 H+ + 1 4-Amino-2-methyl-5-phosphomethylpyrimidine + 1 CDP)
+HMPK3:1 4ahmmp_c + 1 utp_c -> 1 h_c + 1 udp_c + 1 4ampm_c (1 4-Amino-5-hydroxymethyl-2-methylpyrimidine + 1 UTP -> 1 H+ + 1 UDP + 1 4-Amino-2-methyl-5-phosphomethylpyrimidine)
+HMPK4:1 gtp_c + 1 4ahmmp_c -> 1 h_c + 1 4ampm_c + 1 gdp_c (1 GTP + 1 4-Amino-5-hydroxymethyl-2-methylpyrimidine -> 1 H+ + 1 4-Amino-2-methyl-5-phosphomethylpyrimidine + 1 GDP)
+
+
+AdditionalInModel:
+TMPPP:1 h_c + 1 2mahmp_c + 1 4mpetz_c -> 1 ppi_c + 1 thmmp_c (1 H+ + 1 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + 1 4-Methyl-5-(2-phosphoethyl)-thiazole -> 1 Diphosphate + 1 Thiamin monophosphate)

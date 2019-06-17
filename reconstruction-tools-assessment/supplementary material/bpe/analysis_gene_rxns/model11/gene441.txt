@@ -1,0 +1,16 @@
+notRecovered:
+HIBD:1 3hmp_c + 1 nad_c <=> 1 2mop_c + 1 h_c + 1 nadh_c (1 (S)-3-hydroxy-2-methylpropanoate + 1 Nicotinamide adenine dinucleotide <=> 1 2-methyl-3-oxopropanoate ((S)-methylmalonate semialdehyde) + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN:1 CPD-12175_c + 1 NAD_c <=> 1 CH3-MALONATE-S-ALD_c + 1 NADH_c + 1 PROTON_c (1 (S)-3-hydroxy-isobutanoate + 1 NAD+ <=> 1 (S)-methylmalonate-semialdehyde + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+CH3-MALONATE-S-ALD_c ((S)-methylmalonate-semialdehyde)
+CPD-12175_c ((S)-3-hydroxy-isobutanoate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

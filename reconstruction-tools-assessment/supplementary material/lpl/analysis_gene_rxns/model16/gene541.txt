@@ -1,0 +1,4 @@
+notRecovered:
+METTRS_1:1 atp_c + 1 met__L_c + 1 trnamet_c -> 1 amp_c + 1 h_c + 1 mettrna_c + 1 ppi_c (1 M_ATP_ + 1 M_L_Methionine_ + 1 M_tRNA_Met__ -> 1 M_AMP_ + 1 M_H_ + 1 M_L_Methionyl_tRNA__Met__ + 1 M_Diphosphate_)
+
+

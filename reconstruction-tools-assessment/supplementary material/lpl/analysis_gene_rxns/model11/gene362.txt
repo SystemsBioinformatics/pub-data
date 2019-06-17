@@ -1,0 +1,4 @@
+notRecovered:
+ME1:1 mal__L_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 pyr_c (1 M_L_Malate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Pyruvate_)
+
+

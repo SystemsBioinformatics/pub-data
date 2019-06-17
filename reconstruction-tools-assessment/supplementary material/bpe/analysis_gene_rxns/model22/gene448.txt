@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+RXN-15363:1 ATP_c + 1 CO-A_c + 1 CPD-16584_c -> 1 ADP_c + 1 CPD-16582_c + 1 Pi_c (1 ATP + 1 coenzyme A + 1 3-sulfinopropionate -> 1 ADP + 1 3-sulfinopropanoyl-CoA + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CO-A_c (coenzyme A)
+CPD-16582_c (3-sulfinopropanoyl-CoA)
+CPD-16584_c (3-sulfinopropionate)
+Pi_c (phosphate)
+
+

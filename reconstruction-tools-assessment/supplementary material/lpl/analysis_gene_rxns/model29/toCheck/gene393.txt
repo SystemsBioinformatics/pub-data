@@ -1,0 +1,17 @@
+notRecovered:
+AIRCr:1 air_c + 1 co2_c -> 1 5aizc_c + 1 h_c (1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_CO2_ -> 1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_4_carboxylate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R07404:1 C03373_c + 1 C00288_c + 1 C00002_c <=> 1 C15667_c + 1 C00008_c + 1 C00009_c (1 Aminoimidazole ribotide + 1 HCO3- + 1 ATP <=> 1 5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole + 1 ADP + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00288_c (HCO3-)
+C03373_c (Aminoimidazole ribotide)
+C15667_c (5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole)
+
+

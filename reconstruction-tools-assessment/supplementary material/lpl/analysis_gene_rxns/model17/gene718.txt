@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R04326:1 C00001_c + 1 C00445_c + 1 C03838_c <=> 1 C00101_c + 1 C04376_c (1 H2O + 1 5,10-Methenyltetrahydrofolate + 1 5'-Phosphoribosylglycinamide <=> 1 Tetrahydrofolate + 1 5'-Phosphoribosyl-N-formylglycinamide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00101_c (Tetrahydrofolate)
+C00445_c (5,10-Methenyltetrahydrofolate)
+C03838_c (5'-Phosphoribosylglycinamide)
+C04376_c (5'-Phosphoribosyl-N-formylglycinamide)
+
+

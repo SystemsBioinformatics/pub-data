@@ -1,0 +1,6 @@
+notRecovered:
+PHETA1:1 akg_c + 1 phe__L_c <=> 1 glu__L_c + 1 phpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Phenylalanine_ <=> 1 M_L_Glutamate_ + 1 M_Phenylpyruvate_)
+TYRTA:1 akg_c + 1 tyr__L_c <=> 1 34hpp_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Tyrosine_ <=> 1 M_3__4_Hydroxyphenyl_pyruvate_ + 1 M_L_Glutamate_)
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Tryptophan_ <=> 1 M_L_Glutamate_ + 1 M_Indolepyruvate_)
+
+

@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+MALTOSE-PHOSPHORYLASE-RXN-ALPHA-MALTOSE/Pi//CPD-448/ALPHA-GLUCOSE.40.:1 ALPHA-MALTOSE_c + 1 Pi_c -> 1 CPD-448_c + 1 ALPHA-GLUCOSE_c (1 alpha-maltose + 1 phosphate -> 1 beta-D-glucopyranose 1-phosphate + 1 alpha-D-glucopyranose)
+MALTOSE-PHOSPHORYLASE-RXN-ALPHA-MALTOSE/Pi//CPD-448/Glucopyranose.40.:1 ALPHA-MALTOSE_c + 1 Pi_c -> 1 CPD-448_c + 1 Glucopyranose_c (1 alpha-maltose + 1 phosphate -> 1 beta-D-glucopyranose 1-phosphate + 1 D-glucopyranose)
+MALTOSE-PHOSPHORYLASE-RXN-MALTOSE/Pi//CPD-448/GLC.24.:1 MALTOSE_c + 1 Pi_c -> 1 CPD-448_c + 1 GLC_c (1 maltose + 1 phosphate -> 1 beta-D-glucopyranose 1-phosphate + 1 beta-D-glucopyranose)
+MALTOSE-PHOSPHORYLASE-RXN-MALTOSE/Pi//CPD-448/ALPHA-GLUCOSE.34.:1 MALTOSE_c + 1 Pi_c -> 1 CPD-448_c + 1 ALPHA-GLUCOSE_c (1 maltose + 1 phosphate -> 1 beta-D-glucopyranose 1-phosphate + 1 alpha-D-glucopyranose)
+MALTOSE-PHOSPHORYLASE-RXN:1 MALTOSE_c + 1 Pi_c -> 1 CPD-448_c + 1 Glucopyranose_c (1 maltose + 1 phosphate -> 1 beta-D-glucopyranose 1-phosphate + 1 D-glucopyranose)
+
+
+AdditionalMetabolites:
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+ALPHA-MALTOSE_c (alpha-maltose)
+CPD-448_c (beta-D-glucopyranose 1-phosphate)
+GLC_c (beta-D-glucopyranose)
+Glucopyranose_c (D-glucopyranose)
+MALTOSE_c (maltose)
+Pi_c (phosphate)
+
+

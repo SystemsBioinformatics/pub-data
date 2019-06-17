@@ -1,0 +1,16 @@
+notRecovered:
+EPPP:1 h2o_c + 1 ppt_c -> 2 h_c + 1 pi_c (1 M_H2O_ + 1 M_Polyphosphate_ -> 2 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+PPPGPPHYDRO-RXN:1 GDP-TP_c + 1 WATER_c -> 1 GUANOSINE-5DP-3DP_c + 1 PROTON_c + 1 Pi_c (1 pppGpp + 1 H2O -> 1 ppGpp + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+GDP-TP_c (pppGpp)
+GUANOSINE-5DP-3DP_c (ppGpp)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

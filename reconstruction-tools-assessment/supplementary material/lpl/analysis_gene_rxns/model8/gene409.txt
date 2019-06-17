@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+ORNTAC:1 glu__L_c + 1 acorn_c <=> 1 orn_c + 1 acglu_c (1 L-Glutamate + 1 N2-Acetyl-L-ornithine <=> 1 Ornithine + 1 N-Acetyl-L-glutamate)
+ACGS:1 accoa_c + 1 glu__L_c -> 1 coa_c + 1 acglu_c + 1 h_c (1 Acetyl-CoA + 1 L-Glutamate -> 1 Coenzyme A + 1 N-Acetyl-L-glutamate + 1 H+)
+
+
+AdditionalMetabolites:
+orn_c (Ornithine)
+
+

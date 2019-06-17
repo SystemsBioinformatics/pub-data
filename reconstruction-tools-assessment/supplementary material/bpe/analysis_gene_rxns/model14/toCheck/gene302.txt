@@ -1,0 +1,15 @@
+notRecovered:
+FUMAC:1 4fumacac_c + 1 h2o_c -> 1 acac_c + 1 fum_c + 1 h_c (1 4-fumarylacetoacetate + 1 H2O -> 1 Acetoacetate + 1 Fumarate + 1 H+)
+
+
+AdditionalNotInModel:
+rxn03456:1 cpd00067_c + 1 cpd03640_c <=> 1 cpd00001_c + 1 cpd03643_c (1 H_plus__c0 + 1 6_Oxohexanoate_c0 <=> 1 H2O_c0 + 1 Cyclohexan_1_2_dione_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00067_c (H_plus__c0)
+cpd03640_c (6_Oxohexanoate_c0)
+cpd03643_c (Cyclohexan_1_2_dione_c0)
+
+

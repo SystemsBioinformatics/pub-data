@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+SERt2rpp:1 h_p + 1 ser__L_p <=> 1 h_c + 1 ser__L_c (1 H+ + 1 L-Serine <=> 1 H+ + 1 L-Serine)
+
+
+AdditionalMetabolites:
+h_p (H+)
+ser__L_p (L-Serine)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01323:1 C00024_c + 1 C00158_c <=> 1 C00566_c + 1 C00033_c (1 Acetyl-CoA + 1 Citrate <=> 1 (3S)-Citryl-CoA + 1 Acetate)
+
+
+AdditionalMetabolites:
+C00024_c (Acetyl-CoA)
+C00033_c (Acetate)
+C00158_c (Citrate)
+C00566_c ((3S)-Citryl-CoA)
+
+

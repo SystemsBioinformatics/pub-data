@@ -30,26 +30,28 @@ function [rxnMatrix, rxnIDs] = compareRxnNetworksWithMetaNetX(models, idsType, n
 %    %revFlag = false
 %
 % .. Authors:
-%       - Sebastián Mendoza 17/01/2019
+%       - Sebasti?n Mendoza 17/01/2019
+
+global rootFolder
 
 % initialize rxn table
-rxnIDs = cell(10000,length(models)+1);
+rxnIDs = cell(20000,length(models)+1);
 for i = 1:length(models)+1
     emptys =  find(cellfun(@isempty,rxnIDs(:,i))==1);
     for j = 1:length(emptys); rxnIDs{emptys(j),i} = ''; end;
 end
 
-if exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnMatrixFileName '_' species '.mat'], 'file')==2 && ...
-        exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnIDsFileName '_' species '.mat'], 'file')==2 ...
+if exist(fullfile(rootFolder, 'results', species, [rxnMatrixFileName, '_', species, '.mat']), 'file')==2 && ...
+        exist(fullfile(rootFolder, 'results', species, [rxnIDsFileName, '_', species, '.mat']), 'file')==2 ...
         && ~fromBeginning
-    load(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnMatrixFileName '_' species '.mat']);
-    load(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnIDsFileName '_' species '.mat'])
+    load(fullfile(rootFolder, 'results', species, [rxnMatrixFileName, '_', species, '.mat']));
+    load(fullfile(rootFolder, 'results', species, [rxnIDsFileName, '_', species, '.mat']))
 elseif fromBeginning
-    if exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnMatrixFileName '_' species '.mat'], 'file')==2 
-        delete(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnMatrixFileName '_' species '.mat']);        
+    if exist(fullfile(rootFolder, 'results', species, [rxnMatrixFileName, '_', species, '.mat']), 'file')==2 
+        delete(fullfile(rootFolder, 'results', species, [rxnMatrixFileName, '_', species, '.mat']));        
     end
-    if exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnIDsFileName '_' species '.mat'], 'file')==2 
-        delete(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep rxnIDsFileName '_' species '.mat']);
+    if exist(fullfile(rootFolder, 'results', species, [rxnIDsFileName, '_', species, '.mat']), 'file')==2 
+        delete(fullfile(rootFolder, 'results', species, [rxnIDsFileName, '_', species, '.mat']));
     end
     
     % fill first column of rxn comparison table
@@ -62,10 +64,16 @@ elseif fromBeginning
     % construct the rest of rxn comparison table
     fprintf('comparing rxns in models: progress %2.0f %%\n', 0);
     for i = 2:length(models)
-        if strcmp('bigg', idsType{i})
+        disp(i)
+        if strcmp(idsType{1}, idsType{i})
             rxns_i = models{i}.rxns;
             diff = rxns_i;
             for j =2:i
+                disp(j)
+                
+                if i ==26 && j==2
+                   disp('') 
+                end
                 rxns_j = rxnIDs(:,j);
                 [int, ~, ind2] = intersect(diff, rxns_j);
                 if ~isempty(int)

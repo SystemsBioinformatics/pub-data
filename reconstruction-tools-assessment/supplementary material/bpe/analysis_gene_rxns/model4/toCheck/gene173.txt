@@ -1,0 +1,22 @@
+notRecovered:
+RNTR3c:1 ctp_c + 1 fldrd_c -> 1 dctp_c + 1 fldox_c + 1 h2o_c (1 CTP + 1 flavodoxin (reduced) -> 1 dCTP + 1 flavodoxin (oxidized) + 1 H2O)
+FLDR:1 fldox_c + 1 h_c + 1 nadph_c -> 1 fldrd_c + 1 nadp_c (1 flavodoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 flavodoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate)
+RNTR2c:1 fldrd_c + 1 gtp_c -> 1 dgtp_c + 1 fldox_c + 1 h2o_c (1 flavodoxin (reduced) + 1 GTP -> 1 dGTP + 1 flavodoxin (oxidized) + 1 H2O)
+FRDO:1 fdxrd_c + 1 nadp_c -> 1 fdxox_c + 1 h_c + 1 nadph_c (1 ferredoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate -> 1 ferredoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+RNTR4c:1 fldrd_c + 1 utp_c -> 1 dutp_c + 1 fldox_c + 1 h2o_c (1 flavodoxin (reduced) + 1 UTP -> 1 dUTP + 1 flavodoxin (oxidized) + 1 H2O)
+RNTR1c:1 atp_c + 1 fldrd_c -> 1 datp_c + 1 fldox_c + 1 h2o_c (1 ATP + 1 flavodoxin (reduced) -> 1 dATP + 1 flavodoxin (oxidized) + 1 H2O)
+
+
+AdditionalNotInModel:
+FLDR2:2 flxso_c + 1 nadph_c -> 2 flxr_c + 1 h_c + 1 nadp_c (2 Flavodoxin semi oxidized + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 2 Flavodoxin reduced + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate)
+RNTR1c2:1 atp_c + 2 flxr_c + 2 h_c -> 1 datp_c + 2 flxso_c + 1 h2o_c (1 ATP C10H12N5O13P3 + 2 Flavodoxin reduced + 2 H+ -> 1 DATP C10H12N5O12P3 + 2 Flavodoxin semi oxidized + 1 H2O H2O)
+RNTR2c2:2 flxr_c + 1 gtp_c + 2 h_c -> 1 dgtp_c + 2 flxso_c + 1 h2o_c (2 Flavodoxin reduced + 1 GTP C10H12N5O14P3 + 2 H+ -> 1 DGTP C10H12N5O13P3 + 2 Flavodoxin semi oxidized + 1 H2O H2O)
+RNTR3c2:1 ctp_c + 2 flxr_c + 2 h_c -> 1 dctp_c + 2 flxso_c + 1 h2o_c (1 CTP C9H12N3O14P3 + 2 Flavodoxin reduced + 2 H+ -> 1 DCTP C9H12N3O13P3 + 2 Flavodoxin semi oxidized + 1 H2O H2O)
+RNTR4c2:2 flxr_c + 2 h_c + 1 utp_c -> 1 dutp_c + 2 flxso_c + 1 h2o_c (2 Flavodoxin reduced + 2 H+ + 1 UTP C9H11N2O15P3 -> 1 DUTP C9H11N2O14P3 + 2 Flavodoxin semi oxidized + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+flxr_c (Flavodoxin reduced)
+flxso_c (Flavodoxin semi oxidized)
+
+

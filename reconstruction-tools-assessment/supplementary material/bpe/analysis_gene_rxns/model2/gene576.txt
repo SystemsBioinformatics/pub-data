@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+G6PI:1 g6p_c <=> 1 g6p_B_c (1 D-Glucose 6-phosphate <=> 1 Beta D glucose 6 phosphate C6H11O9P)
+
+
+AdditionalMetabolites:
+g6p_B_c (Beta D glucose 6 phosphate C6H11O9P)
+
+

@@ -1,0 +1,22 @@
+notRecovered:
+HIBD:1 3hmp_c + 1 nad_c -> 1 2mop_c + 1 h_c + 1 nadh_c (1 M_3_Hydroxy_2_methylpropanoate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_2_Methyl_3_oxopropanoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+R01745:1 C00003_c + 1 C00258_c <=> 1 C00004_c + 1 C00080_c + 1 C01146_c (1 NAD+ + 1 D-Glycerate <=> 1 NADH + 1 H+ + 1 2-Hydroxy-3-oxopropanoate)
+R01747:1 C00006_c + 1 C00258_c <=> 1 C00005_c + 1 C00080_c + 1 C01146_c (1 NADP+ + 1 D-Glycerate <=> 1 NADPH + 1 H+ + 1 2-Hydroxy-3-oxopropanoate)
+R05066:1 C00003_c + 1 C06001_c <=> 1 C00004_c + 1 C00080_c + 1 C06002_c (1 NAD+ + 1 (S)-3-Hydroxyisobutyrate <=> 1 NADH + 1 H+ + 1 (S)-Methylmalonate semialdehyde)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00258_c (D-Glycerate)
+C01146_c (2-Hydroxy-3-oxopropanoate)
+C06001_c ((S)-3-Hydroxyisobutyrate)
+C06002_c ((S)-Methylmalonate semialdehyde)
+
+

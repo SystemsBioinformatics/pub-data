@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+R08364:1 C04232_c + 1 C03170_c + 1 C00001_c <=> 1 C03723_c + 1 C02090_c (1 2''-Deoxyribonucleoside diphosphate + 1 Trypanothione disulfide + 1 H2O <=> 1 Ribonucleoside diphosphate + 1 Trypanothione)
+R08363:1 C16664_c + 1 C04232_c + 1 C00001_c <=> 1 C16663_c + 1 C03723_c (1 Tryparedoxin disulfide + 1 2''-Deoxyribonucleoside diphosphate + 1 H2O <=> 1 Tryparedoxin + 1 Ribonucleoside diphosphate)
+R11893:1 C00343_c + 1 C21750_c + 1 C00001_c <=> 1 C00342_c + 1 C21748_c (1 Thioredoxin disulfide + 1 5-Fluorodeoxyuridine diphosphate + 1 H2O <=> 1 Thioredoxin + 1 5-Fluorouridine diphosphate)
+R04294:1 C04232_c + 1 C00343_c + 1 C00001_c <=> 1 C03723_c + 1 C00342_c (1 2''-Deoxyribonucleoside diphosphate + 1 Thioredoxin disulfide + 1 H2O <=> 1 Ribonucleoside diphosphate + 1 Thioredoxin)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00342_c (Thioredoxin)
+C00343_c (Thioredoxin disulfide)
+C02090_c (Trypanothione)
+C03170_c (Trypanothione disulfide)
+C03723_c (Ribonucleoside diphosphate)
+C04232_c (2''-Deoxyribonucleoside diphosphate)
+C16663_c (Tryparedoxin)
+C16664_c (Tryparedoxin disulfide)
+C21748_c (5-Fluorouridine diphosphate)
+C21750_c (5-Fluorodeoxyuridine diphosphate)
+
+

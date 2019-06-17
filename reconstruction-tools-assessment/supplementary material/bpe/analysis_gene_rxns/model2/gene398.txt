@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+G3PCabcpp:1 atp_c + 1 h2o_c + 1 g3pc_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 g3pc_c (1 ATP + 1 H2O + 1 Sn-Glycero-3-phosphocholine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Sn-Glycero-3-phosphocholine)
+G3PEabcpp:1 atp_c + 1 h2o_c + 1 g3pe_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 g3pe_c (1 ATP + 1 H2O + 1 Sn-Glycero-3-phosphoethanolamine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Sn-Glycero-3-phosphoethanolamine)
+G3PGabcpp:1 atp_c + 1 h2o_c + 1 g3pg_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 g3pg_c (1 ATP + 1 H2O + 1 Glycerophosphoglycerol -> 1 ADP + 1 Phosphate + 1 H+ + 1 Glycerophosphoglycerol)
+G3PIabcpp:1 atp_c + 1 h2o_c + 1 g3pi_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 g3pi_c (1 ATP + 1 H2O + 1 Sn-Glycero-3-phospho-1-inositol -> 1 ADP + 1 Phosphate + 1 H+ + 1 Sn-Glycero-3-phospho-1-inositol)
+G3PSabcpp:1 atp_c + 1 h2o_c + 1 g3ps_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 g3ps_c (1 ATP + 1 H2O + 1 Glycerophosphoserine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Glycerophosphoserine)
+GLYC2Pabcpp:1 atp_c + 1 h2o_c + 1 glyc2p_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 glyc2p_c (1 ATP + 1 H2O + 1 Glycerol 2-phosphate -> 1 ADP + 1 Phosphate + 1 H+ + 1 Glycerol 2-phosphate)
+GLYC3Pabc:1 atp_c + 1 h2o_c + 1 glyc3p_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 glyc3p_c (1 ATP + 1 H2O + 1 Glycerol 3-phosphate -> 1 ADP + 1 Phosphate + 1 H+ + 1 Glycerol 3-phosphate)
+
+
+AdditionalMetabolites:
+g3pc_c (Sn-Glycero-3-phosphocholine)
+g3pc_p (Sn-Glycero-3-phosphocholine)
+g3pe_c (Sn-Glycero-3-phosphoethanolamine)
+g3pe_p (Sn-Glycero-3-phosphoethanolamine)
+g3pg_c (Glycerophosphoglycerol)
+g3pg_p (Glycerophosphoglycerol)
+g3pi_c (Sn-Glycero-3-phospho-1-inositol)
+g3pi_p (Sn-Glycero-3-phospho-1-inositol)
+g3ps_c (Glycerophosphoserine)
+g3ps_p (Glycerophosphoserine)
+glyc2p_c (Glycerol 2-phosphate)
+
+

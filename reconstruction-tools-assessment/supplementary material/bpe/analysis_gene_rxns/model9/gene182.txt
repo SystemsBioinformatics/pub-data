@@ -1,0 +1,25 @@
+notRecovered:
+DASYN141:1 ctp_c + 1 h_c + 1 pa141_c -> 1 cdpdtdec7eg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-ditetradec-7-enoylglycerol + 1 Diphosphate)
+DASYN140:1 ctp_c + 1 h_c + 1 pa140_c -> 1 cdpdtdecg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-ditetradecanoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-ditetradecanoylglycerol + 1 Diphosphate)
+DASYN161:1 ctp_c + 1 h_c + 1 pa161_c -> 1 cdpdhdec9eg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-dihexadec-9-enoylglycerol + 1 Diphosphate)
+DASYN160:1 ctp_c + 1 h_c + 1 pa160_c -> 1 cdpdhdecg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-dihexadecanoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-dihexadecanoylglycerol + 1 Diphosphate)
+DASYN181:1 ctp_c + 1 h_c + 1 pa181_c -> 1 cdpdodec11eg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-dioctadec-11-enoylglycerol + 1 Diphosphate)
+DASYN120:1 ctp_c + 1 h_c + 1 pa120_c -> 1 cdpdddecg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-didodecanoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-didodecanoylglycerol + 1 Diphosphate)
+DASYN180:1 ctp_c + 1 h_c + 1 pa180_c -> 1 cdpdodecg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-dioctadecanoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-dioctadecanoylglycerol + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+RXN0-5515:1 2-3-4-Saturated-L-Phosphatidates_c + 1 CTP_c + 1 PROTON_c -> 1 CDP-2-3-4-Saturated-Diacylglycerols_c + 1 PPI_c (1 a 2,3,4-saturated 1,2-diacyl-sn-glycerol 3-phosphate + 1 CTP + 1 H+ -> 1 a CDP-2,3,4-saturated-diacylglycerol + 1 diphosphate)
+CDPDIGLYSYN-RXN:1 CTP_c + 1 L-PHOSPHATIDATE_c + 1 PROTON_c -> 1 CDPDIACYLGLYCEROL_c + 1 PPI_c (1 CTP + 1 a 1,2-diacyl-sn-glycerol 3-phosphate + 1 H+ -> 1 a CDP-diacylglycerol + 1 diphosphate)
+
+
+AdditionalMetabolites:
+2-3-4-Saturated-L-Phosphatidates_c (a 2,3,4-saturated 1,2-diacyl-sn-glycerol 3-phosphate)
+CDP-2-3-4-Saturated-Diacylglycerols_c (a CDP-2,3,4-saturated-diacylglycerol)
+CDPDIACYLGLYCEROL_c (a CDP-diacylglycerol)
+CTP_c (CTP)
+L-PHOSPHATIDATE_c (a 1,2-diacyl-sn-glycerol 3-phosphate)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

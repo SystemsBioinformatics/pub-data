@@ -1,0 +1,19 @@
+notRecovered:
+METSOXR1:1 metsox_S__L_c + 1 trdrd_c -> 1 h2o_c + 1 met__L_c + 1 trdox_c (1 L-Methionine Sulfoxide + 1 Reduced thioredoxin -> 1 H2O + 1 L-Methionine + 1 Oxidized thioredoxin)
+
+
+AdditionalNotInModel:
+R07606:1 C00073_c + 1 C00343_c + 1 C00001_c <=> 1 C00342_c + 1 C15999_c (1 L-Methionine + 1 Thioredoxin disulfide + 1 H2O <=> 1 Thioredoxin + 1 L-Methionine (S)-S-oxide)
+R04120:1 C00343_c + 1 C03023_c + 1 C00001_c <=> 1 C03895_c + 1 C00342_c (1 Thioredoxin disulfide + 1 Peptide-L-methionine + 1 H2O <=> 1 Peptide-L-methionine (S)-S-oxide + 1 Thioredoxin)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00073_c (L-Methionine)
+C00342_c (Thioredoxin)
+C00343_c (Thioredoxin disulfide)
+C03023_c (Peptide-L-methionine)
+C03895_c (Peptide-L-methionine (S)-S-oxide)
+C15999_c (L-Methionine (S)-S-oxide)
+
+

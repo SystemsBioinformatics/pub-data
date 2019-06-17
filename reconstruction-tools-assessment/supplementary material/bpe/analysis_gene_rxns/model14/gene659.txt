@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn14293:1 cpd02616_c <=> 1 cpd00013_c + 1 cpd08707_c (1 dTDP_4_amino_4_6_dideoxy_D_glucose_c0 <=> 1 NH3_c0 + 1 dTDP_3_oxo_4_6_dideoxy_D_glucose_c0)
+
+
+AdditionalMetabolites:
+cpd00013_c (NH3_c0)
+cpd02616_c (dTDP_4_amino_4_6_dideoxy_D_glucose_c0)
+cpd08707_c (dTDP_3_oxo_4_6_dideoxy_D_glucose_c0)
+
+

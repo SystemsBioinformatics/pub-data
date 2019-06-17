@@ -1,0 +1,32 @@
+notRecovered:
+UHGADA_BP:1 h2o_c + 1 u3aga_BP_c -> 1 ac_c + 1 u3hga_BP_c (1 H2O + 1 UDP-3-O-(3-hydroxydecanoyl)-N-acetylglucosamine -> 1 Acetate + 1 UDP-3-O-(3-hydroxydecanoyl)-D-glucosamine)
+
+
+AdditionalNotInModel:
+R04428:1 C04618_c <=> 1 C00001_c + 1 C04246_c (1 (3R)-3-Hydroxybutanoyl-[acyl-carrier protein] <=> 1 H2O + 1 But-2-enoyl-[acyl-carrier protein])
+R04535:1 C04619_c <=> 1 C00001_c + 1 C05754_c (1 (3R)-3-Hydroxydecanoyl-[acyl-carrier protein] <=> 1 H2O + 1 trans-Dec-2-enoyl-[acp])
+R04537:1 C04620_c <=> 1 C00001_c + 1 C05751_c (1 (3R)-3-Hydroxyoctanoyl-[acyl-carrier protein] <=> 1 H2O + 1 trans-Oct-2-enoyl-[acp])
+R04544:1 C04633_c <=> 1 C00001_c + 1 C05763_c (1 (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein] <=> 1 H2O + 1 trans-Hexadec-2-enoyl-[acp])
+R04568:1 C04688_c <=> 1 C00001_c + 1 C05760_c (1 (3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] <=> 1 H2O + 1 trans-Tetradec-2-enoyl-[acp])
+R04954:1 C05747_c <=> 1 C00001_c + 1 C05748_c (1 (R)-3-Hydroxyhexanoyl-[acp] <=> 1 H2O + 1 trans-Hex-2-enoyl-[acp])
+R04965:1 C05757_c <=> 1 C00001_c + 1 C05758_c (1 (R)-3-Hydroxydodecanoyl-[acp] <=> 1 H2O + 1 trans-Dodec-2-enoyl-[acp])
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C04246_c (But-2-enoyl-[acyl-carrier protein])
+C04618_c ((3R)-3-Hydroxybutanoyl-[acyl-carrier protein])
+C04619_c ((3R)-3-Hydroxydecanoyl-[acyl-carrier protein])
+C04620_c ((3R)-3-Hydroxyoctanoyl-[acyl-carrier protein])
+C04633_c ((3R)-3-Hydroxypalmitoyl-[acyl-carrier protein])
+C04688_c ((3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein])
+C05747_c ((R)-3-Hydroxyhexanoyl-[acp])
+C05748_c (trans-Hex-2-enoyl-[acp])
+C05751_c (trans-Oct-2-enoyl-[acp])
+C05754_c (trans-Dec-2-enoyl-[acp])
+C05757_c ((R)-3-Hydroxydodecanoyl-[acp])
+C05758_c (trans-Dodec-2-enoyl-[acp])
+C05760_c (trans-Tetradec-2-enoyl-[acp])
+C05763_c (trans-Hexadec-2-enoyl-[acp])
+
+

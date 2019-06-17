@@ -1,0 +1,4 @@
+notRecovered:
+MANpts:1 man_e + 1 pep_c -> 1 man6p_c + 1 pyr_c (1 M_D_Mannose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannose_6_phosphate_ + 1 M_Pyruvate_)
+
+

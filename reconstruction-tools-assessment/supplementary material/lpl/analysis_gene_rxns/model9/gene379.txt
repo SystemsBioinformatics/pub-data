@@ -1,0 +1,37 @@
+notRecovered:
+DAGK_LPL:1 atp_c + 0.01 dag_LPL_c -> 1 adp_c + 1 h_c + 0.01 pa_LPL_c (1 M_ATP_ + 0.01 M_1_2_Diacylglycerol__LPL_specific_ -> 1 M_ADP_ + 1 M_H_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__)
+
+
+AdditionalNotInModel:
+DAGK_HDE_PALM:1 atp_c + 1 12dgr1619Z160_c -> 1 adp_c + 1 h_c + 1 pa1619Z160_c (1 ATP C10H12N5O13P3 + 1 1,2-Diacyl-sn-glycerol(16:1(9Z)/16:0) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 1-9-Hexadecenoyl-2-Hexadecanoyl-sn-glycerol-3-phosphate)
+DAGK_OLE_PALM:1 atp_c + 1 12dgr1819Z160_c -> 1 adp_c + 1 h_c + 1 pa1819Z160_c (1 ATP C10H12N5O13P3 + 1 1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 1-(9Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol 3-phosphate)
+DAGK161:1 atp_c + 1 12dgr161_c -> 1 adp_c + 1 h_c + 1 pa161_c (1 ATP C10H12N5O13P3 + 1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate)
+DAGK_HP:1 atp_c + 1 12dgr_HP_c -> 1 adp_c + 1 pa_Hp_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 1,2-Diacylglycerol Hp specific -> 1 ADP C10H12N5O10P2 + 1 Phosphatidic acid Hp specific + 1 H+)
+DAGK_BS:1 atp_c + 0.01 12dgr_BS_c -> 0.01 12dag3p_BS_c + 1 adp_c + 1 h_c (1 ATP C10H12N5O13P3 + 0.01 1 2 diacylglycerol C3436H6672O500 -> 0.01 1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100 + 1 ADP C10H12N5O10P2 + 1 H+)
+DAGK_SA:1 atp_c + 0.02 12dgr_SA_c -> 1 adp_c + 1 h_c + 0.02 pa_SA_c (1 ATP C10H12N5O13P3 + 0.02 1,2-Daicylglycerol (Saureus) -> 1 ADP C10H12N5O10P2 + 1 H+ + 0.02 Phosphatidate (Saureus))
+DAGK_OLE_HDE:1 atp_c + 1 12dgr1819Z1619Z_c -> 1 adp_c + 1 h_c + 1 pa1819Z1619Z_c (1 ATP C10H12N5O13P3 + 1 1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl, 18:1(9Z)/16:1(9Z)) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl-sn-glycerol 3-phosphate)
+DAGK_LLA:1 atp_c + 0.01 12dgr_LLA_c -> 1 adp_c + 1 h_c + 0.01 pa_LLA_c (1 ATP C10H12N5O13P3 + 0.01 1 2 diacylglycerol  lactis specific  -> 1 ADP C10H12N5O10P2 + 1 H+ + 0.01 Phosphatidic acid  Lactis specific)
+DAGK160:1 atp_c + 1 12dgr160_c -> 1 adp_c + 1 h_c + 1 pa160_c (1 ATP C10H12N5O13P3 + 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 1,2-dihexadecanoyl-sn-glycerol 3-phosphate)
+
+
+AdditionalMetabolites:
+12dag3p_BS_c (1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100)
+12dgr160_c (1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0))
+12dgr1619Z160_c (1,2-Diacyl-sn-glycerol(16:1(9Z)/16:0))
+12dgr161_c (1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1))
+12dgr1819Z160_c (1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-hexadecanoyl, 18:1(9Z)/16:0))
+12dgr1819Z1619Z_c (1,2-Diacyl-sn-glycerol (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl, 18:1(9Z)/16:1(9Z)))
+12dgr_BS_c (1 2 diacylglycerol C3436H6672O500)
+12dgr_HP_c (1,2-Diacylglycerol Hp specific)
+12dgr_LLA_c (1 2 diacylglycerol  lactis specific)
+12dgr_SA_c (1,2-Daicylglycerol (Saureus))
+pa160_c (1,2-dihexadecanoyl-sn-glycerol 3-phosphate)
+pa1619Z160_c (1-9-Hexadecenoyl-2-Hexadecanoyl-sn-glycerol-3-phosphate)
+pa161_c (1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate)
+pa1819Z160_c (1-(9Z)-octadecenoyl,2-hexadecanoyl-sn-glycerol 3-phosphate)
+pa1819Z1619Z_c (1-(9Z)-octadecenoyl,2-(9Z)-hexadecenoyl-sn-glycerol 3-phosphate)
+pa_Hp_c (Phosphatidic acid Hp specific)
+pa_LLA_c (Phosphatidic acid  Lactis specific)
+pa_SA_c (Phosphatidate (Saureus))
+
+

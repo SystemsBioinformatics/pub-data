@@ -1,0 +1,13 @@
+notRecovered:
+GLCNT2_BP2:1 gggghhppealipa_BP_c + 1 uacgam_c -> 1 h_c + 1 nacggggghhppealipa_BP_c + 1 udp_c (1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 UDP-N-acetyl-D-glucosamine -> 1 H+ + 1 glucosamine-(glucurono-)heptosyl-(N-acetylglucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 UDP)
+GLCNT2_BP1:1 gggghhlipa_BP_c + 1 uacgam_c -> 1 h_c + 1 nacggggghhlipa_BP_c + 1 udp_c (1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) + 1 UDP-N-acetyl-D-glucosamine -> 1 H+ + 1 glucosamine-(glucurono-)heptosyl-(N-acetylglucosamine-(galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) + 1 UDP)
+
+
+AdditionalNotInModel:
+MAN6PI:1 man6p_c <=> 1 f6p_c (1 D-Mannose 6-phosphate <=> 1 D-Fructose 6-phosphate)
+
+
+AdditionalMetabolites:
+man6p_c (D-Mannose 6-phosphate)
+
+

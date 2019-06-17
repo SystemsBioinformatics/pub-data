@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+RXN-18511:1 CPD-19839_c + 1 ATP_c + 1 PROTON_c -> 1 CPD-19840_c + 1 PPI_c (1 roseoflavin 5'-phosphate + 1 ATP + 1 H+ -> 1 roseoflavin adenine dinucleotide + 1 diphosphate)
+RXN-18510:1 CPD-19833_c + 1 ATP_c -> 1 CPD-19839_c + 1 ADP_c + 1 PROTON_c (1 roseoflavin + 1 ATP -> 1 roseoflavin 5'-phosphate + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CPD-19833_c (roseoflavin)
+CPD-19839_c (roseoflavin 5'-phosphate)
+CPD-19840_c (roseoflavin adenine dinucleotide)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

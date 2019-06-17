@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+AMPMS:1 h2o_c + 1 air_c -> 4 h_c + 1 4ampm_c + 2 for_c (1 H2O + 1 5-amino-1-(5-phospho-D-ribosyl)imidazole -> 4 H+ + 1 4-Amino-2-methyl-5-phosphomethylpyrimidine + 2 Formate)
+
+

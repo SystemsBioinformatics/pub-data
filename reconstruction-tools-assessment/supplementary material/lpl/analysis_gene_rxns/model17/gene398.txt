@@ -1,0 +1,5 @@
+notRecovered:
+LCTSt:1 h_e + 1 lcts_e <=> 1 h_c + 1 lcts_c (1 M_H_ + 1 M_Lactose_ <=> 1 M_H_ + 1 M_Lactose_)
+MELIBt2:1 h_e + 1 melib_e -> 1 h_c + 1 melib_c (1 M_H_ + 1 M_Melibiose_ -> 1 M_H_ + 1 M_Melibiose_)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+MCSNAH:1 5mcsn_c + 1 h_c + 1 h2o_c <=> 1 nh4_c + 1 thym_c (1 5-Methylcytosine + 1 H+ + 1 H2O H2O <=> 1 Ammonium + 1 Thymine C5H6N2O2)
+
+
+AdditionalMetabolites:
+5mcsn_c (5-Methylcytosine)
+thym_c (Thymine C5H6N2O2)
+
+

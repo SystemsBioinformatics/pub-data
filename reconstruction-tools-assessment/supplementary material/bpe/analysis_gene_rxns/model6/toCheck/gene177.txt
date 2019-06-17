@@ -1,0 +1,13 @@
+notRecovered:
+METSOXR1:1 metsox_S__L_c + 1 trdrd_c -> 1 h2o_c + 1 met__L_c + 1 trdox_c (1 L-Methionine Sulfoxide + 1 Reduced thioredoxin -> 1 H2O + 1 L-Methionine + 1 Oxidized thioredoxin)
+
+
+AdditionalNotInModel:
+METSR_S1:1 metox_c + 1 trdrd_c -> 1 h2o_c + 1 met__L_c + 1 trdox_c (1 L Methionine S oxide C5H11NO3S + 1 Reduced thioredoxin -> 1 H2O H2O + 1 L-Methionine + 1 Oxidized thioredoxin)
+METSR_S2:1 h2o2_c + 1 met__L_c -> 1 h2o_c + 1 metox_c (1 Hydrogen peroxide + 1 L-Methionine -> 1 H2O H2O + 1 L Methionine S oxide C5H11NO3S)
+
+
+AdditionalMetabolites:
+metox_c (L Methionine S oxide C5H11NO3S)
+
+

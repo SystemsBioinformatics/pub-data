@@ -1,0 +1,4 @@
+notRecovered:
+DHDPRy:1 23dhdp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 thdp_c (1 2,3-Dihydrodipicolinate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Nicotinamide adenine dinucleotide phosphate + 1 2,3,4,5-Tetrahydrodipicolinate)
+
+

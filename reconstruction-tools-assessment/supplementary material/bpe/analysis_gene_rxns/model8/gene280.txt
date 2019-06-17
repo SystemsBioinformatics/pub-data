@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN0-6948:1 MET_c + 1 ACETYL-COA_c -> 1 CPD0-2015_c + 1 CO-A_c + 1 PROTON_c (1 L-methionine + 1 acetyl-CoA -> 1 N-acetyl-L-methionine + 1 coenzyme A + 1 H+)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+CO-A_c (coenzyme A)
+CPD0-2015_c (N-acetyl-L-methionine)
+MET_c (L-methionine)
+PROTON_c (H+)
+
+

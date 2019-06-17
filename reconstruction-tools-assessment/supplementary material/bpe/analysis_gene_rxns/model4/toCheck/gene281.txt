@@ -1,0 +1,20 @@
+notRecovered:
+ACCOAPT:1 2maacoa_c + 1 coa_c + 2 h2o_c -> 1 accoa_c + 1 ppcoa_c (1 2-methylacetoacetyl-coenzyme A + 1 Coenzyme A + 2 H2O -> 1 Acetyl-CoA + 1 Propanoyl-CoA)
+ACACT3r:1 accoa_c + 1 hxcoa_c -> 1 3oocoa_c + 1 coa_c (1 Acetyl-CoA + 1 Hexanoyl-CoA (n-C6:0CoA) -> 1 3-Oxooctanoyl-CoA + 1 Coenzyme A)
+ACACT2r:1 accoa_c + 1 btcoa_c -> 1 3ohcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Butanoyl-CoA -> 1 3-Oxohexanoyl-CoA + 1 Coenzyme A)
+ACACT6r:1 accoa_c + 1 ddcacoa_c -> 1 3otdcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Dodecanoyl-CoA (n-C12:0CoA) -> 1 3-Oxotetradecanoyl-CoA + 1 Coenzyme A)
+ACACT5r:1 accoa_c + 1 dcacoa_c -> 1 3oddcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Decanoyl-CoA (n-C10:0CoA) -> 1 3-Oxododecanoyl-CoA + 1 Coenzyme A)
+ACACT4r:1 accoa_c + 1 occoa_c -> 1 3odcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Octanoyl-CoA (n-C8:0CoA) -> 1 3-Oxodecanoyl-CoA + 1 Coenzyme A)
+ACACT8r:1 3ohodcoa_c + 1 coa_c -> 1 accoa_c + 1 pmtcoa_c (1 3-Oxooctadecanoyl-CoA + 1 Coenzyme A -> 1 Acetyl-CoA + 1 Palmitoyl-CoA (n-C16:0CoA))
+ACACT7r:1 accoa_c + 1 tdcoa_c -> 1 3ohdcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Tetradecanoyl-CoA (n-C14:0CoA) -> 1 3-Oxohexadecanoyl-CoA + 1 Coenzyme A)
+
+
+AdditionalNotInModel:
+OXDHCOAT:1 3oxdhscoa_c + 1 coa_c -> 1 23dhacoa_c + 1 accoa_c (1 3-oxo-5,6-dehydrosuberyl-CoA + 1 Coenzyme A -> 1 2,3-dehydroadipyl-CoA + 1 Acetyl-CoA)
+
+
+AdditionalMetabolites:
+23dhacoa_c (2,3-dehydroadipyl-CoA)
+3oxdhscoa_c (3-oxo-5,6-dehydrosuberyl-CoA)
+
+

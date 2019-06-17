@@ -1,0 +1,4 @@
+notRecovered:
+ADSS:1 asp__L_c + 1 gtp_c + 1 imp_c -> 1 dcamp_c + 1 gdp_c + 2 h_c + 1 pi_c (1 L-Aspartate + 1 GTP + 1 IMP -> 1 N6-(1,2-Dicarboxyethyl)-AMP + 1 GDP + 2 H+ + 1 Phosphate)
+
+

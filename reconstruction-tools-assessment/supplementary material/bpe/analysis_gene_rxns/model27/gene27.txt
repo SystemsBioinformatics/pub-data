@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R01324:1 C00158_c <=> 1 C00311_c (1 Citrate <=> 1 Isocitrate)
+
+
+AdditionalMetabolites:
+C00158_c (Citrate)
+C00311_c (Isocitrate)
+
+

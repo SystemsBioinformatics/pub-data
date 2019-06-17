@@ -1,0 +1,19 @@
+notRecovered:
+TAURabcpp:1 atp_c + 1 h2o_c + 1 taur_p -> 1 adp_c + 1 h_c + 1 pi_c + 1 taur_c (1 ATP + 1 H2O + 1 Taurine -> 1 ADP + 1 H+ + 1 Phosphate + 1 Taurine)
+
+
+AdditionalNotInModel:
+BUTSO3abcpp:1 atp_c + 1 butso3_p + 1 h2o_c -> 1 adp_c + 1 butso3_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Butanesulfonate + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Butanesulfonate + 1 H+ + 1 Phosphate)
+LCYSTabcpp:1 Lcyst_p + 1 atp_c + 1 h2o_c -> 1 Lcyst_c + 1 adp_c + 1 h_c + 1 pi_c (1 L-Cysteate + 1 ATP C10H12N5O13P3 + 1 H2O H2O -> 1 L-Cysteate + 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate)
+SULFACabcpp:1 atp_c + 1 h2o_c + 1 sulfac_p -> 1 adp_c + 1 h_c + 1 pi_c + 1 sulfac_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Sulfoacetate -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate + 1 Sulfoacetate)
+
+
+AdditionalMetabolites:
+Lcyst_c (L-Cysteate)
+Lcyst_p (L-Cysteate)
+butso3_c (Butanesulfonate)
+butso3_p (Butanesulfonate)
+sulfac_c (Sulfoacetate)
+sulfac_p (Sulfoacetate)
+
+

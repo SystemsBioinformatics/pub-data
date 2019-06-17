@@ -1,0 +1,42 @@
+notRecovered:
+CORELPSPPEAtex:1 coreLPSppea_BP_p -> 1 coreLPSppea_BP_e (1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) -> 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific))
+CORELPSFMGT_BPtex:1 fmgcoreLPS_BP_p -> 1 fmgcoreLPS_BP_e (1 N-acetyl-glucosamine-2-N-acetyl-3-N-acteyl-mannosaminuronate-2-N-acetyl-4-N-methyl-fucose-glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) -> 1 N-acetyl-glucosamine-2-N-acetyl-3-N-acteyl-mannosaminuronate-2-N-acetyl-4-N-methyl-fucose-glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific))
+CORELPSPPEAFMGT_BPtex:1 fmgcoreLPSppea_BP_p -> 1 fmgcoreLPSppea_BP_e (1 N-acetyl-glucosamine-2-N-acetyl-3-N-acteyl-mannosaminuronate-2-N-acetyl-4-N-methyl-fucose-glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) -> 1 N-acetyl-glucosamine-2-N-acetyl-3-N-acteyl-mannosaminuronate-2-N-acetyl-4-N-methyl-fucose-glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific))
+GGHHPPEALIPAtex:1 gghhppealipa_BP_p -> 1 gghhppealipa_BP_e (1 glucurono-heptosyl-(gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) -> 1 glucurono-heptosyl-(gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific))
+GGGGHHPPEALIPAtex:1 gggghhppealipa_BP_p -> 1 gggghhppealipa_BP_e (1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) -> 1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific))
+CORELPSPPEAGFMGT_BPtex:1 fmgcoreLPSppeag_BP_p -> 1 fmgcoreLPSppeag_BP_e (1 N-acetyl-glucosamine-2-N-acetyl-3-N-acteyl-mannosaminuronate-2-N-acetyl-4-N-methyl-fucose-glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA-glucosamine (B. pertussis specific) -> 1 N-acetyl-glucosamine-2-N-acetyl-3-N-acteyl-mannosaminuronate-2-N-acetyl-4-N-methyl-fucose-glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA-glucosamine (B. pertussis specific))
+
+
+AdditionalNotInModel:
+ACOLIPAabctex:1 acolipa_p + 1 atp_c + 1 h2o_c -> 1 acolipa_e + 1 adp_c + 1 h_c + 1 pi_c (1 4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A + 1 ATP C10H12N5O13P3 + 1 H2O H2O -> 1 4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A + 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate)
+CLIPAabctex:1 atp_c + 1 h2o_c + 1 lipa_cold_p -> 1 adp_c + 1 h_c + 1 lipa_cold_e + 1 pi_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Cold adapted KDO(2)-lipid (A) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 Cold adapted KDO(2)-lipid (A) + 1 Phosphate)
+COLIPAabctex:1 atp_c + 1 colipa_p + 1 h2o_c -> 1 adp_c + 1 colipa_e + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Core oligosaccharide lipid A + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Core oligosaccharide lipid A + 1 H+ + 1 Phosphate)
+COLIPAPabctex:1 atp_c + 1 colipap_p + 1 h2o_c -> 1 adp_c + 1 colipap_e + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Core oligosaccharide lipid A diphosphate + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Core oligosaccharide lipid A diphosphate + 1 H+ + 1 Phosphate)
+ECA4COLIPAabctex:1 atp_c + 1 eca4colipa_p + 1 h2o_c -> 1 adp_c + 1 eca4colipa_e + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 (enterobacterial common antigen)x4 core oligosaccharide lipid A + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 (enterobacterial common antigen)x4 core oligosaccharide lipid A + 1 H+ + 1 Phosphate)
+ENLIPAabctex:1 atp_c + 1 enlipa_p + 1 h2o_c -> 1 adp_c + 1 enlipa_e + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Phosphoethanolamine KDO(2)-lipid (A) + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphoethanolamine KDO(2)-lipid (A) + 1 H+ + 1 Phosphate)
+K2L4Aabctex:1 atp_c + 1 h2o_c + 1 kdo2lipid4_p -> 1 adp_c + 1 h_c + 1 kdo2lipid4_e + 1 pi_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 KDO(2)-lipid IV(A) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 KDO(2)-lipid IV(A) + 1 Phosphate)
+LIPAabctex:1 atp_c + 1 h2o_c + 1 lipa_p -> 1 adp_c + 1 h_c + 1 lipa_e + 1 pi_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 KDO(2)-lipid (A) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 KDO(2)-lipid (A) + 1 Phosphate)
+O16A4COLIPAabctex:1 atp_c + 1 h2o_c + 1 o16a4colipa_p -> 1 adp_c + 1 h_c + 1 o16a4colipa_e + 1 pi_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 (O16 antigen)x4 core oligosaccharide lipid A -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 (O16 antigen)x4 core oligosaccharide lipid A + 1 Phosphate)
+
+
+AdditionalMetabolites:
+acolipa_e (4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A)
+acolipa_p (4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A)
+colipa_e (Core oligosaccharide lipid A)
+colipa_p (Core oligosaccharide lipid A)
+colipap_e (Core oligosaccharide lipid A diphosphate)
+colipap_p (Core oligosaccharide lipid A diphosphate)
+eca4colipa_e ((enterobacterial common antigen)x4 core oligosaccharide lipid A)
+eca4colipa_p ((enterobacterial common antigen)x4 core oligosaccharide lipid A)
+enlipa_e (Phosphoethanolamine KDO(2)-lipid (A))
+enlipa_p (Phosphoethanolamine KDO(2)-lipid (A))
+kdo2lipid4_e (KDO(2)-lipid IV(A))
+kdo2lipid4_p (KDO(2)-lipid IV(A))
+lipa_cold_e (Cold adapted KDO(2)-lipid (A))
+lipa_cold_p (Cold adapted KDO(2)-lipid (A))
+lipa_e (KDO(2)-lipid (A))
+lipa_p (KDO(2)-lipid (A))
+o16a4colipa_e ((O16 antigen)x4 core oligosaccharide lipid A)
+o16a4colipa_p ((O16 antigen)x4 core oligosaccharide lipid A)
+
+

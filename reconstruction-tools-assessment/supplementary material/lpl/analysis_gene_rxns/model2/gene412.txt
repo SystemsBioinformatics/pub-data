@@ -1,0 +1,2 @@
+AdditionalInModel:
+GLYCLTt2r:1 h_e + 1 glyclt_e <=> 1 h_c + 1 glyclt_c (1 H+ + 1 Glycolate <=> 1 H+ + 1 Glycolate)

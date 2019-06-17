@@ -1,0 +1,20 @@
+notRecovered:
+VALTA:1 akg_c + 1 val__L_c <=> 1 3mob_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Valine_ <=> 1 M_3_Methyl_2_oxobutanoate_ + 1 M_L_Glutamate_)
+ILETA:1 akg_c + 1 ile__L_c <=> 1 3mop_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Isoleucine_ <=> 1 M__S__3_Methyl_2_oxopentanoate_ + 1 M_L_Glutamate_)
+LEUTA:1 akg_c + 1 leu__L_c <=> 1 4mop_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Leucine_ <=> 1 M_4_Methyl_2_oxopentanoate_ + 1 M_L_Glutamate_)
+
+
+AdditionalNotInModel:
+RXNQT-4345:1 Amino-Acids-20_c + 1 CPDQT-27_c <=> 1 2-Oxo-carboxylates_c + 1 CPDQT-340_c (1 Amino-Acids-20 + 1 6-(methylthio)-2-oxohexanoate <=> 1 2-Oxo-carboxylates + 1 L-dihomomethionine)
+RXN-2205:1 2-OXO-5-METHYLTHIOPENTANOIC-ACID_c + 1 Amino-Acids-20_c <=> 1 2-Oxo-carboxylates_c + 1 HOMOMETHIONINE_c (1 5-(methylthio)-2-oxopentanoate + 1 Amino-Acids-20 <=> 1 2-Oxo-carboxylates + 1 L-homomethionine)
+
+
+AdditionalMetabolites:
+2-OXO-5-METHYLTHIOPENTANOIC-ACID_c (5-(methylthio)-2-oxopentanoate)
+2-Oxo-carboxylates_c (2-Oxo-carboxylates)
+Amino-Acids-20_c (Amino-Acids-20)
+CPDQT-27_c (6-(methylthio)-2-oxohexanoate)
+CPDQT-340_c (L-dihomomethionine)
+HOMOMETHIONINE_c (L-homomethionine)
+
+

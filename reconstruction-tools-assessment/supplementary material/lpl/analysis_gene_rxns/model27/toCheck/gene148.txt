@@ -1,0 +1,28 @@
+notRecovered:
+RNDR2:1 gdp_c + 1 trdrd_c -> 1 dgdp_c + 1 h2o_c + 1 trdox_c (1 M_GDP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dGDP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNDR3:1 cdp_c + 1 trdrd_c -> 1 dcdp_c + 1 h2o_c + 1 trdox_c (1 M_CDP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dCDP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNDR4:1 trdrd_c + 1 udp_c -> 1 dudp_c + 1 h2o_c + 1 trdox_c (1 M_Reduced_thioredoxin_ + 1 M_UDP_ -> 1 M_dUDP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNDR1:1 adp_c + 1 trdrd_c -> 1 dadp_c + 1 h2o_c + 1 trdox_c (1 M_ADP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dADP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+
+
+AdditionalNotInModel:
+RIBONUCLEOSIDE-DIP-REDUCTII-RXN:1 CDP_c + 1 Reduced-NrdH-Proteins_c -> 1 DCDP_c + 1 Oxidized-NrdH-Proteins_c + 1 WATER_c (1 CDP + 1 Reduced-NrdH-Proteins -> 1 dCDP + 1 Oxidized-NrdH-Proteins + 1 H2O)
+RXN0-747:1 ADP_c + 1 Reduced-NrdH-Proteins_c -> 1 DADP_c + 1 Oxidized-NrdH-Proteins_c + 1 WATER_c (1 ADP + 1 Reduced-NrdH-Proteins -> 1 dADP + 1 Oxidized-NrdH-Proteins + 1 H2O)
+RXN0-748:1 GDP_c + 1 Reduced-NrdH-Proteins_c -> 1 DGDP_c + 1 Oxidized-NrdH-Proteins_c + 1 WATER_c (1 GDP + 1 Reduced-NrdH-Proteins -> 1 dGDP + 1 Oxidized-NrdH-Proteins + 1 H2O)
+RXN0-722:1 Reduced-NrdH-Proteins_c + 1 UDP_c -> 1 DUDP_c + 1 Oxidized-NrdH-Proteins_c + 1 WATER_c (1 Reduced-NrdH-Proteins + 1 UDP -> 1 dUDP + 1 Oxidized-NrdH-Proteins + 1 H2O)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+CDP_c (CDP)
+DADP_c (dADP)
+DCDP_c (dCDP)
+DGDP_c (dGDP)
+DUDP_c (dUDP)
+GDP_c (GDP)
+Oxidized-NrdH-Proteins_c (Oxidized-NrdH-Proteins)
+Reduced-NrdH-Proteins_c (Reduced-NrdH-Proteins)
+UDP_c (UDP)
+WATER_c (H2O)
+
+

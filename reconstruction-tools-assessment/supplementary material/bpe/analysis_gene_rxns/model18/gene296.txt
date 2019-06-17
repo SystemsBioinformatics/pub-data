@@ -1,0 +1,10 @@
+notRecovered:
+LPLIPAL1A161pp:1 1hdec9eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 hdcea_p (1 1-hexadec-9-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 Hexadecenoate (n-C16:1))
+LPLIPAL1A120pp:1 1ddecg3p_p + 1 h2o_p -> 1 ddca_p + 1 glyc3p_p + 1 h_p (1 1-dodecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Dodecanoate (n-C12:0) + 1 Glycerol 3-phosphate + 1 H+)
+LPLIPAL1A160pp:1 1hdecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 hdca_p (1 1-hexadecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 Hexadecanoate (n-C16:0))
+LPLIPAL1A140pp:1 1tdecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ttdca_p (1 1-tetradecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 tetradecanoate (n-C14:0))
+LPLIPAL1A180pp:1 1odecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ocdca_p (1 1-octadecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 octadecanoate (n-C18:0))
+LPLIPAL1A141pp:1 1tdec7eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ttdcea_p (1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 tetradecenoate (n-C14:1))
+LPLIPAL1A181pp:1 1odec11eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ocdcea_p (1 1-octadec-11-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 octadecenoate (n-C18:1))
+
+

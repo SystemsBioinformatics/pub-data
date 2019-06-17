@@ -1,0 +1,4 @@
+notRecovered:
+GMHEPAT:1 atp_c + 1 gmhep1p_c + 1 h_c -> 1 adphep_DD_c + 1 ppi_c (1 ATP + 1 D-Glycero-D-manno-heptose 1-phosphate + 1 H+ -> 1 ADP-D-glycero-D-manno-heptose + 1 Diphosphate)
+
+

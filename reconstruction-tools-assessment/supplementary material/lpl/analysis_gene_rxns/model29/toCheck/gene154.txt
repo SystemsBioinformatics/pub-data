@@ -1,0 +1,15 @@
+notRecovered:
+GLYCt:1 glyc_c <=> 1 glyc_e (1 M_Glycerol_ <=> 1 M_Glycerol_)
+
+
+AdditionalNotInModel:
+R00847:1 C00116_c + 1 C00002_c <=> 1 C00093_c + 1 C00008_c (1 Glycerol + 1 ATP <=> 1 sn-Glycerol 3-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00093_c (sn-Glycerol 3-phosphate)
+C00116_c (Glycerol)
+
+

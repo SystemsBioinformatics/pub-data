@@ -1,0 +1,15 @@
+notRecovered:
+ACLDC:1 alac__S_c + 1 h_c -> 1 actn__R_c + 1 co2_c (1 M__S__2_Acetolactate_ + 1 M_H_ -> 1 M__R__Acetoin_ + 1 M_CO2_)
+
+
+AdditionalNotInModel:
+rxn02113:1 cpd00067_c + 1 cpd00668_c -> 1 cpd00011_c + 1 cpd00361_c (1 H_plus__c0 + 1 ALCTT_c0 -> 1 CO2_c0 + 1 ACTN_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd00361_c (ACTN_c0)
+cpd00668_c (ALCTT_c0)
+
+

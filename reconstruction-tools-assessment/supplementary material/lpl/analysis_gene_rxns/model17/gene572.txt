@@ -1,0 +1,15 @@
+notRecovered:
+LOXD:1 lac__D_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_D_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R00475:1 C00007_c + 1 C00160_c <=> 1 C00027_c + 1 C00048_c (1 Oxygen + 1 Glycolate <=> 1 Hydrogen peroxide + 1 Glyoxylate)
+
+
+AdditionalMetabolites:
+C00007_c (Oxygen)
+C00027_c (Hydrogen peroxide)
+C00048_c (Glyoxylate)
+C00160_c (Glycolate)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+CHORM:1 chor_c -> 1 pphn_c (1 M_Chorismate_ -> 1 M_Prephenate_)
+
+

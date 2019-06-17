@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04936:1 C05692_c + 1 C00001_c <=> 1 C00212_c + 1 C05698_c (1 Se-Adenosyl-L-selenohomocysteine + 1 H2O <=> 1 Adenosine + 1 Selenohomocysteine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00212_c (Adenosine)
+C05692_c (Se-Adenosyl-L-selenohomocysteine)
+C05698_c (Selenohomocysteine)
+
+

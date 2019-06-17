@@ -1,0 +1,4 @@
+notRecovered:
+MACACI:1 4mlacac_c <=> 1 4fumacac_c (1 4-maleylacetoacetate <=> 1 4-fumarylacetoacetate)
+
+

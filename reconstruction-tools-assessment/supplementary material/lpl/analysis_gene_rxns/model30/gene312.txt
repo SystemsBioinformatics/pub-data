@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+R08368:1 C15586_c + 1 C00009_c <=> 1 C00620_c + 1 C15587_c (1 N-D-Ribosylpurine + 1 Orthophosphate <=> 1 alpha-D-Ribose 1-phosphate + 1 Purine)
+R02295:1 C05841_c + 1 C00009_c <=> 1 C00620_c + 1 C00253_c + 1 C00080_c (1 Nicotinate D-ribonucleoside + 1 Orthophosphate <=> 1 alpha-D-Ribose 1-phosphate + 1 Nicotinate + 1 H+)
+R02294:1 C03150_c + 1 C00009_c <=> 1 C00620_c + 1 C00153_c (1 Nicotinamide-beta-riboside + 1 Orthophosphate <=> 1 alpha-D-Ribose 1-phosphate + 1 Nicotinamide)
+R10244:1 C20463_c + 1 C00009_c <=> 1 C15587_c + 1 C00672_c (1 Purine deoxyribonucleoside + 1 Orthophosphate <=> 1 Purine + 1 2-Deoxy-D-ribose 1-phosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00080_c (H+)
+C00153_c (Nicotinamide)
+C00253_c (Nicotinate)
+C00620_c (alpha-D-Ribose 1-phosphate)
+C00672_c (2-Deoxy-D-ribose 1-phosphate)
+C03150_c (Nicotinamide-beta-riboside)
+C05841_c (Nicotinate D-ribonucleoside)
+C15586_c (N-D-Ribosylpurine)
+C15587_c (Purine)
+C20463_c (Purine deoxyribonucleoside)
+
+

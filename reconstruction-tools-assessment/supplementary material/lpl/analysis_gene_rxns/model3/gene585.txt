@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+CYSTS_2:1 ser__L_c + 1 hcys__L_c -> 1 h2o_c + 1 cysth__L_c (1 L-Serine + 1 L-Homocysteine -> 1 H2O + 1 L Cystathionine C7H14N2O4S)
+
+
+AdditionalMetabolites:
+cysth__L_c (L Cystathionine C7H14N2O4S)
+
+

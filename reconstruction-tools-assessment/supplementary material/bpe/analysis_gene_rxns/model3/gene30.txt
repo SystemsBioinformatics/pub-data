@@ -1,0 +1,7 @@
+notRecovered:
+PGPP141pp:1 h2o_p + 1 pgp141_p -> 1 pg141_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1) -> 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) + 1 Phosphate)
+PGPP140:1 h2o_c + 1 pgp140_c -> 1 pg140_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) -> 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) + 1 Phosphate)
+PGPP141:1 h2o_c + 1 pgp141_c -> 1 pg141_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1) -> 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) + 1 Phosphate)
+PGPP140pp:1 h2o_p + 1 pgp140_p -> 1 pg140_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) -> 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) + 1 Phosphate)
+
+

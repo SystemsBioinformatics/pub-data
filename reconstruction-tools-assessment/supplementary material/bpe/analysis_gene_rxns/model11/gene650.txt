@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+RXN-14371:1 1-4-alpha-D-Glucan_c -> 1 Alpha-6-alpha-14-glucans_c (1 a 1,4-alpha-D-glucan -> 1 a (1,6)-alpha-D-glucosyl-(1,4)-alpha-glucan)
+
+
+AdditionalMetabolites:
+1-4-alpha-D-Glucan_c (a 1,4-alpha-D-glucan)
+Alpha-6-alpha-14-glucans_c (a (1,6)-alpha-D-glucosyl-(1,4)-alpha-glucan)
+
+

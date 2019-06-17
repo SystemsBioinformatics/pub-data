@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R01845:1 C00001_c + 1 C00447_c <=> 1 C00009_c + 1 C05382_c (1 H2O + 1 Sedoheptulose 1,7-bisphosphate <=> 1 Orthophosphate + 1 Sedoheptulose 7-phosphate)
+R04780:1 C00001_c + 1 C05378_c <=> 1 C00009_c + 1 C05345_c (1 H2O + 1 beta-D-Fructose 1,6-bisphosphate <=> 1 Orthophosphate + 1 beta-D-Fructose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00447_c (Sedoheptulose 1,7-bisphosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+C05378_c (beta-D-Fructose 1,6-bisphosphate)
+C05382_c (Sedoheptulose 7-phosphate)
+
+

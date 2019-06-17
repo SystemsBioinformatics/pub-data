@@ -1,0 +1,4 @@
+notRecovered:
+PPNDH:1 h_c + 1 pphn_c -> 1 co2_c + 1 h2o_c + 1 phpyr_c (1 H+ + 1 Prephenate -> 1 CO2 + 1 H2O + 1 Phenylpyruvate)
+
+

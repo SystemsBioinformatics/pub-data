@@ -1,0 +1,7 @@
+notRecovered:
+ACODA_1:1 acorn_c + 1 h2o_c -> 1 ac_c + 1 orn__L_c (1 M_N2_Acetyl_L_ornithine_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_L_Ornithine_)
+ACGK:1 acglu_c + 1 atp_c -> 1 acg5p_c + 1 adp_c (1 M_N_Acetyl_L_glutamate_ + 1 M_ATP_ -> 1 M_N_Acetyl_L_glutamyl_5_phosphate_ + 1 M_ADP_)
+
+
+AdditionalInModel:
+SDPDS:1 h2o_c + 1 sl26da_c -> 1 26dap_LL_c + 1 succ_c (1 H2O H2O + 1 N-Succinyl-LL-2,6-diaminoheptanedioate -> 1 LL-2,6-Diaminoheptanedioate + 1 Succinate)

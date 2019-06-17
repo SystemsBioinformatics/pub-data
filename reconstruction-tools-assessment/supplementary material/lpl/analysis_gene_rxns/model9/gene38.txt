@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+LCARS:1 nadh_c + 1 h_c + 1 lald__L_c <=> 1 nad_c + 1 12ppd__S_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 L-Lactaldehyde <=> 1 Nicotinamide adenine dinucleotide + 1 (S)-Propane-1,2-diol)
+CHOLD:1 nad_c + 1 chol_c -> 1 nadh_c + 1 betald_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Choline C5H14NO -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Betaine aldehyde + 1 H+)
+THRD:1 nad_c + 1 thr__L_c -> 1 nadh_c + 1 2aobut_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 L-Threonine -> 1 Nicotinamide adenine dinucleotide - reduced + 1 L-2-Amino-3-oxobutanoate + 1 H+)
+ALCD4:1 nad_c + 1 btoh_c <=> 1 nadh_c + 1 btal_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Butanol <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Butanal C4H8O + 1 H+)
+ALCD3ir:1 nadh_c + 1 h_c + 1 ppal_c <=> 1 nad_c + 1 ppoh_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Propanal <=> 1 Nicotinamide adenine dinucleotide + 1 1-Propanol)
+CHOLD2:1 chol_c + 1 fad_c -> 1 fadh2_c + 1 betald_c (1 Choline C5H14NO + 1 Flavin adenine dinucleotide oxidized -> 1 Flavin adenine dinucleotide reduced + 1 Betaine aldehyde)
+
+
+AdditionalMetabolites:
+12ppd__S_c ((S)-Propane-1,2-diol)
+2aobut_c (L-2-Amino-3-oxobutanoate)
+betald_c (Betaine aldehyde)
+btal_c (Butanal C4H8O)
+btoh_c (Butanol)
+fadh2_c (Flavin adenine dinucleotide reduced)
+ppal_c (Propanal)
+ppoh_c (1-Propanol)
+
+
+AdditionalInModel:
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 nadh_c + 1 h_c + 1 acald_c (1 Ethanol + 1 Nicotinamide adenine dinucleotide <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Acetaldehyde)
+ALCD19:1 nadh_c + 1 glyald_c + 1 h_c <=> 1 nad_c + 1 glyc_c (1 Nicotinamide adenine dinucleotide - reduced + 1 D-Glyceraldehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 Glycerol)
+ACALD:1 nad_c + 1 coa_c + 1 acald_c <=> 1 nadh_c + 1 accoa_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 Acetaldehyde <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Acetyl-CoA + 1 H+)

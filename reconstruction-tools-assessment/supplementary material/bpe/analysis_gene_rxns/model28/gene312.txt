@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R05629:1 C04702_c + 1 C17556_c <=> 1 C04851_c + 1 C00105_c (1 UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala) + 1 di-trans,poly-cis-Undecaprenyl phosphate <=> 1 MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol + 1 UMP)
+
+
+AdditionalMetabolites:
+C00105_c (UMP)
+C04702_c (UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala))
+C04851_c (MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol)
+C17556_c (di-trans,poly-cis-Undecaprenyl phosphate)
+
+

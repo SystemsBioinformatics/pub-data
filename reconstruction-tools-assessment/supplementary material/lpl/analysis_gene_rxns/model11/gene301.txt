@@ -1,0 +1,15 @@
+notRecovered:
+G6PI:1 g6p_c <=> 1 g6p_B_c (1 M_D_Glucose_6_phosphate_ <=> 1 M_beta_D_glucose_6_phosphate_)
+
+
+AdditionalNotInModel:
+PGLUCISOM-RXN-GLC-6-P//FRUCTOSE-6P.21.:1 GLC-6-P_c <=> 1 FRUCTOSE-6P_c (1 beta-D-glucose 6-phosphate <=> 1 beta-D-fructofuranose 6-phosphate)
+PGLUCISOM-RXN:1 D-glucopyranose-6-phosphate_c <=> 1 FRUCTOSE-6P_c (1 D-glucopyranose 6-phosphate <=> 1 beta-D-fructofuranose 6-phosphate)
+
+
+AdditionalMetabolites:
+D-glucopyranose-6-phosphate_c (D-glucopyranose 6-phosphate)
+FRUCTOSE-6P_c (beta-D-fructofuranose 6-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+
+

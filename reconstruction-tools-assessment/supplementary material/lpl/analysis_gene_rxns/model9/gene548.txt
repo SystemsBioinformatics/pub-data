@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+UAG2EMA:1 uacgam_c + 1 h2o_c <=> 1 udp_c + 1 h_c + 1 acmana_c (1 UDP-N-acetyl-D-glucosamine + 1 H2O H2O <=> 1 UDP C9H11N2O12P2 + 1 H+ + 1 N-Acetyl-D-mannosamine)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R06129:1 G11112_c + 1 C01289_c <=> 1 G00177_c + 1 G10619_c (1 UDP-N-acetyl-D-mannosamine + 1 N-Acetyl-D-glucosaminyldiphosphoundecaprenol <=> 1 M_00986 + 1 UDP)
+
+
+AdditionalMetabolites:
+C01289_c (N-Acetyl-D-glucosaminyldiphosphoundecaprenol)
+G00177_c (M_00986)
+G10619_c (UDP)
+G11112_c (UDP-N-acetyl-D-mannosamine)
+
+

@@ -1,0 +1,24 @@
+notRecovered:
+BTS4:1 amet_c + 1 dtbt_c + 1 s_c -> 1 btn_c + 1 dad_5_c + 1 h_c + 1 met__L_c (1 S-Adenosyl-L-methionine + 1 Dethiobiotin + 1 Sulfur -> 1 Biotin + 1 5'-Deoxyadenosine + 1 H+ + 1 L-Methionine)
+
+
+AdditionalNotInModel:
+RXN-17473:1 CPD-5662_c + 1 S-ADENOSYLMETHIONINE_c -> 1 BIOTIN_c + 1 CH33ADO_c + 1 MET_c + 1 PROTON_c (1 9-mercaptodethiobiotin + 1 S-adenosyl-L-methionine -> 1 biotin + 1 5'-deoxyadenosine + 1 L-methionine + 1 H+)
+RXN-17472:1 DETHIOBIOTIN_c + 2 Reduced-2Fe-2S-Ferredoxins_c + 1 Sulfurated-Sulfur-Acceptors_c + 1 S-ADENOSYLMETHIONINE_c + 1 PROTON_c -> 1 CPD-5662_c + 2 Oxidized-2Fe-2S-Ferredoxins_c + 1 Unsulfurated-Sulfur-Acceptors_c + 1 CH33ADO_c + 1 MET_c (1 dethiobiotin + 2 a reduced [2Fe-2S] ferredoxin + 1 a sulfurated [sulfur carrier] + 1 S-adenosyl-L-methionine + 1 H+ -> 1 9-mercaptodethiobiotin + 2 an oxidized [2Fe-2S] ferredoxin + 1 an unsulfurated [sulfur carrier] + 1 5'-deoxyadenosine + 1 L-methionine)
+2.8.1.6-RXN:1 DETHIOBIOTIN_c + 2 Reduced-2Fe-2S-Ferredoxins_c + 1 Sulfurated-Sulfur-Acceptors_c + 2 S-ADENOSYLMETHIONINE_c -> 1 BIOTIN_c + 2 Oxidized-2Fe-2S-Ferredoxins_c + 1 Unsulfurated-Sulfur-Acceptors_c + 2 CH33ADO_c + 2 MET_c (1 dethiobiotin + 2 a reduced [2Fe-2S] ferredoxin + 1 a sulfurated [sulfur carrier] + 2 S-adenosyl-L-methionine -> 1 biotin + 2 an oxidized [2Fe-2S] ferredoxin + 1 an unsulfurated [sulfur carrier] + 2 5'-deoxyadenosine + 2 L-methionine)
+
+
+AdditionalMetabolites:
+BIOTIN_c (biotin)
+CH33ADO_c (5'-deoxyadenosine)
+CPD-5662_c (9-mercaptodethiobiotin)
+DETHIOBIOTIN_c (dethiobiotin)
+MET_c (L-methionine)
+Oxidized-2Fe-2S-Ferredoxins_c (an oxidized [2Fe-2S] ferredoxin)
+PROTON_c (H+)
+Reduced-2Fe-2S-Ferredoxins_c (a reduced [2Fe-2S] ferredoxin)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+Sulfurated-Sulfur-Acceptors_c (a sulfurated [sulfur carrier])
+Unsulfurated-Sulfur-Acceptors_c (an unsulfurated [sulfur carrier])
+
+

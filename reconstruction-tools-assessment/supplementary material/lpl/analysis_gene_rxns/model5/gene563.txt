@@ -1,0 +1,12 @@
+notRecovered:
+PGCD:1 3pg_c + 1 nad_c -> 1 3php_c + 1 h_c + 1 nadh_c (1 M_3_Phospho_D_glycerate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_3_Phosphohydroxypyruvate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+HPYRRx:1 h_c + 1 hpyr_c + 1 nadh_c <=> 1 glyc__R_c + 1 nad_c (1 H+ + 1 Hydroxypyruvate + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 (R)-Glycerate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+hpyr_c (Hydroxypyruvate)
+
+

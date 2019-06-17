@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+PYRZAM:1 h2o_c + 1 malm_c -> 1 male_c + 1 nh4_c (1 H2O H2O + 1 Maleamate -> 1 Maleate + 1 Ammonium)
+
+
+AdditionalMetabolites:
+male_c (Maleate)
+malm_c (Maleamate)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-10085:1 CPD-10826_c + 1 SUC-COA_c <=> 1 CPD-10832_c + 1 SUC_c (1 4-methyl-3-oxoadipate + 1 succinyl-CoA <=> 1 4-methyl-3-oxoadipyl-CoA + 1 succinate)
+
+
+AdditionalMetabolites:
+CPD-10826_c (4-methyl-3-oxoadipate)
+CPD-10832_c (4-methyl-3-oxoadipyl-CoA)
+SUC-COA_c (succinyl-CoA)
+SUC_c (succinate)
+
+

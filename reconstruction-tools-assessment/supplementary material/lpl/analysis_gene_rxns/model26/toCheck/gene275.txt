@@ -1,0 +1,25 @@
+notRecovered:
+NPPDO:2 n2ppn_c + 1 o2_c -> 2 acetone_c + 2 h_c + 2 no2_c (2 M_2_Nitropropane_ + 1 M_O2_ -> 2 M_Acetone_ + 2 M_H_ + 2 M_Nitrite_)
+
+
+AdditionalNotInModel:
+RXN-16624:1 2E-7Z-hexadeca-2-7-dienoyl-ACPs_c + 1 NADH_c + 1 PROTON_c -> 1 7Z-hexadec-7-enoyl-ACPs_c + 1 NAD_c (1 2E-7Z-hexadeca-2-7-dienoyl-ACPs + 1 NADH + 1 H+ -> 1 7Z-hexadec-7-enoyl-ACPs + 1 NAD+)
+RXN-16628:1 2E-9Z-octadeca-2-9-dienoyl-ACPs_c + 1 NADH_c + 1 PROTON_c -> 1 NAD_c + 1 Oleoyl-ACPs_c (1 2E-9Z-octadeca-2-9-dienoyl-ACPs + 1 NADH + 1 H+ -> 1 NAD+ + 1 Oleoyl-ACPs)
+RXN-16632:1 2E-11Z-icosa-2-11-dienoyl-ACPs_c + 1 NADH_c + 1 PROTON_c -> 1 11Z-icos-11-enoyl-ACPs_c + 1 NAD_c (1 2E-11Z-icosa-2-11-dienoyl-ACPs + 1 NADH + 1 H+ -> 1 11Z-icos-11-enoyl-ACPs + 1 NAD+)
+RXN-16620:1 2E-5Z-tetradeca-2-5-dienoyl-ACPs_c + 1 NADH_c + 1 PROTON_c -> 1 5Z-tetradec-5-enoyl-ACPs_c + 1 NAD_c (1 2E-5Z-tetradeca-2-5-dienoyl-ACPs + 1 NADH + 1 H+ -> 1 5Z-tetradec-5-enoyl-ACPs + 1 NAD+)
+
+
+AdditionalMetabolites:
+11Z-icos-11-enoyl-ACPs_c (11Z-icos-11-enoyl-ACPs)
+2E-11Z-icosa-2-11-dienoyl-ACPs_c (2E-11Z-icosa-2-11-dienoyl-ACPs)
+2E-5Z-tetradeca-2-5-dienoyl-ACPs_c (2E-5Z-tetradeca-2-5-dienoyl-ACPs)
+2E-7Z-hexadeca-2-7-dienoyl-ACPs_c (2E-7Z-hexadeca-2-7-dienoyl-ACPs)
+2E-9Z-octadeca-2-9-dienoyl-ACPs_c (2E-9Z-octadeca-2-9-dienoyl-ACPs)
+5Z-tetradec-5-enoyl-ACPs_c (5Z-tetradec-5-enoyl-ACPs)
+7Z-hexadec-7-enoyl-ACPs_c (7Z-hexadec-7-enoyl-ACPs)
+NADH_c (NADH)
+NAD_c (NAD+)
+Oleoyl-ACPs_c (Oleoyl-ACPs)
+PROTON_c (H+)
+
+

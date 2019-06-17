@@ -1,0 +1,24 @@
+notRecovered:
+RNTR3c:1 ctp_c + 1 fldrd_c -> 1 dctp_c + 1 fldox_c + 1 h2o_c (1 CTP + 1 flavodoxin (reduced) -> 1 dCTP + 1 flavodoxin (oxidized) + 1 H2O)
+FLDR:1 fldox_c + 1 h_c + 1 nadph_c -> 1 fldrd_c + 1 nadp_c (1 flavodoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 flavodoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate)
+RNTR2c:1 fldrd_c + 1 gtp_c -> 1 dgtp_c + 1 fldox_c + 1 h2o_c (1 flavodoxin (reduced) + 1 GTP -> 1 dGTP + 1 flavodoxin (oxidized) + 1 H2O)
+FRDO:1 fdxrd_c + 1 nadp_c -> 1 fdxox_c + 1 h_c + 1 nadph_c (1 ferredoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate -> 1 ferredoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+RNTR4c:1 fldrd_c + 1 utp_c -> 1 dutp_c + 1 fldox_c + 1 h2o_c (1 flavodoxin (reduced) + 1 UTP -> 1 dUTP + 1 flavodoxin (oxidized) + 1 H2O)
+RNTR1c:1 atp_c + 1 fldrd_c -> 1 datp_c + 1 fldox_c + 1 h2o_c (1 ATP + 1 flavodoxin (reduced) -> 1 dATP + 1 flavodoxin (oxidized) + 1 H2O)
+
+
+AdditionalNotInModel:
+R01195:2 C00138_c + 1 C00080_c + 1 C00006_c <=> 2 C00139_c + 1 C00005_c (2 Reduced ferredoxin + 1 H+ + 1 NADP+ <=> 2 Oxidized ferredoxin + 1 NADPH)
+R10159:2 C00662_c + 1 C00080_c + 1 C00006_c <=> 2 C00667_c + 1 C00005_c (2 Reduced adrenal ferredoxin + 1 H+ + 1 NADP+ <=> 2 Oxidized adrenal ferredoxin + 1 NADPH)
+
+
+AdditionalMetabolites:
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00662_c (Reduced adrenal ferredoxin)
+C00667_c (Oxidized adrenal ferredoxin)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+RBT5PDHy:1 nadp_c + 1 rbt5p_c <=> 1 h_c + 1 nadph_c + 1 ru5p__D_c (1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_D_Ribitol_5_phosphate_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_D_Ribulose_5_phosphate_)
+
+
+AdditionalNotInModel:
+RIBITOL-5-PHOSPHATE-2-DEHYDROGENASE-RXN:1 NADPH_c + 1 RIBULOSE-5P_c + 1 PROTON_c -> 1 CPD-372_c + 1 NADP_c (1 NADPH + 1 D-ribulose 5-phosphate + 1 H+ -> 1 D-ribitol 5-phosphate + 1 NADP+)
+RXN-18411-CPD-372/NAD//RIBULOSE-5P/NADH/PROTON.37.:1 NADH_c + 1 RIBULOSE-5P_c + 1 PROTON_c -> 1 CPD-372_c + 1 NAD_c (1 NADH + 1 D-ribulose 5-phosphate + 1 H+ -> 1 D-ribitol 5-phosphate + 1 NAD+)
+
+
+AdditionalMetabolites:
+CPD-372_c (D-ribitol 5-phosphate)
+NADH_c (NADH)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+NAD_c (NAD+)
+PROTON_c (H+)
+RIBULOSE-5P_c (D-ribulose 5-phosphate)
+
+

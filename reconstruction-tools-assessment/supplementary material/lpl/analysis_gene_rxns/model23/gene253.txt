@@ -1,0 +1,17 @@
+notRecovered:
+DGNSK:1 atp_c + 1 dgsn_c -> 1 adp_c + 1 dgmp_c + 1 h_c (1 M_ATP_ + 1 M_Deoxyguanosine_ -> 1 M_ADP_ + 1 M_dGMP_ + 1 M_H_)
+DINSK:1 atp_c + 1 din_c -> 1 adp_c + 1 dimp_c (1 M_ATP_ + 1 M_Deoxyinosine_ -> 1 M_ADP_ + 1 M_dIMP_)
+
+
+AdditionalNotInModel:
+DEOXYCYTIDINE-KINASE-RXN:1 DEOXYCYTIDINE_c + 1 Nucleoside-Triphosphates_c -> 1 DCMP_c + 1 Nucleoside-Diphosphates_c + 1 PROTON_c (1 2'-deoxycytidine + 1 Nucleoside-Triphosphates -> 1 dCMP + 1 Nucleoside-Diphosphates + 1 H+)
+
+
+AdditionalMetabolites:
+DCMP_c (dCMP)
+DEOXYCYTIDINE_c (2'-deoxycytidine)
+Nucleoside-Diphosphates_c (Nucleoside-Diphosphates)
+Nucleoside-Triphosphates_c (Nucleoside-Triphosphates)
+PROTON_c (H+)
+
+

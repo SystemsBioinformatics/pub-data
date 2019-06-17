@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R03291:1 C01157_c + 1 C00003_c <=> 1 C00004_c + 1 C04281_c + 1 C00080_c (1 Hydroxyproline + 1 NAD+ <=> 1 NADH + 1 L-1-Pyrroline-3-hydroxy-5-carboxylate + 1 H+)
+R03293:1 C01157_c + 1 C00006_c <=> 1 C04281_c + 1 C00005_c + 1 C00080_c (1 Hydroxyproline + 1 NADP+ <=> 1 L-1-Pyrroline-3-hydroxy-5-carboxylate + 1 NADPH + 1 H+)
+R01248:1 C00003_c + 1 C00148_c <=> 1 C00004_c + 1 C03912_c + 1 C00080_c (1 NAD+ + 1 L-Proline <=> 1 NADH + 1 (S)-1-Pyrroline-5-carboxylate + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00148_c (L-Proline)
+C01157_c (Hydroxyproline)
+C03912_c ((S)-1-Pyrroline-5-carboxylate)
+C04281_c (L-1-Pyrroline-3-hydroxy-5-carboxylate)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+PFK_3:1 atp_c + 1 s7p_c -> 1 adp_c + 1 s17bp_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Sedoheptulose 7-phosphate -> 1 ADP C10H12N5O10P2 + 1 Sedoheptulose 1,7-bisphosphate + 1 H+)
+PFK_2:1 atp_c + 1 tag6p__D_c -> 1 adp_c + 1 tagdp__D_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D-Tagatose 6-phosphate -> 1 ADP C10H12N5O10P2 + 1 D-Tagatose 1,6-biphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+s17bp_c (Sedoheptulose 1,7-bisphosphate)
+tag6p__D_c (D-Tagatose 6-phosphate)
+tagdp__D_c (D-Tagatose 1,6-biphosphate)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+GLYOXII-RXN:1 S-LACTOYL-GLUTATHIONE_c + 1 WATER_c -> 1 D-LACTATE_c + 1 GLUTATHIONE_c + 1 PROTON_c (1 (R)-S-lactoylglutathione + 1 H2O -> 1 (R)-lactate + 1 glutathione + 1 H+)
+
+
+AdditionalMetabolites:
+D-LACTATE_c ((R)-lactate)
+GLUTATHIONE_c (glutathione)
+PROTON_c (H+)
+S-LACTOYL-GLUTATHIONE_c ((R)-S-lactoylglutathione)
+WATER_c (H2O)
+
+

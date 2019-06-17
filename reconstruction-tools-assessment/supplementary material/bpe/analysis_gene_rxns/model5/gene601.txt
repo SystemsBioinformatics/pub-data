@@ -1,0 +1,10 @@
+AdditionalInModel:
+DSBDR:1 dsbdox_c + 1 trdrd_c -> 1 dsbdrd_c + 1 trdox_c (1 Fused thiol:disulfide interchange protein (oxidized) + 1 Reduced thioredoxin -> 1 Fused thiol:disulfide interchange protein (reduced) + 1 Oxidized thioredoxin)
+METSOXR1:1 metsox_S__L_c + 1 trdrd_c -> 1 h2o_c + 1 met__L_c + 1 trdox_c (1 L-Methionine Sulfoxide + 1 Reduced thioredoxin -> 1 H2O H2O + 1 L-Methionine + 1 Oxidized thioredoxin)
+METSOXR2:1 metsox_R__L_c + 1 trdrd_c -> 1 h2o_c + 1 met__L_c + 1 trdox_c (1 L-methionine-R-sulfoxide + 1 Reduced thioredoxin -> 1 H2O H2O + 1 L-Methionine + 1 Oxidized thioredoxin)
+RNDR1:1 adp_c + 1 trdrd_c -> 1 dadp_c + 1 h2o_c + 1 trdox_c (1 ADP C10H12N5O10P2 + 1 Reduced thioredoxin -> 1 DADP C10H12N5O9P2 + 1 H2O H2O + 1 Oxidized thioredoxin)
+RNDR2:1 gdp_c + 1 trdrd_c -> 1 dgdp_c + 1 h2o_c + 1 trdox_c (1 GDP C10H12N5O11P2 + 1 Reduced thioredoxin -> 1 DGDP C10H12N5O10P2 + 1 H2O H2O + 1 Oxidized thioredoxin)
+RNDR3:1 cdp_c + 1 trdrd_c -> 1 dcdp_c + 1 h2o_c + 1 trdox_c (1 CDP C9H12N3O11P2 + 1 Reduced thioredoxin -> 1 DCDP C9H12N3O10P2 + 1 H2O H2O + 1 Oxidized thioredoxin)
+RNDR4:1 trdrd_c + 1 udp_c -> 1 dudp_c + 1 h2o_c + 1 trdox_c (1 Reduced thioredoxin + 1 UDP C9H11N2O12P2 -> 1 DUDP C9H11N2O11P2 + 1 H2O H2O + 1 Oxidized thioredoxin)
+THIORDXi:1 h2o2_c + 1 trdrd_c -> 2 h2o_c + 1 trdox_c (1 Hydrogen peroxide + 1 Reduced thioredoxin -> 2 H2O H2O + 1 Oxidized thioredoxin)
+TRDR:1 h_c + 1 nadph_c + 1 trdox_c -> 1 nadp_c + 1 trdrd_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Oxidized thioredoxin -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Reduced thioredoxin)

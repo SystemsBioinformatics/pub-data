@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R02853:1 C02532_c + 1 C00001_c <=> 1 C00009_c + 1 C00740_c (1 O-Phospho-D-serine + 1 H2O <=> 1 Orthophosphate + 1 D-Serine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00740_c (D-Serine)
+C02532_c (O-Phospho-D-serine)
+
+

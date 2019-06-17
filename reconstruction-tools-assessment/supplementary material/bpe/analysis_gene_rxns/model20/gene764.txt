@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R00732:1 C00003_c + 1 C00826_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00082_c (1 NAD+ + 1 L-Arogenate <=> 1 NADH + 1 CO2 + 1 H+ + 1 L-Tyrosine)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00011_c (CO2)
+C00080_c (H+)
+C00082_c (L-Tyrosine)
+C00826_c (L-Arogenate)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+PHETA1:1 akg_c + 1 phe__L_c <=> 1 glu__L_c + 1 phpyr_c (1 2-Oxoglutarate + 1 L-Phenylalanine <=> 1 L-Glutamate + 1 Phenylpyruvate)
+
+
+AdditionalNotInModel:
+R10991:1 C02356_c + 1 C00026_c <=> 1 C00109_c + 1 C00025_c (1 (S)-2-Aminobutanoate + 1 2-Oxoglutarate <=> 1 2-Oxobutanoate + 1 L-Glutamate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00109_c (2-Oxobutanoate)
+C02356_c ((S)-2-Aminobutanoate)
+
+

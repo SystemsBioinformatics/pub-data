@@ -1,0 +1,14 @@
+notRecovered:
+MUCCI:1 ccmuac_c + 1 h_c <=> 1 muclac_c (1 cis,cis-muconate + 1 H+ <=> 1 Muconolactone)
+
+
+AdditionalNotInModel:
+ARABINONATE-DEHYDRATASE-RXN:1 CPD-1114_c -> 1 2-DH-3-DO-D-ARABINONATE_c + 1 WATER_c (1 D-arabinonate -> 1 2-dehydro-3-deoxy-D-arabinonate + 1 H2O)
+
+
+AdditionalMetabolites:
+2-DH-3-DO-D-ARABINONATE_c (2-dehydro-3-deoxy-D-arabinonate)
+CPD-1114_c (D-arabinonate)
+WATER_c (H2O)
+
+

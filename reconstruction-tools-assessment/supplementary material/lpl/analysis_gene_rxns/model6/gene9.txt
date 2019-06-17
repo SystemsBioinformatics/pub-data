@@ -1,0 +1,8 @@
+notRecovered:
+NH3t:1 nh3_e <=> 1 nh3_c (1 M_Ammonia_ <=> 1 M_Ammonia_)
+
+
+AdditionalNotInModel:
+NH4t:1 nh4_e <=> 1 nh4_c (1 Ammonium <=> 1 Ammonium)
+
+

@@ -1,0 +1,22 @@
+notRecovered:
+DHORD2:1 dhor__S_c + 1 q8_c -> 1 orot_c + 1 q8h2_c (1 (S)-Dihydroorotate + 1 Ubiquinone-8 -> 1 Orotate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+rxn02642:1 cpd00067_c + 2 cpd00007_c + 1 cpd02545_c <=> 2 cpd00025_c + 1 cpd01238_c (1 H_plus__c0 + 2 O2_c0 + 1 Isocorypalmine_c0 <=> 2 H2O2_c0 + 1 Columbamine_c0)
+rxn13952:1 cpd00067_c + 2 cpd00007_c + 1 cpd01851_c <=> 2 cpd00025_c + 1 cpd03153_c (1 H_plus__c0 + 2 O2_c0 + 1 Tetrahydropalmatine_c0 <=> 2 H2O2_c0 + 1 Palmatine_c0)
+rxn02067:1 cpd00067_c + 2 cpd00007_c + 1 cpd02117_c <=> 2 cpd00025_c + 1 cpd00563_c (1 H_plus__c0 + 2 O2_c0 + 1 S_Canadine_c0 <=> 2 H2O2_c0 + 1 Berberine_c0)
+
+
+AdditionalMetabolites:
+cpd00007_c (O2_c0)
+cpd00025_c (H2O2_c0)
+cpd00067_c (H_plus__c0)
+cpd00563_c (Berberine_c0)
+cpd01238_c (Columbamine_c0)
+cpd01851_c (Tetrahydropalmatine_c0)
+cpd02117_c (S_Canadine_c0)
+cpd02545_c (Isocorypalmine_c0)
+cpd03153_c (Palmatine_c0)
+
+

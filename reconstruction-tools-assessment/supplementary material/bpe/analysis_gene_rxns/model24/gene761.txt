@@ -1,0 +1,4 @@
+notRecovered:
+SERAT:1 accoa_c + 1 ser__L_c <=> 1 acser_c + 1 coa_c (1 Acetyl-CoA + 1 L-Serine <=> 1 O-Acetyl-L-serine + 1 Coenzyme A)
+
+

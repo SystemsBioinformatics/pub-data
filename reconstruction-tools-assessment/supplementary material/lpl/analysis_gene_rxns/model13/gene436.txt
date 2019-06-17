@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//GLC-6-P/ALPHA-GLUCOSE.42.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 GLC-6-P_c + 1 ALPHA-GLUCOSE_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 beta-D-glucose 6-phosphate + 1 alpha-D-glucopyranose)
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//GLC-6-P/GLC.32.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 GLC_c + 1 GLC-6-P_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 beta-D-glucopyranose + 1 beta-D-glucose 6-phosphate)
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//GLC-6-P/Glucopyranose.42.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 Glucopyranose_c + 1 GLC-6-P_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 D-glucopyranose + 1 beta-D-glucose 6-phosphate)
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//ALPHA-GLC-6-P/GLC.38.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 ALPHA-GLC-6-P_c + 1 GLC_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 alpha-D-glucose 6-phosphate + 1 beta-D-glucopyranose)
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//ALPHA-GLC-6-P/Glucopyranose.48.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 ALPHA-GLC-6-P_c + 1 Glucopyranose_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 alpha-D-glucose 6-phosphate + 1 D-glucopyranose)
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//D-glucopyranose-6-phosphate/ALPHA-GLUCOSE.62.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 D-glucopyranose-6-phosphate_c + 1 ALPHA-GLUCOSE_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 D-glucopyranose 6-phosphate + 1 alpha-D-glucopyranose)
+TRE6PHYDRO-RXN-TREHALOSE-6P/WATER//D-glucopyranose-6-phosphate/GLC.52.:1 TREHALOSE-6P_c + 1 WATER_c -> 1 D-glucopyranose-6-phosphate_c + 1 GLC_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 D-glucopyranose 6-phosphate + 1 beta-D-glucopyranose)
+TRE6PHYDRO-RXN:1 TREHALOSE-6P_c + 1 WATER_c -> 1 D-glucopyranose-6-phosphate_c + 1 Glucopyranose_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 D-glucopyranose 6-phosphate + 1 D-glucopyranose)
+
+
+AdditionalMetabolites:
+ALPHA-GLC-6-P_c (alpha-D-glucose 6-phosphate)
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+D-glucopyranose-6-phosphate_c (D-glucopyranose 6-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+GLC_c (beta-D-glucopyranose)
+Glucopyranose_c (D-glucopyranose)
+TREHALOSE-6P_c (alpha,alpha-trehalose 6-phosphate)
+WATER_c (H2O)
+
+

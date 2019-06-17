@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-10:1 O-UREIDOHOMOSERINE_c + 1 L-ASPARTATE_c + 1 ATP_c -> 1 CANAVANINOSUCCINATE_c + 1 AMP_c + 1 PROTON_c + 1 PPI_c (1 O-ureido-L-homoserine + 1 L-aspartate + 1 ATP -> 1 canavaninosuccinate + 1 AMP + 1 H+ + 1 diphosphate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+CANAVANINOSUCCINATE_c (canavaninosuccinate)
+L-ASPARTATE_c (L-aspartate)
+O-UREIDOHOMOSERINE_c (O-ureido-L-homoserine)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

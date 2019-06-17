@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn03002:1 cpd00001_c + 1 cpd02688_c <=> 1 cpd00067_c + 1 cpd00009_c + 1 cpd02380_c (1 H2O_c0 + 1 S_Methyl_3_phospho_1_thio_D_glycerate_c0 <=> 1 H_plus__c0 + 1 Phosphate_c0 + 1 S_Methyl_1_thio_D_glycerate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd02380_c (S_Methyl_1_thio_D_glycerate_c0)
+cpd02688_c (S_Methyl_3_phospho_1_thio_D_glycerate_c0)
+
+

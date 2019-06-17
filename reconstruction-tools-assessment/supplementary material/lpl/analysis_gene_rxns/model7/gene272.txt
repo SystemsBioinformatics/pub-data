@@ -1,0 +1,6 @@
+notRecovered:
+ILEt2r:1 h_e + 1 ile__L_e <=> 1 h_c + 1 ile__L_c (1 M_H_ + 1 M_L_Isoleucine_ <=> 1 M_H_ + 1 M_L_Isoleucine_)
+VALt2r:1 h_e + 1 val__L_e <=> 1 h_c + 1 val__L_c (1 M_H_ + 1 M_L_Valine_ <=> 1 M_H_ + 1 M_L_Valine_)
+LEUt2r:1 h_e + 1 leu__L_e <=> 1 h_c + 1 leu__L_c (1 M_H_ + 1 M_L_Leucine_ <=> 1 M_H_ + 1 M_L_Leucine_)
+
+

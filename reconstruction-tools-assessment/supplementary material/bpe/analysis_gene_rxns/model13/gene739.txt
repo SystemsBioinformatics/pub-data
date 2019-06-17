@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn02418:1 cpd00001_c + 1 cpd00885_c <=> 1 cpd00067_c + 1 cpd00009_c + 1 cpd02788_c (1 H2O_c0 + 1 Phytate_c0 <=> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Inositol_1_2_3_5_6_pentakisphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00885_c (Phytate_c0)
+cpd02788_c (Inositol_1_2_3_5_6_pentakisphosphate_c0)
+
+

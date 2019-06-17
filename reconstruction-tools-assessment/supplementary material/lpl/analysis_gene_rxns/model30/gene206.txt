@@ -1,0 +1,4 @@
+notRecovered:
+MEVK1:1 atp_c + 1 mev__R_c -> 1 5pmev_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M__R__Mevalonate_ -> 1 M__R__5_Phosphomevalonate_ + 1 M_ADP_ + 1 M_H_)
+
+

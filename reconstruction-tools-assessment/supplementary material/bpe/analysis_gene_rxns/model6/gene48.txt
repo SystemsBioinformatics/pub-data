@@ -1,0 +1,4 @@
+notRecovered:
+NADTRHD:1 nad_c + 1 nadph_c -> 1 nadh_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+CRCT:1 ctp_c + 1 h_c + 1 rbt5p_c -> 1 cdprbtl_c + 1 ppi_c (1 M_CTP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_ -> 1 M_CDPribitol_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+R02921:1 C01068_c + 1 C00063_c <=> 1 C00789_c + 1 C00013_c (1 D-Ribitol 5-phosphate + 1 CTP <=> 1 CDP-ribitol + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00063_c (CTP)
+C00789_c (CDP-ribitol)
+C01068_c (D-Ribitol 5-phosphate)
+
+

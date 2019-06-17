@@ -1,0 +1,19 @@
+notRecovered:
+HSERTA:1 accoa_c + 1 hom__L_c <=> 1 achms_c + 1 coa_c (1 M_Acetyl_CoA_ + 1 M_L_Homoserine_ <=> 1 M_O_Acetyl_L_homoserine_ + 1 M_Coenzyme_A_)
+
+
+AdditionalNotInModel:
+rxn05919:1 cpd00095_c + 1 cpd11611_c <=> 1 cpd00010_c + 1 cpd12300_c (1 Glycerone_phosphate_c0 + 1 Acyl_CoA_c0 <=> 1 CoA_c0 + 1 Acylglycerone_phosphate_c0)
+rxn01304:1 cpd00227_c + 1 cpd00078_c -> 1 cpd00010_c + 1 cpd00822_c (1 L_Homoserine_c0 + 1 Succinyl_CoA_c0 -> 1 CoA_c0 + 1 O_Succinyl_L_homoserine_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00078_c (Succinyl_CoA_c0)
+cpd00095_c (Glycerone_phosphate_c0)
+cpd00227_c (L_Homoserine_c0)
+cpd00822_c (O_Succinyl_L_homoserine_c0)
+cpd11611_c (Acyl_CoA_c0)
+cpd12300_c (Acylglycerone_phosphate_c0)
+
+

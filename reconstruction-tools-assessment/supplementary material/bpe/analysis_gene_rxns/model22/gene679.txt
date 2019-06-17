@@ -1,0 +1,4 @@
+notRecovered:
+ANTHFOR:1 h2o_c + 1 nfanth_c -> 1 anth_c + 1 for_c + 1 h_c (1 H2O + 1 N-formylanthranilate -> 1 Anthranilate + 1 Formate + 1 H+)
+
+

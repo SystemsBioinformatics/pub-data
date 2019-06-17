@@ -1,0 +1,5 @@
+notRecovered:
+UM4PL:1 LalaDgluMdapDala_c + 1 atp_c + 1 uamr_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 um4p_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 ATP + 1 UDP-N-acetylmuramate -> 1 ADP + 1 H+ + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine)
+UM3PL:1 LalaDgluMdap_c + 1 atp_c + 1 uamr_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 ugmd_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate + 1 ATP + 1 UDP-N-acetylmuramate -> 1 ADP + 1 H+ + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate)
+
+

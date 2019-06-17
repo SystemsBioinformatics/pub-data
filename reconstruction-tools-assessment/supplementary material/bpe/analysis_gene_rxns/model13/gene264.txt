@@ -1,0 +1,28 @@
+notRecovered:
+METabcpp:1 atp_c + 1 h2o_c + 1 met__L_p -> 1 adp_c + 1 h_c + 1 met__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 H+ + 1 L-Methionine + 1 Phosphate)
+METDabcpp:1 atp_c + 1 h2o_c + 1 met__D_p -> 1 adp_c + 1 h_c + 1 met__D_c + 1 pi_c (1 ATP + 1 H2O + 1 D-Methionine -> 1 ADP + 1 H+ + 1 D-Methionine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn05614:1 cpd00002_c + 1 cpd00001_c + 1 cpd11576_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd11576_c (1 ATP_c0 + 1 H2O_c0 + 1 L_methionine_R_oxide_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_methionine_R_oxide_c0)
+rxn05219:1 cpd00002_c + 1 cpd00001_c + 1 cpd00060_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00060_c (1 ATP_c0 + 1 H2O_c0 + 1 L_Methionine_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_Methionine_c0)
+rxn05183:1 cpd00002_c + 1 cpd00001_c + 1 cpd00637_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00637_c (1 ATP_c0 + 1 H2O_c0 + 1 D_Methionine_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 D_Methionine_c0)
+rxn05613:1 cpd00002_c + 1 cpd00001_c + 1 cpd01914_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd01914_c (1 ATP_c0 + 1 H2O_c0 + 1 L_Methionine_S_oxide_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_Methionine_S_oxide_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00060_c (L_Methionine_c0)
+cpd00060_e (L_Methionine_e0)
+cpd00067_c (H_plus__c0)
+cpd00637_c (D_Methionine_c0)
+cpd00637_e (D_Methionine_e0)
+cpd01914_c (L_Methionine_S_oxide_c0)
+cpd01914_e (L_Methionine_S_oxide_e0)
+cpd11576_c (L_methionine_R_oxide_c0)
+cpd11576_e (L_methionine_R_oxide_e0)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+PPK2:1 atp_c + 1 ppi_c <=> 1 adp_c + 1 pppi_c (1 ATP + 1 Diphosphate <=> 1 ADP + 1 Inorganic triphosphate)
+PPK:1 atp_c + 1 pi_c <=> 1 adp_c + 1 ppi_c (1 ATP + 1 Phosphate <=> 1 ADP + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+R02184:1 C00002_c <=> 1 C00008_c + 1 C00404_c (1 ATP <=> 1 ADP + 1 Polyphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00404_c (Polyphosphate)
+
+

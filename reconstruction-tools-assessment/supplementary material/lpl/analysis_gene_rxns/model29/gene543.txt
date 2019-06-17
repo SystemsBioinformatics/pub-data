@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R11312:1 C20246_c + 1 C04752_c <=> 1 C01081_c + 1 C00011_c + 1 C00013_c (1 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + 1 4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate <=> 1 Thiamin monophosphate + 1 CO2 + 1 Diphosphate)
+R10712:1 C20247_c + 1 C04752_c <=> 1 C01081_c + 1 C00011_c + 1 C00013_c (1 2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate + 1 4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate <=> 1 Thiamin monophosphate + 1 CO2 + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00013_c (Diphosphate)
+C01081_c (Thiamin monophosphate)
+C04752_c (4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate)
+C20246_c (2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate)
+C20247_c (2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate)
+
+

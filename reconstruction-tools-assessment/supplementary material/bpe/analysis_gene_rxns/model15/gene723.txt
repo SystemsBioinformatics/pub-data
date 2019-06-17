@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R01645:1 C05601_c <=> 1 C00022_c + 1 C00232_c (1 4-Hydroxy-2-oxo-heptanedioate <=> 1 Pyruvate + 1 Succinate semialdehyde)
+R01647:1 C00022_c + 1 C00232_c <=> 1 C06201_c (1 Pyruvate + 1 Succinate semialdehyde <=> 1 2,4-Dihydroxyhept-2-enedioate)
+R03277:1 C00022_c + 1 C01146_c <=> 1 C03921_c (1 Pyruvate + 1 2-Hydroxy-3-oxopropanoate <=> 1 2-Dehydro-3-deoxy-D-glucarate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00232_c (Succinate semialdehyde)
+C01146_c (2-Hydroxy-3-oxopropanoate)
+C03921_c (2-Dehydro-3-deoxy-D-glucarate)
+C05601_c (4-Hydroxy-2-oxo-heptanedioate)
+C06201_c (2,4-Dihydroxyhept-2-enedioate)
+
+

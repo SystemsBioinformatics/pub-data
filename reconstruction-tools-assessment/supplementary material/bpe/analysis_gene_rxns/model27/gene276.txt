@@ -1,0 +1,4 @@
+notRecovered:
+PPS:1 atp_c + 1 h2o_c + 1 pyr_c -> 1 amp_c + 2 h_c + 1 pep_c + 1 pi_c (1 ATP + 1 H2O + 1 Pyruvate -> 1 AMP + 2 H+ + 1 Phosphoenolpyruvate + 1 Phosphate)
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+NACGALNADEACT_BP2:1 h2o_c + 1 nacgggghhppealipa_BP_c -> 1 ac_c + 1 gggghhppealipa_BP_c + 1 h_c (1 H2O + 1 glucosamine-(glucurono-)heptosyl-((N-acetyl-galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) -> 1 Acetate + 1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H+)
+NACGALNADEACT_BP1:1 h2o_c + 1 nacgggghhlipa_BP_c -> 1 ac_c + 1 gggghhlipa_BP_c + 1 h_c (1 H2O + 1 glucosamine-(glucurono-)heptosyl-((N-acetyl-galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) -> 1 Acetate + 1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) + 1 H+)
+
+

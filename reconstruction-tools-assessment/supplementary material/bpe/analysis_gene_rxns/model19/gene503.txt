@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R00214:1 C00003_c + 1 C00149_c <=> 1 C00004_c + 1 C00011_c + 1 C00022_c + 1 C00080_c (1 NAD+ + 1 (S)-Malate <=> 1 NADH + 1 CO2 + 1 Pyruvate + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00011_c (CO2)
+C00022_c (Pyruvate)
+C00080_c (H+)
+C00149_c ((S)-Malate)
+
+

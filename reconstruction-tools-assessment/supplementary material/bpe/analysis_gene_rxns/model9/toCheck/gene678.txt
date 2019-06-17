@@ -1,0 +1,19 @@
+notRecovered:
+MOHMT:1 3mob_c + 1 h2o_c + 1 mlthf_c -> 1 2dhp_c + 1 thf_c (1 3-Methyl-2-oxobutanoate + 1 H2O + 1 5,10-Methylenetetrahydrofolate -> 1 2-Dehydropantoate + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN:1 METHYLENE-THF-GLU-N_c + 1 2-KETO-ISOVALERATE_c + 1 WATER_c -> 1 2-DEHYDROPANTOATE_c + 1 THF-GLU-N_c (1 a 5,10-methylenetetrahydrofolate + 1 3-methyl-2-oxobutanoate + 1 H2O -> 1 2-dehydropantoate + 1 a tetrahydrofolate)
+RXN-15635:1 METHYLENETETRAHYDROMETHANOPTERIN_c + 1 2-KETO-ISOVALERATE_c + 1 WATER_c <=> 1 THMPT_c + 1 2-DEHYDROPANTOATE_c (1 5,10-methylene-tetrahydromethanopterin + 1 3-methyl-2-oxobutanoate + 1 H2O <=> 1 tetrahydromethanopterin + 1 2-dehydropantoate)
+
+
+AdditionalMetabolites:
+2-DEHYDROPANTOATE_c (2-dehydropantoate)
+2-KETO-ISOVALERATE_c (3-methyl-2-oxobutanoate)
+METHYLENE-THF-GLU-N_c (a 5,10-methylenetetrahydrofolate)
+METHYLENETETRAHYDROMETHANOPTERIN_c (5,10-methylene-tetrahydromethanopterin)
+THF-GLU-N_c (a tetrahydrofolate)
+THMPT_c (tetrahydromethanopterin)
+WATER_c (H2O)
+
+

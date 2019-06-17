@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R04212:1 C00008_c + 1 C00009_c + 1 C00025_c + 1 C03402_c -> 1 C00001_c + 1 C00002_c + 1 C00064_c + 1 C06113_c (1 ADP + 1 Orthophosphate + 1 L-Glutamate + 1 L-Asparaginyl-tRNA(Asn) -> 1 H2O + 1 ATP + 1 L-Glutamine + 1 L-Aspartyl-tRNA(Asn))
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C03402_c (L-Asparaginyl-tRNA(Asn))
+C06113_c (L-Aspartyl-tRNA(Asn))
+
+

@@ -1,0 +1,28 @@
+notRecovered:
+FRUpts2pp:1 fru_p + 1 pep_c -> 1 f6p_c + 1 pyr_c (1 D-Fructose + 1 Phosphoenolpyruvate -> 1 D-Fructose 6-phosphate + 1 Pyruvate)
+ACMUMptspp:1 acmum_p + 1 pep_c -> 1 acmum6p_c + 1 pyr_c (1 N-Acetylmuramate + 1 Phosphoenolpyruvate -> 1 N-acetylmuramate 6-phosphate + 1 Pyruvate)
+GAMptspp:1 gam_p + 1 pep_c -> 1 gam6p_c + 1 pyr_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 D-Glucosamine 6-phosphate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+ACGApts:1 pep_c + 1 acgam_e -> 1 pyr_c + 1 acgam6p_c (1 Phosphoenolpyruvate + 1 N-Acetyl-D-glucosamine -> 1 Pyruvate + 1 N-Acetyl-D-glucosamine 6-phosphate)
+ACGAptspp:1 pep_c + 1 acgam_p -> 1 pyr_c + 1 acgam6p_c (1 Phosphoenolpyruvate + 1 N-Acetyl-D-glucosamine -> 1 Pyruvate + 1 N-Acetyl-D-glucosamine 6-phosphate)
+ACMANApts:1 pep_c + 1 acmana_e -> 1 pyr_c + 1 acmanap_c (1 Phosphoenolpyruvate + 1 N-Acetyl-D-mannosamine -> 1 Pyruvate + 1 N-Acetyl-D-mannosamine 6-phosphate)
+FRUpts:1 pep_c + 1 fru_e -> 1 pyr_c + 1 f1p_c (1 Phosphoenolpyruvate + 1 D-Fructose -> 1 Pyruvate + 1 D-Fructose 1-phosphate)
+FRUpts2:1 pep_c + 1 fru_e -> 1 pyr_c + 1 f6p_c (1 Phosphoenolpyruvate + 1 D-Fructose -> 1 Pyruvate + 1 D-Fructose 6-phosphate)
+GAMpts:1 pep_c + 1 gam_e -> 1 pyr_c + 1 gam6p_c (1 Phosphoenolpyruvate + 1 D-Glucosamine -> 1 Pyruvate + 1 D-Glucosamine 6-phosphate)
+GLCpts:1 glc__D_e + 1 pep_c -> 1 pyr_c + 1 g6p_c (1 D-Glucose + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 D-Glucose 6-phosphate)
+MANpts:1 pep_c + 1 man_e -> 1 pyr_c + 1 man6p_c (1 Phosphoenolpyruvate + 1 D-Mannose -> 1 Pyruvate + 1 D-Mannose 6-phosphate)
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 Phosphoenolpyruvate + 1 Sucrose -> 1 Pyruvate + 1 Sucrose 6-phosphate)
+
+
+AdditionalMetabolites:
+acmana_e (N-Acetyl-D-mannosamine)
+acmanap_c (N-Acetyl-D-mannosamine 6-phosphate)
+f1p_c (D-Fructose 1-phosphate)
+man6p_c (D-Mannose 6-phosphate)
+man_e (D-Mannose)
+suc6p_c (Sucrose 6-phosphate)
+sucr_e (Sucrose)
+
+

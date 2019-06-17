@@ -1,0 +1,19 @@
+notRecovered:
+NADS1:1 atp_c + 1 dnad_c + 1 nh4_c -> 1 amp_c + 1 h_c + 1 nad_c + 1 ppi_c (1 ATP + 1 Deamino-NAD+ + 1 Ammonium -> 1 AMP + 1 H+ + 1 Nicotinamide adenine dinucleotide + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+R00257:1 C00001_c + 1 C00002_c + 1 C00064_c + 1 C00857_c <=> 1 C00003_c + 1 C00013_c + 1 C00020_c + 1 C00025_c (1 H2O + 1 ATP + 1 L-Glutamine + 1 Deamino-NAD+ <=> 1 NAD+ + 1 Diphosphate + 1 AMP + 1 L-Glutamate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00003_c (NAD+)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C00857_c (Deamino-NAD+)
+
+

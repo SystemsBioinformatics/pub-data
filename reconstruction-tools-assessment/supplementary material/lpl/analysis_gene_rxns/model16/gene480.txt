@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00470:1 cpd00067_c + 1 cpd00064_c -> 1 cpd00011_c + 1 cpd00118_c (1 H_plus__c0 + 1 Ornithine_c0 -> 1 CO2_c0 + 1 Putrescine_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00064_c (Ornithine_c0)
+cpd00067_c (H_plus__c0)
+cpd00118_c (Putrescine_c0)
+
+

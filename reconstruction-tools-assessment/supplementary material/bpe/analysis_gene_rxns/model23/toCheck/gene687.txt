@@ -1,0 +1,16 @@
+notRecovered:
+Kabcpp:1 atp_c + 1 h2o_c + 1 k_p -> 1 adp_c + 1 h_c + 1 k_c + 1 pi_c (1 ATP + 1 H2O + 1 potassium -> 1 ADP + 1 H+ + 1 potassium + 1 Phosphate)
+
+
+AdditionalNotInModel:
+TRANS-RXN-2:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

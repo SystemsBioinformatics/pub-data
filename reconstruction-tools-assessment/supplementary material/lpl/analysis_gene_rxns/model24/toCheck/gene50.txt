@@ -1,0 +1,25 @@
+notRecovered:
+AALDH:1 h_c + 1 nadh_c + 1 pacald_c <=> 1 nad_c + 1 pea_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Phenylacetaldehyde_ <=> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Phenylethyl_alcohol_)
+
+
+AdditionalNotInModel:
+BENZYL-ALC-DEHYDROGENASE-RXN:1 BENZYL-ALCOHOL_c + 1 NAD_c <=> 1 BENZALDEHYDE_c + 1 NADH_c + 1 PROTON_c (1 benzyl alcohol + 1 NAD+ <=> 1 benzaldehyde + 1 NADH + 1 H+)
+RXN-8581:1 4-METHYLBENZYL-ALCOHOL_c + 1 NAD_c -> 1 CPD-8773_c + 1 NADH_c + 1 PROTON_c (1 4-methylbenzyl alcohol + 1 NAD+ -> 1 4-methylbenzaldehyde + 1 NADH + 1 H+)
+RXN-8580:1 3-METHYLBENZYL-ALCOHOL_c + 1 NAD_c -> 1 CPD-8774_c + 1 NADH_c + 1 PROTON_c (1 3-methylbenzyl alcohol + 1 NAD+ -> 1 3-methylbenzaldehyde + 1 NADH + 1 H+)
+RXN-9909:1 CPD-10659_c + 1 NAD_c -> 1 CPD-10660_c + 1 NADH_c + 1 PROTON_c (1 3-chlorobenzyl alcohol + 1 NAD+ -> 1 3-chlorobenzaldehyde + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+3-METHYLBENZYL-ALCOHOL_c (3-methylbenzyl alcohol)
+4-METHYLBENZYL-ALCOHOL_c (4-methylbenzyl alcohol)
+BENZALDEHYDE_c (benzaldehyde)
+BENZYL-ALCOHOL_c (benzyl alcohol)
+CPD-10659_c (3-chlorobenzyl alcohol)
+CPD-10660_c (3-chlorobenzaldehyde)
+CPD-8773_c (4-methylbenzaldehyde)
+CPD-8774_c (3-methylbenzaldehyde)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

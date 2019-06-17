@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R00299:1 C00031_c + 1 C00002_c <=> 1 C00092_c + 1 C00008_c (1 D-Glucose + 1 ATP <=> 1 D-Glucose 6-phosphate + 1 ADP)
+R01600:1 C00221_c + 1 C00002_c <=> 1 C01172_c + 1 C00008_c (1 beta-D-Glucose + 1 ATP <=> 1 beta-D-Glucose 6-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00031_c (D-Glucose)
+C00092_c (D-Glucose 6-phosphate)
+C00221_c (beta-D-Glucose)
+C01172_c (beta-D-Glucose 6-phosphate)
+
+

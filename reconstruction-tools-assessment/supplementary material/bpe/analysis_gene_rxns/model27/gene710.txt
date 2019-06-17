@@ -1,0 +1,4 @@
+notRecovered:
+TMPK:1 atp_c + 1 thmmp_c -> 1 adp_c + 1 thmpp_c (1 ATP + 1 Thiamin monophosphate -> 1 ADP + 1 Thiamine diphosphate)
+
+

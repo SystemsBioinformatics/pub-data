@@ -1,0 +1,4 @@
+notRecovered:
+PRFGS_1:1 atp_c + 1 fgam_c + 1 gln__L_c + 1 h2o_c -> 1 adp_c + 1 fpram_c + 1 glu__L_c + 2 h_c + 1 pi_c (1 M_ATP_ + 1 M_N2_Formyl_N1__5_phospho_D_ribosyl_glycinamide_ + 1 M_L_Glutamine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_2__Formamido__N1__5_phospho_D_ribosyl_acetamidine_ + 1 M_L_Glutamate_ + 2 M_H_ + 1 M_Phosphate_)
+
+

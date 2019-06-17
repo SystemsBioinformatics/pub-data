@@ -1,0 +1,23 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+R03923:1 C02342_c + 1 C00097_c <=> 1 C04161_c + 1 C00065_c (1 ''Activated'' tRNA + 1 L-Cysteine <=> 1 tRNA containing a thionucleotide + 1 L-Serine)
+R07461:1 C15813_c + 1 C15812_c + 1 C00030_c <=> 1 C15814_c + 1 C00020_c + 1 C15811_c + 1 C00028_c (1 Adenylyl-[sulfur-carrier protein] + 1 [Enzyme]-S-sulfanylcysteine + 1 Reduced acceptor <=> 1 Thiocarboxy-[sulfur-carrier protein] + 1 AMP + 1 [Enzyme]-cysteine + 1 Acceptor)
+
+
+AdditionalMetabolites:
+C00020_c (AMP)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00065_c (L-Serine)
+C00097_c (L-Cysteine)
+C02342_c (''Activated'' tRNA)
+C04161_c (tRNA containing a thionucleotide)
+C15811_c ([Enzyme]-cysteine)
+C15812_c ([Enzyme]-S-sulfanylcysteine)
+C15813_c (Adenylyl-[sulfur-carrier protein])
+C15814_c (Thiocarboxy-[sulfur-carrier protein])
+
+

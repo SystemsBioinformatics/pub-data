@@ -1,0 +1,4 @@
+notRecovered:
+SDPDS:1 h2o_c + 1 sl26da_c -> 1 26dap_LL_c + 1 succ_c (1 M_H2O_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ -> 1 M_LL_2_6_Diaminoheptanedioate_ + 1 M_Succinate_)
+
+

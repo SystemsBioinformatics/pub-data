@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R03950:1 C02469_c + 2 C00019_c <=> 1 C05778_c + 2 C00021_c (1 Uroporphyrin III + 2 S-Adenosyl-L-methionine <=> 1 Sirohydrochlorin + 2 S-Adenosyl-L-homocysteine)
+R07238:1 C00019_c + 1 C15527_c <=> 1 C02463_c + 1 C00021_c (1 S-Adenosyl-L-methionine + 1 Precorrin 1 <=> 1 Precorrin 2 + 1 S-Adenosyl-L-homocysteine)
+R07237:1 C01051_c + 1 C00019_c <=> 1 C15527_c + 1 C00021_c (1 Uroporphyrinogen III + 1 S-Adenosyl-L-methionine <=> 1 Precorrin 1 + 1 S-Adenosyl-L-homocysteine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C01051_c (Uroporphyrinogen III)
+C02463_c (Precorrin 2)
+C02469_c (Uroporphyrin III)
+C05778_c (Sirohydrochlorin)
+C15527_c (Precorrin 1)
+
+

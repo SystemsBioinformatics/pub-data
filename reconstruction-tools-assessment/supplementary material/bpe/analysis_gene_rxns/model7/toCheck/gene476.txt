@@ -1,0 +1,12 @@
+notRecovered:
+LYSTRS:1 atp_c + 1 lys__L_c + 1 trnalys_c -> 1 amp_c + 1 lystrna_c + 1 ppi_c (1 ATP + 1 L-Lysine + 1 tRNA(Lys) -> 1 AMP + 1 L-Lysine-tRNA (Lys) + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+AP4AS:2 atp_c + 1 h_c -> 1 ppi_c + 1 ap4a_c (2 ATP C10H12N5O13P3 + 1 H+ -> 1 Diphosphate + 1 P1,P4-Bis(5'-adenosyl) tetraphosphate)
+
+
+AdditionalMetabolites:
+ap4a_c (P1,P4-Bis(5'-adenosyl) tetraphosphate)
+
+

@@ -1,0 +1,12 @@
+notRecovered:
+KAS15:1 accoa_c + 1 h_c + 1 malACP_c -> 1 actACP_c + 1 co2_c + 1 coa_c (1 M_Acetyl_CoA_ + 1 M_H_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_Acetoacetyl_acyl_carrier_protein_ + 1 M_CO2_ + 1 M_Coenzyme_A_)
+
+
+AdditionalNotInModel:
+ACOATA:1 ACP_c + 1 accoa_c <=> 1 acACP_c + 1 coa_c (1 Acyl carrier protein + 1 Acetyl-CoA <=> 1 Acetyl-ACP + 1 Coenzyme A)
+
+
+AdditionalMetabolites:
+acACP_c (Acetyl-ACP)
+
+

@@ -1,0 +1,22 @@
+notRecovered:
+FRUpts2pp:1 fru_p + 1 pep_c -> 1 f6p_c + 1 pyr_c (1 D-Fructose + 1 Phosphoenolpyruvate -> 1 D-Fructose 6-phosphate + 1 Pyruvate)
+ACMUMptspp:1 acmum_p + 1 pep_c -> 1 acmum6p_c + 1 pyr_c (1 N-Acetylmuramate + 1 Phosphoenolpyruvate -> 1 N-acetylmuramate 6-phosphate + 1 Pyruvate)
+GLCptspp:1 glc__D_p + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 D-Glucose + 1 Phosphoenolpyruvate -> 1 D-Glucose 6-phosphate + 1 Pyruvate)
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 Dihydroxyacetone + 1 Phosphoenolpyruvate -> 1 Dihydroxyacetone phosphate + 1 Pyruvate)
+GAMptspp:1 gam_p + 1 pep_c -> 1 gam6p_c + 1 pyr_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 D-Glucosamine 6-phosphate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+PEPSYNTH-RXN:1 ATP_c + 1 PYRUVATE_c + 1 WATER_c -> 1 AMP_c + 1 PHOSPHO-ENOL-PYRUVATE_c + 2 PROTON_c + 1 Pi_c (1 ATP + 1 pyruvate + 1 H2O -> 1 AMP + 1 phosphoenolpyruvate + 2 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+PHOSPHO-ENOL-PYRUVATE_c (phosphoenolpyruvate)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

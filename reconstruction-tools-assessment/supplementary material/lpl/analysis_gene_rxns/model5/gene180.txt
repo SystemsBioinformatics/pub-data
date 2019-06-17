@@ -1,0 +1,12 @@
+notRecovered:
+GLCS1:1 adpglc_c -> 1 adp_c + 1 glycogen_c + 1 h_c (1 M_ADPglucose_ -> 1 M_ADP_ + 1 M_glycogen_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+GBEZY:1 14glun_c -> 1 glycogen_c (1  1 4 alpha D Glucosyl n C6H12O6 -> 1 Glycogen C6H10O5)
+
+
+AdditionalMetabolites:
+14glun_c ( 1 4 alpha D Glucosyl n C6H12O6)
+
+

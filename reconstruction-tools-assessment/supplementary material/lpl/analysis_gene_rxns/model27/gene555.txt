@@ -1,0 +1,16 @@
+notRecovered:
+UNAGAMAMT:1 uacmam_c + 1 unaga_c -> 1 h_c + 1 udp_c + 1 unagama_c (1 M_UDP_N_acetyl_D_mannosamine_ + 1 M_Undecaprenyl_diphospho_N_acetyl_glucosamine_ -> 1 M_H_ + 1 M_UDP_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_)
+
+
+AdditionalNotInModel:
+TEICHOICSYN2-RXN:1 ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE_c + 1 UDP-MANNAC_c -> 1 ACETYL-ETCETERA-GLUCOSAMINYLDIPHOSPHOUND_c + 1 PROTON_c + 1 UDP_c (1 N-acetyl-alpha-D-glucosaminyldiphospho-ditrans,octacis-undecaprenol + 1 UDP-N-acetyl-alpha-D-mannosamine -> 1 ManNAc-GlcNAc-PP-undecaprenol + 1 H+ + 1 UDP)
+
+
+AdditionalMetabolites:
+ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE_c (N-acetyl-alpha-D-glucosaminyldiphospho-ditrans,octacis-undecaprenol)
+ACETYL-ETCETERA-GLUCOSAMINYLDIPHOSPHOUND_c (ManNAc-GlcNAc-PP-undecaprenol)
+PROTON_c (H+)
+UDP-MANNAC_c (UDP-N-acetyl-alpha-D-mannosamine)
+UDP_c (UDP)
+
+

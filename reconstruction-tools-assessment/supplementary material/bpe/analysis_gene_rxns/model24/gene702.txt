@@ -1,0 +1,4 @@
+notRecovered:
+PRAMPC:1 h2o_c + 1 prbamp_c -> 1 prfp_c (1 H2O + 1 1-(5-Phosphoribosyl)-AMP -> 1 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide)
+
+

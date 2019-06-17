@@ -1,0 +1,15 @@
+notRecovered:
+ACGALpts:1 acgala_e + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 M_N_Acetyl_D_galactosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_acetylgalactosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+rxn05610:1 cpd00061_c + 1 cpd00138_e <=> 1 cpd00020_c + 1 cpd00235_c (1 Phosphoenolpyruvate_c0 + 1 D_Mannose_e0 <=> 1 Pyruvate_c0 + 1 D_mannose_6_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00061_c (Phosphoenolpyruvate_c0)
+cpd00138_e (D_Mannose_e0)
+cpd00235_c (D_mannose_6_phosphate_c0)
+
+

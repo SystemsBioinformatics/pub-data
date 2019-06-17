@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+NPDPS:7 ipdp_c + 1 grdp_c -> 1 npdp_c + 7 ppi_c (7 Isopentenyl diphosphate + 1 Geranyl diphosphate -> 1 All-trans-Nonaprenyl diphosphate + 7 Diphosphate)
+HEXTT:1 ipdp_c + 1 hexdp_c -> 1 hepdp_c + 1 ppi_c (1 Isopentenyl diphosphate + 1 All trans Hexaprenyl diphosphate C30H49O7P2 -> 1 All-trans-Heptaprenyl diphosphate + 1 Diphosphate)
+OCTDPS:5 ipdp_c + 1 frdp_c -> 1 octdp_c + 5 ppi_c (5 Isopentenyl diphosphate + 1 Farnesyl diphosphate -> 1 All-trans-Octaprenyl diphosphate + 5 Diphosphate)
+
+
+AdditionalMetabolites:
+hepdp_c (All-trans-Heptaprenyl diphosphate)
+hexdp_c (All trans Hexaprenyl diphosphate C30H49O7P2)
+npdp_c (All-trans-Nonaprenyl diphosphate)
+octdp_c (All-trans-Octaprenyl diphosphate)
+
+
+AdditionalInModel:
+DMATT:1 dmpp_c + 1 ipdp_c -> 1 ppi_c + 1 grdp_c (1 Dimethylallyl diphosphate + 1 Isopentenyl diphosphate -> 1 Diphosphate + 1 Geranyl diphosphate)
+GRTT:1 ipdp_c + 1 grdp_c -> 1 ppi_c + 1 frdp_c (1 Isopentenyl diphosphate + 1 Geranyl diphosphate -> 1 Diphosphate + 1 Farnesyl diphosphate)

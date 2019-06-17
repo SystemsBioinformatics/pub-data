@@ -1,0 +1,18 @@
+notRecovered:
+UM4PL:1 LalaDgluMdapDala_c + 1 atp_c + 1 uamr_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 um4p_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 ATP + 1 UDP-N-acetylmuramate -> 1 ADP + 1 H+ + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine)
+UM3PL:1 LalaDgluMdap_c + 1 atp_c + 1 uamr_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 ugmd_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate + 1 ATP + 1 UDP-N-acetylmuramate -> 1 ADP + 1 H+ + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate)
+
+
+AdditionalNotInModel:
+R03193:1 C00002_c + 1 C00041_c + 1 C01050_c <=> 1 C00008_c + 1 C00009_c + 1 C01212_c (1 ATP + 1 L-Alanine + 1 UDP-N-acetylmuramate <=> 1 ADP + 1 Orthophosphate + 1 UDP-N-acetylmuramoyl-L-alanine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00041_c (L-Alanine)
+C01050_c (UDP-N-acetylmuramate)
+C01212_c (UDP-N-acetylmuramoyl-L-alanine)
+
+

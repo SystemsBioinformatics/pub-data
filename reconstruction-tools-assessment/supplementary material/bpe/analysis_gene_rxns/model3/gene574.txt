@@ -1,0 +1,6 @@
+notRecovered:
+ADOCBLtonex:1 adocbl_e + 1 h_p -> 1 adocbl_p + 1 h_c (1 Adenosylcobalamin + 1 H+ -> 1 Adenosylcobalamin + 1 H+)
+
+
+AdditionalInModel:
+FE3DCITtonex:1 h_p + 1 fe3dcit_e -> 1 h_c + 1 fe3dcit_p (1 H+ + 1 Fe(III)dicitrate -> 1 H+ + 1 Fe(III)dicitrate)

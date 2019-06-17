@@ -1,0 +1,16 @@
+notRecovered:
+NADH5:1 h_c + 1 nadh_c + 1 q8_c -> 1 nad_c + 1 q8h2_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+NADH-DEHYDROGENASE-RXN:1 Acceptor_c + 1 NADH_c + 1 PROTON_c <=> 1 Donor-H2_c + 1 NAD_c (1 an oxidized electron acceptor + 1 NADH + 1 H+ <=> 1 a reduced electron acceptor + 1 NAD+)
+
+
+AdditionalMetabolites:
+Acceptor_c (an oxidized electron acceptor)
+Donor-H2_c (a reduced electron acceptor)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

@@ -1,0 +1,23 @@
+AdditionalNotInModel:
+MLTG1:1 malttr_c + 1 h2o_c -> 1 glc__D_c + 1 malt_c (1 Maltotriose C18H32O16 + 1 H2O H2O -> 1 D-Glucose + 1 Maltose C12H22O11)
+MLTG4:1 h2o_c + 1 malthx_c -> 1 glc__D_c + 1 maltpt_c (1 H2O H2O + 1 Maltohexaose -> 1 D-Glucose + 1 Maltopentaose)
+MLTG2:1 maltttr_c + 1 h2o_c -> 1 malttr_c + 1 glc__D_c (1 Maltotetraose + 1 H2O H2O -> 1 Maltotriose C18H32O16 + 1 D-Glucose)
+MLTG6:2 h2o_c + 1 dextrin_c -> 2 glc__D_c (2 H2O H2O + 1 Dextrin C12H20O10 -> 2 D-Glucose)
+MLTG7:1 h2o_c + 1 isomal_c -> 2 glc__D_c (1 H2O H2O + 1 Isomaltose C12H22O11 -> 2 D-Glucose)
+MLTG5:1 malthp_c + 1 h2o_c -> 1 glc__D_c + 1 malthx_c (1 Maltoheptaose + 1 H2O H2O -> 1 D-Glucose + 1 Maltohexaose)
+MLTG3:1 h2o_c + 1 maltpt_c -> 1 maltttr_c + 1 glc__D_c (1 H2O H2O + 1 Maltopentaose -> 1 Maltotetraose + 1 D-Glucose)
+
+
+AdditionalMetabolites:
+dextrin_c (Dextrin C12H20O10)
+isomal_c (Isomaltose C12H22O11)
+malthp_c (Maltoheptaose)
+malthx_c (Maltohexaose)
+maltpt_c (Maltopentaose)
+malttr_c (Maltotriose C18H32O16)
+maltttr_c (Maltotetraose)
+
+
+AdditionalInModel:
+SUCR:1 h2o_c + 1 sucr_c -> 1 glc__D_c + 1 fru_c (1 H2O H2O + 1 Sucrose C12H22O11 -> 1 D-Glucose + 1 D-Fructose)
+MALT:1 h2o_c + 1 malt_c -> 2 glc__D_c (1 H2O H2O + 1 Maltose C12H22O11 -> 2 D-Glucose)

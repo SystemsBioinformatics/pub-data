@@ -1,0 +1,17 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 UDPglucose <=> 1 UDPgalactose)
+
+
+AdditionalNotInModel:
+rxn03887:1 cpd00652_c -> 1 cpd00001_c + 1 cpd00515_c (1 D_Mucic_acid_c0 -> 1 H2O_c0 + 1 5_Dehydro_4_deoxy_D_glucarate_c0)
+rxn01997:1 cpd00626_c -> 1 cpd00001_c + 1 cpd00521_c (1 dTDPglucose_c0 -> 1 H2O_c0 + 1 dTDP_4_oxo_6_deoxy_D_glucose_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00515_c (5_Dehydro_4_deoxy_D_glucarate_c0)
+cpd00521_c (dTDP_4_oxo_6_deoxy_D_glucose_c0)
+cpd00626_c (dTDPglucose_c0)
+cpd00652_c (D_Mucic_acid_c0)
+
+

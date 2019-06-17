@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+rxn03406:1 cpd00002_c + 1 cpd00013_c + 1 cpd03487_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd03488_c (1 ATP_c0 + 1 NH3_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_glutamyl_L_lysyl_D_alanyl_D_alanine_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_glutaminyl_L_lysyl_D_alanyl_D_alanine_c0)
+rxn03407:1 cpd00002_c + 1 cpd00013_c + 1 cpd03491_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd03492_c (1 ATP_c0 + 1 NH3_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_gamma_D_glutamyl_L_lysyl_D_alanyl_D_alanine_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_isoglutaminyl_L_lysyl_D_alanyl_D_alanine_c0)
+rxn03409:1 cpd00002_c + 1 cpd03495_c + 1 cpd00013_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd03496_c (1 ATP_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine_L_ala_D_glu_meso_2_6_diaminopimeloyl_D_ala_D_ala_c0 + 1 NH3_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_glutaminyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd03487_c (Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_glutamyl_L_lysyl_D_alanyl_D_alanine_c0)
+cpd03488_c (Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_glutaminyl_L_lysyl_D_alanyl_D_alanine_c0)
+cpd03491_c (Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_gamma_D_glutamyl_L_lysyl_D_alanyl_D_alanine_c0)
+cpd03492_c (Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_isoglutaminyl_L_lysyl_D_alanyl_D_alanine_c0)
+cpd03495_c (Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine_L_ala_D_glu_meso_2_6_diaminopimeloyl_D_ala_D_ala_c0)
+cpd03496_c (Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_D_glutaminyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_c0)
+
+

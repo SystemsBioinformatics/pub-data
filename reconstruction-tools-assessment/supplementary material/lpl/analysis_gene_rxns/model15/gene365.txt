@@ -1,0 +1,19 @@
+notRecovered:
+SADT:1 atp_c + 1 h_c + 1 so4_c -> 1 aps_c + 1 ppi_c (1 M_ATP_ + 1 M_H_ + 1 M_Sulfate_ -> 1 M_Adenosine_5__phosphosulfate_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+rxn12158:1 cpd00008_c + 1 cpd00089_c <=> 1 cpd00009_c + 1 cpd00387_c (1 ADP_c0 + 1 Glucose_1_phosphate_c0 <=> 1 Phosphate_c0 + 1 ADPglucose_c0)
+rxn06322:1 cpd00008_c + 1 cpd11794_c <=> 1 cpd00067_c + 1 cpd00009_c + 1 cpd11888_c (1 ADP_c0 + 1 beta_L_Aldose_1_phosphate_c0 <=> 1 H_plus__c0 + 1 Phosphate_c0 + 1 ADP_aldose_c0)
+
+
+AdditionalMetabolites:
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00089_c (Glucose_1_phosphate_c0)
+cpd00387_c (ADPglucose_c0)
+cpd11794_c (beta_L_Aldose_1_phosphate_c0)
+cpd11888_c (ADP_aldose_c0)
+
+

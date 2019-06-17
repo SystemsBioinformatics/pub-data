@@ -1,0 +1,7 @@
+notRecovered:
+MLTGY2pp:1 murein4p3p_p -> 1 anhgm3p_p + 1 anhgm4p_p (1 two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain) -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide + 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+MLTGY1pp:1 murein4p4p_p -> 2 anhgm4p_p (1 two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain) -> 2 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+MLTGY4pp:1 murein4px4p4p_p -> 1 anhgm4p_p + 1 murein4px4p_p (1 three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain) -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain))
+MLTGY3pp:1 murein3p3p_p -> 2 anhgm3p_p (1 two linked disacharide tripeptide murein units (uncrosslinked, middle of chain) -> 2 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+
+

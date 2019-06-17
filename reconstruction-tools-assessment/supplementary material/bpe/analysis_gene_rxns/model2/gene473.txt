@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+DHFOR2:1 nadp_c + 1 dhf_c <=> 1 nadph_c + 1 fol_c (1 Nicotinamide adenine dinucleotide phosphate + 1 7,8-Dihydrofolate <=> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Folate)
+FOLR2:1 nadph_c + 1 fol_c -> 1 nadp_c + 1 dhf_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Folate -> 1 Nicotinamide adenine dinucleotide phosphate + 1 7,8-Dihydrofolate)
+
+
+AdditionalMetabolites:
+fol_c (Folate)
+
+

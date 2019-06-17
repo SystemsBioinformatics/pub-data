@@ -1,0 +1,21 @@
+notRecovered:
+AIRC2:1 air_c + 1 atp_c + 1 hco3_c -> 1 5caiz_c + 1 adp_c + 1 h_c + 1 pi_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 ATP + 1 Bicarbonate -> 1 5-phosphoribosyl-5-carboxyaminoimidazole + 1 ADP + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+RXN0-742:1 5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c + 1 HCO3_c + 1 ATP_c -> 1 CPD0-181_c + 1 ADP_c + 1 Pi_c + 2 PROTON_c (1 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + 1 hydrogencarbonate + 1 ATP -> 1 N5-carboxyaminoimidazole ribonucleotide + 1 ADP + 1 phosphate + 2 H+)
+AIRCARBOXY-RXN:1 PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE_c + 2 PROTON_c <=> 1 5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c + 1 CARBON-DIOXIDE_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + 2 H+ <=> 1 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + 1 CO2)
+
+
+AdditionalMetabolites:
+5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c (5-amino-1-(5-phospho-beta-D-ribosyl)imidazole)
+ADP_c (ADP)
+ATP_c (ATP)
+CARBON-DIOXIDE_c (CO2)
+CPD0-181_c (N5-carboxyaminoimidazole ribonucleotide)
+HCO3_c (hydrogencarbonate)
+PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE_c (5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate)
+PROTON_c (H+)
+Pi_c (phosphate)
+
+

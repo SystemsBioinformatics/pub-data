@@ -1,0 +1,19 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+LIPOS2:2 amet_c + 2 cys__L_c + 2 fdxrd_c + 1 octapb_c -> 2 ala__L_c + 2 dad_5_c + 2 fdxox_c + 1 lipopb_c + 2 met__L_c (2 S-Adenosyl-L-methionine + 2 L-Cysteine + 2 Reduced ferredoxin + 1 Octanoate (protein bound) -> 2 L-Alanine + 2 5'-Deoxyadenosine + 2 Oxidized ferredoxin + 1 Lipoate (protein bound) + 2 L-Methionine)
+CYSDES:1 cys__L_c + 1 iscsh_c -> 1 ala__L_c + 1 h_c + 1 iscssh_c (1 L-Cysteine + 1 Thiamine biosynthesis intermediate 2 -> 1 L-Alanine + 1 H+ + 1 IscS with bound sulfur)
+
+
+AdditionalMetabolites:
+dad_5_c (5'-Deoxyadenosine)
+fdxox_c (Oxidized ferredoxin)
+fdxrd_c (Reduced ferredoxin)
+iscsh_c (Thiamine biosynthesis intermediate 2)
+iscssh_c (IscS with bound sulfur)
+lipopb_c (Lipoate (protein bound))
+octapb_c (Octanoate (protein bound))
+
+

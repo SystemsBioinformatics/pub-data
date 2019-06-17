@@ -1,0 +1,4 @@
+notRecovered:
+MAN6PI:1 man6p_c <=> 1 f6p_c (1 M_D_Mannose_6_phosphate_ <=> 1 M_D_Fructose_6_phosphate_)
+
+

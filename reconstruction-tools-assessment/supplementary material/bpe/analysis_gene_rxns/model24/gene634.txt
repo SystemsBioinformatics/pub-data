@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN66-1:1 ETOH_c + 1 HYDROGEN-PEROXIDE_c -> 1 ACETALD_c + 2 WATER_c (1 ethanol + 1 hydrogen peroxide -> 1 acetaldehyde + 2 H2O)
+
+
+AdditionalMetabolites:
+ACETALD_c (acetaldehyde)
+ETOH_c (ethanol)
+HYDROGEN-PEROXIDE_c (hydrogen peroxide)
+WATER_c (H2O)
+
+

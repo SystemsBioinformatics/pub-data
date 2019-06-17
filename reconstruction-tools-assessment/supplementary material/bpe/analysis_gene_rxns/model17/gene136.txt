@@ -1,0 +1,4 @@
+notRecovered:
+DSBAO1:1 dsbard_p + 1 q8_c -> 1 dsbaox_p + 1 q8h2_c (1 periplasmic protein disulfide isomerase I (reduced) + 1 Ubiquinone-8 -> 1 periplasmic protein disulfide isomerase I (oxidized) + 1 Ubiquinol-8)
+
+

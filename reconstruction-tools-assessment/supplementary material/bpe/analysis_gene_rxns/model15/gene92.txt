@@ -1,0 +1,20 @@
+notRecovered:
+CYTBO3_4pp:4 h_c + 0.5 o2_c + 1 q8h2_c -> 1 h2o_c + 4 h_p + 1 q8_c (4 H+ + 0.5 O2 + 1 Ubiquinol-8 -> 1 H2O + 4 H+ + 1 Ubiquinone-8)
+QMO2:2 o2_c + 1 q8h2_c -> 2 h_c + 2 o2s_c + 1 q8_c (2 O2 + 1 Ubiquinol-8 -> 2 H+ + 2 Superoxide anion + 1 Ubiquinone-8)
+
+
+AdditionalNotInModel:
+R00081:1 C00007_c + 4 C00080_c + 4 C00126_c <=> 2 C00001_c + 4 C00125_c (1 Oxygen + 4 H+ + 4 Ferrocytochrome c <=> 2 H2O + 4 Ferricytochrome c)
+R09492:1 C00007_c + 2 C05819_c <=> 2 C00001_c + 2 C00828_c (1 Oxygen + 2 Menaquinol <=> 2 H2O + 2 Menaquinone)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00080_c (H+)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00828_c (Menaquinone)
+C05819_c (Menaquinol)
+
+

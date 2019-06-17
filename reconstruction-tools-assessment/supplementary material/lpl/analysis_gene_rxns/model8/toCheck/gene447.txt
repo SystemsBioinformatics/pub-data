@@ -1,0 +1,22 @@
+notRecovered:
+PAPPT5:1 udcpp_c + 1 ugmdalac_c -> 1 uagmdalac_c + 1 ump_c (1 M_Undecaprenyl_phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UMP_)
+
+
+AdditionalNotInModel:
+PGPPT3:1 uggmda_c + 1 udcpp_c -> 1 ugggmda_c + 1 ump_c (1 UDP-N-glycolylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 Undecaprenyl phosphate -> 1 Undecaprenyl-diphospho-N-glycolylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 UMP C9H11N2O9P)
+PAPPT2:1 uGgla_c + 1 udcpp_c -> 1 uaGgla_c + 1 ump_c (1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 Undecaprenyl phosphate -> 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 UMP C9H11N2O9P)
+PAPPT1:1 uAgla_c + 1 udcpp_c -> 1 uaAgla_c + 1 ump_c (1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 Undecaprenyl phosphate -> 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 UMP C9H11N2O9P)
+PAPPT3:1 ugmda_c + 1 udcpp_c -> 1 uagmda_c + 1 ump_c (1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 Undecaprenyl phosphate -> 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 UMP C9H11N2O9P)
+
+
+AdditionalMetabolites:
+uAgla_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uGgla_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uaAgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uaGgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uagmda_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+ugggmda_c (Undecaprenyl-diphospho-N-glycolylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+uggmda_c (UDP-N-glycolylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+ugmda_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+
+

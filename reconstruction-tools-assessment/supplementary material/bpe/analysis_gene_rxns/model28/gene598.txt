@@ -1,0 +1,33 @@
+notRecovered:
+OMBZLM:1 2ombzl_c + 1 amet_c -> 1 2ommbl_c + 1 ahcys_c + 1 h_c (1 2-Octaprenyl-6-methoxy-1,4-benzoquinol + 1 S-Adenosyl-L-methionine -> 1 2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol + 1 S-Adenosyl-L-homocysteine + 1 H+)
+
+
+AdditionalNotInModel:
+R04993:1 C05818_c + 1 C00019_c <=> 1 C00828_c + 1 C00021_c (1 2-Demethylmenaquinone + 1 S-Adenosyl-L-methionine <=> 1 Menaquinone + 1 S-Adenosyl-L-homocysteine)
+R06859:1 C00019_c + 1 C13309_c <=> 1 C02059_c + 1 C00021_c (1 S-Adenosyl-L-methionine + 1 2-Phytyl-1,4-naphthoquinone <=> 1 Phylloquinone + 1 S-Adenosyl-L-homocysteine)
+R04983:1 C00019_c + 1 C05803_c <=> 1 C05804_c + 1 C00021_c (1 S-Adenosyl-L-methionine + 1 2-Hexaprenyl-6-methoxy-1,4-benzoquinone <=> 1 2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-homocysteine)
+R09737:1 C00019_c + 1 C19858_c <=> 1 C19859_c + 1 C00021_c (1 S-Adenosyl-L-methionine + 1 2-Methoxy-6-all-trans-polyprenyl-1,4-benzoquinol <=> 1 6-Methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol + 1 S-Adenosyl-L-homocysteine)
+R09736:1 C19847_c + 1 C00019_c <=> 1 C05819_c + 1 C00021_c (1 Demethylmenaquinol + 1 S-Adenosyl-L-methionine <=> 1 Menaquinol + 1 S-Adenosyl-L-homocysteine)
+R04990:1 C05813_c + 1 C00019_c <=> 1 C05814_c + 1 C00021_c (1 2-Octaprenyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-methionine <=> 1 2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-homocysteine)
+R08774:1 C17560_c + 1 C00019_c <=> 1 C17561_c + 1 C00021_c (1 2-Polyprenyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-methionine <=> 1 2-Polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-homocysteine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C00828_c (Menaquinone)
+C02059_c (Phylloquinone)
+C05803_c (2-Hexaprenyl-6-methoxy-1,4-benzoquinone)
+C05804_c (2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone)
+C05813_c (2-Octaprenyl-6-methoxy-1,4-benzoquinone)
+C05814_c (2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone)
+C05818_c (2-Demethylmenaquinone)
+C05819_c (Menaquinol)
+C13309_c (2-Phytyl-1,4-naphthoquinone)
+C17560_c (2-Polyprenyl-6-methoxy-1,4-benzoquinone)
+C17561_c (2-Polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone)
+C19847_c (Demethylmenaquinol)
+C19858_c (2-Methoxy-6-all-trans-polyprenyl-1,4-benzoquinol)
+C19859_c (6-Methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol)
+
+

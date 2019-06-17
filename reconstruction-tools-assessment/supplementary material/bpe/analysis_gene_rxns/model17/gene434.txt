@@ -1,0 +1,16 @@
+notRecovered:
+APTNAT:1 5aptn_c + 1 akg_c -> 1 glu__L_c + 1 oxptn_c (1 5-aminopentanoate + 1 2-Oxoglutarate -> 1 L-Glutamate + 1 Glutarate semialdehyde (5-oxopentanoate))
+PTRCTA:1 akg_c + 1 ptrc_c -> 1 4abutn_c + 1 glu__L_c (1 2-Oxoglutarate + 1 Putrescine -> 1 4-Aminobutanal + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+R04188:1 C00026_c + 1 C03284_c <=> 1 C00025_c + 1 C06002_c (1 2-Oxoglutarate + 1 L-3-Aminoisobutanoate <=> 1 L-Glutamate + 1 (S)-Methylmalonate semialdehyde)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C03284_c (L-3-Aminoisobutanoate)
+C06002_c ((S)-Methylmalonate semialdehyde)
+
+

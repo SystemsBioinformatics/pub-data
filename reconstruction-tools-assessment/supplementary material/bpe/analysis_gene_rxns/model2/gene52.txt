@@ -1,0 +1,40 @@
+notRecovered:
+PLIPAE120:1 h2o_c + 1 pe120_c -> 1 12dgr120_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (didodecanoyl, n-C12:0) -> 1 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0) + 1 Ethanolamine phosphate)
+PLIPAG141:1 h2o_c + 1 pg141_c -> 1 12dgr141_c + 1 glyc3p_c + 1 h_c (1 H2O + 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) -> 1 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG160:1 h2o_c + 1 pg160_c -> 1 12dgr160_c + 1 glyc3p_c + 1 h_c (1 H2O + 1 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) -> 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG161:1 h2o_c + 1 pg161_c -> 1 12dgr161_c + 1 glyc3p_c + 1 h_c (1 H2O + 1 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) -> 1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAE180:1 h2o_c + 1 pe180_c -> 1 12dgr180_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (dioctadecanoyl, n-C18:0) -> 1 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0) + 1 Ethanolamine phosphate)
+PLIPAE181:1 h2o_c + 1 pe181_c -> 1 12dgr181_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1) -> 1 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1) + 1 Ethanolamine phosphate)
+PLIPAE120pp:1 h2o_p + 1 pe120_p -> 1 12dgr120_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (didodecanoyl, n-C12:0) -> 1 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0) + 1 Ethanolamine phosphate)
+PLIPAG180:1 h2o_c + 1 pg180_c -> 1 12dgr180_c + 1 glyc3p_c + 1 h_c (1 H2O + 1 Phosphatidylglycerol (dioctadecanoyl, n-C18:0) -> 1 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG181:1 h2o_c + 1 pg181_c -> 1 12dgr181_c + 1 glyc3p_c + 1 h_c (1 H2O + 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) -> 1 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG141pp:1 h2o_p + 1 pg141_p -> 1 12dgr141_p + 1 glyc3p_p + 1 h_p (1 H2O + 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) -> 1 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG181pp:1 h2o_p + 1 pg181_p -> 1 12dgr181_p + 1 glyc3p_p + 1 h_p (1 H2O + 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) -> 1 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAE160:1 h2o_c + 1 pe160_c -> 1 12dgr160_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (dihexadecanoyl, n-C16:0) -> 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) + 1 Ethanolamine phosphate)
+PLIPAE161:1 h2o_c + 1 pe161_c -> 1 12dgr161_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1) -> 1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) + 1 Ethanolamine phosphate)
+PLIPAG140pp:1 h2o_p + 1 pg140_p -> 1 12dgr140_p + 1 glyc3p_p + 1 h_p (1 H2O + 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) -> 1 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAE180pp:1 h2o_p + 1 pe180_p -> 1 12dgr180_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (dioctadecanoyl, n-C18:0) -> 1 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0) + 1 Ethanolamine phosphate)
+PLIPAE181pp:1 h2o_p + 1 pe181_p -> 1 12dgr181_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1) -> 1 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1) + 1 Ethanolamine phosphate)
+PLIPAE160pp:1 h2o_p + 1 pe160_p -> 1 12dgr160_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (dihexadecanoyl, n-C16:0) -> 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) + 1 Ethanolamine phosphate)
+PLIPAE141pp:1 h2o_p + 1 pe141_p -> 1 12dgr141_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1) -> 1 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1) + 1 Ethanolamine phosphate)
+PLIPAG160pp:1 h2o_p + 1 pg160_p -> 1 12dgr160_p + 1 glyc3p_p + 1 h_p (1 H2O + 1 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) -> 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG180pp:1 h2o_p + 1 pg180_p -> 1 12dgr180_p + 1 glyc3p_p + 1 h_p (1 H2O + 1 Phosphatidylglycerol (dioctadecanoyl, n-C18:0) -> 1 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAG140:1 h2o_c + 1 pg140_c -> 1 12dgr140_c + 1 glyc3p_c + 1 h_c (1 H2O + 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) -> 1 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAE161pp:1 h2o_p + 1 pe161_p -> 1 12dgr161_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1) -> 1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) + 1 Ethanolamine phosphate)
+PLIPAG161pp:1 h2o_p + 1 pg161_p -> 1 12dgr161_p + 1 glyc3p_p + 1 h_p (1 H2O + 1 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) -> 1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) + 1 Glycerol 3-phosphate + 1 H+)
+PLIPAE140pp:1 h2o_p + 1 pe140_p -> 1 12dgr140_p + 1 ethamp_p (1 H2O + 1 phosphatidylethanolamine (ditetradecanoyl, n-C14:0) -> 1 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0) + 1 Ethanolamine phosphate)
+PLIPAE141:1 h2o_c + 1 pe141_c -> 1 12dgr141_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1) -> 1 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1) + 1 Ethanolamine phosphate)
+PLIPAE140:1 h2o_c + 1 pe140_c -> 1 12dgr140_c + 1 ethamp_c (1 H2O + 1 phosphatidylethanolamine (ditetradecanoyl, n-C14:0) -> 1 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0) + 1 Ethanolamine phosphate)
+
+
+AdditionalNotInModel:
+PLCD:1 h2o_c + 1 ptd1ino160_c -> 1 12dgr160_c + 1 h_c + 1 mi1p__D_c (1 H2O + 1 Phosphatidyl 1D myo inositol -> 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) + 1 H+ + 1 1D-myo-Inositol 1-phosphate)
+
+
+AdditionalMetabolites:
+mi1p__D_c (1D-myo-Inositol 1-phosphate)
+ptd1ino160_c (Phosphatidyl 1D myo inositol)
+
+
+AdditionalInModel:
+PAPA160:1 h2o_c + 1 pa160_c -> 1 pi_c + 1 12dgr160_c (1 H2O + 1 1,2-dihexadecanoyl-sn-glycerol 3-phosphate -> 1 Phosphate + 1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0))

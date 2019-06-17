@@ -1,0 +1,4 @@
+notRecovered:
+DPR:1 2dhp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 pant__R_c (1 M_2_Dehydropantoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M__R__Pantoate_)
+
+

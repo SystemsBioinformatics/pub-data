@@ -1,0 +1,11 @@
+notRecovered:
+PAPSR:1 paps_c + 1 trdrd_c -> 2 h_c + 1 pap_c + 1 so3_c + 1 trdox_c (1 3'-Phosphoadenylyl sulfate + 1 Reduced thioredoxin -> 2 H+ + 1 Adenosine 3',5'-bisphosphate + 1 Sulfite + 1 Oxidized thioredoxin)
+PAPSR2:1 grxrd_c + 1 paps_c -> 1 grxox_c + 2 h_c + 1 pap_c + 1 so3_c (1 glutaredoxin (reduced) + 1 3'-Phosphoadenylyl sulfate -> 1 glutaredoxin (oxidized) + 2 H+ + 1 Adenosine 3',5'-bisphosphate + 1 Sulfite)
+
+
+AdditionalNotInModel:
+SADT:1 atp_c + 1 h_c + 1 so4_c -> 1 ppi_c + 1 aps_c (1 ATP + 1 H+ + 1 Sulfate -> 1 Diphosphate + 1 Adenosine 5'-phosphosulfate)
+
+
+AdditionalInModel:
+ADSK:1 atp_c + 1 aps_c -> 1 adp_c + 1 h_c + 1 paps_c (1 ATP + 1 Adenosine 5'-phosphosulfate -> 1 ADP + 1 H+ + 1 3'-Phosphoadenylyl sulfate)

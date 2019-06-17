@@ -1,0 +1,9 @@
+notRecovered:
+AGMabcpp:1 agm_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 agm_c + 1 h_c + 1 pi_c (1 Agmatine + 1 ATP + 1 H2O -> 1 ADP + 1 Agmatine + 1 H+ + 1 Phosphate)
+SPMDabcpp:1 atp_c + 1 h2o_c + 1 spmd_p -> 1 adp_c + 1 h_c + 1 pi_c + 1 spmd_c (1 ATP + 1 H2O + 1 Spermidine -> 1 ADP + 1 H+ + 1 Phosphate + 1 Spermidine)
+
+
+AdditionalNotInModel:
+PTRCabc:1 atp_c + 1 h2o_c + 1 ptrc_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 ptrc_c (1 ATP + 1 H2O + 1 Putrescine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Putrescine)
+
+

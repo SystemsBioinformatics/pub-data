@@ -1,0 +1,15 @@
+notRecovered:
+MANpts:1 man_e + 1 pep_c -> 1 man6p_c + 1 pyr_c (1 M_D_Mannose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannose_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R02630:1 C00159_c + 1 C04261_c <=> 1 C00275_c + 1 C00615_c (1 D-Mannose + 1 Protein N(pi)-phospho-L-histidine <=> 1 D-Mannose 6-phosphate + 1 Protein histidine)
+
+
+AdditionalMetabolites:
+C00159_c (D-Mannose)
+C00275_c (D-Mannose 6-phosphate)
+C00615_c (Protein histidine)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+
+

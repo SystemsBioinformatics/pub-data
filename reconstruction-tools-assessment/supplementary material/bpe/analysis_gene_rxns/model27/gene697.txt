@@ -1,0 +1,4 @@
+notRecovered:
+USHD_BP:1 h2o_c + 1 u23ga_BP_c -> 2 h_c + 1 lipidX_BP_c + 1 ump_c (1 H2O + 1 UDP-2-(3-hydroxytetradecanoyl),3-(3-hydroxydecanoyl)-glucosamine -> 2 H+ + 1 2-(3-hydroxytetradecanoyl),3-(3-hydroxydecanoyl)-beta-D-glucosaminyl 1-phosphate + 1 UMP)
+
+

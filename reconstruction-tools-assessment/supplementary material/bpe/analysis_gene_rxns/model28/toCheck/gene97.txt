@@ -1,0 +1,15 @@
+notRecovered:
+PPA2:1 h2o_c + 1 pppi_c -> 1 h_c + 1 pi_c + 1 ppi_c (1 H2O + 1 Inorganic triphosphate -> 1 H+ + 1 Phosphate + 1 Diphosphate)
+PPA:1 h2o_c + 1 ppi_c -> 1 h_c + 2 pi_c (1 H2O + 1 Diphosphate -> 1 H+ + 2 Phosphate)
+
+
+AdditionalNotInModel:
+R03042:1 C00001_c <=> 1 C00404_c + 1 C00009_c (1 H2O <=> 1 Polyphosphate + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00404_c (Polyphosphate)
+
+

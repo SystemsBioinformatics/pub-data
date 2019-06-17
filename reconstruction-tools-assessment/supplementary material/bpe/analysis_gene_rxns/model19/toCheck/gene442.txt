@@ -1,0 +1,15 @@
+notRecovered:
+PHBHD:99 h2o_c + 1 phb_c -> 100 bhb_c + 99 h_c (99 H2O + 1 poly-beta-hydroxybutyrate -> 100 (R)-3-hydroxybutanoate + 99 H+)
+
+
+AdditionalNotInModel:
+R05118:1 C00001_c + 1 C06143_c <=> 1 C04546_c + 1 C11552_c (1 H2O + 1 Poly-beta-hydroxybutyrate <=> 1 (R)-3-((R)-3-Hydroxybutanoyloxy)butanoate + 1 Poly[(R)-3-hydroxybutanoate]x)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C04546_c ((R)-3-((R)-3-Hydroxybutanoyloxy)butanoate)
+C06143_c (Poly-beta-hydroxybutyrate)
+C11552_c (Poly[(R)-3-hydroxybutanoate]x)
+
+

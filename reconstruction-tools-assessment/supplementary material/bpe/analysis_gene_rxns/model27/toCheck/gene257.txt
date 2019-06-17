@@ -1,0 +1,21 @@
+notRecovered:
+CYSTGL:1 cyst__L_c + 1 h2o_c -> 1 2obut_c + 1 cys__L_c + 1 nh4_c (1 L-Cystathionine + 1 H2O -> 1 2-Oxobutanoate + 1 L-Cysteine + 1 Ammonium)
+METB1:1 achms_c + 1 cys__L_c -> 1 ac_c + 1 cyst__L_c + 1 h_c (1 O-Acetyl-L-homoserine + 1 L-Cysteine -> 1 Acetate + 1 L-Cystathionine + 1 H+)
+SHSL1:1 cys__L_c + 1 suchms_c -> 1 cyst__L_c + 1 h_c + 1 succ_c (1 L-Cysteine + 1 O-Succinyl-L-homoserine -> 1 L-Cystathionine + 1 H+ + 1 Succinate)
+
+
+AdditionalNotInModel:
+R04770:1 C05335_c + 1 C00001_c <=> 1 C00109_c + 1 C05703_c + 1 C00014_c (1 L-Selenomethionine + 1 H2O <=> 1 2-Oxobutanoate + 1 Methaneselenol + 1 Ammonia)
+R00654:1 C00073_c + 1 C00001_c <=> 1 C00109_c + 1 C00014_c + 1 C00409_c (1 L-Methionine + 1 H2O <=> 1 2-Oxobutanoate + 1 Ammonia + 1 Methanethiol)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00073_c (L-Methionine)
+C00109_c (2-Oxobutanoate)
+C00409_c (Methanethiol)
+C05335_c (L-Selenomethionine)
+C05703_c (Methaneselenol)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+G3POc:1 glyc3p_c + 1 o2_c -> 1 dhap_c + 1 h2o2_c (1 M_sn_Glycerol_3_phosphate_ + 1 M_O2_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Hydrogen_peroxide_)
+
+
+AdditionalNotInModel:
+G3PD:1 glyc3p_c + 1 fad_c <=> 1 fadh2_c + 1 dhap_c (1 Glycerol 3-phosphate + 1 Flavin adenine dinucleotide oxidized <=> 1 Flavin adenine dinucleotide reduced + 1 Dihydroxyacetone phosphate)
+G3PD4:1 glyc3p_c + 1 mqn7_c -> 1 mql7_c + 1 dhap_c (1 Glycerol 3-phosphate + 1 Menaquinone 7 C46H64O2 -> 1 Menaquinol 7 C46H66O2 + 1 Dihydroxyacetone phosphate)
+
+
+AdditionalMetabolites:
+fadh2_c (Flavin adenine dinucleotide reduced)
+
+

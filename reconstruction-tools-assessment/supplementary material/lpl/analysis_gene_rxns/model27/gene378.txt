@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+FRUCTOSE-6-PHOSPHATE-PHOSPHOKETOLASE-RXN:1 FRUCTOSE-6P_c + 1 Pi_c -> 1 ACETYL-P_c + 1 ERYTHROSE-4P_c + 1 WATER_c (1 beta-D-fructofuranose 6-phosphate + 1 phosphate -> 1 acetyl phosphate + 1 D-erythrose 4-phosphate + 1 H2O)
+
+
+AdditionalMetabolites:
+ACETYL-P_c (acetyl phosphate)
+ERYTHROSE-4P_c (D-erythrose 4-phosphate)
+FRUCTOSE-6P_c (beta-D-fructofuranose 6-phosphate)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+TSULR3e:2 gthrd_c + 1 tsul_c -> 1 gthox_c + 1 h2s_c + 1 so3_c (2 Reduced glutathione + 1 Thiosulfate -> 1 Oxidized glutathione + 1 Hydrogen sulfide + 1 Sulfite)
+
+
+AdditionalNotInModel:
+rxn00371:1 cpd00003_c + 1 cpd00047_c -> 1 cpd00004_c + 1 cpd00011_c (1 NAD_c0 + 1 Formate_c0 -> 1 NADH_c0 + 1 CO2_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00011_c (CO2_c0)
+cpd00047_c (Formate_c0)
+
+

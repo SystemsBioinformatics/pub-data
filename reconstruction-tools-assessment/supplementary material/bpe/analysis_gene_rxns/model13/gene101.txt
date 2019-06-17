@@ -1,0 +1,31 @@
+notRecovered:
+OIVD3:1 3mop_c + 1 coa_c + 1 nad_c -> 1 2mbcoa_c + 1 co2_c + 1 nadh_c (1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 (S)-2-methylbutanoyl-coenzyme A + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 3-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD2:1 3mob_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ibcoa_c + 1 nadh_c (1 3-Methyl-2-oxobutanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+rxn07431:1 cpd00213_c + 1 cpd14700_c <=> 1 cpd00056_c + 1 cpd02700_c (1 Lipoamide_c0 + 1 2_Methyl_1_hydroxypropyl_TPP_c0 <=> 1 TPP_c0 + 1 S_2_Methylpropionyl_dihydrolipoamide_c0)
+rxn07434:1 cpd00067_c + 1 cpd00056_c + 1 cpd00508_c -> 1 cpd00011_c + 1 cpd14702_c (1 H_plus__c0 + 1 TPP_c0 + 1 3MOP_c0 -> 1 CO2_c0 + 1 2_Methyl_1_hydroxybutyl_TPP_c0)
+rxn07433:1 cpd00213_c + 1 cpd14698_c <=> 1 cpd00056_c + 1 cpd14699_c (1 Lipoamide_c0 + 1 3_Methyl_1_hydroxybutyl_TPP_c0 <=> 1 TPP_c0 + 1 S_3_Methylbutanoyl_dihydrolipoamide_E_c0)
+rxn07435:1 cpd00213_c + 1 cpd14702_c <=> 1 cpd00056_c + 1 cpd14703_c (1 Lipoamide_c0 + 1 2_Methyl_1_hydroxybutyl_TPP_c0 <=> 1 TPP_c0 + 1 S_2_Methylbutanoyl_dihydrolipoamide_E_c0)
+rxn07430:1 cpd00067_c + 1 cpd00056_c + 1 cpd00123_c -> 1 cpd14700_c + 1 cpd00011_c (1 H_plus__c0 + 1 TPP_c0 + 1 3_Methyl_2_oxobutanoate_c0 -> 1 2_Methyl_1_hydroxypropyl_TPP_c0 + 1 CO2_c0)
+rxn07432:1 cpd00067_c + 1 cpd00056_c + 1 cpd00200_c -> 1 cpd00011_c + 1 cpd14698_c (1 H_plus__c0 + 1 TPP_c0 + 1 4MOP_c0 -> 1 CO2_c0 + 1 3_Methyl_1_hydroxybutyl_TPP_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00056_c (TPP_c0)
+cpd00067_c (H_plus__c0)
+cpd00123_c (3_Methyl_2_oxobutanoate_c0)
+cpd00200_c (4MOP_c0)
+cpd00213_c (Lipoamide_c0)
+cpd00508_c (3MOP_c0)
+cpd02700_c (S_2_Methylpropionyl_dihydrolipoamide_c0)
+cpd14698_c (3_Methyl_1_hydroxybutyl_TPP_c0)
+cpd14699_c (S_3_Methylbutanoyl_dihydrolipoamide_E_c0)
+cpd14700_c (2_Methyl_1_hydroxypropyl_TPP_c0)
+cpd14702_c (2_Methyl_1_hydroxybutyl_TPP_c0)
+cpd14703_c (S_2_Methylbutanoyl_dihydrolipoamide_E_c0)
+
+

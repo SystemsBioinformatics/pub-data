@@ -1,0 +1,13 @@
+notRecovered:
+AIRCr:1 air_c + 1 co2_c -> 1 5aizc_c + 1 h_c (1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_CO2_ -> 1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_4_carboxylate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RXN0-743:1 CPD0-181_c -> 1 PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE_c (1 N5-carboxyaminoimidazole ribonucleotide -> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate)
+
+
+AdditionalMetabolites:
+CPD0-181_c (N5-carboxyaminoimidazole ribonucleotide)
+PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE_c (5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate)
+
+

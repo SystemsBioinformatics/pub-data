@@ -1,0 +1,15 @@
+notRecovered:
+LPGS_LPL:1 lystrna_c + 0.01 pg_LPL_c -> 0.01 lyspg_LPL_c + 1 trnalys_c (1 M_L_Lysine_tRNA__Lys__ + 0.01 M_Phospatidylglycerol__LPL_specific__ -> 0.01 M_1_lysyl_phosphatidyl_glycerol__LPL_specific__ + 1 M_tRNA_Lys__)
+
+
+AdditionalNotInModel:
+R03771:1 C00344_c + 1 C01931_c <=> 1 C04482_c + 1 C01646_c (1 Phosphatidylglycerol + 1 L-Lysyl-tRNA <=> 1 3-O-L-Lysyl-1-O-phosphatidylglycerol + 1 tRNA(Lys))
+
+
+AdditionalMetabolites:
+C00344_c (Phosphatidylglycerol)
+C01646_c (tRNA(Lys))
+C01931_c (L-Lysyl-tRNA)
+C04482_c (3-O-L-Lysyl-1-O-phosphatidylglycerol)
+
+

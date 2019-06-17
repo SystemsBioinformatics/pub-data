@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01909:1 C00002_c + 1 C00314_c <=> 1 C00627_c + 1 C00008_c (1 ATP + 1 Pyridoxine <=> 1 Pyridoxine phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00314_c (Pyridoxine)
+C00627_c (Pyridoxine phosphate)
+
+

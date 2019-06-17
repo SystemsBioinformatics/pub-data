@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R01773:1 C00263_c + 1 C00003_c <=> 1 C00441_c + 1 C00080_c + 1 C00004_c (1 L-Homoserine + 1 NAD+ <=> 1 L-Aspartate 4-semialdehyde + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00263_c (L-Homoserine)
+C00441_c (L-Aspartate 4-semialdehyde)
+
+

@@ -1,0 +1,32 @@
+notRecovered:
+3OAR140:1 3omrsACP_c + 1 h_c + 1 nadph_c -> 1 3hmrsACP_c + 1 nadp_c (1 M_3_Oxotetradecanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxytetradecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR60:1 3ohexACP_c + 1 h_c + 1 nadph_c -> 1 3hhexACP_c + 1 nadp_c (1 M_3_Oxohexanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__R__3_Hydroxyhexanoyl_acp_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR120:1 3oddecACP_c + 1 h_c + 1 nadph_c -> 1 3hddecACP_c + 1 nadp_c (1 M_3_Oxododecanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__R__3_Hydroxydodecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR160:1 3opalmACP_c + 1 h_c + 1 nadph_c -> 1 3hpalmACP_c + 1 nadp_c (1 M_3_Oxohexadecanoyl_acp_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxypalmitoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR180:1 3ooctdACP_c + 1 h_c + 1 nadph_c -> 1 3hoctaACP_c + 1 nadp_c (1 M_3_Oxooctadecanoyl_acp_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR100:1 3odecACP_c + 1 h_c + 1 nadph_c -> 1 3hdecACP_c + 1 nadp_c (1 M_3_Oxodecanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxydecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR80:1 3ooctACP_c + 1 h_c + 1 nadph_c -> 1 3hoctACP_c + 1 nadp_c (1 M_3_Oxooctanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__R__3_Hydroxyoctanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR40:1 actACP_c + 1 h_c + 1 nadph_c -> 1 3haACP_c + 1 nadp_c (1 M_Acetoacetyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxybutanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+
+
+AdditionalNotInModel:
+RXN-16622:1 7Z-3-oxo-hexadec-7-enoyl-ACPs_c + 1 NADPH_c + 1 PROTON_c -> 1 3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs_c + 1 NADP_c (1 7Z-3-oxo-hexadec-7-enoyl-ACPs + 1 NADPH + 1 H+ -> 1 3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs + 1 NADP+)
+RXN-16626:1 9Z-3-oxo-octadec-9-enoyl-ACPs_c + 1 NADPH_c + 1 PROTON_c -> 1 3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs_c + 1 NADP_c (1 9Z-3-oxo-octadec-9-enoyl-ACPs + 1 NADPH + 1 H+ -> 1 3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs + 1 NADP+)
+RXN-16616:1 5Z-3-oxo-tetradec-5-enoyl-ACPs_c + 1 NADPH_c + 1 PROTON_c -> 1 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs_c + 1 NADP_c (1 5Z-3-oxo-tetradec-5-enoyl-ACPs + 1 NADPH + 1 H+ -> 1 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs + 1 NADP+)
+RXN-16630:1 11Z-3-oxo-icos-11-enoyl-ACPs_c + 1 NADPH_c + 1 PROTON_c -> 1 3R-11Z-3-hydroxy-icos-11-enoyl-ACPs_c + 1 NADP_c (1 11Z-3-oxo-icos-11-enoyl-ACPs + 1 NADPH + 1 H+ -> 1 3R-11Z-3-hydroxy-icos-11-enoyl-ACPs + 1 NADP+)
+
+
+AdditionalMetabolites:
+11Z-3-oxo-icos-11-enoyl-ACPs_c (11Z-3-oxo-icos-11-enoyl-ACPs)
+3R-11Z-3-hydroxy-icos-11-enoyl-ACPs_c (3R-11Z-3-hydroxy-icos-11-enoyl-ACPs)
+3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs_c (3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs)
+3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs_c (3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs)
+3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs_c (3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs)
+5Z-3-oxo-tetradec-5-enoyl-ACPs_c (5Z-3-oxo-tetradec-5-enoyl-ACPs)
+7Z-3-oxo-hexadec-7-enoyl-ACPs_c (7Z-3-oxo-hexadec-7-enoyl-ACPs)
+9Z-3-oxo-octadec-9-enoyl-ACPs_c (9Z-3-oxo-octadec-9-enoyl-ACPs)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

@@ -1,0 +1,14 @@
+notRecovered:
+QMO2:2 o2_c + 1 q8h2_c -> 2 h_c + 2 o2s_c + 1 q8_c (2 O2 + 1 Ubiquinol-8 -> 2 H+ + 2 Superoxide anion + 1 Ubiquinone-8)
+CYTBDpp:2 h_c + 0.5 o2_c + 1 q8h2_c -> 1 h2o_c + 2 h_p + 1 q8_c (2 H+ + 0.5 O2 + 1 Ubiquinol-8 -> 1 H2O + 2 H+ + 1 Ubiquinone-8)
+
+
+AdditionalNotInModel:
+CYTBD2pp:0.5 o2_c + 2 h_c + 1 mql8_c -> 1 h2o_c + 2 h_p + 1 mqn8_c (0.5 O2 + 2 H+ + 1 Menaquinol 8 -> 1 H2O + 2 H+ + 1 Menaquinone 8)
+
+
+AdditionalMetabolites:
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

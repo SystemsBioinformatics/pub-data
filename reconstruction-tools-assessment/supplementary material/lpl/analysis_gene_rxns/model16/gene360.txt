@@ -1,0 +1,4 @@
+notRecovered:
+UAMAS:1 ala__L_c + 1 atp_c + 1 uamr_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 uama_c (1 M_L_Alanine_ + 1 M_ATP_ + 1 M_UDP_N_acetylmuramate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanine_)
+
+

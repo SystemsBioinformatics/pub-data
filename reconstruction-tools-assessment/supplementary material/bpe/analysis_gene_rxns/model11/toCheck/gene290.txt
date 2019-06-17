@@ -1,0 +1,21 @@
+notRecovered:
+SERD_D:1 ser__D_c -> 1 nh4_c + 1 pyr_c (1 D-Serine -> 1 Ammonium + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+RXN-15125:1 SER_c -> 1 2-AMINOACRYLATE_c + 1 WATER_c (1 L-serine -> 1 2-aminoprop-2-enoate + 1 H2O)
+4.3.1.17-RXN:1 SER_c -> 1 AMMONIUM_c + 1 PYRUVATE_c (1 L-serine -> 1 ammonium + 1 pyruvate)
+RXN-15122:1 THR_c -> 1 CPD-15056_c + 1 PROTON_c + 1 WATER_c (1 L-threonine -> 1 (2Z)-2-aminobut-2-enoate + 1 H+ + 1 H2O)
+
+
+AdditionalMetabolites:
+2-AMINOACRYLATE_c (2-aminoprop-2-enoate)
+AMMONIUM_c (ammonium)
+CPD-15056_c ((2Z)-2-aminobut-2-enoate)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+SER_c (L-serine)
+THR_c (L-threonine)
+WATER_c (H2O)
+
+

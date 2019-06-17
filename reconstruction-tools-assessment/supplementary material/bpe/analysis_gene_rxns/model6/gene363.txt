@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+HPROa:1 1p3h5c_c + 2 h_c + 1 nadh_c -> 1 4hpro_LT_c + 1 nad_c (1 L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3 + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Trans 4 Hydroxy L proline C5H9NO3 + 1 Nicotinamide adenine dinucleotide)
+HPROb:1 1p3h5c_c + 2 h_c + 1 nadph_c -> 1 4hpro_LT_c + 1 nadp_c (1 L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3 + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Trans 4 Hydroxy L proline C5H9NO3 + 1 Nicotinamide adenine dinucleotide phosphate)
+P5CRx:1 1pyr5c_c + 2 h_c + 1 nadh_c -> 1 nad_c + 1 pro__L_c (1 1-Pyrroline-5-carboxylate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Nicotinamide adenine dinucleotide + 1 L-Proline)
+
+
+AdditionalMetabolites:
+1p3h5c_c (L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3)
+4hpro_LT_c (Trans 4 Hydroxy L proline C5H9NO3)
+
+

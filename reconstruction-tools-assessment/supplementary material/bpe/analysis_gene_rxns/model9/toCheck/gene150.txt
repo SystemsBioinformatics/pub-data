@@ -1,0 +1,17 @@
+notRecovered:
+ADCS:1 chor_c + 1 gln__L_c -> 1 4adcho_c + 1 glu__L_c (1 chorismate + 1 L-Glutamine -> 1 4-amino-4-deoxychorismate + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+ANTHRANSYN-RXN:1 CHORISMATE_c + 1 GLN_c -> 1 ANTHRANILATE_c + 1 GLT_c + 1 PROTON_c + 1 PYRUVATE_c (1 chorismate + 1 L-glutamine -> 1 anthranilate + 1 L-glutamate + 1 H+ + 1 pyruvate)
+
+
+AdditionalMetabolites:
+ANTHRANILATE_c (anthranilate)
+CHORISMATE_c (chorismate)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+
+

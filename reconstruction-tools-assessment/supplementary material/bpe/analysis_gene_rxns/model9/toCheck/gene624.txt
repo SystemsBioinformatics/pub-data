@@ -1,0 +1,16 @@
+notRecovered:
+ICDHyr:1 icit_c + 1 nadp_c -> 1 akg_c + 1 co2_c + 1 nadph_c (1 Isocitrate + 1 Nicotinamide adenine dinucleotide phosphate -> 1 2-Oxoglutarate + 1 CO2 + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN:1 THREO-DS-ISO-CITRATE_c + 1 NAD_c -> 1 2-KETOGLUTARATE_c + 1 NADH_c + 1 CARBON-DIOXIDE_c (1 D-threo-isocitrate + 1 NAD+ -> 1 2-oxoglutarate + 1 NADH + 1 CO2)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CARBON-DIOXIDE_c (CO2)
+NADH_c (NADH)
+NAD_c (NAD+)
+THREO-DS-ISO-CITRATE_c (D-threo-isocitrate)
+
+

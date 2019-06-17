@@ -1,0 +1,4 @@
+notRecovered:
+GTPCII2:1 gtp_c + 3 h2o_c -> 1 25drapp_c + 1 for_c + 2 h_c + 1 ppi_c (1 GTP + 3 H2O -> 1 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate + 1 Formate + 2 H+ + 1 Diphosphate)
+
+

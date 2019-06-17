@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+BIOTIN-CARBOXYL-RXN:1 biotin-L-lysine-in-BCCP-dimers_c + 1 HCO3_c + 1 ATP_c -> 1 carboxybiotin-L-lysine-in-BCCP-dimers_c + 1 ADP_c + 1 Pi_c + 1 PROTON_c (1 a [biotin carboxyl-carrier-protein dimer]-N6-biotinyl-L-lysine + 1 hydrogencarbonate + 1 ATP -> 1 a [carboxyl-carrier protein dimer]-N6-carboxybiotinyl-L-lysine + 1 ADP + 1 phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+HCO3_c (hydrogencarbonate)
+PROTON_c (H+)
+Pi_c (phosphate)
+biotin-L-lysine-in-BCCP-dimers_c (a [biotin carboxyl-carrier-protein dimer]-N6-biotinyl-L-lysine)
+carboxybiotin-L-lysine-in-BCCP-dimers_c (a [carboxyl-carrier protein dimer]-N6-carboxybiotinyl-L-lysine)
+
+

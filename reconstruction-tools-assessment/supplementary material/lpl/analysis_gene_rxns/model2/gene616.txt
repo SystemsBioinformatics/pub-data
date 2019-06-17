@@ -1,0 +1,4 @@
+notRecovered:
+BGLA1:1 6pgg_c + 1 h2o_c -> 1 g6p_c + 1 glc__D_c (1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_H2O_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_D_Glucose_)
+
+

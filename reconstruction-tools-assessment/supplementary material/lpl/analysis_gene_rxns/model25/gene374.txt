@@ -1,0 +1,17 @@
+notRecovered:
+PGGT4:1 uaagmdalac_c -> 1 PGlac2_c + 1 udcpdp_c (1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_peptidoglycan_with_D_lac_as_C_terminal_residue_to_form_pentadepsipeptide_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+RXN-11065:2 CPD-12259_c + 3 WATER_c -> 1 CPD-12230_c + 4 D-ALANINE_c + 1 PROTON_c + 1 UNDECAPRENYL-DIPHOSPHATE_c (2 a peptidoglycan dimer (S. aureus) + 3 H2O -> 1 a peptidoglycan with D,D cross-link (S. aureus) + 4 D-alanine + 1 H+ + 1 di-trans,octa-cis-undecaprenyl diphosphate)
+
+
+AdditionalMetabolites:
+CPD-12230_c (a peptidoglycan with D,D cross-link (S. aureus))
+CPD-12259_c (a peptidoglycan dimer (S. aureus))
+D-ALANINE_c (D-alanine)
+PROTON_c (H+)
+UNDECAPRENYL-DIPHOSPHATE_c (di-trans,octa-cis-undecaprenyl diphosphate)
+WATER_c (H2O)
+
+

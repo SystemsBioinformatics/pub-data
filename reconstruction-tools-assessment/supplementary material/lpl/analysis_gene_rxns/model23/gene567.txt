@@ -1,0 +1,18 @@
+notRecovered:
+OPHBDC:1 3ophb_c + 1 h_c -> 1 2oph_c + 1 co2_c (1 M_3_Octaprenyl_4_hydroxybenzoate_ + 1 M_H_ -> 1 M_2_Octaprenylphenol_ + 1 M_CO2_)
+
+
+AdditionalNotInModel:
+PROTOCATECHUATE-DECARBOXYLASE-RXN:1 3-4-DIHYDROXYBENZOATE_c + 1 PROTON_c -> 1 CARBON-DIOXIDE_c + 1 CATECHOL_c (1 protocatechuate + 1 H+ -> 1 CO2 + 1 catechol)
+GALLATE-DECARBOXYLASE-RXN:1 CPD-183_c + 1 PROTON_c <=> 1 CARBON-DIOXIDE_c + 1 PYROGALLOL_c (1 gallate + 1 H+ <=> 1 CO2 + 1 pyrogallol)
+
+
+AdditionalMetabolites:
+3-4-DIHYDROXYBENZOATE_c (protocatechuate)
+CARBON-DIOXIDE_c (CO2)
+CATECHOL_c (catechol)
+CPD-183_c (gallate)
+PROTON_c (H+)
+PYROGALLOL_c (pyrogallol)
+
+

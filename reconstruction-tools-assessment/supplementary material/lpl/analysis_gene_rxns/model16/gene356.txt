@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn04453:1 cpd00001_c + 1 cpd08625_c -> 1 cpd00067_c + 1 cpd09027_c (1 H2O_c0 + 1 5_Hydroxyisourate_c0 -> 1 H_plus__c0 + 1 5_Hydroxy_2_oxo_4_ureido_2_5_dihydro_1H_imidazole_5_carboxylate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00067_c (H_plus__c0)
+cpd08625_c (5_Hydroxyisourate_c0)
+cpd09027_c (5_Hydroxy_2_oxo_4_ureido_2_5_dihydro_1H_imidazole_5_carboxylate_c0)
+
+

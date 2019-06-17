@@ -1,0 +1,16 @@
+notRecovered:
+UDPGLCNACADH_BP:1 nad_c + 1 uacgama_c <=> 1 h_c + 1 nadh_c + 1 u3kacgama_c (1 Nicotinamide adenine dinucleotide + 1 UDP-N-acetylglucosaminuronate <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 UDP-3-keto-N-acetylglucosaminuronate)
+
+
+AdditionalNotInModel:
+R10140:1 C00003_c + 1 C04573_c -> 1 C00004_c + 1 C00080_c + 1 C20395_c (1 NAD+ + 1 UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate -> 1 NADH + 1 H+ + 1 UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C04573_c (UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate)
+C20395_c (UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+NH3t:1 nh3_e <=> 1 nh3_c (1 M_Ammonia_ <=> 1 M_Ammonia_)
+
+
+AdditionalNotInModel:
+rxn05466:1 cpd00013_e <=> 1 cpd00013_c (1 NH3_e0 <=> 1 NH3_c0)
+
+
+AdditionalMetabolites:
+cpd00013_c (NH3_c0)
+cpd00013_e (NH3_e0)
+
+

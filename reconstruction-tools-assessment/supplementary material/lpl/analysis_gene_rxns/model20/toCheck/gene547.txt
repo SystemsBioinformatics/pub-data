@@ -1,0 +1,24 @@
+notRecovered:
+NITR:1 h_c + 1 nadh_c + 1 no3_c -> 1 h2o_c + 1 nad_c + 1 no2_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Nitrate_ -> 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Nitrite_)
+NTRARy:1 h_c + 1 nadph_c + 1 no3_c -> 1 h2o_c + 1 nadp_c + 1 no2_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Nitrate_ -> 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Nitrite_)
+
+
+AdditionalNotInModel:
+R00798:1 C00001_c + 1 C00028_c + 1 C00088_c <=> 1 C00030_c + 1 C00244_c (1 H2O + 1 Acceptor + 1 Nitrite <=> 1 Reduced acceptor + 1 Nitrate)
+R01106:1 C00001_c + 1 C00088_c + 2 C00125_c <=> 2 C00080_c + 2 C00126_c + 1 C00244_c (1 H2O + 1 Nitrite + 2 Ferricytochrome c <=> 2 H+ + 2 Ferrocytochrome c + 1 Nitrate)
+R09497:1 C00244_c + 1 C15603_c <=> 1 C00001_c + 1 C00088_c + 1 C15602_c (1 Nitrate + 1 Hydroquinone (C15603) <=> 1 H2O + 1 Nitrite + 1 Quinone)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00080_c (H+)
+C00088_c (Nitrite)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00244_c (Nitrate)
+C15602_c (Quinone)
+C15603_c (Hydroquinone (C15603))
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+DUTPDP:1 dutp_c + 1 h2o_c -> 1 dump_c + 1 h_c + 1 ppi_c (1 dUTP + 1 H2O -> 1 dUMP + 1 H+ + 1 Diphosphate)
+
+

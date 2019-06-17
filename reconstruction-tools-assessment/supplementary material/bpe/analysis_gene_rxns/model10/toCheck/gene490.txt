@@ -1,0 +1,15 @@
+notRecovered:
+LDH_D:1 lac__D_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 D-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+D-2-HYDROXY-ACID-DEHYDROGENASE-RXN:1 D-LACTATE_c + 1 Acceptor_c -> 1 PYRUVATE_c + 1 Donor-H2_c (1 (R)-lactate + 1 an oxidized electron acceptor -> 1 pyruvate + 1 a reduced electron acceptor)
+
+
+AdditionalMetabolites:
+Acceptor_c (an oxidized electron acceptor)
+D-LACTATE_c ((R)-lactate)
+Donor-H2_c (a reduced electron acceptor)
+PYRUVATE_c (pyruvate)
+
+

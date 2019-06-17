@@ -1,0 +1,16 @@
+notRecovered:
+AMPTASEPG:1 h2o_c + 1 progly_c -> 1 gly_c + 1 pro__L_c (1 H2O + 1 L-Prolinylglycine -> 1 Glycine + 1 L-Proline)
+
+
+AdditionalNotInModel:
+3.4.11.1-RXN:1 Protein-With-N-Terminal-X-Pro_c + 1 WATER_c -> 1 Amino-Acids-20_c + 1 PROTON_c + 1 Protein-With-N-Terminal-Pro_c (1 Protein-With-N-Terminal-X-Pro + 1 H2O -> 1 Amino-Acids-20 + 1 H+ + 1 Protein-With-N-Terminal-Pro)
+
+
+AdditionalMetabolites:
+Amino-Acids-20_c (Amino-Acids-20)
+PROTON_c (H+)
+Protein-With-N-Terminal-Pro_c (Protein-With-N-Terminal-Pro)
+Protein-With-N-Terminal-X-Pro_c (Protein-With-N-Terminal-X-Pro)
+WATER_c (H2O)
+
+

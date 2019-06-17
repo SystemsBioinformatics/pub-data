@@ -1,0 +1,16 @@
+notRecovered:
+DINSt2pp:1 din_p + 1 h_p <=> 1 din_c + 1 h_c (1 Deoxyinosine + 1 H+ <=> 1 Deoxyinosine + 1 H+)
+THMDt2pp_copy1:1 h_p + 1 thymd_p <=> 1 h_c + 1 thymd_c (1 H+ + 1 Thymidine <=> 1 H+ + 1 Thymidine)
+DGSNt2pp:1 dgsn_p + 1 h_p <=> 1 dgsn_c + 1 h_c (1 Deoxyguanosine + 1 H+ <=> 1 Deoxyguanosine + 1 H+)
+DCYTt2pp:1 dcyt_p + 1 h_p <=> 1 dcyt_c + 1 h_c (1 Deoxycytidine + 1 H+ <=> 1 Deoxycytidine + 1 H+)
+DADNt2pp:1 dad_2_p + 1 h_p <=> 1 dad_2_c + 1 h_c (1 Deoxyadenosine + 1 H+ <=> 1 Deoxyadenosine + 1 H+)
+ADNt2pp_copy1:1 adn_p + 1 h_p <=> 1 adn_c + 1 h_c (1 Adenosine + 1 H+ <=> 1 Adenosine + 1 H+)
+GSNt2pp:1 gsn_p + 1 h_p <=> 1 gsn_c + 1 h_c (1 Guanosine + 1 H+ <=> 1 Guanosine + 1 H+)
+XTSNt2rpp:1 h_p + 1 xtsn_p <=> 1 h_c + 1 xtsn_c (1 H+ + 1 Xanthosine <=> 1 H+ + 1 Xanthosine)
+CYTDt2pp_copy1:1 cytd_p + 1 h_p <=> 1 cytd_c + 1 h_c (1 Cytidine + 1 H+ <=> 1 Cytidine + 1 H+)
+
+
+AdditionalNotInModel:
+URAt2:1 h_e + 1 ura_e -> 1 h_c + 1 ura_c (1 H+ + 1 Uracil -> 1 H+ + 1 Uracil)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+AGAT_LPL:0.12 2chdeacp_c + 0.32 2cocdacp_c + 0.01 agly3p_LPL_c + 0.25 cpocdacp_c + 0.26 palmACP_c + 0.02 ocdcaACP_c + 0.03 myrsACP_c -> 1 ACP_c + 0.01 pa_LPL_c (0.12 M_cis_Hexadec_2_enoyl_acyl_carrier_protein_ + 0.32 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 0.01 M_1_Acyl_sn_glycerol_3_phosphate__Lb_plantarum_specific__ + 0.25 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 0.26 M_Hexadecanoyl_acyl_carrier_protein_ + 0.02 M_Octadecanoyl_acyl_carrier_protein_ + 0.03 M_Tetradecanoyl_acyl_carrier_protein_ -> 1 M_Acyl_carrier_Protein_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__)
+
+
+AdditionalNotInModel:
+AGAT_LLA:0.03 2chdeacp_c + 0.44 2cocdacp_c + 0.005 2ctdeacp_c + 0.01 agly3p_LLA_c + 0.13 cpocdacp_c + 0.295 hdeacp_c + 0.01 ocdacp_c + 0.09 tdeacp_c -> 1 acp_c + 0.01 pa_LLA_c (0.03 Cis Hexadec 2 enoyl acyl carrier protein + 0.44 Cis Octadec 2 enoyl acyl carrier protein + 0.005 Cis Tetradec 2 enoyl acyl carrier protein + 0.01 1 Acyl sn glycerol 3 phosphate  lactis specific  + 0.13 Cyclopropanoyl octadecanoyl acyl carrier protein + 0.295 Hexadecanoyl acyl carrier protein + 0.01 Octadecanoyl acyl carrier protein + 0.09 Tetradecanoyl acyl carrier protein -> 1 Acyl carrier Protein + 0.01 Phosphatidic acid  Lactis specific)
+
+
+AdditionalMetabolites:
+2ctdeacp_c (Cis Tetradec 2 enoyl acyl carrier protein)
+acp_c (Acyl carrier Protein)
+agly3p_LLA_c (1 Acyl sn glycerol 3 phosphate  lactis specific)
+hdeacp_c (Hexadecanoyl acyl carrier protein)
+ocdacp_c (Octadecanoyl acyl carrier protein)
+pa_LLA_c (Phosphatidic acid  Lactis specific)
+tdeacp_c (Tetradecanoyl acyl carrier protein)
+
+

@@ -1,0 +1,12 @@
+notRecovered:
+AOXSr:1 ala__L_c + 1 h_c + 1 pmcoa_c <=> 1 8aonn_c + 1 co2_c + 1 coa_c (1 L-Alanine + 1 H+ + 1 Pimeloyl-CoA <=> 1 8-Amino-7-oxononanoate + 1 CO2 + 1 Coenzyme A)
+
+
+AdditionalNotInModel:
+AOXSr2:1 ala__L_c + 1 pimACP_c -> 1 8aonn_c + 1 ACP_c + 1 co2_c (1 L-Alanine + 1 Pimeloyl-[acyl-carrier protein] -> 1 8-Amino-7-oxononanoate + 1 Acyl carrier protein + 1 CO2 CO2)
+
+
+AdditionalMetabolites:
+pimACP_c (Pimeloyl-[acyl-carrier protein])
+
+

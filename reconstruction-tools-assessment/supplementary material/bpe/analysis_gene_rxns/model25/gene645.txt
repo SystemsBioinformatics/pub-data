@@ -1,0 +1,16 @@
+notRecovered:
+OMCDC:1 3c4mop_c + 1 h_c -> 1 4mop_c + 1 co2_c (1 3-Carboxy-4-methyl-2-oxopentanoate + 1 H+ -> 1 4-Methyl-2-oxopentanoate + 1 CO2)
+
+
+AdditionalNotInModel:
+RXN-7745:1 CPD-7066_c + 1 NAD_c -> 1 2-OXOBUTANOATE_c + 1 CARBON-DIOXIDE_c + 1 NADH_c (1 (2R,3S)-3-methylmalate + 1 NAD+ -> 1 2-oxobutanoate + 1 CO2 + 1 NADH)
+
+
+AdditionalMetabolites:
+2-OXOBUTANOATE_c (2-oxobutanoate)
+CARBON-DIOXIDE_c (CO2)
+CPD-7066_c ((2R,3S)-3-methylmalate)
+NADH_c (NADH)
+NAD_c (NAD+)
+
+

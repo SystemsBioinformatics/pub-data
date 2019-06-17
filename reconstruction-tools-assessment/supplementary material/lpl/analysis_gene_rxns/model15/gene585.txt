@@ -1,0 +1,25 @@
+notRecovered:
+CYSS:1 acser_c + 1 h2s_c -> 1 ac_c + 1 cys__L_c + 1 h_c (1 M_O_Acetyl_L_serine_ + 1 M_Hydrogen_sulfide_ -> 1 M_Acetate_ + 1 M_L_Cysteine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn00953:1 cpd00054_c + 1 cpd00135_c <=> 1 cpd00001_c + 1 cpd00424_c (1 L_Serine_c0 + 1 Homocysteine_c0 <=> 1 H2O_c0 + 1 Cystathionine_c0)
+rxn03380:1 cpd00054_c + 1 cpd03397_c <=> 1 cpd00001_c + 1 cpd03398_c (1 L_Serine_c0 + 1 Selenohomocysteine_c0 <=> 1 H2O_c0 + 1 Selenocystathionine_c0)
+rxn05909:1 cpd00067_c + 1 cpd00054_c + 1 cpd00239_c <=> 1 cpd00001_c + 1 cpd00084_c (1 H_plus__c0 + 1 L_Serine_c0 + 1 H2S_c0 <=> 1 H2O_c0 + 1 L_Cysteine_c0)
+rxn02473:1 cpd02843_c -> 1 cpd00001_c + 1 cpd00930_c (1 D_erythro_imidazol_glycerol_phosphate_c0 -> 1 H2O_c0 + 1 imidazole_acetol_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00054_c (L_Serine_c0)
+cpd00067_c (H_plus__c0)
+cpd00084_c (L_Cysteine_c0)
+cpd00135_c (Homocysteine_c0)
+cpd00239_c (H2S_c0)
+cpd00424_c (Cystathionine_c0)
+cpd00930_c (imidazole_acetol_phosphate_c0)
+cpd02843_c (D_erythro_imidazol_glycerol_phosphate_c0)
+cpd03397_c (Selenohomocysteine_c0)
+cpd03398_c (Selenocystathionine_c0)
+
+

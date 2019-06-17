@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+METGL:1 h2o_c + 1 met__L_c -> 1 2obut_c + 1 ch4s_c + 1 nh4_c (1 H2O H2O + 1 L-Methionine -> 1 2-Oxobutanoate + 1 Methanethiol CH4S + 1 Ammonium)
+CYSDS:1 cys__L_c + 1 h2o_c -> 1 h2s_c + 1 nh4_c + 1 pyr_c (1 L-Cysteine + 1 H2O H2O -> 1 Hydrogen sulfide + 1 Ammonium + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+ch4s_c (Methanethiol CH4S)
+
+

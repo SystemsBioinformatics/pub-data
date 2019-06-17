@@ -1,0 +1,21 @@
+notRecovered:
+MPTG:2 uaagmda_c -> 2 h_c + 1 murein5p5p_p + 2 udcpdp_c (2 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala -> 2 H+ + 1 two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) + 2 Undecaprenyl diphosphate)
+MPTG2:1 murein5p5p_p + 1 uaagmda_c -> 1 h_c + 1 murein5p5p5p_p + 1 udcpdp_c (1 two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala -> 1 H+ + 1 three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) + 1 Undecaprenyl diphosphate)
+MCTP2App:1 murein5p5p5p_p -> 2 ala__D_p + 1 murein5px4px4p_p (1 three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 2 D-Alanine + 1 three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain))
+MCTP1Bpp:1 murein5p5p_p -> 1 alaala_p + 1 murein5px3p_p (1 two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanyl-D-alanine + 1 two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain))
+
+
+AdditionalNotInModel:
+RXN-16649:1 CPD-17927_c + 1 WATER_c -> 1 CPD-17926_c + 1 D-ALANINE_c (1 CPD-17927 + 1 H2O -> 1 CPD-17926 + 1 D-alanine)
+RXN-16659:1 CPD-17927_c + 1 CPD-17931_c -> 1 CPD-17932_c + 1 D-ALANINE_c (1 CPD-17927 + 1 CPD-17931 -> 1 a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing) + 1 D-alanine)
+
+
+AdditionalMetabolites:
+CPD-17926_c (CPD-17926)
+CPD-17927_c (CPD-17927)
+CPD-17931_c (CPD-17931)
+CPD-17932_c (a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing))
+D-ALANINE_c (D-alanine)
+WATER_c (H2O)
+
+

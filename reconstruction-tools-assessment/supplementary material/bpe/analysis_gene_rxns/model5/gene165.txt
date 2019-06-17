@@ -1,0 +1,4 @@
+notRecovered:
+PROt2rpp:1 h_p + 1 pro__L_p -> 1 h_c + 1 pro__L_c (1 H+ + 1 L-Proline -> 1 H+ + 1 L-Proline)
+
+

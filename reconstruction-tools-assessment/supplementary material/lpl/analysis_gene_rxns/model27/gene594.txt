@@ -1,0 +1,15 @@
+notRecovered:
+ADK2:1 amp_c + 1 pppi_c <=> 1 adp_c + 1 ppi_c (1 M_AMP_ + 1 M_Inorganic_triphosphate_ <=> 1 M_ADP_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+RXN-14074:1 AMP_c + 1 GTP_c -> 1 ADP_c + 1 GDP_c (1 AMP + 1 GTP -> 1 ADP + 1 GDP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+AMP_c (AMP)
+GDP_c (GDP)
+GTP_c (GTP)
+
+

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R06171:1 C05519_c <=> 1 C00037_c + 1 C00084_c (1 L-Allothreonine <=> 1 Glycine + 1 Acetaldehyde)
+
+
+AdditionalMetabolites:
+C00037_c (Glycine)
+C00084_c (Acetaldehyde)
+C05519_c (L-Allothreonine)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+UAC3NGAMANACET_BP:1 accoa_c + 1 uac3ngama_c -> 1 coa_c + 1 uac3nacgama_c (1 Acetyl-CoA + 1 UDP-2-N-acetyl-3-amino-glucosaminuronate -> 1 Coenzyme A + 1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate)
+
+

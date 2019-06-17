@@ -1,0 +1,2 @@
+AdditionalInModel:
+MCTP1App:1 murein5p5p_p -> 1 ala__D_p + 1 murein5px4p_p (1 Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanine + 1 Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain))

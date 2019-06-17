@@ -1,0 +1,14 @@
+notRecovered:
+FDH4pp_1:1 for_p + 2 h_c + 1 q8_c -> 1 co2_c + 1 h_p + 1 q8h2_c (1 Formate + 2 H+ + 1 Ubiquinone-8 -> 1 CO2 + 1 H+ + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+FDH:1 nad_c + 1 for_c -> 1 nadh_c + 1 co2_c (1 Nicotinamide adenine dinucleotide + 1 Formate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 CO2)
+FDH5r2pp:3 h_c + 1 mqn8_c + 1 for_p -> 2 h_p + 1 mql8_c + 1 co2_p (3 H+ + 1 Menaquinone 8 + 1 Formate -> 2 H+ + 1 Menaquinol 8 + 1 CO2)
+
+
+AdditionalMetabolites:
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

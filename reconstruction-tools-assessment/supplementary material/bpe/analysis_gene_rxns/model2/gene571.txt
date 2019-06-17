@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+BTS2:1 cys__L_c + 1 dtbt_c -> 2 h_c + 1 ala__L_c + 1 btn_c (1 L-Cysteine + 1 Dethiobiotin -> 2 H+ + 1 L-Alanine + 1 Biotin)
+BTS5:1 amet_c + 1 dtbt_c + 1 2fe2s_c -> 1 h_c + 1 dad_5_c + 1 met__L_c + 1 btn_c + 1 2fe1s_c (1 S-Adenosyl-L-methionine + 1 Dethiobiotin + 1 [2Fe-2S] iron-sulfur cluster -> 1 H+ + 1 5'-Deoxyadenosine + 1 L-Methionine + 1 Biotin + 1 [2Fe-1S] desulfurated iron-sulfur cluster)
+
+
+AdditionalMetabolites:
+2fe1s_c ([2Fe-1S] desulfurated iron-sulfur cluster)
+2fe2s_c ([2Fe-2S] iron-sulfur cluster)
+
+

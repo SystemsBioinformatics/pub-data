@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R00590:1 C00065_c -> 1 C00001_c + 1 C02218_c (1 L-Serine -> 1 H2O + 1 Dehydroalanine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00065_c (L-Serine)
+C02218_c (Dehydroalanine)
+
+

@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn00146:2 cpd00109_c + 1 cpd00221_c <=> 2 cpd00067_c + 1 cpd00020_c + 2 cpd00110_c (2 Cytochrome_c3_plus__c0 + 1 D_Lactate_c0 <=> 2 H_plus__c0 + 1 Pyruvate_c0 + 2 Cytochrome_c2_plus__c0)
+rxn08783:1 cpd15560_c + 1 cpd00221_c -> 1 cpd00020_c + 1 cpd15561_c (1 Ubiquinone_8_c0 + 1 D_Lactate_c0 -> 1 Pyruvate_c0 + 1 Ubiquinol_8_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00109_c (Cytochrome_c3_plus__c0)
+cpd00110_c (Cytochrome_c2_plus__c0)
+cpd00221_c (D_Lactate_c0)
+cpd15560_c (Ubiquinone_8_c0)
+cpd15561_c (Ubiquinol_8_c0)
+
+

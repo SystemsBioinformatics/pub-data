@@ -1,0 +1,15 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+NDH_1_1_um_copy1:2 fdxrd_c + 5 h_c + 1 pq_um -> 2 fdxox_c + 3 h_u + 1 pqh2_um (2 Reduced ferredoxin + 5 H+ + 1 Plastoquinone -> 2 Oxidized ferredoxin + 3 H+ + 1 Plastoquinol)
+NDH_1_1_um_copy2:2 fdxrd_c + 5 h_c + 1 pq_um -> 2 fdxox_c + 3 h_u + 1 pqh2_um (2 Reduced ferredoxin + 5 H+ + 1 Plastoquinone -> 2 Oxidized ferredoxin + 3 H+ + 1 Plastoquinol)
+
+
+AdditionalMetabolites:
+h_u (H+)
+pq_um (Plastoquinone)
+pqh2_um (Plastoquinol)
+
+

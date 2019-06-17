@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+PYRROLINECARBREDUCT-RXN-PRO/NAD//L-DELTA1-PYRROLINE_5-CARBOXYLATE/NADH/PROTON.54.:1 NADH_c + 1 L-DELTA1-PYRROLINE_5-CARBOXYLATE_c + 2 PROTON_c -> 1 NAD_c + 1 PRO_c (1 NADH + 1 (S)-1-pyrroline-5-carboxylate + 2 H+ -> 1 NAD+ + 1 L-proline)
+RXN66-546-4-HYDROXY-L-PROLINE/NADP//PYRROLINE-HYDROXY-CARBOXYLATE/NADPH/PROTON.69.:1 PYRROLINE-HYDROXY-CARBOXYLATE_c + 1 NADPH_c + 2 PROTON_c -> 1 4-HYDROXY-L-PROLINE_c + 1 NADP_c (1 (3R,5S)-3-hydroxy-1-pyrroline-5-carboxylate + 1 NADPH + 2 H+ -> 1 trans-4-hydroxy-L-proline + 1 NADP+)
+RXN66-546-4-HYDROXY-L-PROLINE/NAD//PYRROLINE-HYDROXY-CARBOXYLATE/NADH/PROTON.67.:1 PYRROLINE-HYDROXY-CARBOXYLATE_c + 1 NADH_c + 2 PROTON_c -> 1 4-HYDROXY-L-PROLINE_c + 1 NAD_c (1 (3R,5S)-3-hydroxy-1-pyrroline-5-carboxylate + 1 NADH + 2 H+ -> 1 trans-4-hydroxy-L-proline + 1 NAD+)
+
+
+AdditionalMetabolites:
+4-HYDROXY-L-PROLINE_c (trans-4-hydroxy-L-proline)
+L-DELTA1-PYRROLINE_5-CARBOXYLATE_c ((S)-1-pyrroline-5-carboxylate)
+NADH_c (NADH)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+NAD_c (NAD+)
+PROTON_c (H+)
+PRO_c (L-proline)
+PYRROLINE-HYDROXY-CARBOXYLATE_c ((3R,5S)-3-hydroxy-1-pyrroline-5-carboxylate)
+
+

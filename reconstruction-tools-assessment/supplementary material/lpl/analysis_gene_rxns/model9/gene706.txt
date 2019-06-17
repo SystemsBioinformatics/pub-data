@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+THRA2:1 athr__L_c -> 1 gly_c + 1 acald_c (1 L-Allo-threonine -> 1 Glycine + 1 Acetaldehyde)
+ALATA_L2:1 pydx5p_c + 1 ala__L_c -> 1 pyr_c + 1 pyam5p_c (1 Pyridoxal 5'-phosphate + 1 L-Alanine -> 1 Pyruvate + 1 Pyridoxamine 5'-phosphate)
+ALATA_D2:1 ala__D_c + 1 pydx5p_c -> 1 pyr_c + 1 pyam5p_c (1 D-Alanine + 1 Pyridoxal 5'-phosphate -> 1 Pyruvate + 1 Pyridoxamine 5'-phosphate)
+THFAT:1 methf_c + 1 h2o_c -> 1 5fthf_c + 1 h_c (1 5,10-Methenyltetrahydrofolate + 1 H2O H2O -> 1 5-Formyltetrahydrofolate + 1 H+)
+
+
+AdditionalMetabolites:
+athr__L_c (L-Allo-threonine)
+
+
+AdditionalInModel:
+THRA:1 thr__L_c -> 1 gly_c + 1 acald_c (1 L-Threonine -> 1 Glycine + 1 Acetaldehyde)

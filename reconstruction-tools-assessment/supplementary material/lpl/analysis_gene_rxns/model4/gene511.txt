@@ -1,0 +1,4 @@
+notRecovered:
+PTPATi:1 atp_c + 1 h_c + 1 pan4p_c <=> 1 dpcoa_c + 1 ppi_c (1 M_ATP_ + 1 M_H_ + 1 M_Pantetheine_4__phosphate_ <=> 1 M_Dephospho_CoA_ + 1 M_Diphosphate_)
+
+

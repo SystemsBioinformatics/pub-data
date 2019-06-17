@@ -1,0 +1,12 @@
+notRecovered:
+ARGN:1 arg__L_c + 1 h2o_c -> 1 orn_c + 1 urea_c (1 L-Arginine + 1 H2O -> 1 Ornithine + 1 Urea)
+
+
+AdditionalNotInModel:
+ARGN_1:1 arg__L_c + 1 h2o_c -> 1 orn__L_c + 1 urea_c (1 L-Arginine + 1 H2O H2O -> 1 L Ornithine C5H13N2O2 + 1 Urea CH4N2O)
+
+
+AdditionalMetabolites:
+orn__L_c (L Ornithine C5H13N2O2)
+
+

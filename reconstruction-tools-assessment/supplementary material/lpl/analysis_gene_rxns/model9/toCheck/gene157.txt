@@ -1,0 +1,14 @@
+notRecovered:
+GLYCt:1 glyc_c <=> 1 glyc_e (1 M_Glycerol_ <=> 1 M_Glycerol_)
+
+
+AdditionalNotInModel:
+H2Otu_syn:1 h2o_u <=> 1 h2o_c (1 H2O H2O <=> 1 H2O H2O)
+H2Otpp:1 h2o_p <=> 1 h2o_c (1 H2O H2O <=> 1 H2O H2O)
+
+
+AdditionalMetabolites:
+h2o_p (H2O H2O)
+h2o_u (H2O H2O)
+
+

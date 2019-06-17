@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+rxn07670:1 cpd00192_c + 1 cpd05630_c <=> 1 cpd00010_c + 1 cpd15065_c (1 4_Coumaroyl_CoA_c0 + 1 Pelargonin_c0 <=> 1 CoA_c0 + 1 Pelargonidin_3_O_beta_D_glucoside_5_O_6_coumaroyl_beta_D_glucoside_c0)
+rxn07721:1 cpd00270_c + 1 cpd05546_c <=> 1 cpd00010_c + 1 cpd15088_c (1 Caffeoyl_CoA_c0 + 1 Cyanin_c0 <=> 1 CoA_c0 + 1 Cyanidin_3_glucoside_5_caffeoylglucoside_c0)
+rxn07734:1 cpd00270_c + 1 cpd15028_c <=> 1 cpd00010_c + 1 cpd15029_c (1 Caffeoyl_CoA_c0 + 1 Delphin_c0 <=> 1 CoA_c0 + 1 Delphinidin_3_glucoside_5_caffoyl_glucoside_c0)
+rxn07673:1 cpd00192_c + 1 cpd15028_c <=> 1 cpd00010_c + 1 cpd15067_c (1 4_Coumaroyl_CoA_c0 + 1 Delphin_c0 <=> 1 CoA_c0 + 1 Delphinidin_3_O_beta_D_glucoside_5_O_6_coumaroyl_beta_D_glucoside_c0)
+rxn07720:1 cpd05630_c + 1 cpd00270_c <=> 1 cpd00010_c + 1 cpd15087_c (1 Pelargonin_c0 + 1 Caffeoyl_CoA_c0 <=> 1 CoA_c0 + 1 Pelargonidin_3_glucoside_5_caffeoylglucoside_c0)
+rxn07672:1 cpd00192_c + 1 cpd05546_c <=> 1 cpd00010_c + 1 cpd15066_c (1 4_Coumaroyl_CoA_c0 + 1 Cyanin_c0 <=> 1 CoA_c0 + 1 Cyanidin_3_O_beta_D_glucoside_5_O_6_coumaroyl_beta_D_glucoside_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00192_c (4_Coumaroyl_CoA_c0)
+cpd00270_c (Caffeoyl_CoA_c0)
+cpd05546_c (Cyanin_c0)
+cpd05630_c (Pelargonin_c0)
+cpd15028_c (Delphin_c0)
+cpd15029_c (Delphinidin_3_glucoside_5_caffoyl_glucoside_c0)
+cpd15065_c (Pelargonidin_3_O_beta_D_glucoside_5_O_6_coumaroyl_beta_D_glucoside_c0)
+cpd15066_c (Cyanidin_3_O_beta_D_glucoside_5_O_6_coumaroyl_beta_D_glucoside_c0)
+cpd15067_c (Delphinidin_3_O_beta_D_glucoside_5_O_6_coumaroyl_beta_D_glucoside_c0)
+cpd15087_c (Pelargonidin_3_glucoside_5_caffeoylglucoside_c0)
+cpd15088_c (Cyanidin_3_glucoside_5_caffeoylglucoside_c0)
+
+

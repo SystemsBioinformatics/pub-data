@@ -1,0 +1,7 @@
+notRecovered:
+ACCOAL:1 atp_c + 1 coa_c + 1 ppa_c -> 1 adp_c + 1 pi_c + 1 ppcoa_c (1 ATP + 1 Coenzyme A + 1 Propionate (n-C3:0) -> 1 ADP + 1 Phosphate + 1 Propanoyl-CoA)
+
+
+AdditionalInModel:
+GLCOAS:1 atp_c + 1 coa_c + 1 glutar_c -> 1 adp_c + 1 pi_c + 1 glutcoa_c (1 ATP + 1 Coenzyme A + 1 Glutarate -> 1 ADP + 1 Phosphate + 1 Glutaryl-CoA)
+SUCOAS:1 atp_c + 1 coa_c + 1 succ_c <=> 1 adp_c + 1 pi_c + 1 succoa_c (1 ATP + 1 Coenzyme A + 1 Succinate <=> 1 ADP + 1 Phosphate + 1 Succinyl-CoA)

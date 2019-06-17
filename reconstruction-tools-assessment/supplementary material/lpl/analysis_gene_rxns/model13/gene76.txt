@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+MALTACETYLTRAN-RXN:1 MALTOSE_c + 1 ACETYL-COA_c -> 1 CPD-18529_c + 1 CO-A_c (1 maltose + 1 acetyl-CoA -> 1 6-O-acetyl-alpha-D-glucopyranosyl-(1->4)-D-glucose + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+CO-A_c (coenzyme A)
+CPD-18529_c (6-O-acetyl-alpha-D-glucopyranosyl-(1->4)-D-glucose)
+MALTOSE_c (maltose)
+
+

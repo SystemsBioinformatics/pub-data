@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+LTAA-RXN:1 L-ALLO-THREONINE_c -> 1 ACETALD_c + 1 GLY_c (1 L-allo-threonine -> 1 acetaldehyde + 1 glycine)
+RXN0-6563:1 CPD0-2189_c <=> 1 GLY_c + 1 GLYCOLALDEHYDE_c (1 4-hydroxy-L-threonine <=> 1 glycine + 1 glycolaldehyde)
+PHENYLSERINE-ALDOLASE-RXN:1 CPD-644_c -> 1 BENZALDEHYDE_c + 1 GLY_c (1 L-threo-3-phenylserine -> 1 benzaldehyde + 1 glycine)
+
+
+AdditionalMetabolites:
+ACETALD_c (acetaldehyde)
+BENZALDEHYDE_c (benzaldehyde)
+CPD-644_c (L-threo-3-phenylserine)
+CPD0-2189_c (4-hydroxy-L-threonine)
+GLYCOLALDEHYDE_c (glycolaldehyde)
+GLY_c (glycine)
+L-ALLO-THREONINE_c (L-allo-threonine)
+
+

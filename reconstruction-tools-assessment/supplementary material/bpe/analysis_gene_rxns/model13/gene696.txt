@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn06098:1 cpd00301_c + 1 cpd11624_c <=> 1 cpd02601_c + 1 cpd11979_c (1 Sterol_c0 + 1 Lecithin_c0 <=> 1 2_Lysolecithin_c0 + 1 Steryl_ester_c0)
+
+
+AdditionalMetabolites:
+cpd00301_c (Sterol_c0)
+cpd02601_c (2_Lysolecithin_c0)
+cpd11624_c (Lecithin_c0)
+cpd11979_c (Steryl_ester_c0)
+
+

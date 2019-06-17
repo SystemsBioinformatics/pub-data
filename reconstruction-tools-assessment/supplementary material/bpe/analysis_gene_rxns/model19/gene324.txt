@@ -1,0 +1,6 @@
+notRecovered:
+TDSR2:1 dsbdrd_c + 1 dsbgox_p -> 1 dsbdox_c + 1 dsbgrd_p (1 fused thiol:disulfide interchange protein (reduced) + 1 periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized) -> 1 fused thiol:disulfide interchange protein (oxidized) + 1 periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced))
+TDSR1:1 dsbcox_p + 1 dsbdrd_c -> 1 dsbcrd_p + 1 dsbdox_c (1 protein disulfide isomerase II (oxidized) + 1 fused thiol:disulfide interchange protein (reduced) -> 1 protein disulfide isomerase II (reduced) + 1 fused thiol:disulfide interchange protein (oxidized))
+DSBDR:1 dsbdox_c + 1 trdrd_c -> 1 dsbdrd_c + 1 trdox_c (1 fused thiol:disulfide interchange protein (oxidized) + 1 Reduced thioredoxin -> 1 fused thiol:disulfide interchange protein (reduced) + 1 Oxidized thioredoxin)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+PROPIONATE--COA-LIGASE-RXN:1 ATP_c + 1 CO-A_c + 1 PROPIONATE_c -> 1 AMP_c + 1 PPI_c + 1 PROPIONYL-COA_c (1 ATP + 1 coenzyme A + 1 propanoate -> 1 AMP + 1 diphosphate + 1 propanoyl-CoA)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+CO-A_c (coenzyme A)
+PPI_c (diphosphate)
+PROPIONATE_c (propanoate)
+PROPIONYL-COA_c (propanoyl-CoA)
+
+

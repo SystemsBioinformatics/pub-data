@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+PSERPHOSPHA-RXN:1 Phosphoserines_c + 1 WATER_c + 1 PROTON_c -> 1 Serines_c + 1 Pi_c (1 L(or D)-O-phosphoserine + 1 H2O + 1 H+ -> 1 serine + 1 phosphate)
+
+
+AdditionalMetabolites:
+PROTON_c (H+)
+Phosphoserines_c (L(or D)-O-phosphoserine)
+Pi_c (phosphate)
+Serines_c (serine)
+WATER_c (H2O)
+
+

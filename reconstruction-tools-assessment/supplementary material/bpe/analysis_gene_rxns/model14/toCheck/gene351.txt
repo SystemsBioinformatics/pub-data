@@ -1,0 +1,17 @@
+notRecovered:
+PPK2:1 atp_c + 1 ppi_c <=> 1 adp_c + 1 pppi_c (1 ATP + 1 Diphosphate <=> 1 ADP + 1 Inorganic triphosphate)
+PPK:1 atp_c + 1 pi_c <=> 1 adp_c + 1 ppi_c (1 ATP + 1 Phosphate <=> 1 ADP + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+rxn03046:1 cpd00002_c + 1 cpd02519_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02744_c (1 ATP_c0 + 1 Guanidinoethyl_methyl_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 N_Phosphoguanidinoethyl_methyl_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd02519_c (Guanidinoethyl_methyl_phosphate_c0)
+cpd02744_c (N_Phosphoguanidinoethyl_methyl_phosphate_c0)
+
+

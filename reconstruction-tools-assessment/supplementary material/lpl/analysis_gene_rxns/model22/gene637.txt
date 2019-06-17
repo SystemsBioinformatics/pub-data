@@ -1,0 +1,16 @@
+notRecovered:
+GLYBabc:1 atp_c + 1 glyb_e + 1 h2o_c -> 1 adp_c + 1 glyb_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Glycine_betaine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_Glycine_betaine_ + 1 M_H_ + 1 M_Phosphate_)
+CHLabc:1 atp_c + 1 chol_e + 1 h2o_c -> 1 adp_c + 1 chol_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Choline_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_Choline_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R10185:1 C00002_c + 1 C20396_c -> 1 C00147_c + 1 C20422_c (1 ATP + 1 Methylphosphonate -> 1 Adenine + 1 alpha-D-Ribose 1-methylphosphonate 5-triphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00147_c (Adenine)
+C20396_c (Methylphosphonate)
+C20422_c (alpha-D-Ribose 1-methylphosphonate 5-triphosphate)
+
+

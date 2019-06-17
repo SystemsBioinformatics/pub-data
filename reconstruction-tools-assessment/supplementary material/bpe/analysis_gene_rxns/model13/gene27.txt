@@ -1,0 +1,4 @@
+notRecovered:
+MICITDr:1 2mcacn_c + 1 h2o_c -> 1 micit_c (1 cis-2-Methylaconitate + 1 H2O -> 1 methylisocitrate)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+GLCS1:1 adpglc_c -> 1 adp_c + 1 glycogen_c + 1 h_c (1 M_ADPglucose_ -> 1 M_ADP_ + 1 M_glycogen_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R06049:1 G11109_c <=> 1 G11113_c + 1 G10495_c (1 ADP-glucose <=> 1 ADP + 1 1,4-alpha-D-Glucan)
+R02421:1 C00498_c <=> 1 C00718_c + 1 C00008_c (1 ADP-glucose <=> 1 Amylose + 1 ADP)
+
+
+AdditionalMetabolites:
+C00008_c (ADP)
+C00498_c (ADP-glucose)
+C00718_c (Amylose)
+G10495_c (1,4-alpha-D-Glucan)
+G11109_c (ADP-glucose)
+G11113_c (ADP)
+
+

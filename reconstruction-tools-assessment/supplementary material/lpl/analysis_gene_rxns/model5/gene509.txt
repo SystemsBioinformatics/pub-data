@@ -1,0 +1,4 @@
+notRecovered:
+RIBt2:1 h_e + 1 rib__D_e -> 1 h_c + 1 rib__D_c (1 M_H_ + 1 M_D_Ribose_ -> 1 M_H_ + 1 M_D_Ribose_)
+
+

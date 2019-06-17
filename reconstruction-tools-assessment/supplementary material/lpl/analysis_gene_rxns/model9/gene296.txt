@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+ADOCBLPP:1 adocblp_c + 1 h2o_p -> 1 pi_p + 1 adocbl_c (1 Adenosylcobalamin-phosphate + 1 H2O H2O -> 1 Phosphate + 1 Adenosylcobalamin)
+RZ5PP:1 5prdmbz_c + 1 h2o_c -> 1 pi_c + 1 rdmbzi_c (1 N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole + 1 H2O H2O -> 1 Phosphate + 1 N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+
+
+AdditionalMetabolites:
+5prdmbz_c (N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+adocbl_c (Adenosylcobalamin)
+adocblp_c (Adenosylcobalamin-phosphate)
+h2o_p (H2O H2O)
+pi_p (Phosphate)
+rdmbzi_c (N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+
+

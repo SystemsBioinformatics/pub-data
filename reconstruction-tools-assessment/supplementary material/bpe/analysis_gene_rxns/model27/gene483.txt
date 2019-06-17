@@ -1,0 +1,17 @@
+notRecovered:
+NAt3pp:1 h_p + 1 na1_c -> 1 h_c + 1 na1_p (1 H+ + 1 Sodium -> 1 H+ + 1 Sodium)
+Kt3pp:1 h_p + 1 k_c -> 1 h_c + 1 k_p (1 H+ + 1 potassium -> 1 H+ + 1 potassium)
+
+
+AdditionalNotInModel:
+R11945:1 C00399_c + 1 C00004_c <=> 1 C00003_c + 5 C00080_c + 1 C00390_c (1 Ubiquinone + 1 NADH <=> 1 NAD+ + 5 H+ + 1 Ubiquinol)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00390_c (Ubiquinol)
+C00399_c (Ubiquinone)
+
+

@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+NAD-SYNTH-GLN-RXN:1 DEAMIDO-NAD_c + 1 GLN_c + 1 ATP_c + 1 WATER_c -> 1 NAD_c + 1 AMP_c + 1 PPI_c + 1 PROTON_c + 1 GLT_c (1 nicotinate adenine dinucleotide + 1 L-glutamine + 1 ATP + 1 H2O -> 1 NAD+ + 1 AMP + 1 diphosphate + 1 H+ + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+DEAMIDO-NAD_c (nicotinate adenine dinucleotide)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+NAD_c (NAD+)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,8 @@
+notRecovered:
+GALK2:1 a_gal__D_c + 1 atp_c -> 1 adp_c + 1 gal1p_c + 1 h_c (1 M_alpha_D_galactose_ + 1 M_ATP_ -> 1 M_ADP_ + 1 M_alpha_D_Galactose_1_phosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+GALKr:1 atp_c + 1 gal_c <=> 1 adp_c + 1 h_c + 1 gal1p_c (1 ATP + 1 D-Galactose <=> 1 ADP + 1 H+ + 1 Alpha-D-Galactose 1-phosphate)
+
+

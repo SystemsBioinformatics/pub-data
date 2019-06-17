@@ -1,0 +1,15 @@
+notRecovered:
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+
+AdditionalNotInModel:
+SUCROSEPHOSPHO-RXN:1 Hpr-pi-phospho-L-histidines_c + 1 SUCROSE_c -> 1 CPD-15716_c + 1 Hpr-Histidine_c (1 Hpr-pi-phospho-L-histidines + 1 sucrose -> 1 sucrose 6G-phosphate + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+CPD-15716_c (sucrose 6G-phosphate)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+SUCROSE_c (sucrose)
+
+

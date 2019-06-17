@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R03509:1 C04302_c <=> 1 C01302_c (1 N-(5-Phospho-D-ribosyl)anthranilate <=> 1 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate)
+
+
+AdditionalMetabolites:
+C01302_c (1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate)
+C04302_c (N-(5-Phospho-D-ribosyl)anthranilate)
+
+

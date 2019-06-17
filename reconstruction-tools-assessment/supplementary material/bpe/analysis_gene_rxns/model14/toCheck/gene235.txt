@@ -1,0 +1,19 @@
+notRecovered:
+ILEt3pp:1 h_p + 1 ile__L_c -> 1 h_c + 1 ile__L_p (1 H+ + 1 L-Isoleucine -> 1 H+ + 1 L-Isoleucine)
+METt3pp:1 h_p + 1 met__L_c -> 1 h_c + 1 met__L_p (1 H+ + 1 L-Methionine -> 1 H+ + 1 L-Methionine)
+VALt3pp:1 h_p + 1 val__L_c -> 1 h_c + 1 val__L_p (1 H+ + 1 L-Valine -> 1 H+ + 1 L-Valine)
+HISt3pp:1 h_p + 1 his__L_c -> 1 h_c + 1 his__L_p (1 H+ + 1 L-Histidine -> 1 H+ + 1 L-Histidine)
+LEUt3pp:1 h_p + 1 leu__L_c -> 1 h_c + 1 leu__L_p (1 H+ + 1 L-Leucine -> 1 H+ + 1 L-Leucine)
+
+
+AdditionalNotInModel:
+rxn05305:1 cpd00067_e + 1 cpd00039_c <=> 1 cpd00067_c + 1 cpd00039_e (1 H_plus__e0 + 1 L_Lysine_c0 <=> 1 H_plus__c0 + 1 L_Lysine_e0)
+
+
+AdditionalMetabolites:
+cpd00039_c (L_Lysine_c0)
+cpd00039_e (L_Lysine_e0)
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+
+

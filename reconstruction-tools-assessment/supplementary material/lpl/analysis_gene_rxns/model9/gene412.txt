@@ -1,0 +1,20 @@
+notRecovered:
+L_LACt2r:1 h_e + 1 lac__L_e <=> 1 h_c + 1 lac__L_c (1 M_H_ + 1 M_L_Lactate_ <=> 1 M_H_ + 1 M_L_Lactate_)
+
+
+AdditionalNotInModel:
+L_LACt2rpp:1 lac__L_p + 1 h_p <=> 1 lac__L_c + 1 h_c (1 L-Lactate + 1 H+ <=> 1 L-Lactate + 1 H+)
+GLYCLTt2rpp:1 h_p + 1 glyclt_p <=> 1 glyclt_c + 1 h_c (1 H+ + 1 Glycolate C2H3O3 <=> 1 Glycolate C2H3O3 + 1 H+)
+D_LACt2pp:1 lac__D_p + 1 h_p <=> 1 lac__D_c + 1 h_c (1 D-Lactate + 1 H+ <=> 1 D-Lactate + 1 H+)
+
+
+AdditionalMetabolites:
+glyclt_p (Glycolate C2H3O3)
+h_p (H+)
+lac__D_p (D-Lactate)
+lac__L_p (L-Lactate)
+
+
+AdditionalInModel:
+GLYCLTt2r:1 glyclt_e + 1 h_e <=> 1 glyclt_c + 1 h_c (1 Glycolate C2H3O3 + 1 H+ <=> 1 Glycolate C2H3O3 + 1 H+)
+L_LACt2r:1 h_e + 1 lac__L_e <=> 1 lac__L_c + 1 h_c (1 H+ + 1 L-Lactate <=> 1 L-Lactate + 1 H+)

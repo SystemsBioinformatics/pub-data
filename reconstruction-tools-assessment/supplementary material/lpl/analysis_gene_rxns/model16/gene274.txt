@@ -1,0 +1,16 @@
+notRecovered:
+ARAI:1 arab__L_c <=> 1 rbl__L_c (1 M_L_Arabinose_ <=> 1 M_L_Ribulose_)
+
+
+AdditionalNotInModel:
+rxn01292:1 cpd00224_c <=> 1 cpd00397_c (1 L_Arabinose_c0 <=> 1 L_Ribulose_c0)
+rxn02318:1 cpd00818_c <=> 1 cpd00805_c (1 6_Phospho_D_galactose_c0 <=> 1 D_Tagatose_6_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00224_c (L_Arabinose_c0)
+cpd00397_c (L_Ribulose_c0)
+cpd00805_c (D_Tagatose_6_phosphate_c0)
+cpd00818_c (6_Phospho_D_galactose_c0)
+
+

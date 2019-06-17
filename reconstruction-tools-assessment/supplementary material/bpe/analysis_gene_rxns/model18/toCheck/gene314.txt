@@ -1,0 +1,21 @@
+notRecovered:
+LYSabcpp:1 atp_c + 1 h2o_c + 1 lys__L_p -> 1 adp_c + 1 h_c + 1 lys__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 H+ + 1 L-Lysine + 1 Phosphate)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 h_c + 1 his__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 H+ + 1 L-Histidine + 1 Phosphate)
+ORNabcpp:1 atp_c + 1 h2o_c + 1 orn_p -> 1 adp_c + 1 h_c + 1 orn_c + 1 pi_c (1 ATP + 1 H2O + 1 Ornithine -> 1 ADP + 1 H+ + 1 Ornithine + 1 Phosphate)
+ARGabcpp:1 arg__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 arg__L_c + 1 h_c + 1 pi_c (1 L-Arginine + 1 ATP + 1 H2O -> 1 ADP + 1 L-Arginine + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R00691:1 C00826_c -> 1 C00001_c + 1 C00011_c + 1 C00079_c (1 L-Arogenate -> 1 H2O + 1 CO2 + 1 L-Phenylalanine)
+R01373:1 C00254_c <=> 1 C00001_c + 1 C00011_c + 1 C00166_c (1 Prephenate <=> 1 H2O + 1 CO2 + 1 Phenylpyruvate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00079_c (L-Phenylalanine)
+C00166_c (Phenylpyruvate)
+C00254_c (Prephenate)
+C00826_c (L-Arogenate)
+
+

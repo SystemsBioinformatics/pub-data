@@ -1,0 +1,21 @@
+notRecovered:
+MOCOS_LPL:1 mpt_c <=> 1 moco_c (1 M_molybdopterin_ <=> 1 M_Molybdenum_cofactor_)
+
+
+AdditionalNotInModel:
+WCOS:2 h_c + 1 mptamp_c + 1 tungs_c -> 1 amp_c + 1 cu2_c + 1 h2o_c + 1 wco_c (2 H+ + 1 Adenylated molybdopterin + 1 Tungstate -> 1 AMP C10H12N5O7P + 1 Copper + 1 H2O H2O + 1 Tungsten binding cofactor)
+BWCOS:1 mptamp_c + 1 wco_c -> 1 amp_c + 1 bwco_c + 1 cu2_c (1 Adenylated molybdopterin + 1 Tungsten binding cofactor -> 1 AMP C10H12N5O7P + 1 Tungsten bispterin cofactor + 1 Copper)
+BMOCOS:1 moco_c + 1 mptamp_c -> 1 amp_c + 1 bmoco_c + 1 cu2_c (1 Molybdenum cofactor + 1 Adenylated molybdopterin -> 1 AMP C10H12N5O7P + 1 Bis-molybdenum cofactor + 1 Copper)
+MOCOS:2 h_c + 1 mobd_c + 1 mptamp_c -> 1 amp_c + 1 cu2_c + 1 h2o_c + 1 moco_c (2 H+ + 1 Molybdate + 1 Adenylated molybdopterin -> 1 AMP C10H12N5O7P + 1 Copper + 1 H2O H2O + 1 Molybdenum cofactor)
+
+
+AdditionalMetabolites:
+bmoco_c (Bis-molybdenum cofactor)
+bwco_c (Tungsten bispterin cofactor)
+cu2_c (Copper)
+mobd_c (Molybdate)
+mptamp_c (Adenylated molybdopterin)
+tungs_c (Tungstate)
+wco_c (Tungsten binding cofactor)
+
+

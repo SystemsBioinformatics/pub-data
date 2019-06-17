@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R11310:1 C00663_c <=> 1 C00092_c (1 beta-D-Glucose 1-phosphate <=> 1 D-Glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00092_c (D-Glucose 6-phosphate)
+C00663_c (beta-D-Glucose 1-phosphate)
+
+

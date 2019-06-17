@@ -1,0 +1,4 @@
+notRecovered:
+DPMVD:1 5dpmev_c + 1 atp_c -> 1 adp_c + 1 co2_c + 1 ipdp_c + 1 pi_c (1 M__R__5_Diphosphomevalonate_ + 1 M_ATP_ -> 1 M_ADP_ + 1 M_CO2_ + 1 M_Isopentenyl_diphosphate_ + 1 M_Phosphate_)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+TRPO2:1 o2_c + 1 trp__L_c -> 1 Lfmkynr_c (1 O2 + 1 L-Tryptophan -> 1 N-formylkynurenine)
+
+

@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R01791:1 C00001_c <=> 1 C00721_c + 1 C00031_c (1 H2O <=> 1 Dextrin + 1 D-Glucose)
+R06199:1 C00001_c <=> 1 G10545_c + 1 C00267_c (1 H2O <=> 1 Starch + 1 alpha-D-Glucose)
+R06080:1 G01318_c + 1 C00001_c <=> 2 C00267_c (1 Isomaltose + 1 H2O <=> 2 alpha-D-Glucose)
+R01718:1 C00252_c + 1 C00001_c <=> 1 C00031_c + 1 C00267_c (1 Isomaltose + 1 H2O <=> 1 D-Glucose + 1 alpha-D-Glucose)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00252_c (Isomaltose)
+C00267_c (alpha-D-Glucose)
+C00721_c (Dextrin)
+G01318_c (Isomaltose)
+G10545_c (Starch)
+
+

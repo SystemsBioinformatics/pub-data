@@ -1,0 +1,4 @@
+notRecovered:
+DHQTi:1 3dhq_c -> 1 3dhsk_c + 1 h2o_c (1 3-Dehydroquinate -> 1 3-Dehydroshikimate + 1 H2O)
+
+

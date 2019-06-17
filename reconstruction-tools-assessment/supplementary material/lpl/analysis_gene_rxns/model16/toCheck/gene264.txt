@@ -1,0 +1,24 @@
+notRecovered:
+URIH:1 h2o_c + 1 uri_c -> 1 rib__D_c + 1 ura_c (1 M_H2O_ + 1 M_Uridine_ -> 1 M_D_Ribose_ + 1 M_Uracil_)
+
+
+AdditionalNotInModel:
+rxn00927:1 cpd00001_c + 1 cpd00182_c <=> 1 cpd00128_c + 1 cpd00105_c (1 H2O_c0 + 1 Adenosine_c0 <=> 1 Adenine_c0 + 1 D_Ribose_c0)
+rxn01545:1 cpd00001_c + 1 cpd01217_c <=> 1 cpd00105_c + 1 cpd00309_c (1 H2O_c0 + 1 Xanthosine_c0 <=> 1 D_Ribose_c0 + 1 XAN_c0)
+rxn01299:1 cpd00001_c + 1 cpd00246_c <=> 1 cpd00226_c + 1 cpd00105_c (1 H2O_c0 + 1 Inosine_c0 <=> 1 HYXN_c0 + 1 D_Ribose_c0)
+rxn01226:1 cpd00001_c + 1 cpd00311_c <=> 1 cpd00105_c + 1 cpd00207_c (1 H2O_c0 + 1 Guanosine_c0 <=> 1 D_Ribose_c0 + 1 Guanine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00105_c (D_Ribose_c0)
+cpd00128_c (Adenine_c0)
+cpd00182_c (Adenosine_c0)
+cpd00207_c (Guanine_c0)
+cpd00226_c (HYXN_c0)
+cpd00246_c (Inosine_c0)
+cpd00309_c (XAN_c0)
+cpd00311_c (Guanosine_c0)
+cpd01217_c (Xanthosine_c0)
+
+

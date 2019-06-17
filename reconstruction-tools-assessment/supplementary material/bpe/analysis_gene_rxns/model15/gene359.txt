@@ -1,0 +1,29 @@
+notRecovered:
+L_LACD2:1 lac__L_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 L-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00196:2 C00125_c + 1 C00186_c <=> 1 C00022_c + 2 C00080_c + 2 C00126_c (2 Ferricytochrome c + 1 (S)-Lactate <=> 1 Pyruvate + 2 H+ + 2 Ferrocytochrome c)
+R04160:1 C00028_c + 1 C03198_c <=> 1 C00030_c + 1 C03590_c (1 Acceptor + 1 (S)-4-Hydroxymandelate <=> 1 Reduced acceptor + 1 4-Hydroxyphenylglyoxylate)
+R06633:1 C00007_c + 1 C03198_c <=> 1 C00027_c + 1 C03590_c (1 Oxygen + 1 (S)-4-Hydroxymandelate <=> 1 Hydrogen peroxide + 1 4-Hydroxyphenylglyoxylate)
+R07664:1 C00061_c + 1 C01984_c <=> 1 C01847_c + 1 C02137_c (1 FMN + 1 (S)-Mandelate <=> 1 Reduced FMN + 1 alpha-Oxo-benzeneacetic acid)
+
+
+AdditionalMetabolites:
+C00007_c (Oxygen)
+C00022_c (Pyruvate)
+C00027_c (Hydrogen peroxide)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00061_c (FMN)
+C00080_c (H+)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00186_c ((S)-Lactate)
+C01847_c (Reduced FMN)
+C01984_c ((S)-Mandelate)
+C02137_c (alpha-Oxo-benzeneacetic acid)
+C03198_c ((S)-4-Hydroxymandelate)
+C03590_c (4-Hydroxyphenylglyoxylate)
+
+

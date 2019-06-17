@@ -1,0 +1,4 @@
+notRecovered:
+ACHBS:1 2obut_c + 1 h_c + 1 pyr_c -> 1 2ahbut_c + 1 co2_c (1 M_2_Oxobutanoate_ + 1 M_H_ + 1 M_Pyruvate_ -> 1 M__S__2_Aceto_2_hydroxybutanoate_ + 1 M_CO2_)
+
+

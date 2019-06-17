@@ -1,0 +1,10 @@
+notRecovered:
+2AGPA141tipp:1 2tdec7eg3p_p -> 1 2tdec7eg3p_c (1 2-tetradec-7-enoyl-sn-glycerol 3-phosphate -> 1 2-tetradec-7-enoyl-sn-glycerol 3-phosphate)
+2AGPA181tipp:1 2odec11eg3p_p -> 1 2odec11eg3p_c (1 2-octadec-11-enoyl-sn-glycerol 3-phosphate -> 1 2-octadec-11-enoyl-sn-glycerol 3-phosphate)
+2AGPA120tipp:1 2ddecg3p_p -> 1 2ddecg3p_c (1 2-dodecanoyl-sn-glycerol 3-phosphate -> 1 2-dodecanoyl-sn-glycerol 3-phosphate)
+2AGPA160tipp:1 2hdecg3p_p -> 1 2hdecg3p_c (1 2-hexadecanoyl-sn-glycerol 3-phosphate -> 1 2-hexadecanoyl-sn-glycerol 3-phosphate)
+2AGPA140tipp:1 2tdecg3p_p -> 1 2tdecg3p_c (1 2-tetradecanoyl-sn-glycerol 3-phosphate -> 1 2-tetradecanoyl-sn-glycerol 3-phosphate)
+2AGPA161tipp:1 2hdec9eg3p_p -> 1 2hdec9eg3p_c (1 2-hexadec-9-enoyl-sn-glycerol 3-phosphate -> 1 2-hexadec-9-enoyl-sn-glycerol 3-phosphate)
+2AGPA180tipp:1 2odecg3p_p -> 1 2odecg3p_c (1 2-octadecanoyl-sn-glycerol 3-phosphate -> 1 2-octadecanoyl-sn-glycerol 3-phosphate)
+
+

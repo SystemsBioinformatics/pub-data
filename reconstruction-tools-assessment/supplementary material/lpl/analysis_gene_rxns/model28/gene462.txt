@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R03355:1 C00001_c + 1 C01290_c <=> 1 C00124_c + 1 C01190_c (1 H2O + 1 beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide <=> 1 D-Galactose + 1 beta-D-Glucosyl-(1<->1)-ceramide)
+R04783:1 C00001_c + 1 C05403_c <=> 1 C00221_c + 1 C05394_c (1 H2O + 1 3-Ketolactose <=> 1 beta-D-Glucose + 1 3-Keto-beta-D-galactose)
+R06114:1 C00001_c + 1 G10504_c <=> 1 C00031_c + 1 C00124_c (1 H2O + 1 Lactose (G10504) <=> 1 D-Glucose + 1 D-Galactose)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00124_c (D-Galactose)
+C00221_c (beta-D-Glucose)
+C01190_c (beta-D-Glucosyl-(1<->1)-ceramide)
+C01290_c (beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide)
+C05394_c (3-Keto-beta-D-galactose)
+C05403_c (3-Ketolactose)
+G10504_c (Lactose (G10504))
+
+

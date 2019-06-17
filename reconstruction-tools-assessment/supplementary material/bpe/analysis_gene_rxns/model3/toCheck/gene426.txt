@@ -1,0 +1,14 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+RNF:3 h_c + 1 nad_c + 1 fdxr_42_c -> 1 nadh_c + 2 h_e + 1 fdxo_42_c (3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ferredoxin (reduced form 4:2) -> 1 Nicotinamide adenine dinucleotide - reduced + 2 H+ + 1 Ferredoxin (oxidized form 4:2))
+
+
+AdditionalMetabolites:
+fdxo_42_c (Ferredoxin (oxidized form 4:2))
+fdxr_42_c (Ferredoxin (reduced form 4:2))
+
+

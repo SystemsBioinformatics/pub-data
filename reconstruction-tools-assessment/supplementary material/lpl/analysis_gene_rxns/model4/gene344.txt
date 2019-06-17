@@ -1,0 +1,4 @@
+notRecovered:
+TALA:1 g3p_c + 1 s7p_c <=> 1 e4p_c + 1 f6p_c (1 M_Glyceraldehyde_3_phosphate_ + 1 M_Sedoheptulose_7_phosphate_ <=> 1 M_D_Erythrose_4_phosphate_ + 1 M_D_Fructose_6_phosphate_)
+
+

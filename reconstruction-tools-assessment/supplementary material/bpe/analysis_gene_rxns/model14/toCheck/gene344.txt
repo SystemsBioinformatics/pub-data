@@ -1,0 +1,15 @@
+notRecovered:
+FCLT:1 fe2_c + 1 ppp9_c -> 2 h_c + 1 pheme_c (1 Fe2+ + 1 Protoporphyrin -> 2 H+ + 1 Protoheme)
+
+
+AdditionalNotInModel:
+rxn00224:1 cpd01476_c + 1 cpd10515_c <=> 2 cpd00067_c + 1 cpd00028_c (1 Protoporphyrin_c0 + 1 Fe2_plus__c0 <=> 2 H_plus__c0 + 1 Heme_c0)
+
+
+AdditionalMetabolites:
+cpd00028_c (Heme_c0)
+cpd00067_c (H_plus__c0)
+cpd01476_c (Protoporphyrin_c0)
+cpd10515_c (Fe2_plus__c0)
+
+

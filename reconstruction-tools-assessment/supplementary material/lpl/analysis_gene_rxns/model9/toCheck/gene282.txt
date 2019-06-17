@@ -1,0 +1,14 @@
+notRecovered:
+SO4NA1t:1 na1_e + 1 so4_e <=> 1 na1_c + 1 so4_c (1 M_Sodium_ + 1 M_Sulfate_ <=> 1 M_Sodium_ + 1 M_Sulfate_)
+
+
+AdditionalNotInModel:
+SO4t4_2:2 na1_e + 1 so4_e <=> 2 na1_c + 1 so4_c (2 Sodium + 1 Sulfate <=> 2 Sodium + 1 Sulfate)
+TARTRDtpp:1 tartr__D_p <=> 1 tartr__D_c (1 D-tartrate <=> 1 D-tartrate)
+
+
+AdditionalMetabolites:
+tartr__D_c (D-tartrate)
+tartr__D_p (D-tartrate)
+
+

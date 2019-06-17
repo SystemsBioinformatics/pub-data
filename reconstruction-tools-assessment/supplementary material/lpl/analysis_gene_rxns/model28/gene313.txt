@@ -1,0 +1,15 @@
+notRecovered:
+HSERTA:1 accoa_c + 1 hom__L_c <=> 1 achms_c + 1 coa_c (1 M_Acetyl_CoA_ + 1 M_L_Homoserine_ <=> 1 M_O_Acetyl_L_homoserine_ + 1 M_Coenzyme_A_)
+
+
+AdditionalNotInModel:
+R01777:1 C00091_c + 1 C00263_c <=> 1 C00010_c + 1 C01118_c (1 Succinyl-CoA + 1 L-Homoserine <=> 1 CoA + 1 O-Succinyl-L-homoserine)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00091_c (Succinyl-CoA)
+C00263_c (L-Homoserine)
+C01118_c (O-Succinyl-L-homoserine)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+G3POc:1 glyc3p_c + 1 o2_c -> 1 dhap_c + 1 h2o2_c (1 M_sn_Glycerol_3_phosphate_ + 1 M_O2_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Hydrogen_peroxide_)
+
+

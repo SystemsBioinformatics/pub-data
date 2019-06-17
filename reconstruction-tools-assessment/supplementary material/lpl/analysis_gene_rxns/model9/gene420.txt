@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+UAGDP2:1 gam1p_c + 1 h_c + 1 utp_c -> 1 ugam_c + 1 ppi_c (1 D-Glucosamine 1-phosphate + 1 H+ + 1 UTP C9H11N2O15P3 -> 1 UDP-glucosamine + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+ugam_c (UDP-glucosamine)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+MDFDH:1 nad_c + 1 mshfald_c <=> 1 nadh_c + 1 h_c + 1 mshfaldox_c (1 Nicotinamide adenine dinucleotide + 1 Mycothiol conjugated methanol <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Mycothiol conjugated aldehyde)
+ALDD1:1 fald_c + 1 nad_c + 1 h2o_c -> 1 nadh_c + 1 for_c + 2 h_c (1 Formaldehyde + 1 Nicotinamide adenine dinucleotide + 1 H2O H2O -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Formate + 2 H+)
+ALCD2y:1 etoh_c + 1 nadp_c <=> 1 nadph_c + 1 h_c + 1 acald_c (1 Ethanol + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 H+ + 1 Acetaldehyde)
+
+
+AdditionalMetabolites:
+fald_c (Formaldehyde)
+mshfald_c (Mycothiol conjugated methanol)
+mshfaldox_c (Mycothiol conjugated aldehyde)
+
+

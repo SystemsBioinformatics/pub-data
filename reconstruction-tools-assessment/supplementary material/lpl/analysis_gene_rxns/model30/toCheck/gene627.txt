@@ -1,0 +1,19 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+R11555:1 C00448_c + 1 C06026_c + 1 C00350_c + 4 C00129_c <=> 1 C04216_c + 1 C00165_c + 1 C21461_c + 4 C00013_c (1 trans,trans-Farnesyl diphosphate + 1 Di[3-deoxy-D-manno-octulosonyl]-lipid A + 1 Phosphatidylethanolamine + 4 Isopentenyl diphosphate <=> 1 all-trans-Heptaprenyl diphosphate + 1 Diacylglycerol + 1 Kdo2-lipid A 1-(2-aminoethyl diphosphate) + 4 Diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00129_c (Isopentenyl diphosphate)
+C00165_c (Diacylglycerol)
+C00350_c (Phosphatidylethanolamine)
+C00448_c (trans,trans-Farnesyl diphosphate)
+C04216_c (all-trans-Heptaprenyl diphosphate)
+C06026_c (Di[3-deoxy-D-manno-octulosonyl]-lipid A)
+C21461_c (Kdo2-lipid A 1-(2-aminoethyl diphosphate))
+
+

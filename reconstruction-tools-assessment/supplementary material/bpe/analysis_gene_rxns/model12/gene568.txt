@@ -1,0 +1,19 @@
+notRecovered:
+FRDO:1 fdxrd_c + 1 nadp_c -> 1 fdxox_c + 1 h_c + 1 nadph_c (1 ferredoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate -> 1 ferredoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+RXN-13685:2 Reduced-adrenal-ferredoxins_c + 1 NADP_c + 1 PROTON_c <=> 2 Oxidized-adrenal-ferredoxins_c + 1 NADPH_c (2 a reduced  adrenodoxin + 1 NADP+ + 1 H+ <=> 2 an oxidized adrenodoxin + 1 NADPH)
+RXN-17897:2 Reduced-ferredoxins_c + 1 NADP_c + 1 PROTON_c <=> 2 Oxidized-ferredoxins_c + 1 NADPH_c (2 a reduced ferredoxin [iron-sulfur] cluster + 1 NADP+ + 1 H+ <=> 2 an oxidized ferredoxin [iron-sulfur] cluster + 1 NADPH)
+
+
+AdditionalMetabolites:
+NADPH_c (NADPH)
+NADP_c (NADP+)
+Oxidized-adrenal-ferredoxins_c (an oxidized adrenodoxin)
+Oxidized-ferredoxins_c (an oxidized ferredoxin [iron-sulfur] cluster)
+PROTON_c (H+)
+Reduced-adrenal-ferredoxins_c (a reduced  adrenodoxin)
+Reduced-ferredoxins_c (a reduced ferredoxin [iron-sulfur] cluster)
+
+

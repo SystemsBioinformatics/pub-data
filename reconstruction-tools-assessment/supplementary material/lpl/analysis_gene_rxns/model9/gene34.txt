@@ -1,0 +1,14 @@
+notRecovered:
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+
+AdditionalNotInModel:
+SUCptspp:1 pep_c + 1 sucr_p -> 1 pyr_c + 1 suc6p_c (1 Phosphoenolpyruvate + 1 Sucrose C12H22O11 -> 1 Pyruvate + 1 Sucrose 6-phosphate)
+TREptspp:1 pep_c + 1 tre_p -> 1 pyr_c + 1 tre6p_c (1 Phosphoenolpyruvate + 1 Trehalose -> 1 Pyruvate + 1 Alpha,alpha'-Trehalose 6-phosphate)
+
+
+AdditionalMetabolites:
+sucr_p (Sucrose C12H22O11)
+tre_p (Trehalose)
+
+

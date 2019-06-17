@@ -1,0 +1,23 @@
+notRecovered:
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+SSALy:1 h2o_c + 1 nadp_c + 1 sucsal_c -> 2 h_c + 1 nadph_c + 1 succ_c (1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Succinic semialdehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Succinate)
+
+
+AdditionalNotInModel:
+R05099:1 C00001_c + 1 C00006_c + 1 C06102_c <=> 1 C00005_c + 1 C00080_c + 1 C06104_c (1 H2O + 1 NADP+ + 1 Adipate semialdehyde <=> 1 NADPH + 1 H+ + 1 Adipate)
+R10978:1 C00001_c + 1 C20990_c <=> 1 C20988_c (1 H2O + 1 6-Aminohexanoate cyclic oligomer <=> 1 [N-(6-Aminohexanoyl)]n)
+R10979:1 C20988_c <=> 1 C01255_c (1 [N-(6-Aminohexanoyl)]n <=> 1 N-(6-Aminohexanoyl)-6-aminohexanoate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C01255_c (N-(6-Aminohexanoyl)-6-aminohexanoate)
+C06102_c (Adipate semialdehyde)
+C06104_c (Adipate)
+C20988_c ([N-(6-Aminohexanoyl)]n)
+C20990_c (6-Aminohexanoate cyclic oligomer)
+
+

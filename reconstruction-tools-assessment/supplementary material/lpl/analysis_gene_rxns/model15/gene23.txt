@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+rxn02200:1 cpd00443_c + 1 cpd00954_c <=> 1 cpd00683_c + 1 cpd00001_c (1 ABEE_c0 + 1 6_hydroxymethyl_dihydropterin_c0 <=> 1 Dihydropteroate_c0 + 1 H2O_c0)
+rxn07841:1 cpd00002_c + 1 cpd00202_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15130_c (1 ATP_c0 + 1 DMAPP_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 Isopentenyl_ATP_c0)
+rxn07842:1 cpd00008_c + 1 cpd00202_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd15131_c (1 ADP_c0 + 1 DMAPP_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 Isopentenyl_ADP_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00202_c (DMAPP_c0)
+cpd00443_c (ABEE_c0)
+cpd00683_c (Dihydropteroate_c0)
+cpd00954_c (6_hydroxymethyl_dihydropterin_c0)
+cpd15130_c (Isopentenyl_ATP_c0)
+cpd15131_c (Isopentenyl_ADP_c0)
+
+

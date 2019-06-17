@@ -1,0 +1,25 @@
+notRecovered:
+SUCDi:1 q8_c + 1 succ_c -> 1 fum_c + 1 q8h2_c (1 Ubiquinone-8 + 1 Succinate -> 1 Fumarate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+RXN-14481:1 S-ADENOSYLMETHIONINE_c + 1 CPD-15360_c -> 1 CPD-11592_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 S-adenosyl-L-methionine + 1 2-sulfanyl-N6-dimethylallyladenosine37 in tRNA -> 1 2-methylsulfanyl-N6-dimethylallyladenosine37 in tRNA + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN-14480:1 Sulfurated-Sulfur-Acceptors_c + 1 Donor-H2_c + 1 S-ADENOSYLMETHIONINE_c + 1 6-Dimethylallyladenosine37-tRNAs_c -> 1 Unsulfurated-Sulfur-Acceptors_c + 1 CH33ADO_c + 1 MET_c + 1 Acceptor_c + 1 CPD-15360_c + 1 PROTON_c (1 a sulfurated [sulfur carrier] + 1 a reduced electron acceptor + 1 S-adenosyl-L-methionine + 1 N6-dimethylallyladenosine37 in tRNA -> 1 an unsulfurated [sulfur carrier] + 1 5'-deoxyadenosine + 1 L-methionine + 1 an oxidized electron acceptor + 1 2-sulfanyl-N6-dimethylallyladenosine37 in tRNA + 1 H+)
+RXN0-5063:1 Sulfurated-Sulfur-Acceptors_c + 1 Donor-H2_c + 2 S-ADENOSYLMETHIONINE_c + 1 6-Dimethylallyladenosine37-tRNAs_c -> 1 Unsulfurated-Sulfur-Acceptors_c + 1 CH33ADO_c + 1 MET_c + 1 Acceptor_c + 1 CPD-11592_c + 1 ADENOSYL-HOMO-CYS_c + 2 PROTON_c (1 a sulfurated [sulfur carrier] + 1 a reduced electron acceptor + 2 S-adenosyl-L-methionine + 1 N6-dimethylallyladenosine37 in tRNA -> 1 an unsulfurated [sulfur carrier] + 1 5'-deoxyadenosine + 1 L-methionine + 1 an oxidized electron acceptor + 1 2-methylsulfanyl-N6-dimethylallyladenosine37 in tRNA + 1 S-adenosyl-L-homocysteine + 2 H+)
+
+
+AdditionalMetabolites:
+6-Dimethylallyladenosine37-tRNAs_c (N6-dimethylallyladenosine37 in tRNA)
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+Acceptor_c (an oxidized electron acceptor)
+CH33ADO_c (5'-deoxyadenosine)
+CPD-11592_c (2-methylsulfanyl-N6-dimethylallyladenosine37 in tRNA)
+CPD-15360_c (2-sulfanyl-N6-dimethylallyladenosine37 in tRNA)
+Donor-H2_c (a reduced electron acceptor)
+MET_c (L-methionine)
+PROTON_c (H+)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+Sulfurated-Sulfur-Acceptors_c (a sulfurated [sulfur carrier])
+Unsulfurated-Sulfur-Acceptors_c (an unsulfurated [sulfur carrier])
+
+

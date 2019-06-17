@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+DADK:1 damp_c + 1 atp_c <=> 1 dadp_c + 1 adp_c (1 DAMP C10H12N5O6P + 1 ATP C10H12N5O13P3 <=> 1 DADP C10H12N5O9P2 + 1 ADP C10H12N5O10P2)
+
+

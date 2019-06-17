@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R00490:1 C00049_c <=> 1 C00014_c + 1 C00122_c (1 L-Aspartate <=> 1 Ammonia + 1 Fumarate)
+
+
+AdditionalMetabolites:
+C00014_c (Ammonia)
+C00049_c (L-Aspartate)
+C00122_c (Fumarate)
+
+

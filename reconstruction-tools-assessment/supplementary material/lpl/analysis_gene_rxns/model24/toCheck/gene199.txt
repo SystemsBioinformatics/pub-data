@@ -1,0 +1,20 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 M_Acetyl_CoA_ + 1 M_ATP_ + 1 M_Bicarbonate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Malonyl_CoA_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+BIOTINLIG-RXN:1 ATP_c + 1 BCCP-L-lysine_c + 1 BIOTIN_c -> 1 AMP_c + 1 BCCP-biotin-L-lysine_c + 1 PPI_c + 1 PROTON_c (1 ATP + 1 BCCP-L-lysine + 1 biotin -> 1 AMP + 1 BCCP-biotin-L-lysine + 1 diphosphate + 1 H+)
+RXN0-7192:1 ATP_c + 1 BIOTIN_c + 1 PROTON_c -> 1 BIO-5-AMP_c + 1 PPI_c (1 ATP + 1 biotin + 1 H+ -> 1 biotinyl-5'-adenylate + 1 diphosphate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+BCCP-L-lysine_c (BCCP-L-lysine)
+BCCP-biotin-L-lysine_c (BCCP-biotin-L-lysine)
+BIO-5-AMP_c (biotinyl-5'-adenylate)
+BIOTIN_c (biotin)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

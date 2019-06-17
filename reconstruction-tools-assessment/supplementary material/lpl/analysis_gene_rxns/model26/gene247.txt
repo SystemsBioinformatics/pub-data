@@ -1,0 +1,14 @@
+notRecovered:
+PZS:1 gtp_c -> 1 cpmp_c + 1 ppi_c (1 M_GTP_ -> 1 M_Precursor_Z_in_molybdenum_cofactor_biosynthesis_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+RXN-17809:1 CPD-19179_c -> 1 PPI_c + 1 PRECURSOR-Z_c (1 (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate -> 1 diphosphate + 1 cyclic pyranopterin phosphate)
+
+
+AdditionalMetabolites:
+CPD-19179_c ((8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate)
+PPI_c (diphosphate)
+PRECURSOR-Z_c (cyclic pyranopterin phosphate)
+
+

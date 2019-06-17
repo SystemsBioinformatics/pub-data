@@ -1,0 +1,12 @@
+notRecovered:
+HISTRS_1:1 atp_c + 1 his__L_c + 1 trnahis_c -> 1 amp_c + 1 h_c + 1 histrna_c + 1 ppi_c (1 M_ATP_ + 1 M_L_Histidine_ + 1 M_tRNA_His__ -> 1 M_AMP_ + 1 M_H_ + 1 M_L_Histidyl_tRNA_His__ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+rxn13782: -> 1 cpd17041_c ( -> 1 Protein_biosynthesis_c0)
+
+
+AdditionalMetabolites:
+cpd17041_c (Protein_biosynthesis_c0)
+
+

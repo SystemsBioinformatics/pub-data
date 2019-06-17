@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+RXN-22:1 CANAVANINOSUCCINATE_c <=> 1 CANAVANINE_c + 1 FUM_c (1 canavaninosuccinate <=> 1 L-canavanine + 1 fumarate)
+
+
+AdditionalMetabolites:
+CANAVANINE_c (L-canavanine)
+CANAVANINOSUCCINATE_c (canavaninosuccinate)
+FUM_c (fumarate)
+
+

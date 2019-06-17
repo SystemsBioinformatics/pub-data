@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R00761:1 C00009_c + 1 C00085_c <=> 1 C00001_c + 1 C00227_c + 1 C00279_c (1 Orthophosphate + 1 D-Fructose 6-phosphate <=> 1 H2O + 1 Acetyl phosphate + 1 D-Erythrose 4-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00085_c (D-Fructose 6-phosphate)
+C00227_c (Acetyl phosphate)
+C00279_c (D-Erythrose 4-phosphate)
+
+

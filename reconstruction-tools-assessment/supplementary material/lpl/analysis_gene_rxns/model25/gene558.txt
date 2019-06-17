@@ -1,0 +1,4 @@
+notRecovered:
+XPPT:1 prpp_c + 1 xan_c -> 1 ppi_c + 1 xmp_c (1 M_5_Phospho_alpha_D_ribose_1_diphosphate_ + 1 M_Xanthine_ -> 1 M_Diphosphate_ + 1 M_Xanthosine_5__phosphate_)
+
+

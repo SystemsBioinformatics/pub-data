@@ -1,0 +1,4 @@
+notRecovered:
+URIH:1 h2o_c + 1 uri_c -> 1 rib__D_c + 1 ura_c (1 M_H2O_ + 1 M_Uridine_ -> 1 M_D_Ribose_ + 1 M_Uracil_)
+
+

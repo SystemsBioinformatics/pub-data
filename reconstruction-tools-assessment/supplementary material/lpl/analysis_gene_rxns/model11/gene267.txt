@@ -1,0 +1,4 @@
+notRecovered:
+GLGC:1 atp_c + 1 g1p_c + 1 h_c -> 1 adpglc_c + 1 ppi_c (1 M_ATP_ + 1 M_D_Glucose_1_phosphate_ + 1 M_H_ -> 1 M_ADPglucose_ + 1 M_Diphosphate_)
+
+

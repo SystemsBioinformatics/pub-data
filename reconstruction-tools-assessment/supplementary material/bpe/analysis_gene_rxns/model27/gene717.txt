@@ -1,0 +1,5 @@
+notRecovered:
+PPGPPDP:1 h2o_c + 1 ppgpp_c -> 1 gdp_c + 1 ppi_c (1 H2O + 1 Guanosine 3',5'-bis(diphosphate) -> 1 GDP + 1 Diphosphate)
+GDPDPK:1 atp_c + 1 gdp_c -> 1 amp_c + 1 h_c + 1 ppgpp_c (1 ATP + 1 GDP -> 1 AMP + 1 H+ + 1 Guanosine 3',5'-bis(diphosphate))
+
+

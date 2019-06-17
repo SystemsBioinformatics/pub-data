@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+GCCc:1 dhlpro_c + 1 nad_c -> 1 h_c + 1 lpro_c + 1 nadh_c (1 Dihydrolipolprotein H2S2X + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Lipoylprotein S2X + 1 Nicotinamide adenine dinucleotide - reduced)
+PDHcr:1 dhlam_c + 1 nad_c <=> 1 h_c + 1 lpam_c + 1 nadh_c (1 Dihydrolipoamide C8H17NOS2 + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Lipoamide C8H15NOS2 + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalMetabolites:
+dhlam_c (Dihydrolipoamide C8H17NOS2)
+dhlpro_c (Dihydrolipolprotein H2S2X)
+lpam_c (Lipoamide C8H15NOS2)
+lpro_c (Lipoylprotein S2X)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+HEPT1_BP:1 adphep_LD_c + 1 lipa_BP_c -> 1 adp_c + 1 h_c + 1 hlipa_BP_c (1 ADP-L-glycero-D-manno-heptose + 1 KDO-lipid IV(A) with secondary C14 acyl chain at position 2' of lipid A (B. pertussis specific) -> 1 ADP + 1 H+ + 1 heptosyl-KDO-lipidA (B. pertussis specific))
+
+
+AdditionalNotInModel:
+RXN0-5057:1 ADP-L-GLYCERO-D-MANNO-HEPTOSE_c + 1 KDO2-LIPID-IVA_c -> 1 ADP_c + 1 HEPTOSYL-KDO2-LIPID-IVA_c + 1 PROTON_c (1 ADP-L-glycero-beta-D-manno-heptose + 1 alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA -> 1 ADP + 1 heptosyl-Kdo2-lipid IVA + 1 H+)
+RXN0-5118:1 ADP-L-GLYCERO-D-MANNO-HEPTOSE_c + 1 KDO2-LIPID-A_c -> 1 ADP_c + 1 CPD0-929_c + 1 PROTON_c (1 ADP-L-glycero-beta-D-manno-heptose + 1 alpha-D-Kdo-(2rarr4)-alpha-D-Kdo-(2rarr6)-lipid A -> 1 ADP + 1 heptosyl-Kdo2-lipid A + 1 H+)
+
+
+AdditionalMetabolites:
+ADP-L-GLYCERO-D-MANNO-HEPTOSE_c (ADP-L-glycero-beta-D-manno-heptose)
+ADP_c (ADP)
+CPD0-929_c (heptosyl-Kdo2-lipid A)
+HEPTOSYL-KDO2-LIPID-IVA_c (heptosyl-Kdo2-lipid IVA)
+KDO2-LIPID-A_c (alpha-D-Kdo-(2rarr4)-alpha-D-Kdo-(2rarr6)-lipid A)
+KDO2-LIPID-IVA_c (alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA)
+PROTON_c (H+)
+
+

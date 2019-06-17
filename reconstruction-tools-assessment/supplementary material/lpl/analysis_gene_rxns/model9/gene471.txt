@@ -1,0 +1,2 @@
+AdditionalInModel:
+GLGC:1 atp_c + 1 h_c + 1 g1p_c -> 1 adpglc_c + 1 ppi_c (1 ATP C10H12N5O13P3 + 1 H+ + 1 D-Glucose 1-phosphate -> 1 ADPglucose C16H23N5O15P2 + 1 Diphosphate)

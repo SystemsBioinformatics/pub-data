@@ -1,0 +1,16 @@
+notRecovered:
+GDPDPK:1 atp_c + 1 gdp_c -> 1 amp_c + 1 h_c + 1 ppgpp_c (1 ATP + 1 GDP -> 1 AMP + 1 H+ + 1 Guanosine 3',5'-bis(diphosphate))
+
+
+AdditionalNotInModel:
+RXN0-6427:1 GDP-TP_c + 1 WATER_c -> 1 GTP_c + 1 PROTON_c + 1 PPI_c (1 pppGpp + 1 H2O -> 1 GTP + 1 H+ + 1 diphosphate)
+
+
+AdditionalMetabolites:
+GDP-TP_c (pppGpp)
+GTP_c (GTP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

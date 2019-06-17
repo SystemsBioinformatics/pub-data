@@ -1,0 +1,20 @@
+notRecovered:
+DMPPS:1 h2mb4p_c + 1 h_c + 1 nadh_c -> 1 dmpp_c + 1 h2o_c + 1 nad_c (1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Dimethylallyl diphosphate + 1 H2O + 1 Nicotinamide adenine dinucleotide)
+IPDPS:1 h2mb4p_c + 1 h_c + 1 nadh_c -> 1 h2o_c + 1 ipdp_c + 1 nad_c (1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 H2O + 1 Isopentenyl diphosphate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+ISPH2-RXN:1 DELTA3-ISOPENTENYL-PP_c + 2 Oxidized-ferredoxins_c + 1 WATER_c <=> 1 HYDROXY-METHYL-BUTENYL-DIP_c + 2 Reduced-ferredoxins_c + 2 PROTON_c (1 isopentenyl diphosphate + 2 an oxidized ferredoxin [iron-sulfur] cluster + 1 H2O <=> 1 (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+)
+RXN0-884:1 CPD-4211_c + 2 Oxidized-ferredoxins_c + 1 WATER_c <=> 1 HYDROXY-METHYL-BUTENYL-DIP_c + 2 Reduced-ferredoxins_c + 2 PROTON_c (1 dimethylallyl diphosphate + 2 an oxidized ferredoxin [iron-sulfur] cluster + 1 H2O <=> 1 (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+)
+
+
+AdditionalMetabolites:
+CPD-4211_c (dimethylallyl diphosphate)
+DELTA3-ISOPENTENYL-PP_c (isopentenyl diphosphate)
+HYDROXY-METHYL-BUTENYL-DIP_c ((E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate)
+Oxidized-ferredoxins_c (an oxidized ferredoxin [iron-sulfur] cluster)
+PROTON_c (H+)
+Reduced-ferredoxins_c (a reduced ferredoxin [iron-sulfur] cluster)
+WATER_c (H2O)
+
+

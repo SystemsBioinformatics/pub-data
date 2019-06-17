@@ -1,0 +1,4 @@
+notRecovered:
+ACLDC:1 alac__S_c + 1 h_c -> 1 actn__R_c + 1 co2_c (1 M__S__2_Acetolactate_ + 1 M_H_ -> 1 M__R__Acetoin_ + 1 M_CO2_)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+CGPT:1 cdpglyc_c + 1 unagama_c -> 1 cmp_c + 1 h_c + 1 unagamagp_c (1 M_CDPglycerol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_ -> 1 M_CMP_ + 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_)
+
+
+AdditionalNotInModel:
+R11558:1 C00513_c + 1 C04881_c <=> 1 C00055_c + 1 C21464_c (1 CDP-glycerol + 1 N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol <=> 1 CMP + 1 4-O-[(2R)-1-Glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol)
+
+
+AdditionalMetabolites:
+C00055_c (CMP)
+C00513_c (CDP-glycerol)
+C04881_c (N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol)
+C21464_c (4-O-[(2R)-1-Glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol)
+
+

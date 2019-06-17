@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-10822:1 2-KETOGLUTARATE_c + 1 CPD-11725_c <=> 1 CPD-11726_c + 1 GLT_c (1 2-oxoglutarate + 1 homotaurine <=> 1 3-sulfopropanal + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CPD-11725_c (homotaurine)
+CPD-11726_c (3-sulfopropanal)
+GLT_c (L-glutamate)
+
+

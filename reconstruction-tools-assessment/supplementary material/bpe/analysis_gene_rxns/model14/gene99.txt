@@ -1,0 +1,5 @@
+notRecovered:
+UAG2E:1 uacgam_c <=> 1 uacmam_c (1 UDP-N-acetyl-D-glucosamine <=> 1 UDP-N-acetyl-D-mannosamine)
+UAC3NACGAMAE_BP:1 uac3nacgama_c <=> 1 uacmamnaca_c (1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate <=> 1 UDP-2-N-acetyl-3-N-acetyl-D-mannosaminuronate)
+
+

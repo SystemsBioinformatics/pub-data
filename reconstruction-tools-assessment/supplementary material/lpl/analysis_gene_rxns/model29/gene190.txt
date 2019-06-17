@@ -1,0 +1,19 @@
+notRecovered:
+DHFS:1 atp_c + 1 dhpt_c + 1 glu__L_c -> 1 adp_c + 1 dhf_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Dihydropteroate_ + 1 M_L_Glutamate_ -> 1 M_ADP_ + 1 M_7_8_Dihydrofolate_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R01654:1 C00234_c + 1 C00002_c + 1 C00025_c <=> 1 C05928_c + 1 C00008_c + 1 C00009_c (1 10-Formyltetrahydrofolate + 1 ATP + 1 L-Glutamate <=> 1 (6R)-10-Formyltetrahydropteroyldiglutamate + 1 ADP + 1 Orthophosphate)
+R04241:1 C00002_c + 1 C00025_c <=> 1 C03541_c + 1 C00008_c + 1 C00009_c (1 ATP + 1 L-Glutamate <=> 1 THF-polyglutamate + 1 ADP + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00025_c (L-Glutamate)
+C00234_c (10-Formyltetrahydrofolate)
+C03541_c (THF-polyglutamate)
+C05928_c ((6R)-10-Formyltetrahydropteroyldiglutamate)
+
+

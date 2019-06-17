@@ -1,0 +1,11 @@
+notRecovered:
+HACD9:1 3hmbcoa_c + 1 nad_c <=> 1 2maacoa_c + 1 h_c + 1 nadh_c (1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide <=> 1 2-methylacetoacetyl-coenzyme A + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+ECOAH5:1 3hddcoa_c <=> 1 dd2coa_c + 1 h2o_c (1 (S)-3-Hydroxydodecanoyl-CoA <=> 1 trans-Dodec-2-enoyl-CoA + 1 H2O)
+ECOAH4:1 3hdcoa_c <=> 1 dc2coa_c + 1 h2o_c (1 (S)-3-Hydroxydecanoyl-CoA <=> 1 trans-Dec-2-enoyl-CoA + 1 H2O)
+ECOAH7:1 3hhdcoa_c <=> 1 h2o_c + 1 hdd2coa_c (1 (S)-3-Hydroxyhexadecanoyl-CoA <=> 1 H2O + 1 trans-Hexadec-2-enoyl-CoA)
+ECOAH6:1 3htdcoa_c <=> 1 h2o_c + 1 td2coa_c (1 (S)-3-Hydroxytetradecanoyl-CoA <=> 1 H2O + 1 trans-Tetradec-2-enoyl-CoA)
+ECOAH3:1 3hocoa_c <=> 1 h2o_c + 1 oc2coa_c (1 (S)-3-Hydroxyoctanoyl-CoA <=> 1 H2O + 1 trans-Oct-2-enoyl-CoA)
+ECOAH2:1 3hhcoa_c <=> 1 h2o_c + 1 hx2coa_c (1 (S)-3-Hydroxyhexanoyl-CoA <=> 1 H2O + 1 trans-Hex-2-enoyl-CoA)
+ECOAH8:1 3hodcoa_c <=> 1 h2o_c + 1 od2coa_c (1 (S)-3-Hydroxyoctadecanoyl-CoA <=> 1 H2O + 1 trans-Octadec-2-enoyl-CoA)
+
+

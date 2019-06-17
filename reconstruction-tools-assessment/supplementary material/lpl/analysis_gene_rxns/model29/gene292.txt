@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01516:1 C00615_c + 1 C01159_c <=> 1 C00197_c + 1 C04262_c (1 Protein histidine + 1 2,3-Bisphospho-D-glycerate <=> 1 3-Phospho-D-glycerate + 1 Protein N(tau)-phospho-L-histidine)
+
+
+AdditionalMetabolites:
+C00197_c (3-Phospho-D-glycerate)
+C00615_c (Protein histidine)
+C01159_c (2,3-Bisphospho-D-glycerate)
+C04262_c (Protein N(tau)-phospho-L-histidine)
+
+

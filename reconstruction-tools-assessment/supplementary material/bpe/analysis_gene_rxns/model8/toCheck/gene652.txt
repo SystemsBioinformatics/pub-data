@@ -1,0 +1,23 @@
+notRecovered:
+GHMT2r:1 ser__L_c + 1 thf_c <=> 1 gly_c + 1 h2o_c + 1 mlthf_c (1 L-Serine + 1 5,6,7,8-Tetrahydrofolate <=> 1 Glycine + 1 H2O + 1 5,10-Methylenetetrahydrofolate)
+
+
+AdditionalNotInModel:
+RXN-9702:1 CPD-10303_c <=> 1 ACETALD_c + 1 GLY_c (1 D-allothreonine <=> 1 acetaldehyde + 1 glycine)
+RXN0-5234:1 ALLO-THR_c -> 1 ACETALD_c + 1 GLY_c (1 DL-allothreonine -> 1 acetaldehyde + 1 glycine)
+GLYOHMETRANS-RXN:1 SER_c + 1 THF-GLU-N_c <=> 1 METHYLENE-THF-GLU-N_c + 1 GLY_c + 1 WATER_c (1 L-serine + 1 a tetrahydrofolate <=> 1 a 5,10-methylenetetrahydrofolate + 1 glycine + 1 H2O)
+LTAA-RXN:1 L-ALLO-THREONINE_c -> 1 ACETALD_c + 1 GLY_c (1 L-allo-threonine -> 1 acetaldehyde + 1 glycine)
+
+
+AdditionalMetabolites:
+ACETALD_c (acetaldehyde)
+ALLO-THR_c (DL-allothreonine)
+CPD-10303_c (D-allothreonine)
+GLY_c (glycine)
+L-ALLO-THREONINE_c (L-allo-threonine)
+METHYLENE-THF-GLU-N_c (a 5,10-methylenetetrahydrofolate)
+SER_c (L-serine)
+THF-GLU-N_c (a tetrahydrofolate)
+WATER_c (H2O)
+
+

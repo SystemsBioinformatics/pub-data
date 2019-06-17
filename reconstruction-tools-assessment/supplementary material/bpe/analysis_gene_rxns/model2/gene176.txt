@@ -1,0 +1,4 @@
+notRecovered:
+DSBDR:1 dsbdox_c + 1 trdrd_c -> 1 dsbdrd_c + 1 trdox_c (1 fused thiol:disulfide interchange protein (oxidized) + 1 Reduced thioredoxin -> 1 fused thiol:disulfide interchange protein (reduced) + 1 Oxidized thioredoxin)
+
+

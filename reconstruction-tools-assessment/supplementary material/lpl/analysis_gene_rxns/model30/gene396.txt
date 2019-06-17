@@ -1,0 +1,22 @@
+notRecovered:
+CYSTGL:1 cyst__L_c + 1 h2o_c -> 1 2obut_c + 1 cys__L_c + 1 nh4_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_2_Oxobutanoate_ + 1 M_L_Cysteine_ + 1 M_Ammonium_)
+
+
+AdditionalNotInModel:
+R04941:1 C05699_c + 1 C00001_c <=> 1 C05698_c + 1 C00022_c + 1 C00014_c (1 L-Selenocystathionine + 1 H2O <=> 1 Selenohomocysteine + 1 Pyruvate + 1 Ammonia)
+R00782:1 C00097_c + 1 C00001_c <=> 1 C00022_c + 1 C00014_c + 1 C00283_c (1 L-Cysteine + 1 H2O <=> 1 Pyruvate + 1 Ammonia + 1 Hydrogen sulfide)
+R02408:1 C00491_c + 1 C00001_c <=> 1 C00022_c + 1 C00014_c + 1 C01962_c (1 L-Cystine + 1 H2O <=> 1 Pyruvate + 1 Ammonia + 1 Thiocysteine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00097_c (L-Cysteine)
+C00283_c (Hydrogen sulfide)
+C00491_c (L-Cystine)
+C01962_c (Thiocysteine)
+C05698_c (Selenohomocysteine)
+C05699_c (L-Selenocystathionine)
+
+

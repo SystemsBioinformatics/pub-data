@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+FBA2:1 f1p_c <=> 1 glyald_c + 1 dhap_c (1 D-Fructose 1-phosphate <=> 1 D-Glyceraldehyde + 1 Dihydroxyacetone phosphate)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+UAGPT5:1 uacgam_c + 1 uagmdalac_c -> 1 h_c + 1 uaagmdalac_c + 1 udp_c (1 M_UDP_N_acetyl_D_glucosamine_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UDP_)
+
+
+AdditionalNotInModel:
+UAGPT3:1 uacgam_c + 1 uagmda_c -> 1 h_c + 1 uaagmda_c + 1 udp_c (1 UDP-N-acetyl-D-glucosamine + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine -> 1 H+ + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala + 1 UDP C9H11N2O12P2)
+
+
+AdditionalMetabolites:
+uaagmda_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala)
+uagmda_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+
+

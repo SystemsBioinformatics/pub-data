@@ -1,0 +1,18 @@
+notRecovered:
+UAAGLS1_1:1 atp_c + 1 lys__L_c + 1 uamag_c -> 1 adp_c + 2 h_c + 1 pi_c + 1 uAgl_c (1 M_ATP_ + 1 M_L_Lysine_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_ -> 1 M_ADP_ + 2 M_H_ + 1 M_Phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_L_lysine_)
+
+
+AdditionalNotInModel:
+UDP-NACMURALGLDAPLIG-RXN:1 UDP-AA-GLUTAMATE_c + 1 MESO-DIAMINOPIMELATE_c + 1 ATP_c -> 1 UDP-AAGM-DIAMINOHEPTANEDIOATE_c + 1 Pi_c + 1 PROTON_c + 1 ADP_c (1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate + 1 meso-diaminopimelate + 1 ATP -> 1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate + 1 phosphate + 1 H+ + 1 ADP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+MESO-DIAMINOPIMELATE_c (meso-diaminopimelate)
+PROTON_c (H+)
+Pi_c (phosphate)
+UDP-AA-GLUTAMATE_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate)
+UDP-AAGM-DIAMINOHEPTANEDIOATE_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate)
+
+

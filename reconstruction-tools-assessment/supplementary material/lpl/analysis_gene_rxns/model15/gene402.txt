@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn02391:1 cpd02603_c <=> 1 cpd02601_c (1 3_Lysolecithin_c0 <=> 1 2_Lysolecithin_c0)
+
+
+AdditionalMetabolites:
+cpd02601_c (2_Lysolecithin_c0)
+cpd02603_c (3_Lysolecithin_c0)
+
+

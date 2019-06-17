@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+R00236:1 C00010_c + 1 C05993_c <=> 1 C00020_c + 1 C00024_c (1 CoA + 1 Acetyl adenylate <=> 1 AMP + 1 Acetyl-CoA)
+R00316:1 C00002_c + 1 C00033_c <=> 1 C00013_c + 1 C05993_c (1 ATP + 1 Acetate <=> 1 Diphosphate + 1 Acetyl adenylate)
+R00926:1 C00010_c + 1 C05983_c <=> 1 C00020_c + 1 C00100_c (1 CoA + 1 Propionyladenylate <=> 1 AMP + 1 Propanoyl-CoA)
+R01354:1 C00002_c + 1 C00163_c <=> 1 C00013_c + 1 C05983_c (1 ATP + 1 Propanoate <=> 1 Diphosphate + 1 Propionyladenylate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00010_c (CoA)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00024_c (Acetyl-CoA)
+C00033_c (Acetate)
+C00100_c (Propanoyl-CoA)
+C00163_c (Propanoate)
+C05983_c (Propionyladenylate)
+C05993_c (Acetyl adenylate)
+
+

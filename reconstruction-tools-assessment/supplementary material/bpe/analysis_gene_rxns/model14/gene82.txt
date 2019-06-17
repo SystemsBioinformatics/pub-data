@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+rxn01639:1 cpd00023_c + 1 cpd00378_c -> 1 cpd00001_c + 1 cpd00344_c (1 L_Glutamate_c0 + 1 Formamide_c0 -> 1 H2O_c0 + 1 N_Formimino_L_glutamate_c0)
+rxn00912:1 cpd00001_c + 1 cpd00123_c + 1 cpd00125_c <=> 1 cpd00087_c + 1 cpd00712_c (1 H2O_c0 + 1 3_Methyl_2_oxobutanoate_c0 + 1 5_10_Methylenetetrahydrofolate_c0 <=> 1 Tetrahydrofolate_c0 + 1 2_Dehydropantoate_c0)
+rxn00905:1 cpd00712_c <=> 1 cpd00123_c + 1 cpd00055_c (1 2_Dehydropantoate_c0 <=> 1 3_Methyl_2_oxobutanoate_c0 + 1 Formaldehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00055_c (Formaldehyde_c0)
+cpd00087_c (Tetrahydrofolate_c0)
+cpd00123_c (3_Methyl_2_oxobutanoate_c0)
+cpd00125_c (5_10_Methylenetetrahydrofolate_c0)
+cpd00344_c (N_Formimino_L_glutamate_c0)
+cpd00378_c (Formamide_c0)
+cpd00712_c (2_Dehydropantoate_c0)
+
+

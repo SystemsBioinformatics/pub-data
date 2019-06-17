@@ -1,0 +1,16 @@
+notRecovered:
+FTHFD:1 10fthf_c + 1 h2o_c -> 1 for_c + 1 h_c + 1 thf_c (1 10-Formyltetrahydrofolate + 1 H2O -> 1 Formate + 1 H+ + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+FORMYLTHFDEFORMYL-RXN:1 FORMYL-THF-GLU-N_c + 1 WATER_c -> 1 FORMATE_c + 1 PROTON_c + 1 THF-GLU-N_c (1 FORMYL-THF-GLU-N + 1 H2O -> 1 formate + 1 H+ + 1 THF-GLU-N)
+
+
+AdditionalMetabolites:
+FORMATE_c (formate)
+FORMYL-THF-GLU-N_c (FORMYL-THF-GLU-N)
+PROTON_c (H+)
+THF-GLU-N_c (THF-GLU-N)
+WATER_c (H2O)
+
+

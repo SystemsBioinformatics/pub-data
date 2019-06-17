@@ -1,0 +1,4 @@
+notRecovered:
+GTHPi:2 gthrd_c + 1 h2o2_c -> 1 gthox_c + 2 h2o_c (2 M_Reduced_glutathione_ + 1 M_Hydrogen_peroxide_ -> 1 M_Oxidized_glutathione_ + 2 M_H2O_)
+
+

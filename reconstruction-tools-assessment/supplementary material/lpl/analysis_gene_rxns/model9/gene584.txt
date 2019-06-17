@@ -1,0 +1,28 @@
+AdditionalNotInModel:
+3SLAR:1 nadh_c + 1 sla_c + 1 h_c -> 1 nad_c + 1 dhps_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Sulpholactaldehyde + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 2,3-Dihydroxypropane-1-sulfonate)
+TRSARyr:1 nadph_c + 1 2h3oppan_c + 1 h_c -> 1 nadp_c + 1 glyc__R_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-Hydroxy-3-oxopropanoate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-Glycerate)
+HPYRRy:1 nadph_c + 1 hpyr_c + 1 h_c -> 1 nadp_c + 1 glyc__R_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Hydroxypyruvate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-Glycerate)
+GHBDHx:1 sucsal_c + 1 nadh_c + 1 h_c <=> 1 nad_c + 1 ghb_c (1 Succinic semialdehyde + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 Gamma-hydroxybutyrate)
+PPRDNDH:1 nad_c + 1 pprdn_c + 2 h2o_c -> 1 nadh_c + 1 5aptn_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Piperideine + 2 H2O H2O -> 1 Nicotinamide adenine dinucleotide - reduced + 1 5-Aminopentanoate + 1 H+)
+TRSARr:1 nadh_c + 1 2h3oppan_c + 1 h_c <=> 1 nad_c + 1 glyc__R_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2-Hydroxy-3-oxopropanoate + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 (R)-Glycerate)
+HIBDkt:1 nad_c + 1 3hmp_c -> 1 nadh_c + 1 mmtsa_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 3-Hydroxy-2-methylpropanoate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 (S)-Methylmalonate semialdehyde + 1 H+)
+HOXPRx:1 nad_c + 1 glyc__R_c <=> 1 nadh_c + 1 2h3opp_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 (R)-Glycerate <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 2 Hydroxy 3 oxopropanoate C3H3O4 + 1 H+)
+GHBDHy:1 nadph_c + 1 sucsal_c + 1 h_c <=> 1 nadp_c + 1 ghb_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Succinic semialdehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide phosphate + 1 Gamma-hydroxybutyrate)
+GLYCLTDx:1 nadh_c + 1 glx_c + 1 h_c -> 1 nad_c + 1 glyclt_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Glyoxylate + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 Glycolate C2H3O3)
+
+
+AdditionalMetabolites:
+2h3opp_c (2 Hydroxy 3 oxopropanoate C3H3O4)
+2h3oppan_c (2-Hydroxy-3-oxopropanoate)
+5aptn_c (5-Aminopentanoate)
+dhps_c (2,3-Dihydroxypropane-1-sulfonate)
+ghb_c (Gamma-hydroxybutyrate)
+glx_c (Glyoxylate)
+hpyr_c (Hydroxypyruvate)
+mmtsa_c ((S)-Methylmalonate semialdehyde)
+pprdn_c (Piperideine)
+sla_c (Sulpholactaldehyde)
+
+
+AdditionalInModel:
+SSALx:1 sucsal_c + 1 nad_c + 1 h2o_c -> 1 nadh_c + 1 succ_c + 2 h_c (1 Succinic semialdehyde + 1 Nicotinamide adenine dinucleotide + 1 H2O H2O -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Succinate + 2 H+)

@@ -1,0 +1,16 @@
+notRecovered:
+ADNUC:1 adn_c + 1 h2o_c -> 1 ade_c + 1 rib__D_c (1 M_Adenosine_ + 1 M_H2O_ -> 1 M_Adenine_ + 1 M_D_Ribose_)
+INSH:1 h2o_c + 1 ins_c -> 1 hxan_c + 1 rib__D_c (1 M_H2O_ + 1 M_Inosine_ -> 1 M_Hypoxanthine_ + 1 M_D_Ribose_)
+
+
+AdditionalNotInModel:
+PURINE-NUCLEOSIDASE-RXN:1 Purine-Ribonucleosides_c + 1 WATER_c -> 1 Purine-Bases_c + 1 D-Ribofuranose_c (1 a purine ribonucleoside + 1 H2O -> 1 a purine base + 1 D-ribofuranose)
+
+
+AdditionalMetabolites:
+D-Ribofuranose_c (D-ribofuranose)
+Purine-Bases_c (a purine base)
+Purine-Ribonucleosides_c (a purine ribonucleoside)
+WATER_c (H2O)
+
+

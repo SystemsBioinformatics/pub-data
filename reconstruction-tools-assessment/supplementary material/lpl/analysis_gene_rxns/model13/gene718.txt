@@ -1,0 +1,4 @@
+notRecovered:
+GARFT:1 10fthf_c + 1 gar_c <=> 1 fgam_c + 1 h_c + 1 thf_c (1 M_10_Formyltetrahydrofolate_ + 1 M_N1__5_Phospho_D_ribosyl_glycinamide_ <=> 1 M_N2_Formyl_N1__5_phospho_D_ribosyl_glycinamide_ + 1 M_H_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+

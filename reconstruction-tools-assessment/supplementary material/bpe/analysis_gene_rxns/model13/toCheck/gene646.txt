@@ -1,0 +1,18 @@
+notRecovered:
+NODOx:1 nadh_c + 2 no_c + 2 o2_c -> 1 h_c + 1 nad_c + 2 no3_c (1 Nicotinamide adenine dinucleotide - reduced + 2 Nitric oxide + 2 O2 -> 1 H+ + 1 Nicotinamide adenine dinucleotide + 2 Nitrate)
+NODOy:1 nadph_c + 2 no_c + 2 o2_c -> 1 h_c + 1 nadp_c + 2 no3_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 2 Nitric oxide + 2 O2 -> 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate + 2 Nitrate)
+
+
+AdditionalNotInModel:
+rxn03490:1 cpd00067_c + 1 cpd00004_c + 1 cpd00007_c + 1 cpd03778_c <=> 1 cpd00003_c + 1 cpd03759_c (1 H_plus__c0 + 1 NADH_c0 + 1 O2_c0 + 1 Terephthalate_c0 <=> 1 NAD_c0 + 1 Terephthalate_1_2_cis_dihydrodiol_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00007_c (O2_c0)
+cpd00067_c (H_plus__c0)
+cpd03759_c (Terephthalate_1_2_cis_dihydrodiol_c0)
+cpd03778_c (Terephthalate_c0)
+
+

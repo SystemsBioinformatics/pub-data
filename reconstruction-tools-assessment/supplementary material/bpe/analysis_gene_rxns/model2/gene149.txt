@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+HMPK1:1 atp_c + 1 4ahmmp_c -> 1 adp_c + 1 h_c + 1 4ampm_c (1 ATP + 1 4-Amino-5-hydroxymethyl-2-methylpyrimidine -> 1 ADP + 1 H+ + 1 4-Amino-2-methyl-5-phosphomethylpyrimidine)
+
+
+AdditionalMetabolites:
+4ahmmp_c (4-Amino-5-hydroxymethyl-2-methylpyrimidine)
+
+

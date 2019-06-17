@@ -1,0 +1,4 @@
+notRecovered:
+GALUi:1 g1p_c + 1 h_c + 1 utp_c <=> 1 ppi_c + 1 udpg_c (1 M_D_Glucose_1_phosphate_ + 1 M_H_ + 1 M_UTP_ <=> 1 M_Diphosphate_ + 1 M_UDPglucose_)
+
+

@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+TRPS2:1 ser__L_c + 1 indole_c -> 1 trp__L_c + 1 h2o_c (1 L-Serine + 1 Indole -> 1 L-Tryptophan + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+indole_c (Indole)
+
+

@@ -1,0 +1,2 @@
+AdditionalInModel:
+LYSTRS_1:1 trnalys_c + 1 atp_c + 1 lys__L_c -> 1 amp_c + 1 ppi_c + 1 lystrna_c + 1 h_c (1 TRNA(Lys) + 1 ATP C10H12N5O13P3 + 1 L-Lysine -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 L-Lysine-tRNA (Lys) + 1 H+)

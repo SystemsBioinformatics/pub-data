@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+rxn03174:1 cpd03666_c -> 1 cpd00001_c + 1 cpd02978_c (1 2_5_Diamino_6_5_triphosphoryl_3_4_trihydroxy_2_oxopentyl__amino_4_oxopyrimidine_c0 -> 1 H2O_c0 + 1 7_8_Dihydroneopterin_3_triphosphate_c0)
+rxn03419:1 cpd00001_c + 1 cpd03518_c <=> 1 cpd00067_c + 1 cpd00047_c + 1 cpd03519_c (1 H2O_c0 + 1 Formamidopyrimidine_nucleoside_triphosphate_c0 <=> 1 H_plus__c0 + 1 Formate_c0 + 1 2_5_Diaminopyrimidine_nucleoside_triphosphate_c0)
+rxn03421:1 cpd03519_c <=> 1 cpd03666_c (1 2_5_Diaminopyrimidine_nucleoside_triphosphate_c0 <=> 1 2_5_Diamino_6_5_triphosphoryl_3_4_trihydroxy_2_oxopentyl__amino_4_oxopyrimidine_c0)
+rxn00299:1 cpd00001_c + 1 cpd00038_c -> 1 cpd00067_c + 1 cpd00047_c + 1 cpd02978_c (1 H2O_c0 + 1 GTP_c0 -> 1 H_plus__c0 + 1 Formate_c0 + 1 7_8_Dihydroneopterin_3_triphosphate_c0)
+rxn00302:1 cpd00001_c + 1 cpd00038_c -> 1 cpd03518_c (1 H2O_c0 + 1 GTP_c0 -> 1 Formamidopyrimidine_nucleoside_triphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00038_c (GTP_c0)
+cpd00047_c (Formate_c0)
+cpd00067_c (H_plus__c0)
+cpd02978_c (7_8_Dihydroneopterin_3_triphosphate_c0)
+cpd03518_c (Formamidopyrimidine_nucleoside_triphosphate_c0)
+cpd03519_c (2_5_Diaminopyrimidine_nucleoside_triphosphate_c0)
+cpd03666_c (2_5_Diamino_6_5_triphosphoryl_3_4_trihydroxy_2_oxopentyl__amino_4_oxopyrimidine_c0)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+RXN-15006:1 LysW-L-glutamate-5-semialdehyde_c + 1 NADP_c + 1 Pi_c <=> 1 LysW-L-glutamate-5-phosphate_c + 1 NADPH_c + 1 PROTON_c (1 a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde + 1 NADP+ + 1 phosphate <=> 1 a [2-aminoadipate carrier protein]-L-glutamate 5-phosphate + 1 NADPH + 1 H+)
+
+
+AdditionalMetabolites:
+LysW-L-glutamate-5-phosphate_c (a [2-aminoadipate carrier protein]-L-glutamate 5-phosphate)
+LysW-L-glutamate-5-semialdehyde_c (a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+Pi_c (phosphate)
+
+

@@ -1,0 +1,31 @@
+AdditionalNotInModel:
+R00802:1 C00089_c + 1 C00001_c <=> 1 C02336_c + 1 C00267_c (1 Sucrose + 1 H2O <=> 1 beta-D-Fructose + 1 alpha-D-Glucose)
+R03635:1 C01613_c + 1 C00001_c <=> 1 C05404_c + 1 C00095_c (1 Stachyose + 1 H2O <=> 1 D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose + 1 D-Fructose)
+R06088:1 G00370_c + 1 C00001_c <=> 1 C02336_c + 1 C00267_c (1 Sucrose + 1 H2O <=> 1 beta-D-Fructose + 1 alpha-D-Glucose)
+R06101:1 G00278_c + 1 C00001_c <=> 1 C00095_c + 1 G00501_c (1 Stachyose + 1 H2O <=> 1 D-Fructose + 1 Manninotriose)
+R03921:1 C16688_c + 1 C00001_c <=> 1 C00092_c + 1 C00095_c (1 Sucrose 6-phosphate + 1 H2O <=> 1 D-Glucose 6-phosphate + 1 D-Fructose)
+R02410:1 C00492_c + 1 C00001_c <=> 1 C05402_c + 1 C00095_c (1 Raffinose + 1 H2O <=> 1 Melibiose + 1 D-Fructose)
+R00801:1 C00089_c + 1 C00001_c <=> 1 C00031_c + 1 C00095_c (1 Sucrose + 1 H2O <=> 1 D-Glucose + 1 D-Fructose)
+R06100:1 G00249_c + 1 C00001_c <=> 1 C00095_c + 1 G01275_c (1 Raffinose + 1 H2O <=> 1 D-Fructose + 1 Melibiose)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00089_c (Sucrose)
+C00092_c (D-Glucose 6-phosphate)
+C00095_c (D-Fructose)
+C00267_c (alpha-D-Glucose)
+C00492_c (Raffinose)
+C01613_c (Stachyose)
+C02336_c (beta-D-Fructose)
+C05402_c (Melibiose)
+C05404_c (D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose)
+C16688_c (Sucrose 6-phosphate)
+G00249_c (Raffinose)
+G00278_c (Stachyose)
+G00370_c (Sucrose)
+G00501_c (Manninotriose)
+G01275_c (Melibiose)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+RXN-14047:1 CIT_c <=> 1 THREO-DS-ISO-CITRATE_c (1 citrate <=> 1 D-threo-isocitrate)
+
+
+AdditionalMetabolites:
+CIT_c (citrate)
+THREO-DS-ISO-CITRATE_c (D-threo-isocitrate)
+
+

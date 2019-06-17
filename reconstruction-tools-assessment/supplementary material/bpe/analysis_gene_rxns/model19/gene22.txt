@@ -1,0 +1,25 @@
+notRecovered:
+MMALSADH:1 2mop_c + 1 coa_c + 1 h2o_c + 1 nad_c -> 2 h_c + 1 hco3_c + 1 nadh_c + 1 ppcoa_c (1 2-methyl-3-oxopropanoate ((S)-methylmalonate semialdehyde) + 1 Coenzyme A + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 2 H+ + 1 Bicarbonate + 1 Nicotinamide adenine dinucleotide - reduced + 1 Propanoyl-CoA)
+
+
+AdditionalNotInModel:
+R00706:1 C00006_c + 1 C00010_c + 1 C00222_c <=> 1 C00005_c + 1 C00011_c + 1 C00024_c + 1 C00080_c (1 NADP+ + 1 CoA + 1 3-Oxopropanoate <=> 1 NADPH + 1 CO2 + 1 Acetyl-CoA + 1 H+)
+R00922:1 C00003_c + 1 C00010_c + 1 C00349_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00100_c (1 NAD+ + 1 CoA + 1 2-Methyl-3-oxopropanoate <=> 1 NADH + 1 CO2 + 1 H+ + 1 Propanoyl-CoA)
+R00935:1 C00003_c + 1 C00010_c + 1 C06002_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00100_c (1 NAD+ + 1 CoA + 1 (S)-Methylmalonate semialdehyde <=> 1 NADH + 1 CO2 + 1 H+ + 1 Propanoyl-CoA)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00010_c (CoA)
+C00011_c (CO2)
+C00024_c (Acetyl-CoA)
+C00080_c (H+)
+C00100_c (Propanoyl-CoA)
+C00222_c (3-Oxopropanoate)
+C00349_c (2-Methyl-3-oxopropanoate)
+C06002_c ((S)-Methylmalonate semialdehyde)
+
+

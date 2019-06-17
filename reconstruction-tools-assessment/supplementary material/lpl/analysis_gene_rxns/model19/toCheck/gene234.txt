@@ -1,0 +1,17 @@
+notRecovered:
+NADHPO:1 h2o2_c + 1 h_c + 1 nadh_c -> 2 h2o_c + 1 nad_c (1 M_Hydrogen_peroxide_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 2 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+R00787:2 C00001_c + 3 C00003_c + 1 C00014_c -> 3 C00004_c + 3 C00080_c + 1 C00088_c (2 H2O + 3 NAD+ + 1 Ammonia -> 3 NADH + 3 H+ + 1 Nitrite)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00014_c (Ammonia)
+C00080_c (H+)
+C00088_c (Nitrite)
+
+

@@ -1,0 +1,8 @@
+notRecovered:
+ALCHY:1 alcaligin_c + 1 h2o_c -> 1 dihshptrc_c (1 alcaligin + 1 H2O -> 1 di-(N4-succinyl-N4-hydroxy-2-hydroxyputrescine))
+FEALCHY:1 fealc_c + 3 h2o_c -> 3 dihshptrc_c + 2 fe3_c (1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 3 H2O -> 3 di-(N4-succinyl-N4-hydroxy-2-hydroxyputrescine) + 2 Fe3+)
+FEALCR3:1 fealc_c + 1 rbflvrd_c -> 3 alcaligin_c + 2 fe2_c + 2 h_c + 1 ribflv_c (1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 Reduced riboflavin -> 3 alcaligin + 2 Fe2+ + 2 H+ + 1 Riboflavin)
+FEALCR2:1 fealc_c + 1 fmnh2_c -> 3 alcaligin_c + 2 fe2_c + 1 fmn_c + 2 h_c (1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 Reduced FMN -> 3 alcaligin + 2 Fe2+ + 1 FMN + 2 H+)
+FEALCR1:1 fadh2_c + 1 fealc_c -> 3 alcaligin_c + 1 fad_c + 2 fe2_c + 2 h_c (1 Flavin adenine dinucleotide reduced + 1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) -> 3 alcaligin + 1 Flavin adenine dinucleotide oxidized + 2 Fe2+ + 2 H+)
+
+

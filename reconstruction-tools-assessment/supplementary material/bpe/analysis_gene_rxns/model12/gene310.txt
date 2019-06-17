@@ -1,0 +1,4 @@
+notRecovered:
+AKGt2rpp:1 akg_p + 1 h_p <=> 1 akg_c + 1 h_c (1 2-Oxoglutarate + 1 H+ <=> 1 2-Oxoglutarate + 1 H+)
+
+

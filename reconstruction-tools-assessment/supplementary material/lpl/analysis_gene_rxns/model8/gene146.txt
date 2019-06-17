@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+GLUTRS2:1 trnagln_c + 1 glu__L_c + 1 atp_c -> 1 glutrnagln_c + 1 amp_c + 1 ppi_c + 1 h_c (1 TRNA(Gln) + 1 L-Glutamate + 1 ATP C10H12N5O13P3 -> 1 Glutamine tRNA charged with glutamate + 1 AMP C10H12N5O7P + 1 Diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+glutrnagln_c (Glutamine tRNA charged with glutamate)
+trnagln_c (TRNA(Gln))
+
+
+AdditionalInModel:
+ALATRS:1 ala__L_c + 1 trnaala_c + 1 atp_c -> 1 amp_c + 1 ppi_c + 1 alatrna_c (1 L-Alanine + 1 TRNA(Ala) + 1 ATP C10H12N5O13P3 -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 L-Alanyl-tRNA(Ala))
+GLUTRS_2:1 trnaglu_c + 1 glu__L_c + 1 atp_c -> 1 amp_c + 1 ppi_c + 1 glutrna_c + 1 h_c (1 TRNA (Glu) + 1 L-Glutamate + 1 ATP C10H12N5O13P3 -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 L-Glutamyl-tRNA(Glu) + 1 H+)

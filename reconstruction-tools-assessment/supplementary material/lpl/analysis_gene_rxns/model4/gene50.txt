@@ -1,0 +1,3 @@
+AdditionalInModel:
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 acald_c + 1 h_c + 1 nadh_c (1 Ethanol + 1 Nicotinamide adenine dinucleotide <=> 1 Acetaldehyde + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+ALCD19:1 glyald_c + 1 h_c + 1 nadh_c <=> 1 glyc_c + 1 nad_c (1 D-Glyceraldehyde + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 Glycerol + 1 Nicotinamide adenine dinucleotide)

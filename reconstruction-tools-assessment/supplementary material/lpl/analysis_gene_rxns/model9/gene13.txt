@@ -1,0 +1,20 @@
+notRecovered:
+DRIBt2:1 drib_e + 1 h_e -> 1 drib_c + 1 h_c (1 M_Deoxyribose_ + 1 M_H_ -> 1 M_Deoxyribose_ + 1 M_H_)
+FUCt:1 fuc__L_e + 1 h_e <=> 1 fuc__L_c + 1 h_c (1 M_L_Fucose_ + 1 M_H_ <=> 1 M_L_Fucose_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+FUCtpp:1 fuc__L_p + 1 h_p <=> 1 fuc__L_c + 1 h_c (1 L-Fucose + 1 H+ <=> 1 L-Fucose + 1 H+)
+DRIBtpp:1 drib_p + 1 h_p <=> 1 drib_c + 1 h_c (1 Deoxyribose C5H10O4 + 1 H+ <=> 1 Deoxyribose C5H10O4 + 1 H+)
+GALt2:1 h_e + 1 gal_e -> 1 h_c + 1 gal_c (1 H+ + 1 D-Galactose -> 1 H+ + 1 D-Galactose)
+
+
+AdditionalMetabolites:
+drib_p (Deoxyribose C5H10O4)
+fuc__L_p (L-Fucose)
+gal_e (D-Galactose)
+h_p (H+)
+
+
+AdditionalInModel:
+GLCt2:1 glc__D_e + 1 h_e <=> 1 glc__D_c + 1 h_c (1 D-Glucose + 1 H+ <=> 1 D-Glucose + 1 H+)

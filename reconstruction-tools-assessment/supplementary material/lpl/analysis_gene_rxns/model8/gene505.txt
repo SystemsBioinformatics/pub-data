@@ -1,0 +1,2 @@
+AdditionalInModel:
+MTHFC:1 h2o_c + 1 methf_c <=> 1 10fthf_c + 1 h_c (1 H2O H2O + 1 5,10-Methenyltetrahydrofolate <=> 1 10-Formyltetrahydrofolate + 1 H+)

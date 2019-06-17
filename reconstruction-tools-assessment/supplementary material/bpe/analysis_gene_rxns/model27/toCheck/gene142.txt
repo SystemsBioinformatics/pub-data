@@ -1,0 +1,15 @@
+notRecovered:
+AMPTASEPG:1 h2o_c + 1 progly_c -> 1 gly_c + 1 pro__L_c (1 H2O + 1 L-Prolinylglycine -> 1 Glycine + 1 L-Proline)
+
+
+AdditionalNotInModel:
+R04951:1 C00001_c + 1 C05729_c <=> 1 C05726_c + 1 C00037_c (1 H2O + 1 R-S-Cysteinylglycine <=> 1 S-Substituted L-cysteine + 1 Glycine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00037_c (Glycine)
+C05726_c (S-Substituted L-cysteine)
+C05729_c (R-S-Cysteinylglycine)
+
+

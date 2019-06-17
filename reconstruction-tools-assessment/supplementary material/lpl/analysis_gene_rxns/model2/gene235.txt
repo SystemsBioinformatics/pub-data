@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GNKr:1 atp_c + 1 glcn__D_c -> 1 adp_c + 1 h_c + 1 6pgc_c (1 ATP + 1 D Gluconate C6H11O7 -> 1 ADP + 1 H+ + 1 6-Phospho-D-gluconate)
+
+
+AdditionalMetabolites:
+glcn__D_c (D Gluconate C6H11O7)
+
+

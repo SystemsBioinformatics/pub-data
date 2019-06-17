@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00259:1 C00024_c + 1 C00025_c <=> 1 C00624_c + 1 C00010_c (1 Acetyl-CoA + 1 L-Glutamate <=> 1 N-Acetyl-L-glutamate + 1 CoA)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00024_c (Acetyl-CoA)
+C00025_c (L-Glutamate)
+C00624_c (N-Acetyl-L-glutamate)
+
+

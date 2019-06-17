@@ -1,0 +1,28 @@
+notRecovered:
+AMAA:1 acmama_c + 1 h2o_c -> 1 acmam_c + 1 ala__L_c (1 M_N_Acetyl_D_muramoyl_L_alanine_ + 1 M_H2O_ -> 1 M_N_Acetyl_D_muramoate_ + 1 M_L_Alanine_)
+
+
+AdditionalNotInModel:
+rxn02796:1 cpd00001_c + 1 cpd03246_c <=> 1 cpd00210_c + 1 cpd01663_c (1 H2O_c0 + 1 Taurochenodeoxycholate_c0 <=> 1 Taurine_c0 + 1 Chenodiol_c0)
+rxn04068:1 cpd00001_c + 1 cpd01318_c <=> 1 cpd00033_c + 1 cpd00526_c (1 H2O_c0 + 1 Glycocholate_c0 <=> 1 Glycine_c0 + 1 Cholate_c0)
+rxn03095:1 cpd00001_c + 1 cpd03244_c <=> 1 cpd00210_c + 1 cpd02733_c (1 H2O_c0 + 1 Taurodeoxycholate_c0 <=> 1 Taurine_c0 + 1 Deoxycholate_c0)
+rxn02795:1 cpd00001_c + 1 cpd03247_c <=> 1 cpd00033_c + 1 cpd01663_c (1 H2O_c0 + 1 Glycochenodeoxycholate_c0 <=> 1 Glycine_c0 + 1 Chenodiol_c0)
+rxn03094:1 cpd00001_c + 1 cpd03245_c <=> 1 cpd00033_c + 1 cpd02733_c (1 H2O_c0 + 1 Glycodeoxycholate_c0 <=> 1 Glycine_c0 + 1 Deoxycholate_c0)
+rxn02015:1 cpd00001_c + 1 cpd03047_c <=> 1 cpd00210_c + 1 cpd00526_c (1 H2O_c0 + 1 Taurocholate_c0 <=> 1 Taurine_c0 + 1 Cholate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00033_c (Glycine_c0)
+cpd00210_c (Taurine_c0)
+cpd00526_c (Cholate_c0)
+cpd01318_c (Glycocholate_c0)
+cpd01663_c (Chenodiol_c0)
+cpd02733_c (Deoxycholate_c0)
+cpd03047_c (Taurocholate_c0)
+cpd03244_c (Taurodeoxycholate_c0)
+cpd03245_c (Glycodeoxycholate_c0)
+cpd03246_c (Taurochenodeoxycholate_c0)
+cpd03247_c (Glycochenodeoxycholate_c0)
+
+

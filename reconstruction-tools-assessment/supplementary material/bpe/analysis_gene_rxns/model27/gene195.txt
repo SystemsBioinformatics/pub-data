@@ -1,0 +1,4 @@
+notRecovered:
+GLUPRT:1 gln__L_c + 1 h2o_c + 1 prpp_c -> 1 glu__L_c + 1 ppi_c + 1 pram_c (1 L-Glutamine + 1 H2O + 1 5-Phospho-alpha-D-ribose 1-diphosphate -> 1 L-Glutamate + 1 Diphosphate + 1 5-Phospho-beta-D-ribosylamine)
+
+

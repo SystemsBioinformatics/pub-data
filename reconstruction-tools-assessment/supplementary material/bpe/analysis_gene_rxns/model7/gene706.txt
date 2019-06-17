@@ -1,0 +1,4 @@
+notRecovered:
+AHCi:1 ahcys_c + 1 h2o_c <=> 1 adn_c + 1 hcys__L_c (1 S-Adenosyl-L-homocysteine + 1 H2O <=> 1 Adenosine + 1 L-Homocysteine)
+
+

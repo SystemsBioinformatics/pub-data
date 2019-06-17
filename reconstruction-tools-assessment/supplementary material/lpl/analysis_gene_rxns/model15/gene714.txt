@@ -1,0 +1,13 @@
+notRecovered:
+ASPR:1 asp__D_c <=> 1 asp__L_c (1 M_D_Aspartate_ <=> 1 M_L_Aspartate_)
+
+
+AdditionalNotInModel:
+rxn00283:1 cpd00035_c <=> 1 cpd00117_c (1 L_Alanine_c0 <=> 1 D_Alanine_c0)
+
+
+AdditionalMetabolites:
+cpd00035_c (L_Alanine_c0)
+cpd00117_c (D_Alanine_c0)
+
+

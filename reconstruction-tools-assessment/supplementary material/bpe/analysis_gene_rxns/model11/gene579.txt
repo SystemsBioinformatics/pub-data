@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN0-4401:1 NADH_c + 1 WATER_c <=> 1 NMNH_c + 1 AMP_c + 2 PROTON_c (1 NADH + 1 H2O <=> 1 reduced beta-nicotinamide D-ribonucleotide + 1 AMP + 2 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+NADH_c (NADH)
+NMNH_c (reduced beta-nicotinamide D-ribonucleotide)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

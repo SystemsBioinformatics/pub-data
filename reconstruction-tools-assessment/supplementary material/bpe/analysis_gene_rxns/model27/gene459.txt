@@ -1,0 +1,4 @@
+notRecovered:
+GLUTCOADHc:1 fad_c + 1 glutcoa_c + 1 h_c <=> 1 b2coa_c + 1 co2_c + 1 fadh2_c (1 Flavin adenine dinucleotide oxidized + 1 glutaryl-coenzyme A + 1 H+ <=> 1 Crotonoyl-CoA + 1 CO2 + 1 Flavin adenine dinucleotide reduced)
+
+

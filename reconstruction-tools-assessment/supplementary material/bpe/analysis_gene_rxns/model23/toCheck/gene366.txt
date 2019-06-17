@@ -1,0 +1,19 @@
+notRecovered:
+HXAND:1 h2o_c + 1 hxan_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xan_c (1 H2O + 1 Hypoxanthine + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Xanthine)
+
+
+AdditionalNotInModel:
+NICOTINE-DEHYDROGENASE-RXN:1 Acceptor_c + 1 NICOTINE_c + 1 WATER_c -> 1 CPD-125_c + 1 Donor-H2_c (1 Acceptor + 1 (S)-nicotine + 1 H2O -> 1 (S)-6-hydroxynicotine + 1 Donor-H2)
+R161-RXN:1 Acceptor_c + 1 R-NICOTINE_c + 1 WATER_c -> 1 Donor-H2_c + 1 R-6-HYDROXYNICOTINE_c (1 Acceptor + 1 (R)-nicotine + 1 H2O -> 1 Donor-H2 + 1 (R)-6-hydroxynicotine)
+
+
+AdditionalMetabolites:
+Acceptor_c (Acceptor)
+CPD-125_c ((S)-6-hydroxynicotine)
+Donor-H2_c (Donor-H2)
+NICOTINE_c ((S)-nicotine)
+R-6-HYDROXYNICOTINE_c ((R)-6-hydroxynicotine)
+R-NICOTINE_c ((R)-nicotine)
+WATER_c (H2O)
+
+

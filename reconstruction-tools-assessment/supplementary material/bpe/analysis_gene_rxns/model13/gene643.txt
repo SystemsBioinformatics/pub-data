@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn07449:1 cpd14790_c <=> 1 cpd00020_c + 1 cpd00081_c (1 3_Sulfolactate_c0 <=> 1 Pyruvate_c0 + 1 Sulfite_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00081_c (Sulfite_c0)
+cpd14790_c (3_Sulfolactate_c0)
+
+

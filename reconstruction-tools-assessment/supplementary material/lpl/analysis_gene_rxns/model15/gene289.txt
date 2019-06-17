@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00707:1 cpd00068_c + 1 cpd00367_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd00090_c (1 ITP_c0 + 1 Cytidine_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 IDP_c0)
+
+
+AdditionalMetabolites:
+cpd00046_c (CMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00068_c (ITP_c0)
+cpd00090_c (IDP_c0)
+cpd00367_c (Cytidine_c0)
+
+

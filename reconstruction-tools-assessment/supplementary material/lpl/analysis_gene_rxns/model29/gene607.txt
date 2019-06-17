@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R10993:1 C02356_c + 1 C00002_c + 1 C00025_c <=> 1 C21015_c + 1 C00008_c + 1 C00009_c (1 (S)-2-Aminobutanoate + 1 ATP + 1 L-Glutamate <=> 1 gamma-L-Glutamyl-L-2-aminobutyrate + 1 ADP + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00025_c (L-Glutamate)
+C02356_c ((S)-2-Aminobutanoate)
+C21015_c (gamma-L-Glutamyl-L-2-aminobutyrate)
+
+

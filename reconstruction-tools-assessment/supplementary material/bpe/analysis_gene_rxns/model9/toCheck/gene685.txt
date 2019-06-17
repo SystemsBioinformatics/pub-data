@@ -1,0 +1,15 @@
+notRecovered:
+NACODA:1 acg5sa_c + 1 h2o_c -> 1 ac_c + 1 glu5sa_c (1 N-Acetyl-L-glutamate 5-semialdehyde + 1 H2O -> 1 Acetate + 1 L-Glutamate 5-semialdehyde)
+
+
+AdditionalNotInModel:
+RXN-7933:1 CPD-7224_c + 1 WATER_c <=> 1 L-CITRULLINE_c + 1 ACET_c (1 N-acetyl-L-citrulline + 1 H2O <=> 1 L-citrulline + 1 acetate)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+CPD-7224_c (N-acetyl-L-citrulline)
+L-CITRULLINE_c (L-citrulline)
+WATER_c (H2O)
+
+

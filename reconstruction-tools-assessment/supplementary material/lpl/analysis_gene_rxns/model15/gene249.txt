@@ -1,0 +1,23 @@
+AdditionalNotInModel:
+rxn08521:2 cpd00067_c + 1 cpd00004_c + 1 cpd00220_c <=> 1 cpd00003_c + 1 cpd00739_c (2 H_plus__c0 + 1 NADH_c0 + 1 Riboflavin_c0 <=> 1 NAD_c0 + 1 Reduced_riboflavin_c0)
+rxn01800:1 cpd00067_c + 1 cpd00001_c + 1 cpd00654_c -> 1 cpd00013_c + 1 cpd00412_c (1 H_plus__c0 + 1 H2O_c0 + 1 Deoxycytidine_c0 -> 1 NH3_c0 + 1 Deoxyuridine_c0)
+rxn01368:1 cpd00067_c + 1 cpd00001_c + 1 cpd00367_c -> 1 cpd00013_c + 1 cpd00249_c (1 H_plus__c0 + 1 H2O_c0 + 1 Cytidine_c0 -> 1 NH3_c0 + 1 Uridine_c0)
+rxn11749:1 cpd00067_c + 1 cpd00001_c + 1 cpd16439_c <=> 1 cpd00013_c + 1 cpd16329_c (1 H_plus__c0 + 1 H2O_c0 + 1 5_Deoxy_5_fluorocytidine_c0 <=> 1 NH3_c0 + 1 Doxifluridine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd00220_c (Riboflavin_c0)
+cpd00249_c (Uridine_c0)
+cpd00367_c (Cytidine_c0)
+cpd00412_c (Deoxyuridine_c0)
+cpd00654_c (Deoxycytidine_c0)
+cpd00739_c (Reduced_riboflavin_c0)
+cpd16329_c (Doxifluridine_c0)
+cpd16439_c (5_Deoxy_5_fluorocytidine_c0)
+
+

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R04206:1 C03356_c <=> 1 C04309_c + 1 C00001_c (1 3-Phospho-D-erythronate <=> 1 Phosphoenol-4-deoxy-3-tetrulosonate + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C03356_c (3-Phospho-D-erythronate)
+C04309_c (Phosphoenol-4-deoxy-3-tetrulosonate)
+
+

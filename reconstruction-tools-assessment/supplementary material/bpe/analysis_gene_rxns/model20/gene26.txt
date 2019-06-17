@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R01324:1 C00158_c <=> 1 C00311_c (1 Citrate <=> 1 Isocitrate)
+R11263:1 C02225_c -> 1 C00001_c + 1 C21250_c (1 2-Methylcitrate -> 1 H2O + 1 2-Methyl-trans-aconitate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00158_c (Citrate)
+C00311_c (Isocitrate)
+C02225_c (2-Methylcitrate)
+C21250_c (2-Methyl-trans-aconitate)
+
+

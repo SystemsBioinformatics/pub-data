@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R02650:1 C00625_c + 1 C00002_c <=> 1 C00686_c + 1 C00008_c (1 N-Acyl-D-mannosamine + 1 ATP <=> 1 N-Acyl-D-mannosamine 6-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00625_c (N-Acyl-D-mannosamine)
+C00686_c (N-Acyl-D-mannosamine 6-phosphate)
+
+

@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+FCLPA:1 fc1p_c <=> 1 dhap_c + 1 lald__L_c (1 L-Fuculose 1-phosphate <=> 1 Dihydroxyacetone phosphate + 1 L-Lactaldehyde)
+
+
+AdditionalMetabolites:
+fc1p_c (L-Fuculose 1-phosphate)
+
+

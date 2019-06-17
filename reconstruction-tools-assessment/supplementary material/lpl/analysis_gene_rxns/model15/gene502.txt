@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01123:1 cpd00002_c + 1 cpd00176_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02711_c (1 ATP_c0 + 1 2_keto_3_deoxygluconate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 2_Keto_3_deoxy_6_phosphogluconate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00176_c (2_keto_3_deoxygluconate_c0)
+cpd02711_c (2_Keto_3_deoxy_6_phosphogluconate_c0)
+
+

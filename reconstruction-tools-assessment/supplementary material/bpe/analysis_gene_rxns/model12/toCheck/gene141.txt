@@ -1,0 +1,17 @@
+notRecovered:
+AMPTASECG:1 cgly_c + 1 h2o_c -> 1 cys__L_c + 1 gly_c (1 Cys-Gly + 1 H2O -> 1 L-Cysteine + 1 Glycine)
+AMPTASEPG:1 h2o_c + 1 progly_c -> 1 gly_c + 1 pro__L_c (1 H2O + 1 L-Prolinylglycine -> 1 Glycine + 1 L-Proline)
+
+
+AdditionalNotInModel:
+3.4.11.2-RXN:1 Peptide-with-N-terminal-Alanine_c + 1 WATER_c -> 1 L-ALPHA-ALANINE_c + 1 Peptides-holder_c + 1 PROTON_c (1 a peptide with an N-terminal L-alanine + 1 H2O -> 1 L-alanine + 1 a peptide + 1 H+)
+
+
+AdditionalMetabolites:
+L-ALPHA-ALANINE_c (L-alanine)
+PROTON_c (H+)
+Peptide-with-N-terminal-Alanine_c (a peptide with an N-terminal L-alanine)
+Peptides-holder_c (a peptide)
+WATER_c (H2O)
+
+

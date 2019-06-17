@@ -1,0 +1,22 @@
+notRecovered:
+GUAt2r:1 gua_e + 1 h_e -> 1 gua_c + 1 h_c (1 M_Guanine_ + 1 M_H_ -> 1 M_Guanine_ + 1 M_H_)
+ADEt2:1 ade_e + 1 h_e <=> 1 ade_c + 1 h_c (1 M_Adenine_ + 1 M_H_ <=> 1 M_Adenine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn05682:1 cpd00067_e + 1 cpd01092_e <=> 1 cpd00067_c + 1 cpd01092_c (1 H_plus__e0 + 1 Allantoin_e0 <=> 1 H_plus__c0 + 1 Allantoin_c0)
+rxn09657:1 cpd00067_e + 1 cpd00305_e <=> 1 cpd00067_c + 1 cpd00305_c (1 H_plus__e0 + 1 Thiamin_e0 <=> 1 H_plus__c0 + 1 Thiamin_c0)
+rxn05197:1 cpd00067_e + 1 cpd00092_e <=> 1 cpd00067_c + 1 cpd00092_c (1 H_plus__e0 + 1 Uracil_e0 <=> 1 H_plus__c0 + 1 Uracil_c0)
+
+
+AdditionalMetabolites:
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+cpd00092_c (Uracil_c0)
+cpd00092_e (Uracil_e0)
+cpd00305_c (Thiamin_c0)
+cpd00305_e (Thiamin_e0)
+cpd01092_c (Allantoin_c0)
+cpd01092_e (Allantoin_e0)
+
+

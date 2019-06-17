@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+PYK4:1 cdp_c + 1 h_c + 1 pep_c -> 1 pyr_c + 1 ctp_c (1 CDP C9H12N3O11P2 + 1 H+ + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 CTP C9H12N3O14P3)
+PYK3:1 h_c + 1 pep_c + 1 gdp_c -> 1 pyr_c + 1 gtp_c (1 H+ + 1 Phosphoenolpyruvate + 1 GDP C10H12N5O11P2 -> 1 Pyruvate + 1 GTP C10H12N5O14P3)
+PYK2:1 udp_c + 1 h_c + 1 pep_c -> 1 pyr_c + 1 utp_c (1 UDP C9H11N2O12P2 + 1 H+ + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 UTP C9H11N2O15P3)
+PYK5:1 idp_c + 1 h_c + 1 pep_c -> 1 pyr_c + 1 itp_c (1 IDP C10H11N4O11P2 + 1 H+ + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 ITP C10H11N4O14P3)
+
+
+AdditionalInModel:
+NDPK1:1 atp_c + 1 gdp_c <=> 1 adp_c + 1 gtp_c (1 ATP C10H12N5O13P3 + 1 GDP C10H12N5O11P2 <=> 1 ADP C10H12N5O10P2 + 1 GTP C10H12N5O14P3)
+NDPK3:1 atp_c + 1 cdp_c <=> 1 adp_c + 1 ctp_c (1 ATP C10H12N5O13P3 + 1 CDP C9H12N3O11P2 <=> 1 ADP C10H12N5O10P2 + 1 CTP C9H12N3O14P3)

@@ -1,0 +1,20 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+
+AdditionalNotInModel:
+R02164:1 C00042_c + 1 C15602_c <=> 1 C00122_c + 1 C15603_c (1 Succinate + 1 Quinone <=> 1 Fumarate + 1 Hydroquinone (C15603))
+R10330:1 C00030_c + 1 C00785_c -> 1 C00028_c + 1 C20522_c (1 Reduced acceptor + 1 Urocanate -> 1 Acceptor + 1 Dihydrourocanate)
+
+
+AdditionalMetabolites:
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00042_c (Succinate)
+C00122_c (Fumarate)
+C00785_c (Urocanate)
+C15602_c (Quinone)
+C15603_c (Hydroquinone (C15603))
+C20522_c (Dihydrourocanate)
+
+

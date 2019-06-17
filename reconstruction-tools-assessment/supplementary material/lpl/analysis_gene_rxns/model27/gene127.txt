@@ -1,0 +1,17 @@
+notRecovered:
+PHETA1:1 akg_c + 1 phe__L_c <=> 1 glu__L_c + 1 phpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Phenylalanine_ <=> 1 M_L_Glutamate_ + 1 M_Phenylpyruvate_)
+TYRTA:1 akg_c + 1 tyr__L_c <=> 1 34hpp_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Tyrosine_ <=> 1 M_3__4_Hydroxyphenyl_pyruvate_ + 1 M_L_Glutamate_)
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Tryptophan_ <=> 1 M_L_Glutamate_ + 1 M_Indolepyruvate_)
+
+
+AdditionalNotInModel:
+RXN-8119:1 CPD-7643_c + 1 L-ALPHA-ALANINE_c -> 1 CPD-7644_c + 1 PYRUVATE_c (1 (5-formylfuran-3-yl)methyl phosphate + 1 L-alanine -> 1 [5-(aminomethyl)furan-3-yl]methyl phosphate + 1 pyruvate)
+
+
+AdditionalMetabolites:
+CPD-7643_c ((5-formylfuran-3-yl)methyl phosphate)
+CPD-7644_c ([5-(aminomethyl)furan-3-yl]methyl phosphate)
+L-ALPHA-ALANINE_c (L-alanine)
+PYRUVATE_c (pyruvate)
+
+

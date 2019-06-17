@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+LDH2:1 nad_c + 1 2hbut_c <=> 1 nadh_c + 1 2obut_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 2 Hydroxybutyrate C4H7O3 <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 2-Oxobutanoate + 1 H+)
+MCLORi:1 nadh_c + 1 mercppyr_c + 1 h_c <=> 1 nad_c + 1 mercplac_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Mercaptopyruvate + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 3-Mercaptolactate)
+
+
+AdditionalMetabolites:
+2hbut_c (2 Hydroxybutyrate C4H7O3)
+mercplac_c (3-Mercaptolactate)
+
+
+AdditionalInModel:
+MDH:1 nad_c + 1 mal__L_c <=> 1 nadh_c + 1 oaa_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 L-Malate <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Oxaloacetate + 1 H+)

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R03194:2 C00019_c + 1 C01051_c <=> 2 C00021_c + 1 C02463_c (2 S-Adenosyl-L-methionine + 1 Uroporphyrinogen III <=> 2 S-Adenosyl-L-homocysteine + 1 Precorrin 2)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C01051_c (Uroporphyrinogen III)
+C02463_c (Precorrin 2)
+
+

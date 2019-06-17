@@ -1,0 +1,19 @@
+notRecovered:
+MCITL2:1 micit_c -> 1 pyr_c + 1 succ_c (1 methylisocitrate -> 1 Pyruvate + 1 Succinate)
+
+
+AdditionalNotInModel:
+rxn07266:1 cpd00256_c + 1 cpd12273_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd12678_c (1 CDPcholine_c0 + 1 1_Alkyl_2_acylglycerol_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 1_Radyl_2_acyl_sn_glycero_3_phosphocholine_c0)
+rxn06652:1 cpd00256_c + 1 cpd12400_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd02803_c (1 CDPcholine_c0 + 1 1_Alkyl_2_acetyl_sn_glycerol_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 2_Acetyl_1_alkyl_sn_glycero_3_phosphocholine_c0)
+
+
+AdditionalMetabolites:
+cpd00046_c (CMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00256_c (CDPcholine_c0)
+cpd02803_c (2_Acetyl_1_alkyl_sn_glycero_3_phosphocholine_c0)
+cpd12273_c (1_Alkyl_2_acylglycerol_c0)
+cpd12400_c (1_Alkyl_2_acetyl_sn_glycerol_c0)
+cpd12678_c (1_Radyl_2_acyl_sn_glycero_3_phosphocholine_c0)
+
+

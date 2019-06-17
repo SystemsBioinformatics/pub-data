@@ -1,0 +1,19 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 5-Methyltetrahydrofolate + 1 L-Homocysteine -> 1 H+ + 1 L-Methionine + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+rxn11944:1 cpd00017_c + 1 cpd02555_c -> 1 cpd00067_c + 1 cpd00019_c + 1 cpd02738_c (1 S_Adenosyl_L_methionine_c0 + 1 Tetrahydropteroyltri_L_glutamate_c0 -> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 5_Methyltetrahydropteroyltri_L_glutamate_c0)
+rxn03052:1 cpd02738_c + 1 cpd00135_c <=> 1 cpd00060_c + 1 cpd02555_c (1 5_Methyltetrahydropteroyltri_L_glutamate_c0 + 1 Homocysteine_c0 <=> 1 L_Methionine_c0 + 1 Tetrahydropteroyltri_L_glutamate_c0)
+
+
+AdditionalMetabolites:
+cpd00017_c (S_Adenosyl_L_methionine_c0)
+cpd00019_c (S_Adenosyl_homocysteine_c0)
+cpd00060_c (L_Methionine_c0)
+cpd00067_c (H_plus__c0)
+cpd00135_c (Homocysteine_c0)
+cpd02555_c (Tetrahydropteroyltri_L_glutamate_c0)
+cpd02738_c (5_Methyltetrahydropteroyltri_L_glutamate_c0)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+FDH4pp_1:1 for_p + 2 h_c + 1 q8_c -> 1 co2_c + 1 h_p + 1 q8h2_c (1 Formate + 2 H+ + 1 Ubiquinone-8 -> 1 CO2 + 1 H+ + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00519:1 C00003_c + 1 C00058_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c (1 NAD+ + 1 Formate <=> 1 NADH + 1 CO2 + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00011_c (CO2)
+C00058_c (Formate)
+C00080_c (H+)
+
+

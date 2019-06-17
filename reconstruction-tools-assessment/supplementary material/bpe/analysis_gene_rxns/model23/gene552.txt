@@ -1,0 +1,4 @@
+notRecovered:
+PNTK:1 atp_c + 1 pnto__R_c -> 1 4ppan_c + 1 adp_c + 1 h_c (1 ATP + 1 (R)-Pantothenate -> 1 D-4'-Phosphopantothenate + 1 ADP + 1 H+)
+
+

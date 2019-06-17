@@ -1,0 +1,40 @@
+notRecovered:
+LPLIPAL1A161pp:1 1hdec9eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 hdcea_p (1 1-hexadec-9-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 Hexadecenoate (n-C16:1))
+LPLIPAL1A120pp:1 1ddecg3p_p + 1 h2o_p -> 1 ddca_p + 1 glyc3p_p + 1 h_p (1 1-dodecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Dodecanoate (n-C12:0) + 1 Glycerol 3-phosphate + 1 H+)
+LPLIPAL1A160pp:1 1hdecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 hdca_p (1 1-hexadecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 Hexadecanoate (n-C16:0))
+LPLIPAL1A140pp:1 1tdecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ttdca_p (1 1-tetradecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 tetradecanoate (n-C14:0))
+LPLIPAL1A180pp:1 1odecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ocdca_p (1 1-octadecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 octadecanoate (n-C18:0))
+LPLIPAL1A141pp:1 1tdec7eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ttdcea_p (1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 tetradecenoate (n-C14:1))
+LPLIPAL1A181pp:1 1odec11eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ocdcea_p (1 1-octadec-11-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 octadecenoate (n-C18:1))
+
+
+AdditionalNotInModel:
+R00630:1 C02391_c + 1 C00001_c <=> 1 C00069_c + 1 C00060_c (1 Ester + 1 H2O <=> 1 Alcohol + 1 Carboxylate)
+R08255:1 C16641_c + 1 C00001_c <=> 1 C16836_c + 1 C11173_c (1 Irinotecan + 1 H2O <=> 1 1,4''-Bipiperidine-1''-carboxylic acid + 1 SN-38)
+R08251:1 C07054_c + 1 C00001_c <=> 1 C07446_c + 1 C05361_c (1 Isoniazid + 1 H2O <=> 1 Isonicotinic acid + 1 Hydrazine)
+R08258:1 C16543_c + 1 C00001_c <=> 1 C16837_c + 1 C11173_c (1 NPC + 1 H2O <=> 1 4-Amino-1-piperidinecarboxylic acid + 1 SN-38)
+R08249:1 C07585_c + 1 C00001_c <=> 1 C07446_c + 1 C07447_c (1 N-Acetylisoniazid + 1 H2O <=> 1 Isonicotinic acid + 1 Acetylhydrazine)
+R08220:1 C12650_c + 1 C00001_c <=> 1 C16834_c + 1 C16635_c + 1 C00011_c (1 Capecitabine + 1 H2O <=> 1 1-Pentanol + 1 5''-Deoxy-5-fluorocytidine + 1 CO2)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00060_c (Carboxylate)
+C00069_c (Alcohol)
+C02391_c (Ester)
+C05361_c (Hydrazine)
+C07054_c (Isoniazid)
+C07446_c (Isonicotinic acid)
+C07447_c (Acetylhydrazine)
+C07585_c (N-Acetylisoniazid)
+C11173_c (SN-38)
+C12650_c (Capecitabine)
+C16543_c (NPC)
+C16635_c (5''-Deoxy-5-fluorocytidine)
+C16641_c (Irinotecan)
+C16834_c (1-Pentanol)
+C16836_c (1,4''-Bipiperidine-1''-carboxylic acid)
+C16837_c (4-Amino-1-piperidinecarboxylic acid)
+
+

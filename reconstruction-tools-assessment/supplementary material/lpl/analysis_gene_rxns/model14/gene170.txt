@@ -1,0 +1,23 @@
+notRecovered:
+GLCP:1 glycogen_c + 1 pi_c -> 1 g1p_c (1 M_glycogen_ + 1 M_Phosphate_ -> 1 M_D_Glucose_1_phosphate_)
+
+
+AdditionalNotInModel:
+RXN0-5183-MALTOTRIOSE/WATER//ALPHA-MALTOSE/GLC.37.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 ALPHA-MALTOSE_c + 1 GLC_c (1 maltotriose + 1 H2O -> 1 alpha-maltose + 1 beta-D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//ALPHA-MALTOSE/ALPHA-GLUCOSE.47.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 ALPHA-MALTOSE_c + 1 ALPHA-GLUCOSE_c (1 maltotriose + 1 H2O -> 1 alpha-maltose + 1 alpha-D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//ALPHA-MALTOSE/Glucopyranose.47.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 ALPHA-MALTOSE_c + 1 Glucopyranose_c (1 maltotriose + 1 H2O -> 1 alpha-maltose + 1 D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//MALTOSE/GLC.31.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 MALTOSE_c + 1 GLC_c (1 maltotriose + 1 H2O -> 1 maltose + 1 beta-D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//MALTOSE/ALPHA-GLUCOSE.41.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 MALTOSE_c + 1 ALPHA-GLUCOSE_c (1 maltotriose + 1 H2O -> 1 maltose + 1 alpha-D-glucopyranose)
+RXN0-5183:1 MALTOTRIOSE_c + 1 WATER_c -> 1 MALTOSE_c + 1 Glucopyranose_c (1 maltotriose + 1 H2O -> 1 maltose + 1 D-glucopyranose)
+
+
+AdditionalMetabolites:
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+ALPHA-MALTOSE_c (alpha-maltose)
+GLC_c (beta-D-glucopyranose)
+Glucopyranose_c (D-glucopyranose)
+MALTOSE_c (maltose)
+MALTOTRIOSE_c (maltotriose)
+WATER_c (H2O)
+
+

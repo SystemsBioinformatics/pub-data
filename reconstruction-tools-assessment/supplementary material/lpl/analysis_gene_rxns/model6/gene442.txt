@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+STACHGALACT:1 h2o_c + 1 stys_c <=> 1 gal_c + 1 raffin_c (1 H2O H2O + 1 Stachyose <=> 1 D-Galactose + 1 Raffinose C18H32O16)
+
+
+AdditionalMetabolites:
+stys_c (Stachyose)
+
+

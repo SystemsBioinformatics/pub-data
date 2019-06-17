@@ -1,0 +1,18 @@
+notRecovered:
+CELBpts:1 cellb_e + 1 pep_c -> 1 6pgg_c + 1 pyr_c (1 M_cellobiose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R11170:1 C01674_c + 1 C04261_c <=> 1 C00615_c + 1 C21152_c (1 Chitobiose + 1 Protein N(pi)-phospho-L-histidine <=> 1 Protein histidine + 1 N,N'-Diacetylchitobiose 6'-phosphate)
+R11172:1 C00185_c + 1 C04261_c -> 1 C00615_c + 1 C04534_c (1 Cellobiose + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 6-Phospho-beta-D-glucosyl-(1,4)-D-glucose)
+
+
+AdditionalMetabolites:
+C00185_c (Cellobiose)
+C00615_c (Protein histidine)
+C01674_c (Chitobiose)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+C04534_c (6-Phospho-beta-D-glucosyl-(1,4)-D-glucose)
+C21152_c (N,N'-Diacetylchitobiose 6'-phosphate)
+
+

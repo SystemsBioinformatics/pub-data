@@ -1,0 +1,5 @@
+notRecovered:
+NITR:1 h_c + 1 nadh_c + 1 no3_c -> 1 h2o_c + 1 nad_c + 1 no2_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Nitrate_ -> 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Nitrite_)
+NTRARy:1 h_c + 1 nadph_c + 1 no3_c -> 1 h2o_c + 1 nadp_c + 1 no2_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Nitrate_ -> 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Nitrite_)
+
+

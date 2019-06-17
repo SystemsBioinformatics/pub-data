@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn02170:1 cpd03104_c <=> 1 cpd00067_c + 1 cpd00013_c + 1 cpd00650_c (1 L_3_Aminobutyryl_CoA_c0 <=> 1 H_plus__c0 + 1 NH3_c0 + 1 Crotonyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd00650_c (Crotonyl_CoA_c0)
+cpd03104_c (L_3_Aminobutyryl_CoA_c0)
+
+

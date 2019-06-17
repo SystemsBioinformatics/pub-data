@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+ALAabc:1 atp_c + 1 h2o_c + 1 ala__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 ala__L_c (1 ATP + 1 H2O + 1 L-Alanine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Alanine)
+ALAabcpp:1 atp_c + 1 h2o_c + 1 ala__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 ala__L_c (1 ATP + 1 H2O + 1 L-Alanine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Alanine)
+ILEabcpp:1 atp_c + 1 h2o_c + 1 ile__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 ile__L_c (1 ATP + 1 H2O + 1 L-Isoleucine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Isoleucine)
+LEUabcpp:1 atp_c + 1 h2o_c + 1 leu__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 leu__L_c (1 ATP + 1 H2O + 1 L-Leucine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Leucine)
+THRabc:1 atp_c + 1 h2o_c + 1 thr__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 thr__L_c (1 ATP + 1 H2O + 1 L-Threonine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Threonine)
+THRabcpp:1 atp_c + 1 h2o_c + 1 thr__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 thr__L_c (1 ATP + 1 H2O + 1 L-Threonine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Threonine)
+VALabcpp:1 atp_c + 1 h2o_c + 1 val__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 val__L_c (1 ATP + 1 H2O + 1 L-Valine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Valine)
+
+
+AdditionalMetabolites:
+ala__L_p (L-Alanine)
+ile__L_p (L-Isoleucine)
+leu__L_p (L-Leucine)
+thr__L_p (L-Threonine)
+val__L_p (L-Valine)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-15007:1 LysW-L-ornithine_c + 1 2-KETOGLUTARATE_c <=> 1 LysW-L-glutamate-5-semialdehyde_c + 1 GLT_c (1 a [2-aminoadipate carrier protein]-L-ornithine + 1 2-oxoglutarate <=> 1 a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+GLT_c (L-glutamate)
+LysW-L-glutamate-5-semialdehyde_c (a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)
+LysW-L-ornithine_c (a [2-aminoadipate carrier protein]-L-ornithine)
+
+

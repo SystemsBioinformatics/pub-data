@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+MTHFD2i:1 nad_c + 1 mlthf_c <=> 1 nadh_c + 1 methf_c (1 Nicotinamide adenine dinucleotide + 1 5,10-Methylenetetrahydrofolate <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 5,10-Methenyltetrahydrofolate)
+
+
+AdditionalInModel:
+FTHFLi:1 thf_c + 1 for_c + 1 atp_c -> 1 pi_c + 1 10fthf_c + 1 adp_c (1 5,6,7,8-Tetrahydrofolate + 1 Formate + 1 ATP C10H12N5O13P3 -> 1 Phosphate + 1 10-Formyltetrahydrofolate + 1 ADP C10H12N5O10P2)

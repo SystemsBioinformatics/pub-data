@@ -1,0 +1,4 @@
+notRecovered:
+GNK:1 atp_c + 1 glcn_c -> 1 6pgc_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M_D_Gluconate_ -> 1 M_6_Phospho_D_gluconate_ + 1 M_ADP_ + 1 M_H_)
+
+

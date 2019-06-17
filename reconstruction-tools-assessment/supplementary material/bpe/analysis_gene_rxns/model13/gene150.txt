@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+rxn00727:1 cpd00053_c + 1 cpd00216_c -> 1 cpd00067_c + 1 cpd00023_c + 1 cpd00020_c + 1 cpd00093_c (1 L_Glutamine_c0 + 1 Chorismate_c0 -> 1 H_plus__c0 + 1 L_Glutamate_c0 + 1 Pyruvate_c0 + 1 Anthranilate_c0)
+rxn00726:1 cpd00013_c + 1 cpd00216_c -> 1 cpd00067_c + 1 cpd00001_c + 1 cpd00020_c + 1 cpd00093_c (1 NH3_c0 + 1 Chorismate_c0 -> 1 H_plus__c0 + 1 H2O_c0 + 1 Pyruvate_c0 + 1 Anthranilate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00053_c (L_Glutamine_c0)
+cpd00067_c (H_plus__c0)
+cpd00093_c (Anthranilate_c0)
+cpd00216_c (Chorismate_c0)
+
+

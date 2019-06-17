@@ -1,0 +1,4 @@
+notRecovered:
+MNabc:1 atp_c + 1 h2o_c + 1 mn2_e -> 1 adp_c + 1 h_c + 1 mn2_c + 1 pi_c (1 M_ATP_ + 1 M_H2O_ + 1 M_Mn2_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Mn2_ + 1 M_Phosphate_)
+
+

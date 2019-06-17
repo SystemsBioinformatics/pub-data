@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn00146:2 cpd00109_c + 1 cpd00221_c <=> 2 cpd00067_c + 1 cpd00020_c + 2 cpd00110_c (2 Cytochrome_c3_plus__c0 + 1 D_Lactate_c0 <=> 2 H_plus__c0 + 1 Pyruvate_c0 + 2 Cytochrome_c2_plus__c0)
+rxn00500:1 cpd00003_c + 1 cpd00221_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00020_c (1 NAD_c0 + 1 D_Lactate_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Pyruvate_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00109_c (Cytochrome_c3_plus__c0)
+cpd00110_c (Cytochrome_c2_plus__c0)
+cpd00221_c (D_Lactate_c0)
+
+

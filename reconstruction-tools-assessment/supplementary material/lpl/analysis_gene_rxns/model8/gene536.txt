@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+UNK5:1 asp__L_c + 1 2kmb_c -> 1 oaa_c + 1 met__L_c (1 L-Aspartate + 1 2-keto-4-methylthiobutyrate -> 1 Oxaloacetate + 1 L-Methionine)
+
+
+AdditionalMetabolites:
+2kmb_c (2-keto-4-methylthiobutyrate)
+
+
+AdditionalInModel:
+ASPTA:1 akg_c + 1 asp__L_c <=> 1 oaa_c + 1 glu__L_c (1 2-Oxoglutarate + 1 L-Aspartate <=> 1 Oxaloacetate + 1 L-Glutamate)

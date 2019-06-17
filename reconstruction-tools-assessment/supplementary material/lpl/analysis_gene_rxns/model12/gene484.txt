@@ -1,0 +1,4 @@
+notRecovered:
+PIabc:1 atp_c + 1 h2o_c + 1 pi_e -> 1 adp_c + 1 h_c + 2 pi_c (1 M_ATP_ + 1 M_H2O_ + 1 M_Phosphate_ -> 1 M_ADP_ + 1 M_H_ + 2 M_Phosphate_)
+
+

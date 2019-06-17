@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00691:1 C00826_c -> 1 C00001_c + 1 C00011_c + 1 C00079_c (1 L-Arogenate -> 1 H2O + 1 CO2 + 1 L-Phenylalanine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00079_c (L-Phenylalanine)
+C00826_c (L-Arogenate)
+
+

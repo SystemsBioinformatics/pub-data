@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R05633:1 C00063_c + 1 C11434_c <=> 1 C00013_c + 1 C11435_c (1 CTP + 1 2-C-Methyl-D-erythritol 4-phosphate <=> 1 Diphosphate + 1 4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00063_c (CTP)
+C11434_c (2-C-Methyl-D-erythritol 4-phosphate)
+C11435_c (4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol)
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+PDX5POi:1 o2_c + 1 pdx5p_c -> 1 h2o2_c + 1 pydx5p_c (1 O2 + 1 Pyridoxine 5'-phosphate -> 1 Hydrogen peroxide + 1 Pyridoxal 5'-phosphate)
+PYAM5PO:1 h2o_c + 1 o2_c + 1 pyam5p_c -> 1 h2o2_c + 1 nh4_c + 1 pydx5p_c (1 H2O + 1 O2 + 1 Pyridoxamine 5'-phosphate -> 1 Hydrogen peroxide + 1 Ammonium + 1 Pyridoxal 5'-phosphate)
+
+

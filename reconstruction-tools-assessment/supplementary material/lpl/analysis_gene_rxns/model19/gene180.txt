@@ -1,0 +1,13 @@
+notRecovered:
+GLCS1:1 adpglc_c -> 1 adp_c + 1 glycogen_c + 1 h_c (1 M_ADPglucose_ -> 1 M_ADP_ + 1 M_glycogen_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R02110:1 C00718_c <=> 1 C00369_c (1 Amylose <=> 1 Starch)
+
+
+AdditionalMetabolites:
+C00369_c (Starch)
+C00718_c (Amylose)
+
+

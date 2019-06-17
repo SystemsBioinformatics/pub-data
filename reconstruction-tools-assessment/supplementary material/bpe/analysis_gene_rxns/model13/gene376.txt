@@ -1,0 +1,4 @@
+notRecovered:
+FDH4pp_1:1 for_p + 2 h_c + 1 q8_c -> 1 co2_c + 1 h_p + 1 q8h2_c (1 Formate + 2 H+ + 1 Ubiquinone-8 -> 1 CO2 + 1 H+ + 1 Ubiquinol-8)
+
+

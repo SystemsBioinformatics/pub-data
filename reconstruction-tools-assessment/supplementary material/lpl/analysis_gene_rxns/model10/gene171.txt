@@ -1,0 +1,15 @@
+notRecovered:
+TMDS:1 dump_c + 1 mlthf_c -> 1 dhf_c + 1 dtmp_c (1 M_dUMP_ + 1 M_5_10_Methylenetetrahydrofolate_ -> 1 M_7_8_Dihydrofolate_ + 1 M_dTMP_)
+
+
+AdditionalNotInModel:
+THYMIDYLATESYN-RXN:1 DUMP_c + 1 METHYLENE-THF-GLU-N_c -> 1 DIHYDROFOLATE-GLU-N_c + 1 TMP_c (1 dUMP + 1 a 5,10-methylenetetrahydrofolate -> 1 a 7,8-dihydrofolate + 1 dTMP)
+
+
+AdditionalMetabolites:
+DIHYDROFOLATE-GLU-N_c (a 7,8-dihydrofolate)
+DUMP_c (dUMP)
+METHYLENE-THF-GLU-N_c (a 5,10-methylenetetrahydrofolate)
+TMP_c (dTMP)
+
+

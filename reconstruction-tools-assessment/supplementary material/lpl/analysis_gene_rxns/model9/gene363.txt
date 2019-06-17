@@ -1,0 +1,2 @@
+AdditionalInModel:
+ME1:1 nad_c + 1 mal__L_c -> 1 nadh_c + 1 co2_c + 1 pyr_c (1 Nicotinamide adenine dinucleotide + 1 L-Malate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 CO2 CO2 + 1 Pyruvate)

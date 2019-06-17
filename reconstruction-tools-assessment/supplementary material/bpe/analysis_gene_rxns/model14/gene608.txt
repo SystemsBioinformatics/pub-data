@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn04996:1 cpd00067_c + 1 cpd00005_c + 1 cpd08615_c -> 1 cpd00001_c + 1 cpd00006_c + 1 cpd00202_c (1 H_plus__c0 + 1 NADPH_c0 + 1 1_Hydroxy_2_methyl_2_butenyl_4_diphosphate_c0 -> 1 H2O_c0 + 1 NADP_c0 + 1 DMAPP_c0)
+rxn04113:1 cpd00067_c + 1 cpd00005_c + 1 cpd08615_c -> 1 cpd00001_c + 1 cpd00006_c + 1 cpd00113_c (1 H_plus__c0 + 1 NADPH_c0 + 1 1_Hydroxy_2_methyl_2_butenyl_4_diphosphate_c0 -> 1 H2O_c0 + 1 NADP_c0 + 1 Isopentenyldiphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00113_c (Isopentenyldiphosphate_c0)
+cpd00202_c (DMAPP_c0)
+cpd08615_c (1_Hydroxy_2_methyl_2_butenyl_4_diphosphate_c0)
+
+

@@ -1,0 +1,23 @@
+notRecovered:
+ACGAMPM:1 acgam6p_c <=> 1 acgam1p_c (1 N-Acetyl-D-glucosamine 6-phosphate <=> 1 N-Acetyl-D-glucosamine 1-phosphate)
+
+
+AdditionalNotInModel:
+rxn04052:2 cpd00067_c + 1 cpd08375_c <=> 1 cpd03421_c (2 H_plus__c0 + 1 Cobalt_precorrin_8_c0 <=> 1 Cobyrinate_c0)
+rxn01216:1 cpd00067_c + 1 cpd00203_c <=> 1 cpd00853_c (1 H_plus__c0 + 1 1_3_Bisphospho_D_glycerate_c0 <=> 1 DPG_c0)
+rxn03512:3 cpd00067_c + 1 cpd03835_c <=> 1 cpd03832_c (3 H_plus__c0 + 1 Precorrin_8_c0 <=> 1 Hydrogenobyrinate_c0)
+rxn01329:1 cpd00235_c <=> 1 cpd00485_c (1 D_mannose_6_phosphate_c0 <=> 1 D_Mannose1_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00067_c (H_plus__c0)
+cpd00203_c (1_3_Bisphospho_D_glycerate_c0)
+cpd00235_c (D_mannose_6_phosphate_c0)
+cpd00485_c (D_Mannose1_phosphate_c0)
+cpd00853_c (DPG_c0)
+cpd03421_c (Cobyrinate_c0)
+cpd03832_c (Hydrogenobyrinate_c0)
+cpd03835_c (Precorrin_8_c0)
+cpd08375_c (Cobalt_precorrin_8_c0)
+
+

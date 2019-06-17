@@ -1,0 +1,4 @@
+notRecovered:
+PHEMEtonex:1 h_p + 1 pheme_e -> 1 h_c + 1 pheme_p (1 H+ + 1 Protoheme -> 1 H+ + 1 Protoheme)
+
+

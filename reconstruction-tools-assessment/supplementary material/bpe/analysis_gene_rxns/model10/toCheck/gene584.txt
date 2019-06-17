@@ -1,0 +1,15 @@
+notRecovered:
+DB4PS:1 ru5p__D_c -> 1 db4p_c + 1 for_c + 1 h_c (1 D-Ribulose 5-phosphate -> 1 3,4-dihydroxy-2-butanone 4-phosphate + 1 Formate + 1 H+)
+
+
+AdditionalNotInModel:
+DIOHBUTANONEPSYN-RXN:1 RIBULOSE-5P_c <=> 1 DIHYDROXY-BUTANONE-P_c + 1 FORMATE_c + 1 PROTON_c (1 D-ribulose 5-phosphate <=> 1 1-deoxy-L-glycero-tetrulose 4-phosphate + 1 formate + 1 H+)
+
+
+AdditionalMetabolites:
+DIHYDROXY-BUTANONE-P_c (1-deoxy-L-glycero-tetrulose 4-phosphate)
+FORMATE_c (formate)
+PROTON_c (H+)
+RIBULOSE-5P_c (D-ribulose 5-phosphate)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01966:1 cpd00009_c + 1 cpd00794_c -> 1 cpd00027_c + 1 cpd00501_c (1 Phosphate_c0 + 1 TRHL_c0 -> 1 D_Glucose_c0 + 1 beta_D_Glucose_1_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00009_c (Phosphate_c0)
+cpd00027_c (D_Glucose_c0)
+cpd00501_c (beta_D_Glucose_1_phosphate_c0)
+cpd00794_c (TRHL_c0)
+
+

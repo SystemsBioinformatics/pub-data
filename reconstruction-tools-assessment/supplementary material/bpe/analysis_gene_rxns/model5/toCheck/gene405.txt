@@ -1,0 +1,12 @@
+notRecovered:
+DBTS:1 atp_c + 1 co2_c + 1 dann_c -> 1 adp_c + 1 dtbt_c + 3 h_c + 1 pi_c (1 ATP + 1 CO2 + 1 7,8-Diaminononanoate -> 1 ADP + 1 Dethiobiotin + 3 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+MALCOAMT:1 amet_c + 1 malcoa_c -> 1 ahcys_c + 1 malcoame_c (1 S-Adenosyl-L-methionine + 1 Malonyl CoA C24H33N7O19P3S -> 1 S-Adenosyl-L-homocysteine + 1 Malonyl-CoA methyl ester)
+
+
+AdditionalMetabolites:
+malcoame_c (Malonyl-CoA methyl ester)
+
+

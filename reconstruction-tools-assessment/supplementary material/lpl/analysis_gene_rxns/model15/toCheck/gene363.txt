@@ -1,0 +1,16 @@
+notRecovered:
+MALLAC:1 h_c + 1 mal__L_c -> 1 co2_c + 1 lac__L_c (1 M_H_ + 1 M_L_Malate_ -> 1 M_CO2_ + 1 M_L_Lactate_)
+
+
+AdditionalNotInModel:
+rxn00159:1 cpd00003_c + 1 cpd00130_c -> 1 cpd00020_c + 1 cpd00004_c + 1 cpd00011_c (1 NAD_c0 + 1 L_Malate_c0 -> 1 Pyruvate_c0 + 1 NADH_c0 + 1 CO2_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00011_c (CO2_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00130_c (L_Malate_c0)
+
+

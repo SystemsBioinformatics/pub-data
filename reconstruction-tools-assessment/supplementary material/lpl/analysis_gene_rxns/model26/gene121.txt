@@ -1,0 +1,4 @@
+notRecovered:
+DHAt:1 dha_e <=> 1 dha_c (1 M_Dihydroxyacetone_ <=> 1 M_Dihydroxyacetone_)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R02770:1 C00686_c <=> 1 C04136_c (1 N-Acyl-D-mannosamine 6-phosphate <=> 1 N-Acyl-D-glucosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+C00686_c (N-Acyl-D-mannosamine 6-phosphate)
+C04136_c (N-Acyl-D-glucosamine 6-phosphate)
+
+

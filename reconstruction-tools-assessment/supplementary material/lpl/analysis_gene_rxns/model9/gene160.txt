@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+ACPS:1 coa_c + 1 h2o_c -> 1 pap_c + 1 pan4p_c + 2 h_c (1 Coenzyme A + 1 H2O H2O -> 1 Adenosine 3',5'-bisphosphate + 1 Pantetheine 4'-phosphate + 2 H+)
+
+

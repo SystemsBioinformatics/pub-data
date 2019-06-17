@@ -1,0 +1,4 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+

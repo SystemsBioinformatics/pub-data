@@ -1,0 +1,4 @@
+notRecovered:
+FRUK:1 atp_c + 1 f1p_c -> 1 adp_c + 1 fdp_c + 1 h_c (1 M_ATP_ + 1 M_D_Fructose_1_phosphate_ -> 1 M_ADP_ + 1 M_D_Fructose_1_6_bisphosphate_ + 1 M_H_)
+
+

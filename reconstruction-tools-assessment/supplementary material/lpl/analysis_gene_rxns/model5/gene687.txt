@@ -1,0 +1,4 @@
+notRecovered:
+GRTAL:1 RTA_c + 25 udpg_c -> 1 RTAglc_c + 25 h_c + 25 udp_c (1 M_teichoic_acid_containing_ribitol_P_ + 25 M_UDPglucose_ -> 1 M_ribitol_teichoic_acid__n25__with_glucose_substitutions_ + 25 M_H_ + 25 M_UDP_)
+
+

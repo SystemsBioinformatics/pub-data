@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01353:1 C00163_c + 1 C00002_c <=> 1 C02876_c + 1 C00008_c (1 Propanoate + 1 ATP <=> 1 Propanoyl phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00163_c (Propanoate)
+C02876_c (Propanoyl phosphate)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+SSALy:1 h2o_c + 1 nadp_c + 1 sucsal_c -> 2 h_c + 1 nadph_c + 1 succ_c (1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Succinic semialdehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Succinate)
+
+
+AdditionalNotInModel:
+RXN-10835:1 CPD-11736_c + 1 NADP_c + 1 WATER_c -> 1 CPD-11735_c + 1 NADPH_c + 1 PROTON_c (1 phosphonoformaldehyde + 1 NADP+ + 1 H2O -> 1 phosphonoformate + 1 NADPH + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-11735_c (phosphonoformate)
+CPD-11736_c (phosphonoformaldehyde)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

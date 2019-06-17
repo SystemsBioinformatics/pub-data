@@ -1,0 +1,17 @@
+notRecovered:
+THZPSN:1 atp_c + 1 cys__L_c + 1 dxyl5p_c + 1 tyr__L_c -> 1 4hba_c + 1 4mpetz_c + 1 ala__L_c + 1 amp_c + 1 co2_c + 1 h2o_c + 1 h_c + 1 ppi_c (1 ATP + 1 L-Cysteine + 1 1-deoxy-D-xylulose 5-phosphate + 1 L-Tyrosine -> 1 4-Hydroxy-benzyl alcohol + 1 4-Methyl-5-(2-phosphoethyl)-thiazole + 1 L-Alanine + 1 AMP + 1 CO2 + 1 H2O + 1 H+ + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+THIAZOLSYN2-RXN:1 CPD-12279_c + 1 Thiocarboxyadenylated-ThiS-Proteins_c + 1 DEOXYXYLULOSE-5P_c <=> 1 CPD-13575_c + 1 Thi-S_c + 2 WATER_c (1 2-iminoacetate + 1 a thiocarboxy-[ThiS-Protein] + 1 1-deoxy-D-xylulose 5-phosphate <=> 1 2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + 1 a ThiS sulfur-carrier protein + 2 H2O)
+
+
+AdditionalMetabolites:
+CPD-12279_c (2-iminoacetate)
+CPD-13575_c (2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate)
+DEOXYXYLULOSE-5P_c (1-deoxy-D-xylulose 5-phosphate)
+Thi-S_c (a ThiS sulfur-carrier protein)
+Thiocarboxyadenylated-ThiS-Proteins_c (a thiocarboxy-[ThiS-Protein])
+WATER_c (H2O)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+TREpts:1 pep_c + 1 tre_e -> 1 pyr_c + 1 tre6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Trehalose_ -> 1 M_Pyruvate_ + 1 M_alpha_alpha__Trehalose_6_phosphate_)
+
+

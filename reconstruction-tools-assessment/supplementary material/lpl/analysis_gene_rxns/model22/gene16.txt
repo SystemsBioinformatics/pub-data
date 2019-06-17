@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R06987:1 C00010_c + 1 C00109_c <=> 1 C00058_c + 1 C00100_c (1 CoA + 1 2-Oxobutanoate <=> 1 Formate + 1 Propanoyl-CoA)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00058_c (Formate)
+C00100_c (Propanoyl-CoA)
+C00109_c (2-Oxobutanoate)
+
+

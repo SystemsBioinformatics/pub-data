@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-15313:1 CPD0-1123_c -> 1 N-ACETYL-D-MANNOSAMINE_c + 1 PYRUVATE_c (1 N-acetyl-beta-neuraminate -> 1 N-acetyl-beta-D-mannosamine + 1 pyruvate)
+ACNEULY-RXN-N-ACETYLNEURAMINATE//N-ACETYL-D-MANNOSAMINE/PYRUVATE.53.:1 N-ACETYLNEURAMINATE_c <=> 1 N-ACETYL-D-MANNOSAMINE_c + 1 PYRUVATE_c (1 N-acetylneuraminate <=> 1 N-acetyl-beta-D-mannosamine + 1 pyruvate)
+ACNEULY-RXN:1 N-ACETYLNEURAMINATE_c <=> 1 N-acetyl-D-mannosamine_c + 1 PYRUVATE_c (1 N-acetylneuraminate <=> 1 N-acetyl-D-mannosamine + 1 pyruvate)
+
+
+AdditionalMetabolites:
+CPD0-1123_c (N-acetyl-beta-neuraminate)
+N-ACETYL-D-MANNOSAMINE_c (N-acetyl-beta-D-mannosamine)
+N-ACETYLNEURAMINATE_c (N-acetylneuraminate)
+N-acetyl-D-mannosamine_c (N-acetyl-D-mannosamine)
+PYRUVATE_c (pyruvate)
+
+

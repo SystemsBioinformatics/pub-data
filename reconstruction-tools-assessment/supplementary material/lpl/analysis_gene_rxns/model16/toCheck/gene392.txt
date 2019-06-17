@@ -1,0 +1,15 @@
+notRecovered:
+AIRCr:1 air_c + 1 co2_c -> 1 5aizc_c + 1 h_c (1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_CO2_ -> 1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_4_carboxylate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn02938:1 cpd00067_c + 1 cpd02893_c -> 1 cpd00011_c + 1 cpd02140_c (1 H_plus__c0 + 1 5_Phosphoribosyl_4_carboxy_5_aminoimidazole_c0 -> 1 CO2_c0 + 1 AIR_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd02140_c (AIR_c0)
+cpd02893_c (5_Phosphoribosyl_4_carboxy_5_aminoimidazole_c0)
+
+

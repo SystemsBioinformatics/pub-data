@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+rxn00256:1 cpd00001_c + 1 cpd00022_c + 1 cpd00032_c -> 1 cpd00067_c + 1 cpd00010_c + 1 cpd00137_c (1 H2O_c0 + 1 Acetyl_CoA_c0 + 1 Oxaloacetate_c0 -> 1 H_plus__c0 + 1 CoA_c0 + 1 Citrate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00010_c (CoA_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00032_c (Oxaloacetate_c0)
+cpd00067_c (H_plus__c0)
+cpd00137_c (Citrate_c0)
+
+

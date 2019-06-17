@@ -1,0 +1,19 @@
+notRecovered:
+HIBD:1 3hmp_c + 1 nad_c -> 1 2mop_c + 1 h_c + 1 nadh_c (1 M_3_Hydroxy_2_methylpropanoate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_2_Methyl_3_oxopropanoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+rxn01280:1 cpd00003_c + 1 cpd00223_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00843_c (1 NAD_c0 + 1 Glycerate_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Tartronate_semialdehyde_c0)
+rxn01281:1 cpd00006_c + 1 cpd00223_c <=> 1 cpd00067_c + 1 cpd00005_c + 1 cpd00843_c (1 NADP_c0 + 1 Glycerate_c0 <=> 1 H_plus__c0 + 1 NADPH_c0 + 1 Tartronate_semialdehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00223_c (Glycerate_c0)
+cpd00843_c (Tartronate_semialdehyde_c0)
+
+

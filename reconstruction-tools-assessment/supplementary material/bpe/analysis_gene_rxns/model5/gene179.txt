@@ -1,0 +1,13 @@
+notRecovered:
+PTAr:1 accoa_c + 1 pi_c <=> 1 actp_c + 1 coa_c (1 Acetyl-CoA + 1 Phosphate <=> 1 Acetyl phosphate + 1 Coenzyme A)
+PTA2:1 pi_c + 1 ppcoa_c -> 1 coa_c + 1 ppap_c (1 Phosphate + 1 Propanoyl-CoA -> 1 Coenzyme A + 1 Propanoyl phosphate)
+
+
+AdditionalNotInModel:
+PBUTT:1 btcoa_c + 1 pi_c <=> 1 butpi_c + 1 coa_c (1 Butanoyl-CoA + 1 Phosphate <=> 1 Butanoyl phosphate + 1 Coenzyme A)
+
+
+AdditionalMetabolites:
+butpi_c (Butanoyl phosphate)
+
+

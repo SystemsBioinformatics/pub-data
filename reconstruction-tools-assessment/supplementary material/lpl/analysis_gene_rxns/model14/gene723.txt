@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+3.5.1.80-RXN:1 N-ACETYL-D-GALACTOSAMINE-6-PHOSPHATE_c + 1 WATER_c <=> 1 D-GALACTOSAMINE-6-PHOSPHATE_c + 1 ACET_c (1 N-acetyl-D-galactosamine 6-phosphate + 1 H2O <=> 1 D-galactosamine 6-phosphate + 1 acetate)
+NAG6PDEACET-RXN:1 WATER_c + 1 N-ACETYL-D-GLUCOSAMINE-6-P_c -> 1 D-GLUCOSAMINE-6-P_c + 1 ACET_c (1 H2O + 1 N-acetyl-D-glucosamine 6-phosphate -> 1 D-glucosamine 6-phosphate + 1 acetate)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+D-GALACTOSAMINE-6-PHOSPHATE_c (D-galactosamine 6-phosphate)
+D-GLUCOSAMINE-6-P_c (D-glucosamine 6-phosphate)
+N-ACETYL-D-GALACTOSAMINE-6-PHOSPHATE_c (N-acetyl-D-galactosamine 6-phosphate)
+N-ACETYL-D-GLUCOSAMINE-6-P_c (N-acetyl-D-glucosamine 6-phosphate)
+WATER_c (H2O)
+
+

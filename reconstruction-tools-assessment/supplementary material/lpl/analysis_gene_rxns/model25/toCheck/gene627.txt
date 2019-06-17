@@ -1,0 +1,15 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+RXN-11486:5 DELTA3-ISOPENTENYL-PP_c + 1 GERANYLGERANYL-PP_c -> 5 PPI_c + 1 SOLANESYL-PYROPHOSPHATE_c (5 isopentenyl diphosphate + 1 geranylgeranyl diphosphate -> 5 diphosphate + 1 all-trans-nonaprenyl diphosphate)
+
+
+AdditionalMetabolites:
+DELTA3-ISOPENTENYL-PP_c (isopentenyl diphosphate)
+GERANYLGERANYL-PP_c (geranylgeranyl diphosphate)
+PPI_c (diphosphate)
+SOLANESYL-PYROPHOSPHATE_c (all-trans-nonaprenyl diphosphate)
+
+

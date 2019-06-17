@@ -1,0 +1,19 @@
+notRecovered:
+AGMT:1 agm_c + 1 h2o_c -> 1 ptrc_c + 1 urea_c (1 Agmatine + 1 H2O -> 1 Putrescine + 1 Urea)
+
+
+AdditionalNotInModel:
+ARGINASE-RXN:1 ARG_c + 1 WATER_c -> 1 L-ORNITHINE_c + 1 UREA_c (1 L-arginine + 1 H2O -> 1 L-ornithine + 1 urea)
+RXN-34:1 CANAVANINE_c + 1 WATER_c <=> 1 L-CANALINE_c + 1 UREA_c + 1 PROTON_c (1 L-canavanine + 1 H2O <=> 1 L-canaline + 1 urea + 1 H+)
+
+
+AdditionalMetabolites:
+ARG_c (L-arginine)
+CANAVANINE_c (L-canavanine)
+L-CANALINE_c (L-canaline)
+L-ORNITHINE_c (L-ornithine)
+PROTON_c (H+)
+UREA_c (urea)
+WATER_c (H2O)
+
+

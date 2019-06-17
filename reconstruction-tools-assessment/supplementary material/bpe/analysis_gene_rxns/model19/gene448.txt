@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R01256:1 C00002_c + 1 C00010_c + 1 C00149_c <=> 1 C00008_c + 1 C00009_c + 1 C04348_c (1 ATP + 1 CoA + 1 (S)-Malate <=> 1 ADP + 1 Orthophosphate + 1 L-Malyl-CoA)
+R02404:1 C00002_c + 1 C00010_c + 1 C00490_c <=> 1 C00008_c + 1 C00009_c + 1 C00531_c (1 ATP + 1 CoA + 1 Itaconate <=> 1 ADP + 1 Orthophosphate + 1 Itaconyl-CoA)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00010_c (CoA)
+C00149_c ((S)-Malate)
+C00490_c (Itaconate)
+C00531_c (Itaconyl-CoA)
+C04348_c (L-Malyl-CoA)
+
+

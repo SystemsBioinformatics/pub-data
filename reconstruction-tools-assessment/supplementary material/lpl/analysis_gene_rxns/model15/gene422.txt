@@ -1,0 +1,23 @@
+AdditionalNotInModel:
+rxn11567:1 cpd00001_c + 1 cpd00947_c <=> 1 cpd00108_c + 1 cpd00878_c (1 H2O_c0 + 1 LacCer_c0 <=> 1 Galactose_c0 + 1 Glucocerebroside_c0)
+rxn03462:1 cpd00001_c + 1 cpd03657_c <=> 1 cpd00108_c + 1 cpd03656_c (1 H2O_c0 + 1 GA1_c0 <=> 1 Galactose_c0 + 1 GA2_c0)
+rxn03273:1 cpd00001_c + 1 cpd03199_c <=> 1 cpd00190_c + 1 cpd03193_c (1 H2O_c0 + 1 3_Ketolactose_c0 <=> 1 beta_D_Glucose_c0 + 1 3_Keto_beta_D_galactose_c0)
+rxn11612:1 cpd00001_c + 1 cpd12640_c <=> 1 cpd00108_c + 1 cpd02996_c (1 H2O_c0 + 1 GM1_c0 <=> 1 Galactose_c0 + 1 GM2_c0)
+rxn02409:1 cpd00001_c + 1 cpd00947_c <=> 1 cpd00878_c + 1 cpd00709_c (1 H2O_c0 + 1 LacCer_c0 <=> 1 Glucocerebroside_c0 + 1 beta_D_Galactose_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00108_c (Galactose_c0)
+cpd00190_c (beta_D_Glucose_c0)
+cpd00709_c (beta_D_Galactose_c0)
+cpd00878_c (Glucocerebroside_c0)
+cpd00947_c (LacCer_c0)
+cpd02996_c (GM2_c0)
+cpd03193_c (3_Keto_beta_D_galactose_c0)
+cpd03199_c (3_Ketolactose_c0)
+cpd03656_c (GA2_c0)
+cpd03657_c (GA1_c0)
+cpd12640_c (GM1_c0)
+
+

@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R01273:1 C00001_c + 1 C03150_c -> 1 C00121_c + 1 C00153_c (1 H2O + 1 Nicotinamide-beta-riboside -> 1 D-Ribose + 1 Nicotinamide)
+R02137:1 C00001_c + 1 C00475_c <=> 1 C00121_c + 1 C00380_c (1 H2O + 1 Cytidine <=> 1 D-Ribose + 1 Cytosine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00121_c (D-Ribose)
+C00153_c (Nicotinamide)
+C00380_c (Cytosine)
+C00475_c (Cytidine)
+C03150_c (Nicotinamide-beta-riboside)
+
+

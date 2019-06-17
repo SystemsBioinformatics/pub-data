@@ -1,0 +1,16 @@
+notRecovered:
+PPND:1 nad_c + 1 pphn_c -> 1 34hpp_c + 1 co2_c + 1 nadh_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Prephenate_ -> 1 M_3__4_Hydroxyphenyl_pyruvate_ + 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+RXN-5682:1 CPD-659_c + 1 NADP_c -> 1 CARBON-DIOXIDE_c + 1 NADPH_c + 1 TYR_c (1 L-arogenate + 1 NADP+ -> 1 CO2 + 1 NADPH + 1 L-tyrosine)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+CPD-659_c (L-arogenate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+TYR_c (L-tyrosine)
+
+

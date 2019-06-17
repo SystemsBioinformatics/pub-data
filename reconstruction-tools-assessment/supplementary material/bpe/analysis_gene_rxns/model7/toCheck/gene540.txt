@@ -1,0 +1,15 @@
+notRecovered:
+MOAT_BP:1 ckdo_c + 1 lipidA_BP_c -> 1 cmp_c + 1 h_c + 1 kdolipid4_BP_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 Lipid A Disaccharide Bisphosphate (B. pertussis specific) -> 1 CMP + 1 H+ + 1 KDO-lipid IV(A) (B. pertussis specific))
+
+
+AdditionalNotInModel:
+MOAT:1 ckdo_c + 1 lipidA_c -> 1 h_c + 1 cmp_c + 1 kdolipid4_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate -> 1 H+ + 1 CMP C9H12N3O8P + 1 KDO-lipid IV(A))
+MOAT2:1 ckdo_c + 1 kdolipid4_c -> 1 kdo2lipid4_c + 1 h_c + 1 cmp_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 KDO-lipid IV(A) -> 1 KDO(2)-lipid IV(A) + 1 H+ + 1 CMP C9H12N3O8P)
+
+
+AdditionalMetabolites:
+kdo2lipid4_c (KDO(2)-lipid IV(A))
+kdolipid4_c (KDO-lipid IV(A))
+lipidA_c (2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+RXN-18456:1 Carboxyadenylated-TtuB_c + 1 Donor-H2_c + 1 Persulfurated-L-cysteine-desulfurases_c -> 1 AMP_c + 1 Acceptor_c + 1 L-Cysteine-Desulfurases_c + 1 PROTON_c + 1 Thiocarboxylated-TtuB_c (1 Carboxyadenylated-TtuB + 1 Donor-H2 + 1 Persulfurated-L-cysteine-desulfurases -> 1 AMP + 1 Acceptor + 1 L-Cysteine-Desulfurases + 1 H+ + 1 Thiocarboxylated-TtuB)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+Acceptor_c (Acceptor)
+Carboxyadenylated-TtuB_c (Carboxyadenylated-TtuB)
+Donor-H2_c (Donor-H2)
+L-Cysteine-Desulfurases_c (L-Cysteine-Desulfurases)
+PROTON_c (H+)
+Persulfurated-L-cysteine-desulfurases_c (Persulfurated-L-cysteine-desulfurases)
+Thiocarboxylated-TtuB_c (Thiocarboxylated-TtuB)
+
+

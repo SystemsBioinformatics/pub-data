@@ -1,0 +1,15 @@
+notRecovered:
+GALK2:1 a_gal__D_c + 1 atp_c -> 1 adp_c + 1 gal1p_c + 1 h_c (1 M_alpha_D_galactose_ + 1 M_ATP_ -> 1 M_ADP_ + 1 M_alpha_D_Galactose_1_phosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R01092:1 C00984_c + 1 C00002_c <=> 1 C00446_c + 1 C00008_c (1 alpha-D-Galactose + 1 ATP <=> 1 alpha-D-Galactose 1-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00446_c (alpha-D-Galactose 1-phosphate)
+C00984_c (alpha-D-Galactose)
+
+

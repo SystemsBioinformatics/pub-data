@@ -1,0 +1,15 @@
+notRecovered:
+ACGK:1 acglu_c + 1 atp_c -> 1 acg5p_c + 1 adp_c (1 N-Acetyl-L-glutamate + 1 ATP -> 1 N-Acetyl-L-glutamyl 5-phosphate + 1 ADP)
+
+
+AdditionalNotInModel:
+RXN-5182:1 ATP_c + 1 LysW-Alpha-Aminoadipate_c -> 1 ADP_c + 1 LysW-Alpha-Aminoadipate-Phosphate_c (1 ATP + 1 LysW-Alpha-Aminoadipate -> 1 ADP + 1 LysW-Alpha-Aminoadipate-Phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+LysW-Alpha-Aminoadipate-Phosphate_c (LysW-Alpha-Aminoadipate-Phosphate)
+LysW-Alpha-Aminoadipate_c (LysW-Alpha-Aminoadipate)
+
+

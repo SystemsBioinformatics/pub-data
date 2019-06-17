@@ -1,0 +1,32 @@
+notRecovered:
+LPLIPAL1A161pp:1 1hdec9eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 hdcea_p (1 1-hexadec-9-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 Hexadecenoate (n-C16:1))
+LPLIPAL1A120pp:1 1ddecg3p_p + 1 h2o_p -> 1 ddca_p + 1 glyc3p_p + 1 h_p (1 1-dodecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Dodecanoate (n-C12:0) + 1 Glycerol 3-phosphate + 1 H+)
+LPLIPAL1A160pp:1 1hdecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 hdca_p (1 1-hexadecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 Hexadecanoate (n-C16:0))
+LPLIPAL1A140pp:1 1tdecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ttdca_p (1 1-tetradecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 tetradecanoate (n-C14:0))
+LPLIPAL1A180pp:1 1odecg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ocdca_p (1 1-octadecanoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 octadecanoate (n-C18:0))
+LPLIPAL1A141pp:1 1tdec7eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ttdcea_p (1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 tetradecenoate (n-C14:1))
+LPLIPAL1A181pp:1 1odec11eg3p_p + 1 h2o_p -> 1 glyc3p_p + 1 h_p + 1 ocdcea_p (1 1-octadec-11-enoyl-sn-glycerol 3-phosphate + 1 H2O -> 1 Glycerol 3-phosphate + 1 H+ + 1 octadecenoate (n-C18:1))
+
+
+AdditionalNotInModel:
+LYSOPHOSPHOLIPASE-RXN:1 2-Lysophosphatidylcholines_c + 1 WATER_c -> 1 Carboxylates_c + 1 L-1-GLYCERO-PHOSPHORYLCHOLINE_c + 1 PROTON_c (1 2-Lysophosphatidylcholines + 1 H2O -> 1 Carboxylates + 1 sn-glycero-3-phosphocholine + 1 H+)
+THIOESTER-RXN:1 Saturated-Fatty-Acyl-CoA_c + 1 WATER_c -> 1 CO-A_c + 1 CPD66-39_c + 1 PROTON_c (1 Saturated-Fatty-Acyl-CoA + 1 H2O -> 1 coenzyme A + 1 CPD66-39 + 1 H+)
+RXN-9550:1 Palmitoleoyl-ACPs_c + 1 WATER_c -> 1 ACP_c + 1 CPD-9245_c + 1 PROTON_c (1 Palmitoleoyl-ACPs + 1 H2O -> 1 ACP + 1 palmitoleate + 1 H+)
+RXN-9555:1 Cis-vaccenoyl-ACPs_c + 1 WATER_c -> 1 ACP_c + 1 CPD-9247_c + 1 PROTON_c (1 Cis-vaccenoyl-ACPs + 1 H2O -> 1 ACP + 1 cis-vaccenate + 1 H+)
+
+
+AdditionalMetabolites:
+2-Lysophosphatidylcholines_c (2-Lysophosphatidylcholines)
+CO-A_c (coenzyme A)
+CPD-9245_c (palmitoleate)
+CPD-9247_c (cis-vaccenate)
+CPD66-39_c (CPD66-39)
+Carboxylates_c (Carboxylates)
+Cis-vaccenoyl-ACPs_c (Cis-vaccenoyl-ACPs)
+L-1-GLYCERO-PHOSPHORYLCHOLINE_c (sn-glycero-3-phosphocholine)
+PROTON_c (H+)
+Palmitoleoyl-ACPs_c (Palmitoleoyl-ACPs)
+Saturated-Fatty-Acyl-CoA_c (Saturated-Fatty-Acyl-CoA)
+WATER_c (H2O)
+
+

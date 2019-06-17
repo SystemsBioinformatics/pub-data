@@ -1,0 +1,16 @@
+notRecovered:
+TSULR3e:2 gthrd_c + 1 tsul_c -> 1 gthox_c + 1 h2s_c + 1 so3_c (2 Reduced glutathione + 1 Thiosulfate -> 1 Oxidized glutathione + 1 Hydrogen sulfide + 1 Sulfite)
+
+
+AdditionalNotInModel:
+R10149:1 C00320_c + 1 C05819_c <=> 1 C00283_c + 1 C00828_c + 1 C11481_c (1 Thiosulfate + 1 Menaquinol <=> 1 Hydrogen sulfide + 1 Menaquinone + 1 HSO3-)
+
+
+AdditionalMetabolites:
+C00283_c (Hydrogen sulfide)
+C00320_c (Thiosulfate)
+C00828_c (Menaquinone)
+C05819_c (Menaquinol)
+C11481_c (HSO3-)
+
+

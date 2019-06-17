@@ -1,0 +1,15 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Pyruvate_ -> 1 M_Acetyl_CoA_ + 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+rxn01871:1 cpd00022_c + 1 cpd00449_c <=> 1 cpd00010_c + 1 cpd00836_c (1 Acetyl_CoA_c0 + 1 Dihydrolipoamide_c0 <=> 1 CoA_c0 + 1 S_Acetyldihydrolipoamide_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00449_c (Dihydrolipoamide_c0)
+cpd00836_c (S_Acetyldihydrolipoamide_c0)
+
+

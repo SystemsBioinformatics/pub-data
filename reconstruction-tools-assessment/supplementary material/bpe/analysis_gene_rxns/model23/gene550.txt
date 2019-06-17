@@ -1,0 +1,4 @@
+notRecovered:
+ASP1DC:1 asp__L_c + 1 h_c -> 1 ala_B_c + 1 co2_c (1 L-Aspartate + 1 H+ -> 1 beta-Alanine + 1 CO2)
+
+

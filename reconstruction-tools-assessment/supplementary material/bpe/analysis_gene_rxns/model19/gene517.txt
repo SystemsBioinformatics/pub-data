@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+R03132:1 C00320_c + 1 C00979_c -> 1 C00033_c + 1 C05824_c (1 Thiosulfate + 1 O-Acetyl-L-serine -> 1 Acetate + 1 S-Sulfo-L-cysteine)
+R03601:1 C00979_c + 1 C01528_c <=> 1 C00033_c + 1 C05688_c (1 O-Acetyl-L-serine + 1 Hydrogen selenide <=> 1 Acetate + 1 L-Selenocysteine)
+R04859:1 C00080_c + 1 C00320_c + 1 C00342_c + 1 C00979_c <=> 1 C00033_c + 1 C00094_c + 1 C00097_c + 1 C00343_c (1 H+ + 1 Thiosulfate + 1 Thioredoxin + 1 O-Acetyl-L-serine <=> 1 Acetate + 1 Sulfite + 1 L-Cysteine + 1 Thioredoxin disulfide)
+
+
+AdditionalMetabolites:
+C00033_c (Acetate)
+C00080_c (H+)
+C00094_c (Sulfite)
+C00097_c (L-Cysteine)
+C00320_c (Thiosulfate)
+C00342_c (Thioredoxin)
+C00343_c (Thioredoxin disulfide)
+C00979_c (O-Acetyl-L-serine)
+C01528_c (Hydrogen selenide)
+C05688_c (L-Selenocysteine)
+C05824_c (S-Sulfo-L-cysteine)
+
+

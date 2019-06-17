@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn01682:1 cpd02210_c <=> 1 cpd00102_c + 1 cpd00359_c (1 Indoleglycerol_phosphate_c0 <=> 1 Glyceraldehyde3_phosphate_c0 + 1 indol_c0)
+rxn00474:1 cpd00054_c + 1 cpd00359_c -> 1 cpd00001_c + 1 cpd00065_c (1 L_Serine_c0 + 1 indol_c0 -> 1 H2O_c0 + 1 L_Tryptophan_c0)
+rxn01964:1 cpd00054_c + 1 cpd02210_c -> 1 cpd00001_c + 1 cpd00102_c + 1 cpd00065_c (1 L_Serine_c0 + 1 Indoleglycerol_phosphate_c0 -> 1 H2O_c0 + 1 Glyceraldehyde3_phosphate_c0 + 1 L_Tryptophan_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00054_c (L_Serine_c0)
+cpd00065_c (L_Tryptophan_c0)
+cpd00102_c (Glyceraldehyde3_phosphate_c0)
+cpd00359_c (indol_c0)
+cpd02210_c (Indoleglycerol_phosphate_c0)
+
+

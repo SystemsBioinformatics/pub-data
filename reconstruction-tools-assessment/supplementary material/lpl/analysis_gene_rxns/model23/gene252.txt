@@ -1,0 +1,5 @@
+notRecovered:
+ITCY:1 cytd_c + 1 itp_c -> 1 cmp_c + 1 h_c + 1 idp_c (1 M_Cytidine_ + 1 M_ITP_ -> 1 M_CMP_ + 1 M_H_ + 1 M_IDP_)
+URIK3:1 itp_c + 1 uri_c -> 1 h_c + 1 idp_c + 1 ump_c (1 M_ITP_ + 1 M_Uridine_ -> 1 M_H_ + 1 M_IDP_ + 1 M_UMP_)
+
+

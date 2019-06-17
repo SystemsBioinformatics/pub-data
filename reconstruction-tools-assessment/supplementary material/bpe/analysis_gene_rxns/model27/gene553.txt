@@ -1,0 +1,19 @@
+notRecovered:
+HISTD:1 h2o_c + 1 histd_c + 2 nad_c -> 3 h_c + 1 his__L_c + 2 nadh_c (1 H2O + 1 L-Histidinol + 2 Nicotinamide adenine dinucleotide -> 3 H+ + 1 L-Histidine + 2 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+R03012:1 C00003_c + 1 C00860_c <=> 1 C00080_c + 1 C00004_c + 1 C01929_c (1 NAD+ + 1 L-Histidinol <=> 1 H+ + 1 NADH + 1 L-Histidinal)
+R01163:1 C00003_c + 1 C00001_c + 1 C01929_c <=> 1 C00135_c + 1 C00080_c + 1 C00004_c (1 NAD+ + 1 H2O + 1 L-Histidinal <=> 1 L-Histidine + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00135_c (L-Histidine)
+C00860_c (L-Histidinol)
+C01929_c (L-Histidinal)
+
+

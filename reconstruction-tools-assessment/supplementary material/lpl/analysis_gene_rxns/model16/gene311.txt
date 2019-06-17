@@ -1,0 +1,4 @@
+notRecovered:
+GUAt2r:1 gua_e + 1 h_e -> 1 gua_c + 1 h_c (1 M_Guanine_ + 1 M_H_ -> 1 M_Guanine_ + 1 M_H_)
+
+

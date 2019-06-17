@@ -1,0 +1,15 @@
+notRecovered:
+OPHBDC:1 3ophb_c + 1 h_c -> 1 2oph_c + 1 co2_c (1 M_3_Octaprenyl_4_hydroxybenzoate_ + 1 M_H_ -> 1 M_2_Octaprenylphenol_ + 1 M_CO2_)
+
+
+AdditionalNotInModel:
+R11225:1 C21214_c + 1 C01847_c <=> 1 C21215_c + 1 C00009_c (1 Dimethylallyl phosphate + 1 Reduced FMN <=> 1 Prenylated FMNH2 + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C01847_c (Reduced FMN)
+C21214_c (Dimethylallyl phosphate)
+C21215_c (Prenylated FMNH2)
+
+

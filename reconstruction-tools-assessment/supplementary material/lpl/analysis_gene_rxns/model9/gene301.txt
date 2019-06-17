@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+G6PI3:1 g6p_B_c <=> 1 f6p_c (1 Beta D glucose 6 phosphate C6H11O9P <=> 1 D-Fructose 6-phosphate)
+
+

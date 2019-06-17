@@ -1,0 +1,4 @@
+notRecovered:
+AMAOTr:1 8aonn_c + 1 amet_c <=> 1 amob_c + 1 dann_c (1 8-Amino-7-oxononanoate + 1 S-Adenosyl-L-methionine <=> 1 S-Adenosyl-4-methylthio-2-oxobutanoate + 1 7,8-Diaminononanoate)
+
+

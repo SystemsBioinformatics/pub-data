@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+FARNESYLTRANSTRANSFERASE-RXN:1 DELTA3-ISOPENTENYL-PP_c + 1 FARNESYL-PP_c -> 1 GERANYLGERANYL-PP_c + 1 PPI_c (1 isopentenyl diphosphate + 1 (2E,6E)-farnesyl diphosphate -> 1 geranylgeranyl diphosphate + 1 diphosphate)
+
+
+AdditionalMetabolites:
+DELTA3-ISOPENTENYL-PP_c (isopentenyl diphosphate)
+FARNESYL-PP_c ((2E,6E)-farnesyl diphosphate)
+GERANYLGERANYL-PP_c (geranylgeranyl diphosphate)
+PPI_c (diphosphate)
+
+

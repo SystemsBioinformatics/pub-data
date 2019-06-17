@@ -1,0 +1,37 @@
+notRecovered:
+ACPS1:1 apoACP_c + 1 coa_c -> 1 ACP_c + 1 h_c + 1 pap_c (1 M_apoprotein_acyl_carrier_protein_ + 1 M_Coenzyme_A_ -> 1 M_Acyl_carrier_Protein_ + 1 M_H_ + 1 M_Adenosine_3__5__bisphosphate_)
+
+
+AdditionalNotInModel:
+HOLO-ACP-SYNTH-RXN-apo-ACP/CO-A//3-5-ADP/holo-ACP/PROTON.38.:1 apo-ACP_c + 1 CO-A_c -> 1 3-5-ADP_c + 1 holo-ACP_c + 1 PROTON_c (1 a soluble apo-[acyl-carrier protein] + 1 coenzyme A -> 1 adenosine 3',5'-bisphosphate + 1 a soluble holo-[acyl-carrier protein] + 1 H+)
+HOLO-ACP-SYNTH-RXN:1 All-apo-ACPs_c + 1 CO-A_c -> 1 All-holo-ACPs_c + 1 3-5-ADP_c + 1 PROTON_c (1 all apo-acyl carrier proteins + 1 coenzyme A -> 1 all holo-acyl carrier proteins + 1 adenosine 3',5'-bisphosphate + 1 H+)
+RXN-16759:1 LYS2-peptidyl-carrier-protein_c + 1 CO-A_c <=> 1 Holo-LYS2-peptidyl-carrier-protein_c + 1 3-5-ADP_c + 1 PROTON_c (1 an apo-[LYS2 L-2-aminoadipyl-carrier-protein] + 1 coenzyme A <=> 1 a holo-[LYS2 L-2-aminoadipyl-carrier-protein] + 1 adenosine 3',5'-bisphosphate + 1 H+)
+RXN-19477:1 apo-Peptidyl-carrier-proteins_c + 1 CO-A_c -> 1 holo-Peptidyl-carrier-proteins_c + 1 3-5-ADP_c + 1 PROTON_c (1 an apo [peptidyl-carrier protein] + 1 coenzyme A -> 1 a holo [peptidyl-carrier protein] + 1 adenosine 3',5'-bisphosphate + 1 H+)
+RXN-10674:1 Apo-AsbD-Proteins_c + 1 CO-A_c <=> 1 Holo-AsbD-Proteins_c + 1 3-5-ADP_c + 1 PROTON_c (1 an apo-AsbD acyl-carrier protein + 1 coenzyme A <=> 1 a holo-[AsbD acyl-carrier protein] + 1 adenosine 3',5'-bisphosphate + 1 H+)
+ENTDB-RXN:1 Apo-EntB_c + 1 CO-A_c -> 1 Holo-EntB_c + 1 3-5-ADP_c + 1 PROTON_c (1 an apo-[EntB aryl-carrier protein] + 1 coenzyme A -> 1 a holo-[EntB aryl-carrier protein] + 1 adenosine 3',5'-bisphosphate + 1 H+)
+RXN-10994:1 VibB_c + 1 CO-A_c <=> 1 holo-VibB_c + 1 3-5-ADP_c + 1 PROTON_c (1 an apo-[VibB aryl-carrier protein] + 1 coenzyme A <=> 1 a holo-[VibB aryl-carrier protein] + 1 adenosine 3',5'-bisphosphate + 1 H+)
+RXN-15889:1 Apo-EntF_c + 1 CO-A_c <=> 1 Holo-EntF_c + 1 3-5-ADP_c + 1 PROTON_c (1 an apo-[EntF L-seryl-carrier protein] + 1 coenzyme A <=> 1 a holo-[EntF L-seryl-carrier protein] + 1 adenosine 3',5'-bisphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+3-5-ADP_c (adenosine 3',5'-bisphosphate)
+All-apo-ACPs_c (all apo-acyl carrier proteins)
+All-holo-ACPs_c (all holo-acyl carrier proteins)
+Apo-AsbD-Proteins_c (an apo-AsbD acyl-carrier protein)
+Apo-EntB_c (an apo-[EntB aryl-carrier protein])
+Apo-EntF_c (an apo-[EntF L-seryl-carrier protein])
+CO-A_c (coenzyme A)
+Holo-AsbD-Proteins_c (a holo-[AsbD acyl-carrier protein])
+Holo-EntB_c (a holo-[EntB aryl-carrier protein])
+Holo-EntF_c (a holo-[EntF L-seryl-carrier protein])
+Holo-LYS2-peptidyl-carrier-protein_c (a holo-[LYS2 L-2-aminoadipyl-carrier-protein])
+LYS2-peptidyl-carrier-protein_c (an apo-[LYS2 L-2-aminoadipyl-carrier-protein])
+PROTON_c (H+)
+VibB_c (an apo-[VibB aryl-carrier protein])
+apo-ACP_c (a soluble apo-[acyl-carrier protein])
+apo-Peptidyl-carrier-proteins_c (an apo [peptidyl-carrier protein])
+holo-ACP_c (a soluble holo-[acyl-carrier protein])
+holo-Peptidyl-carrier-proteins_c (a holo [peptidyl-carrier protein])
+holo-VibB_c (a holo-[VibB aryl-carrier protein])
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R05168:1 C00001_c + 1 C06376_c -> 1 C00033_c + 1 C06377_c (1 H2O + 1 N-Acetyl-D-galactosamine 6-phosphate -> 1 Acetate + 1 D-Galactosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00033_c (Acetate)
+C06376_c (N-Acetyl-D-galactosamine 6-phosphate)
+C06377_c (D-Galactosamine 6-phosphate)
+
+

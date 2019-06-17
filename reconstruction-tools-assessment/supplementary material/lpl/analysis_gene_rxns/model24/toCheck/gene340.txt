@@ -1,0 +1,17 @@
+notRecovered:
+MALTabc:1 atp_c + 1 h2o_c + 1 malt_e -> 1 adp_c + 1 h_c + 1 malt_c + 1 pi_c (1 M_ATP_ + 1 M_H2O_ + 1 M_Maltose_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Maltose_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN0-573:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+ABC-34-RXN:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

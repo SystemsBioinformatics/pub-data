@@ -1,0 +1,21 @@
+notRecovered:
+G3PD5:1 glyc3p_c + 1 q8_c -> 1 dhap_c + 1 q8h2_c (1 Glycerol 3-phosphate + 1 Ubiquinone-8 -> 1 Dihydroxyacetone phosphate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00849:1 C00093_c + 1 C15602_c <=> 1 C00111_c + 1 C15603_c (1 sn-Glycerol 3-phosphate + 1 Quinone <=> 1 Glycerone phosphate + 1 Hydroquinone)
+R00848:1 C00016_c + 1 C00093_c <=> 1 C00111_c + 1 C01352_c (1 FAD + 1 sn-Glycerol 3-phosphate <=> 1 Glycerone phosphate + 1 FADH2)
+R08657:1 C00399_c + 1 C00093_c <=> 1 C00111_c + 1 C00390_c (1 Ubiquinone + 1 sn-Glycerol 3-phosphate <=> 1 Glycerone phosphate + 1 Ubiquinol)
+
+
+AdditionalMetabolites:
+C00016_c (FAD)
+C00093_c (sn-Glycerol 3-phosphate)
+C00111_c (Glycerone phosphate)
+C00390_c (Ubiquinol)
+C00399_c (Ubiquinone)
+C01352_c (FADH2)
+C15602_c (Quinone)
+C15603_c (Hydroquinone)
+
+

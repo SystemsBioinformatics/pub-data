@@ -1,0 +1,32 @@
+notRecovered:
+PHBS:100 3hbcoa__R_c + 1 h2o_c -> 100 coa_c + 1 h_c + 1 phb_c (100 (R)-3-hydroxybutanoyl-CoA + 1 H2O -> 100 Coenzyme A + 1 H+ + 1 poly-beta-hydroxybutyrate)
+
+
+AdditionalNotInModel:
+PHAPC100:1 R_3hdcoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C100mclPHA_c (1 (R)-Hydroxydecanoyl-CoA + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C10:0-Medium-chain length Polyhydroxyalkanoate.)
+PHAPC120:1 R_3hddcoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C120mclPHA_c (1 (R)-3-Hydroxydodecanoyl-CoA + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C12:0-Medium-chain length Polyhydroxyalkanoate.)
+PHAPC121:1 R_3hcddec5ecoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C121mclPHA_c (1 (R)-Hydroxydodecanoyl-5-en-CoA + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C12:1-Medium-chain length Polyhydroxyalkanoate.)
+PHAPC140:1 R_3hmrscoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C140mclPHA_c (1 (R)-3-hydroxytetradecanoyl-coa + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C14:0-Medium-chain length Polyhydroxyalkanoate.)
+PHAPC141:1 R_3hcmrs7ecoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C141mclPHA_c (1 (R)-3-hydroxy-cis-myristol-7-eoyl-CoA + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C14:1-Medium-chain length Polyhydroxyalkanoate.)
+PHAPC60:1 R_3hhcoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C60mclPHA_c (1 (R)-Hydroxyhexanoyl-CoA + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C6:0-Medium-chain length Polyhydroxyalkanoate)
+PHAPC80:1 R_3hocoa_c + 1 mclPHAg_c -> 1 coa_c + 1 C80mclPHA_c (1 (R)-Hydroxyoctanoyl-CoA + 1 Medium-chain length Polyhydroxyalkanoate growing. -> 1 Coenzyme A + 1 C8:0-Medium-chain length Polyhydroxyalkanoate.)
+
+
+AdditionalMetabolites:
+C100mclPHA_c (C10:0-Medium-chain length Polyhydroxyalkanoate.)
+C120mclPHA_c (C12:0-Medium-chain length Polyhydroxyalkanoate.)
+C121mclPHA_c (C12:1-Medium-chain length Polyhydroxyalkanoate.)
+C140mclPHA_c (C14:0-Medium-chain length Polyhydroxyalkanoate.)
+C141mclPHA_c (C14:1-Medium-chain length Polyhydroxyalkanoate.)
+C60mclPHA_c (C6:0-Medium-chain length Polyhydroxyalkanoate)
+C80mclPHA_c (C8:0-Medium-chain length Polyhydroxyalkanoate.)
+R_3hcddec5ecoa_c ((R)-Hydroxydodecanoyl-5-en-CoA)
+R_3hcmrs7ecoa_c ((R)-3-hydroxy-cis-myristol-7-eoyl-CoA)
+R_3hdcoa_c ((R)-Hydroxydecanoyl-CoA)
+R_3hddcoa_c ((R)-3-Hydroxydodecanoyl-CoA)
+R_3hhcoa_c ((R)-Hydroxyhexanoyl-CoA)
+R_3hmrscoa_c ((R)-3-hydroxytetradecanoyl-coa)
+R_3hocoa_c ((R)-Hydroxyoctanoyl-CoA)
+mclPHAg_c (Medium-chain length Polyhydroxyalkanoate growing.)
+
+

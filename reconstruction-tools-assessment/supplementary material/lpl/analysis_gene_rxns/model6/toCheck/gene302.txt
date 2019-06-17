@@ -1,0 +1,13 @@
+notRecovered:
+DASYN_LPL:1 ctp_c + 1 h_c + 0.01 pa_LPL_c <=> 0.01 cdpdag_LPL_c + 1 ppi_c (1 M_CTP_ + 1 M_H_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__ <=> 0.01 M_CDPdiacylglycerol__LPL_specific__ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+PHCYT_BS:0.01 12dag3p_BS_c + 1 ctp_c + 1 h_c -> 0.01 cdpdag_BS_c + 1 ppi_c (0.01 1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100 + 1 CTP C9H12N3O14P3 + 1 H+ -> 0.01 CDPdiacylglycerol  B subtilis  C4336H7772N300O1500P200 + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+12dag3p_BS_c (1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100)
+cdpdag_BS_c (CDPdiacylglycerol  B subtilis  C4336H7772N300O1500P200)
+
+

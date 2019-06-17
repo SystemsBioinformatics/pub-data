@@ -1,0 +1,15 @@
+notRecovered:
+HSST:1 hom__L_c + 1 succoa_c -> 1 coa_c + 1 suchms_c (1 L-Homoserine + 1 Succinyl-CoA -> 1 Coenzyme A + 1 O-Succinyl-L-homoserine)
+
+
+AdditionalNotInModel:
+rxn02199:1 cpd00022_c + 1 cpd00680_c <=> 1 cpd00010_c + 1 cpd02267_c (1 Acetyl_CoA_c0 + 1 Chloramphenicol_c0 <=> 1 CoA_c0 + 1 Chloramphenicol_3_acetate_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00680_c (Chloramphenicol_c0)
+cpd02267_c (Chloramphenicol_3_acetate_c0)
+
+

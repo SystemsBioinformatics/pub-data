@@ -1,0 +1,15 @@
+notRecovered:
+MALT:1 h2o_c + 1 malt_c -> 2 glc__D_c (1 M_H2O_ + 1 M_Maltose_ -> 2 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+TRE6PHYDRO-RXN:1 TREHALOSE-6P_c + 1 WATER_c -> 1 D-glucopyranose-6-phosphate_c + 1 Glucopyranose_c (1 alpha,alpha-trehalose 6-phosphate + 1 H2O -> 1 D-glucopyranose-6-phosphate + 1 Glucopyranose)
+
+
+AdditionalMetabolites:
+D-glucopyranose-6-phosphate_c (D-glucopyranose-6-phosphate)
+Glucopyranose_c (Glucopyranose)
+TREHALOSE-6P_c (alpha,alpha-trehalose 6-phosphate)
+WATER_c (H2O)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+DNTPPA_1:1 ahdt_c + 1 h2o_c -> 1 dhpmp_c + 1 ppi_c (1 M_2_Amino_4_hydroxy_6__erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_ + 1 M_H2O_ -> 1 M_Dihydroneopterin_monophosphate_ + 1 M_Diphosphate_)
+
+

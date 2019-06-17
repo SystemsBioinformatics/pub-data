@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01671:1 cpd00002_c + 1 cpd02016_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00355_c (1 ATP_c0 + 1 N_Ribosylnicotinamide_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Nicotinamide_ribonucleotide_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00355_c (Nicotinamide_ribonucleotide_c0)
+cpd02016_c (N_Ribosylnicotinamide_c0)
+
+

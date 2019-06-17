@@ -1,0 +1,6 @@
+notRecovered:
+FTHFLi:1 atp_c + 1 for_c + 1 thf_c -> 1 10fthf_c + 1 adp_c + 1 pi_c (1 M_ATP_ + 1 M_Formate_ + 1 M_5_6_7_8_Tetrahydrofolate_ -> 1 M_10_Formyltetrahydrofolate_ + 1 M_ADP_ + 1 M_Phosphate_)
+
+
+AdditionalInModel:
+MTHFC:1 h2o_c + 1 methf_c <=> 1 10fthf_c + 1 h_c (1 H2O + 1 5,10-Methenyltetrahydrofolate <=> 1 10-Formyltetrahydrofolate + 1 H+)

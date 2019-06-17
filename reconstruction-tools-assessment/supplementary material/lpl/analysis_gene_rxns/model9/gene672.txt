@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+LYXI:1 lyx__L_c -> 1 xylu__L_c (1 L-Lyxose -> 1 L-Xylulose)
+
+
+AdditionalMetabolites:
+lyx__L_c (L-Lyxose)
+xylu__L_c (L-Xylulose)
+
+

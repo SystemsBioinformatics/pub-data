@@ -1,0 +1,4 @@
+notRecovered:
+CRCT:1 ctp_c + 1 h_c + 1 rbt5p_c -> 1 cdprbtl_c + 1 ppi_c (1 M_CTP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_ -> 1 M_CDPribitol_ + 1 M_Diphosphate_)
+
+

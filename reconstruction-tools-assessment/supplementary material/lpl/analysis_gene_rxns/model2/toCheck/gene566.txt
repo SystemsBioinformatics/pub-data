@@ -1,0 +1,13 @@
+notRecovered:
+MTAN:1 5mta_c + 1 h2o_c -> 1 5mtr_c + 1 ade_c (1 M_5_Methylthioadenosine_ + 1 M_H2O_ -> 1 M_5_Methylthio_D_ribose_ + 1 M_Adenine_)
+
+
+AdditionalNotInModel:
+5DOAN:1 h2o_c + 1 dad_5_c -> 1 5drib_c + 1 ade_c (1 H2O + 1 5'-Deoxyadenosine -> 1 5'-deoxyribose + 1 Adenine)
+
+
+AdditionalMetabolites:
+5drib_c (5'-deoxyribose)
+dad_5_c (5'-Deoxyadenosine)
+
+

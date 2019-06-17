@@ -1,0 +1,4 @@
+notRecovered:
+P5CD:1 1pyr5c_c + 2 h2o_c + 1 nad_c <=> 1 glu__L_c + 1 h_c + 1 nadh_c (1 1-Pyrroline-5-carboxylate + 2 H2O + 1 Nicotinamide adenine dinucleotide <=> 1 L-Glutamate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+

@@ -1,0 +1,25 @@
+AdditionalNotInModel:
+R00650:1 C00019_c + 1 C00155_c <=> 1 C00021_c + 1 C00073_c (1 S-Adenosyl-L-methionine + 1 L-Homocysteine <=> 1 S-Adenosyl-L-homocysteine + 1 L-Methionine)
+R01224:1 C00006_c + 1 C00440_c <=> 1 C00005_c + 1 C00080_c + 1 C00143_c (1 NADP+ + 1 5-Methyltetrahydrofolate <=> 1 NADPH + 1 H+ + 1 5,10-Methylenetetrahydrofolate)
+R07168:1 C00003_c + 1 C00440_c <=> 1 C00004_c + 1 C00080_c + 1 C00143_c (1 NAD+ + 1 5-Methyltetrahydrofolate <=> 1 NADH + 1 H+ + 1 5,10-Methylenetetrahydrofolate)
+R09365:1 C04489_c + 1 C05698_c -> 1 C04144_c + 1 C05335_c (1 5-Methyltetrahydropteroyltri-L-glutamate + 1 Selenohomocysteine -> 1 Tetrahydropteroyltri-L-glutamate + 1 L-Selenomethionine)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C00073_c (L-Methionine)
+C00080_c (H+)
+C00143_c (5,10-Methylenetetrahydrofolate)
+C00155_c (L-Homocysteine)
+C00440_c (5-Methyltetrahydrofolate)
+C04144_c (Tetrahydropteroyltri-L-glutamate)
+C04489_c (5-Methyltetrahydropteroyltri-L-glutamate)
+C05335_c (L-Selenomethionine)
+C05698_c (Selenohomocysteine)
+
+

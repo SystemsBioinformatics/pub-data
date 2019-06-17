@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+DHNPA2r:1 dhnpt_c <=> 1 gcald_c + 1 6hmhpt_c (1 Dihydroneopterin <=> 1 Glycolaldehyde + 1 6-hydroxymethyl dihydropterin)
+DHPTPE:1 ahdt_c <=> 1 dhmptp_c (1 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate <=> 1 Dihydromonapterin-triphosphate)
+
+
+AdditionalMetabolites:
+6hmhpt_c (6-hydroxymethyl dihydropterin)
+dhmptp_c (Dihydromonapterin-triphosphate)
+
+
+AdditionalInModel:
+DHNPA_1:1 dhnpt_c -> 1 gcald_c + 1 2ahhmp_c (1 Dihydroneopterin -> 1 Glycolaldehyde + 1 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2)

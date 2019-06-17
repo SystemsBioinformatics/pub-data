@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+MMUM-RXN:1 CPD-397_c + 1 HOMO-CYS_c -> 2 MET_c + 1 PROTON_c (1 S-methyl-L-methionine + 1 L-homocysteine -> 2 L-methionine + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-397_c (S-methyl-L-methionine)
+HOMO-CYS_c (L-homocysteine)
+MET_c (L-methionine)
+PROTON_c (H+)
+
+

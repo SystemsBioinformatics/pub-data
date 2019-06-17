@@ -1,0 +1,4 @@
+notRecovered:
+DHDPRy:1 23dhdp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 thdp_c (1 M_2_3_Dihydrodipicolinate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_2_3_4_5_Tetrahydrodipicolinate_)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+MUCLACISO:1 muclac_c <=> 1 5odhf2a_c (1 Muconolactone <=> 1 3-Oxoadipate enol-lactone)
+
+
+AdditionalNotInModel:
+R06990:1 C14610_c <=> 1 C03586_c (1 (S)-5-Oxo-2,5-dihydrofuran-2-acetate <=> 1 2-Oxo-2,3-dihydrofuran-5-acetate)
+
+
+AdditionalMetabolites:
+C03586_c (2-Oxo-2,3-dihydrofuran-5-acetate)
+C14610_c ((S)-5-Oxo-2,5-dihydrofuran-2-acetate)
+
+

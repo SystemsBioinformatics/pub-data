@@ -1,0 +1,29 @@
+AdditionalNotInModel:
+R02508:1 C00542_c + 1 C00042_c <=> 1 C01118_c + 1 C00097_c (1 Cystathionine + 1 Succinate <=> 1 O-Succinyl-L-homoserine + 1 L-Cysteine)
+R00999:1 C01118_c + 1 C00001_c <=> 1 C00042_c + 1 C00014_c + 1 C00109_c (1 O-Succinyl-L-homoserine + 1 H2O <=> 1 Succinate + 1 Ammonia + 1 2-Oxobutanoate)
+R04944:1 C05702_c + 1 C05688_c <=> 1 C05699_c + 1 C00009_c (1 O-Phosphorylhomoserine + 1 L-Selenocysteine <=> 1 L-Selenocystathionine + 1 Orthophosphate)
+R04945:1 C01077_c + 1 C05688_c <=> 1 C00033_c + 1 C05699_c (1 O-Acetyl-L-homoserine + 1 L-Selenocysteine <=> 1 Acetate + 1 L-Selenocystathionine)
+R04946:1 C01118_c + 1 C05688_c <=> 1 C00042_c + 1 C05699_c (1 O-Succinyl-L-homoserine + 1 L-Selenocysteine <=> 1 Succinate + 1 L-Selenocystathionine)
+R03260:1 C01118_c + 1 C00097_c <=> 1 C00042_c + 1 C02291_c (1 O-Succinyl-L-homoserine + 1 L-Cysteine <=> 1 Succinate + 1 L-Cystathionine)
+R01288:1 C01118_c + 1 C00283_c <=> 1 C00042_c + 1 C00155_c (1 O-Succinyl-L-homoserine + 1 Hydrogen sulfide <=> 1 Succinate + 1 L-Homocysteine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00014_c (Ammonia)
+C00033_c (Acetate)
+C00042_c (Succinate)
+C00097_c (L-Cysteine)
+C00109_c (2-Oxobutanoate)
+C00155_c (L-Homocysteine)
+C00283_c (Hydrogen sulfide)
+C00542_c (Cystathionine)
+C01077_c (O-Acetyl-L-homoserine)
+C01118_c (O-Succinyl-L-homoserine)
+C02291_c (L-Cystathionine)
+C05688_c (L-Selenocysteine)
+C05699_c (L-Selenocystathionine)
+C05702_c (O-Phosphorylhomoserine)
+
+

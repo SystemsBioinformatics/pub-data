@@ -1,0 +1,4 @@
+notRecovered:
+ASPTRS:1 asp__L_c + 1 atp_c + 1 trnaasp_c -> 1 amp_c + 1 asptrna_c + 1 ppi_c (1 L-Aspartate + 1 ATP + 1 tRNA(Asp) -> 1 AMP + 1 L-Aspartyl-tRNA(Asp) + 1 Diphosphate)
+
+

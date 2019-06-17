@@ -1,0 +1,19 @@
+notRecovered:
+CYSTGL:1 cyst__L_c + 1 h2o_c -> 1 2obut_c + 1 cys__L_c + 1 nh4_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_2_Oxobutanoate_ + 1 M_L_Cysteine_ + 1 M_Ammonium_)
+CYSTL:1 cyst__L_c + 1 h2o_c -> 1 hcys__L_c + 1 nh4_c + 1 pyr_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_L_Homocysteine_ + 1 M_Ammonium_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+RXN-15131:1 L-CYSTATHIONINE_c -> 1 2-AMINOACRYLATE_c + 1 HOMO-CYS_c + 1 PROTON_c (1 L-cystathionine -> 1 2-aminoprop-2-enoate + 1 L-homocysteine + 1 H+)
+RXN-15129:1 CYS_c -> 1 2-AMINOACRYLATE_c + 1 HS_c + 1 PROTON_c (1 L-cysteine -> 1 2-aminoprop-2-enoate + 1 hydrogen sulfide + 1 H+)
+
+
+AdditionalMetabolites:
+2-AMINOACRYLATE_c (2-aminoprop-2-enoate)
+CYS_c (L-cysteine)
+HOMO-CYS_c (L-homocysteine)
+HS_c (hydrogen sulfide)
+L-CYSTATHIONINE_c (L-cystathionine)
+PROTON_c (H+)
+
+

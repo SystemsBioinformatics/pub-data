@@ -1,0 +1,13 @@
+notRecovered:
+CLPNS_LPL:0.02 pg_LPL_c <=> 0.01 clpn_LPL_c + 1 glyc_c (0.02 M_Phospatidylglycerol__LPL_specific__ <=> 0.01 M_Cardiolipin__LPL_specific__ + 1 M_Glycerol_)
+
+
+AdditionalNotInModel:
+CLPNS_LLA:0.02 pg_LLA_c <=> 1 glyc_c + 0.01 clpn_LLA_c (0.02 Phospatidylglycerol  Lactis specific  <=> 1 Glycerol + 0.01 Cardiolipin  lactis specific)
+
+
+AdditionalMetabolites:
+clpn_LLA_c (Cardiolipin  lactis specific)
+pg_LLA_c (Phospatidylglycerol  Lactis specific)
+
+

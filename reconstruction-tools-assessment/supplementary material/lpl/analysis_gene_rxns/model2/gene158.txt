@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+3HAD121:1 3hcddec5eACP_c -> 1 h2o_c + 1 t3c5ddeceACP_c (1 (R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein] -> 1 H2O + 1 Trans-3-cis-5-dodecenoyl-[acyl-carrier protein])
+3HAD141:1 3hcmrs7eACP_c -> 1 h2o_c + 1 t3c7mrseACP_c (1 (R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein] -> 1 H2O + 1 Trans-3-cis-7-myristoleoyl-[acyl-carrier protein])
+3HAD161:1 3hcpalm9eACP_c -> 1 h2o_c + 1 t3c9palmeACP_c (1 (R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein] -> 1 H2O + 1 Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein])
+3HAD181:1 3hcvac11eACP_c -> 1 h2o_c + 1 t3c11vaceACP_c (1 (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein] -> 1 H2O + 1 Trans-3-cis-11-vacceoyl-[acyl-carrier protein])
+
+
+AdditionalMetabolites:
+3hcddec5eACP_c ((R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein])
+3hcmrs7eACP_c ((R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein])
+3hcpalm9eACP_c ((R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein])
+3hcvac11eACP_c ((R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein])
+t3c11vaceACP_c (Trans-3-cis-11-vacceoyl-[acyl-carrier protein])
+t3c5ddeceACP_c (Trans-3-cis-5-dodecenoyl-[acyl-carrier protein])
+t3c7mrseACP_c (Trans-3-cis-7-myristoleoyl-[acyl-carrier protein])
+t3c9palmeACP_c (Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein])
+
+

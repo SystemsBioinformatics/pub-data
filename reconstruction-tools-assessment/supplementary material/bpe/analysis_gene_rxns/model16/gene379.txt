@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R10092:1 C00001_c + 1 C00011_c -> 1 C00080_c + 1 C00288_c (1 H2O + 1 CO2 -> 1 H+ + 1 HCO3-)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00080_c (H+)
+C00288_c (HCO3-)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+HXAND:1 h2o_c + 1 hxan_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xan_c (1 H2O + 1 Hypoxanthine + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Xanthine)
+
+
+AdditionalNotInModel:
+R07157:1 C00001_c + 1 C00139_c + 1 C00237_c <=> 1 C00011_c + 1 C00138_c (1 H2O + 1 Oxidized ferredoxin + 1 CO <=> 1 CO2 + 1 Reduced ferredoxin)
+R08034:1 C16396_c <=> 1 C16399_c (1 2,4-Diamino-6-nitrotoluene <=> 1 2,4-Diamino-6-hydroxylaminotoluene)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00237_c (CO)
+C16396_c (2,4-Diamino-6-nitrotoluene)
+C16399_c (2,4-Diamino-6-hydroxylaminotoluene)
+
+

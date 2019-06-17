@@ -1,0 +1,4 @@
+notRecovered:
+TRE6PH:1 h2o_c + 1 tre6p_c -> 1 g6p_c + 1 glc__D_c (1 M_H2O_ + 1 M_alpha_alpha__Trehalose_6_phosphate_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_D_Glucose_)
+
+

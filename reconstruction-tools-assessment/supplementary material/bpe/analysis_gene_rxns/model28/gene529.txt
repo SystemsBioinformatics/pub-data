@@ -1,0 +1,15 @@
+notRecovered:
+SUCDi:1 q8_c + 1 succ_c -> 1 fum_c + 1 q8h2_c (1 Ubiquinone-8 + 1 Succinate -> 1 Fumarate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R02164:1 C15602_c + 1 C00042_c <=> 1 C15603_c + 1 C00122_c (1 Quinone + 1 Succinate <=> 1 Hydroquinone + 1 Fumarate)
+
+
+AdditionalMetabolites:
+C00042_c (Succinate)
+C00122_c (Fumarate)
+C15602_c (Quinone)
+C15603_c (Hydroquinone)
+
+

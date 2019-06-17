@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn00539:1 cpd00162_c <=> 1 cpd00013_c + 1 cpd00071_c (1 Aminoethanol_c0 <=> 1 NH3_c0 + 1 Acetaldehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00013_c (NH3_c0)
+cpd00071_c (Acetaldehyde_c0)
+cpd00162_c (Aminoethanol_c0)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+HPPK:1 2ahhmp_c + 1 atp_c -> 1 2ahhmd_c + 1 amp_c + 1 h_c (1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_ATP_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_diphosphate_ + 1 M_AMP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+H2PTERIDINEPYROPHOSPHOKIN-RXN:1 AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c + 1 ATP_c -> 1 DIHYDROPTERIN-CH2OH-PP_c + 1 PROTON_c + 1 AMP_c (1 6-(hydroxymethyl)-7,8-dihydropterin + 1 ATP -> 1 (7,8-dihydropterin-6-yl)methyl diphosphate + 1 H+ + 1 AMP)
+RXN-15733:1 CPD-16953_c + 1 ATP_c <=> 1 CPD-16954_c + 1 PROTON_c + 1 AMP_c (1 2-amino-6-[1-hydroxyethyl]-7-methyl-7,8-dihydropterin + 1 ATP <=> 1 [1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl diphosphate + 1 H+ + 1 AMP)
+
+
+AdditionalMetabolites:
+AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c (6-(hydroxymethyl)-7,8-dihydropterin)
+AMP_c (AMP)
+ATP_c (ATP)
+CPD-16953_c (2-amino-6-[1-hydroxyethyl]-7-methyl-7,8-dihydropterin)
+CPD-16954_c ([1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl diphosphate)
+DIHYDROPTERIN-CH2OH-PP_c ((7,8-dihydropterin-6-yl)methyl diphosphate)
+PROTON_c (H+)
+
+

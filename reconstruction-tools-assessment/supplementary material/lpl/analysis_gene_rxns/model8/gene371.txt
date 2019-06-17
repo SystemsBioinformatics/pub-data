@@ -1,0 +1,27 @@
+notRecovered:
+PGGT4:1 uaagmdalac_c -> 1 PGlac2_c + 1 udcpdp_c (1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_peptidoglycan_with_D_lac_as_C_terminal_residue_to_form_pentadepsipeptide_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+MCTP2Aex:1 murein5p5p5p_e -> 1 murein5px4px4p_e + 2 ala__D_e (1 Three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 Three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain) + 2 D-Alanine)
+PGGT2:1 uaaAgla_c -> 1 udcpdp_c + 1 PG_c (1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine -> 1 Undecaprenyl diphosphate + 1 Peptidoglycan)
+MCTP1Bex:1 murein5p5p_e -> 1 murein5px3p_e + 1 alaala_e (1 Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 Two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain) + 1 D-Alanyl-D-alanine)
+MCTP1Aex:1 murein5p5p_e -> 1 ala__D_e + 1 murein5px4p_e (1 Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanine + 1 Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain))
+MPTG2ex:1 uaagmda_e + 1 murein5p5p_e -> 1 h_e + 1 udcpdp_e + 1 murein5p5p5p_e (1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala + 1 Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 H+ + 1 Undecaprenyl diphosphate + 1 Three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain))
+MPTGex:2 uaagmda_e -> 2 h_e + 2 udcpdp_e + 1 murein5p5p_e (2 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala -> 2 H+ + 2 Undecaprenyl diphosphate + 1 Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain))
+
+
+AdditionalMetabolites:
+PG_c (Peptidoglycan)
+ala__D_e (D-Alanine)
+alaala_e (D-Alanyl-D-alanine)
+murein5p5p5p_e (Three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain))
+murein5p5p_e (Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain))
+murein5px3p_e (Two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain))
+murein5px4p_e (Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain))
+murein5px4px4p_e (Three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain))
+uaaAgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uaagmda_e (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala)
+udcpdp_e (Undecaprenyl diphosphate)
+
+

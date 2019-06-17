@@ -1,0 +1,20 @@
+notRecovered:
+CYTB_B2:2 h_c + 1 mql7_c + 0.5 o2_c -> 1 h2o_c + 2 h_e + 1 mqn7_c (2 M_H_ + 1 M_Menaquinol_7_ + 0.5 M_O2_ -> 1 M_H2O_ + 2 M_H_ + 1 M_Menaquinone_7_)
+
+
+AdditionalNotInModel:
+rxn10113:2.5 cpd00067_c + 1 cpd15561_c + 0.5 cpd00007_c -> 1 cpd00001_c + 2.5 cpd00067_e + 1 cpd15560_c (2.5 H_plus__c0 + 1 Ubiquinol_8_c0 + 0.5 O2_c0 -> 1 H2O_c0 + 2.5 H_plus__e0 + 1 Ubiquinone_8_c0)
+rxn10806:2 cpd00067_c + 0.5 cpd00007_c + 1 cpd15499_c -> 1 cpd00001_c + 2 cpd00067_e + 1 cpd15500_c (2 H_plus__c0 + 0.5 O2_c0 + 1 Menaquinol_8_c0 -> 1 H2O_c0 + 2 H_plus__e0 + 1 Menaquinone_8_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00007_c (O2_c0)
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+cpd15499_c (Menaquinol_8_c0)
+cpd15500_c (Menaquinone_8_c0)
+cpd15560_c (Ubiquinone_8_c0)
+cpd15561_c (Ubiquinol_8_c0)
+
+

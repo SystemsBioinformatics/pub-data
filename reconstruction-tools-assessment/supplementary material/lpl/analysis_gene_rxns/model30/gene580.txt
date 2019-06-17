@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+R06863:1 C05382_c + 1 C00068_c <=> 1 C00117_c + 1 C13378_c (1 Sedoheptulose 7-phosphate + 1 Thiamin diphosphate <=> 1 D-Ribose 5-phosphate + 1 alpha,beta-Dihydroxyethyl-TPP)
+R06861:1 C00231_c + 1 C00068_c <=> 1 C00118_c + 1 C13378_c (1 D-Xylulose 5-phosphate + 1 Thiamin diphosphate <=> 1 D-Glyceraldehyde 3-phosphate + 1 alpha,beta-Dihydroxyethyl-TPP)
+R06590:1 C00117_c + 1 C12214_c <=> 1 C05382_c + 1 C12215_c (1 D-Ribose 5-phosphate + 1 Aminofructose 6-phosphate <=> 1 Sedoheptulose 7-phosphate + 1 Iminoerythrose 4-phosphate)
+R01067:1 C00085_c + 1 C00118_c <=> 1 C00231_c + 1 C00279_c (1 D-Fructose 6-phosphate + 1 D-Glyceraldehyde 3-phosphate <=> 1 D-Xylulose 5-phosphate + 1 D-Erythrose 4-phosphate)
+
+
+AdditionalMetabolites:
+C00068_c (Thiamin diphosphate)
+C00085_c (D-Fructose 6-phosphate)
+C00117_c (D-Ribose 5-phosphate)
+C00118_c (D-Glyceraldehyde 3-phosphate)
+C00231_c (D-Xylulose 5-phosphate)
+C00279_c (D-Erythrose 4-phosphate)
+C05382_c (Sedoheptulose 7-phosphate)
+C12214_c (Aminofructose 6-phosphate)
+C12215_c (Iminoerythrose 4-phosphate)
+C13378_c (alpha,beta-Dihydroxyethyl-TPP)
+
+

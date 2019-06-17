@@ -1,0 +1,13 @@
+notRecovered:
+UNDPGLCNACDEACT_BP:1 h2o_c + 1 unaga_c -> 1 ac_c + 1 h_c + 1 undpglcn_BP_c (1 H2O + 1 undecaprenyl-diphosphate-N-acetyl-glucosamine -> 1 Acetate + 1 H+ + 1 undecaprenyl-diphosphate-glucosamine)
+
+
+AdditionalNotInModel:
+DC6PDA:1 chtbs6p_c + 1 h2o_c -> 1 ac_c + 1 mchtbs6p_c (1 Diacetylchitobiose-6-phosphate + 1 H2O H2O -> 1 Acetate + 1 N-monoacetylchitobiose 6'-phosphate)
+
+
+AdditionalMetabolites:
+chtbs6p_c (Diacetylchitobiose-6-phosphate)
+mchtbs6p_c (N-monoacetylchitobiose 6'-phosphate)
+
+

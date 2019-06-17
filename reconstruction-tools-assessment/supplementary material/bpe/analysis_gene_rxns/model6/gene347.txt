@@ -1,0 +1,9 @@
+notRecovered:
+DPHETA:1 phe_D_c + 1 pyr_c <=> 1 ala__D_c + 1 phpyr_c (1 D-Phenylalanine + 1 Pyruvate <=> 1 D-Alanine + 1 Phenylpyruvate)
+ALATA_D3:1 akg_c + 1 ala__D_c <=> 1 glu__L_c + 1 pyr_c (1 2-Oxoglutarate + 1 D-Alanine <=> 1 L-Glutamate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+ALATA_D:1 akg_c + 1 ala__D_c <=> 1 glu__D_c + 1 pyr_c (1 2-Oxoglutarate + 1 D-Alanine <=> 1 D-Glutamate + 1 Pyruvate)
+
+

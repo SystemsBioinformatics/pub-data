@@ -1,0 +1,16 @@
+notRecovered:
+DHNPA_1:1 dhnpt_c -> 1 2ahhmp_c + 1 gcald_c (1 M_2_Amino_4_hydroxy_6__D_erythro_1_2_3_trihydroxypropyl__7_8_dihydropteridine_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_Glycolaldehyde_)
+
+
+AdditionalNotInModel:
+RXN-10857:1 CPD-11770_c -> 1 GLYCOLALDEHYDE_c + 1 AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c (1 7,8-dihydromonapterin -> 1 glycolaldehyde + 1 6-(hydroxymethyl)-7,8-dihydropterin)
+H2NEOPTERINALDOL-RXN:1 DIHYDRO-NEO-PTERIN_c -> 1 GLYCOLALDEHYDE_c + 1 AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c (1 7,8-dihydroneopterin -> 1 glycolaldehyde + 1 6-(hydroxymethyl)-7,8-dihydropterin)
+
+
+AdditionalMetabolites:
+AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c (6-(hydroxymethyl)-7,8-dihydropterin)
+CPD-11770_c (7,8-dihydromonapterin)
+DIHYDRO-NEO-PTERIN_c (7,8-dihydroneopterin)
+GLYCOLALDEHYDE_c (glycolaldehyde)
+
+

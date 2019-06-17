@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+PKETF:1 f6p_c + 1 pi_c -> 1 actp_c + 1 e4p_c + 1 h2o_c (1 D-Fructose 6-phosphate + 1 Phosphate -> 1 Acetyl phosphate + 1 D-Erythrose 4-phosphate + 1 H2O H2O)
+
+

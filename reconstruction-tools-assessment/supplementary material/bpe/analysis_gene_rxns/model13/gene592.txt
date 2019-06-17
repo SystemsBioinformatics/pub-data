@@ -1,0 +1,19 @@
+notRecovered:
+TDSK_BP:1 atp_c + 1 lipidAds_BP_c -> 1 adp_c + 1 h_c + 1 lipidA_BP_c (1 ATP + 1 Lipid A Disaccharide (B. pertussis specific) -> 1 ADP + 1 H+ + 1 Lipid A Disaccharide Bisphosphate (B. pertussis specific))
+
+
+AdditionalNotInModel:
+rxn03181:1 cpd00002_c + 1 cpd03002_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02993_c (1 ATP_c0 + 1 Lipid_A_disaccharide_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Lipid_IVA_c0)
+rxn02460:1 cpd00002_c + 1 cpd00916_c <=> 1 cpd00008_c + 1 cpd00934_c (1 ATP_c0 + 1 Ins1_4_5P3_c0 <=> 1 ADP_c0 + 1 Inositol_1_3_4_5_tetrakisphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00916_c (Ins1_4_5P3_c0)
+cpd00934_c (Inositol_1_3_4_5_tetrakisphosphate_c0)
+cpd02993_c (Lipid_IVA_c0)
+cpd03002_c (Lipid_A_disaccharide_c0)
+
+

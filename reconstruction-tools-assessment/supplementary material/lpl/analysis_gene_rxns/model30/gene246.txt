@@ -1,0 +1,18 @@
+notRecovered:
+PZS:1 gtp_c -> 1 cpmp_c + 1 ppi_c (1 M_GTP_ -> 1 M_Precursor_Z_in_molybdenum_cofactor_biosynthesis_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+R09394:1 C00030_c + 1 C00019_c + 1 C00044_c <=> 1 C05198_c + 1 C00073_c + 1 C00028_c + 1 C21310_c (1 Reduced acceptor + 1 S-Adenosyl-L-methionine + 1 GTP <=> 1 5''-Deoxyadenosine + 1 L-Methionine + 1 Acceptor + 1 (8S)-3'',8-Cyclo-7,8-dihydroguanosine 5''-triphosphate)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00044_c (GTP)
+C00073_c (L-Methionine)
+C05198_c (5''-Deoxyadenosine)
+C21310_c ((8S)-3'',8-Cyclo-7,8-dihydroguanosine 5''-triphosphate)
+
+

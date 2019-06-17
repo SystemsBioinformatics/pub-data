@@ -1,0 +1,20 @@
+notRecovered:
+GMPR:1 gmp_c + 2 h_c + 1 nadph_c -> 1 imp_c + 1 nadp_c + 1 nh4_c (1 M_GMP_ + 2 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M_IMP_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Ammonium_)
+
+
+AdditionalNotInModel:
+R01130:1 C00001_c + 1 C00003_c + 1 C00130_c <=> 1 C00004_c + 1 C00080_c + 1 C00655_c (1 H2O + 1 NAD+ + 1 IMP <=> 1 NADH + 1 H+ + 1 Xanthosine 5'-phosphate)
+R08240:1 C00001_c + 1 C00003_c + 1 C04646_c -> 1 C00004_c + 1 C00080_c + 1 C16618_c (1 H2O + 1 NAD+ + 1 6-Thioinosine-5'-monophosphate -> 1 NADH + 1 H+ + 1 6-Thioxanthine 5'-monophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00130_c (IMP)
+C00655_c (Xanthosine 5'-phosphate)
+C04646_c (6-Thioinosine-5'-monophosphate)
+C16618_c (6-Thioxanthine 5'-monophosphate)
+
+

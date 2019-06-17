@@ -12,7 +12,7 @@ end
 coverage_p = 100*coverage/nOriginalModel;
 additional_p = 100*additional/nOriginalModel;
 ratio = coverage_p./additional_p;
-
+% ratio = coverage_p./(additional_p.*(100-coverage_p));
 names = names(2:end);
 if size(names,2)>size(names,1)
     names = names';

@@ -1,0 +1,11 @@
+notRecovered:
+SO4t2pp:1 h_p + 1 so4_p -> 1 h_c + 1 so4_c (1 H+ + 1 Sulfate -> 1 H+ + 1 Sulfate)
+
+
+AdditionalNotInModel:
+ASPtpp:1 asp__L_p <=> 1 asp__L_c (1 L-Aspartate <=> 1 L-Aspartate)
+
+
+AdditionalInModel:
+FUMt1pp:1 fum_p <=> 1 fum_c (1 Fumarate <=> 1 Fumarate)
+SUCCt1pp:1 succ_p <=> 1 succ_c (1 Succinate <=> 1 Succinate)

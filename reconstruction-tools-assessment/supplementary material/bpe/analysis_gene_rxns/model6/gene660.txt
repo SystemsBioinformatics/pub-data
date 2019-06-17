@@ -1,0 +1,13 @@
+notRecovered:
+ORNCD:1 orn_c -> 1 nh4_c + 1 pro__L_c (1 Ornithine -> 1 Ammonium + 1 L-Proline)
+
+
+AdditionalNotInModel:
+ORNCD_1:1 orn__L_c -> 1 h_c + 1 nh3_c + 1 pro__L_c (1 L Ornithine C5H13N2O2 -> 1 H+ + 1 Ammonia + 1 L-Proline)
+
+
+AdditionalMetabolites:
+nh3_c (Ammonia)
+orn__L_c (L Ornithine C5H13N2O2)
+
+

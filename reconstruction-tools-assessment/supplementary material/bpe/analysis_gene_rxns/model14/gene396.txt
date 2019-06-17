@@ -1,0 +1,20 @@
+notRecovered:
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 2-Oxoglutarate + 1 L-Tryptophan <=> 1 L-Glutamate + 1 Indolepyruvate)
+
+
+AdditionalNotInModel:
+rxn02502:1 cpd00020_c + 1 cpd00953_c <=> 1 cpd00035_c + 1 cpd02847_c (1 Pyruvate_c0 + 1 1D_1_Guanidino_3_amino_1_3_dideoxy_scyllo_inositol_c0 <=> 1 L_Alanine_c0 + 1 1D_1_Guanidino_1_deoxy_3_dehydro_scyllo_inositol_c0)
+rxn01423:1 cpd00024_c + 1 cpd00705_c <=> 1 cpd00023_c + 1 cpd00269_c (1 2_Oxoglutarate_c0 + 1 L_2_Aminoadipate_c0 <=> 1 L_Glutamate_c0 + 1 2_Oxoadipate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00024_c (2_Oxoglutarate_c0)
+cpd00035_c (L_Alanine_c0)
+cpd00269_c (2_Oxoadipate_c0)
+cpd00705_c (L_2_Aminoadipate_c0)
+cpd00953_c (1D_1_Guanidino_3_amino_1_3_dideoxy_scyllo_inositol_c0)
+cpd02847_c (1D_1_Guanidino_1_deoxy_3_dehydro_scyllo_inositol_c0)
+
+

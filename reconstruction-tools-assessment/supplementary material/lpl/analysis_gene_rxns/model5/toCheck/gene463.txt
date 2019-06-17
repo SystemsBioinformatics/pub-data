@@ -1,0 +1,20 @@
+notRecovered:
+GLTAL:0.01 LTA_LPL_c + 25 udpg_c -> 0.01 LTAglc_LPL_c + 25 h_c + 25 udp_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_UDPglucose_ -> 0.01 M_Lipoteichoic_acid__n25_with_glucose_residues__LPL_specific__ + 25 M_H_ + 25 M_UDP_)
+
+
+AdditionalNotInModel:
+TECA3S:1 acgam_c + 25 cdpglyc_c + 1 uacmam_c + 25 udpg_c -> 25 cmp_c + 1 gtca3_c + 51 h_c + 26 udp_c (1 N-Acetyl-D-glucosamine + 25 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine + 25 UDPglucose -> 25 CMP C9H12N3O8P + 1 Glycerol teichoic acid (n=25), unlinked, glucose substituted + 51 H+ + 26 UDP C9H11N2O12P2)
+TECA4S:30 h2o_c + 30 udpacgal_c + 30 udpg_c -> 60 h_c + 1 tcam_c + 30 udp_c + 30 ump_c (30 H2O H2O + 30 UDP-N-acetyl-D-galactosamine + 30 UDPglucose -> 60 H+ + 1 Minor teichoic acid (acetylgalactosamine glucose phosphate, n=30) + 30 UDP C9H11N2O12P2 + 30 UMP C9H11N2O9P)
+TECA2S:1 acgam_c + 25 ala__D_c + 25 atp_c + 25 cdpglyc_c + 1 uacmam_c -> 25 amp_c + 25 cmp_c + 1 gtca2_c + 26 h_c + 25 ppi_c + 1 udp_c (1 N-Acetyl-D-glucosamine + 25 D-Alanine + 25 ATP C10H12N5O13P3 + 25 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine -> 25 AMP C10H12N5O7P + 25 CMP C9H12N3O8P + 1 Glycerol teichoic acid (n=25), unlinked, D-ala substituted + 26 H+ + 25 Diphosphate + 1 UDP C9H11N2O12P2)
+TECA1S:1 acgam_c + 25 cdpglyc_c + 1 uacmam_c -> 25 cmp_c + 1 gtca1_c + 26 h_c + 1 udp_c (1 N-Acetyl-D-glucosamine + 25 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine -> 25 CMP C9H12N3O8P + 1 Glycerol teichoic acid (n=25), unlinked, unsubstituted + 26 H+ + 1 UDP C9H11N2O12P2)
+
+
+AdditionalMetabolites:
+acgam_c (N-Acetyl-D-glucosamine)
+gtca1_c (Glycerol teichoic acid (n=25), unlinked, unsubstituted)
+gtca2_c (Glycerol teichoic acid (n=25), unlinked, D-ala substituted)
+gtca3_c (Glycerol teichoic acid (n=25), unlinked, glucose substituted)
+tcam_c (Minor teichoic acid (acetylgalactosamine glucose phosphate, n=30))
+udpacgal_c (UDP-N-acetyl-D-galactosamine)
+
+

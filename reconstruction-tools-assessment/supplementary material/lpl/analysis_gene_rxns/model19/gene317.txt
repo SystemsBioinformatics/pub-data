@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R09777:1 C00005_c + 1 C00080_c + 1 C19887_c <=> 1 C00006_c + 1 C00009_c + 1 C19888_c (1 NADPH + 1 H+ + 1 LysW-gamma-L-alpha-aminoadipyl 6-phosphate <=> 1 NADP+ + 1 Orthophosphate + 1 LysW-gamma-L-alpha-aminoadipate 6-semialdehyde)
+R10931:1 C00005_c + 1 C00080_c + 1 C20949_c <=> 1 C00006_c + 1 C00009_c + 1 C20950_c (1 NADPH + 1 H+ + 1 LysW-L-glutamyl 5-phosphate <=> 1 NADP+ + 1 Orthophosphate + 1 LysW-L-glutamate 5-semialdehyde)
+
+
+AdditionalMetabolites:
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00009_c (Orthophosphate)
+C00080_c (H+)
+C19887_c (LysW-gamma-L-alpha-aminoadipyl 6-phosphate)
+C19888_c (LysW-gamma-L-alpha-aminoadipate 6-semialdehyde)
+C20949_c (LysW-L-glutamyl 5-phosphate)
+C20950_c (LysW-L-glutamate 5-semialdehyde)
+
+

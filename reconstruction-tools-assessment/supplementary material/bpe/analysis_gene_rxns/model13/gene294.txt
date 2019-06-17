@@ -1,0 +1,30 @@
+notRecovered:
+ADK3:1 amp_c + 1 gtp_c <=> 1 adp_c + 1 gdp_c (1 AMP + 1 GTP <=> 1 ADP + 1 GDP)
+ADNK1:1 adn_c + 1 atp_c -> 1 adp_c + 1 amp_c + 1 h_c (1 Adenosine + 1 ATP -> 1 ADP + 1 AMP + 1 H+)
+NDPK8:1 atp_c + 1 dadp_c <=> 1 adp_c + 1 datp_c (1 ATP + 1 dADP <=> 1 ADP + 1 dATP)
+NDPK7:1 atp_c + 1 dcdp_c <=> 1 adp_c + 1 dctp_c (1 ATP + 1 dCDP <=> 1 ADP + 1 dCTP)
+NDPK6:1 atp_c + 1 dudp_c <=> 1 adp_c + 1 dutp_c (1 ATP + 1 dUDP <=> 1 ADP + 1 dUTP)
+NDPK5:1 atp_c + 1 dgdp_c <=> 1 adp_c + 1 dgtp_c (1 ATP + 1 dGDP <=> 1 ADP + 1 dGTP)
+NDPK4:1 atp_c + 1 dtdp_c <=> 1 adp_c + 1 dttp_c (1 ATP + 1 dTDP <=> 1 ADP + 1 dTTP)
+NDPK2:1 atp_c + 1 udp_c <=> 1 adp_c + 1 utp_c (1 ATP + 1 UDP <=> 1 ADP + 1 UTP)
+NDPK1:1 atp_c + 1 gdp_c <=> 1 adp_c + 1 gtp_c (1 ATP + 1 GDP <=> 1 ADP + 1 GTP)
+NDPK3:1 atp_c + 1 cdp_c <=> 1 adp_c + 1 ctp_c (1 ATP + 1 CDP <=> 1 ADP + 1 CTP)
+ADK4:1 amp_c + 1 itp_c <=> 1 adp_c + 1 idp_c (1 AMP + 1 ITP <=> 1 ADP + 1 IDP)
+
+
+AdditionalNotInModel:
+rxn00119:1 cpd00067_c + 1 cpd00002_c + 1 cpd00091_c <=> 1 cpd00008_c + 1 cpd00014_c (1 H_plus__c0 + 1 ATP_c0 + 1 UMP_c0 <=> 1 ADP_c0 + 1 UDP_c0)
+rxn10052:1 cpd00018_c + 1 cpd00421_c <=> 1 cpd00012_c + 1 cpd00008_c (1 AMP_c0 + 1 Triphosphate_c0 <=> 1 PPi_c0 + 1 ADP_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00012_c (PPi_c0)
+cpd00014_c (UDP_c0)
+cpd00018_c (AMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00091_c (UMP_c0)
+cpd00421_c (Triphosphate_c0)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+TPI:1 dhap_c <=> 1 g3p_c (1 M_Dihydroxyacetone_phosphate_ <=> 1 M_Glyceraldehyde_3_phosphate_)
+
+

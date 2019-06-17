@@ -1,0 +1,4 @@
+notRecovered:
+ALCE:1 h_c + 1 nadph_c + 1 o2_c + 1 shptrc_c -> 1 h2o_c + 1 hshptrc_c + 1 nadp_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 O2 + 1 N4-succinyl-N4-hydroxyputrescine -> 1 H2O + 1 N4-succinyl-N4-hydroxy-2-hydroxyputrescine + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

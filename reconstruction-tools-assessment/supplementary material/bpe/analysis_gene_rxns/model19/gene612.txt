@@ -1,0 +1,15 @@
+notRecovered:
+U3KACGAMAAT_BP:1 glu__L_c + 1 u3kacgama_c <=> 1 akg_c + 1 uac3ngama_c (1 L-Glutamate + 1 UDP-3-keto-N-acetylglucosaminuronate <=> 1 2-Oxoglutarate + 1 UDP-2-N-acetyl-3-amino-glucosaminuronate)
+
+
+AdditionalNotInModel:
+R10141:1 C00025_c + 1 C20395_c -> 1 C00026_c + 1 C20359_c (1 L-Glutamate + 1 UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate -> 1 2-Oxoglutarate + 1 UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C20359_c (UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate)
+C20395_c (UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate)
+
+

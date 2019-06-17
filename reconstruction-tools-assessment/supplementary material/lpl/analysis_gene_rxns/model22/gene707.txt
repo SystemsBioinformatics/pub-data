@@ -1,0 +1,28 @@
+notRecovered:
+2HXICDH:1 4mop_c + 1 h_c + 1 nadh_c <=> 1 2hxic__L_c + 1 nad_c (1 M_4_Methyl_2_oxopentanoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_L_2_hydroxyisocaproate_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+R00342:1 C00003_c + 1 C00149_c <=> 1 C00004_c + 1 C00036_c + 1 C00080_c (1 NAD+ + 1 (S)-Malate <=> 1 NADH + 1 Oxaloacetate + 1 H+)
+R00703:1 C00003_c + 1 C00186_c <=> 1 C00004_c + 1 C00022_c + 1 C00080_c (1 NAD+ + 1 (S)-Lactate <=> 1 NADH + 1 Pyruvate + 1 H+)
+R01000:1 C00003_c + 1 C05984_c <=> 1 C00004_c + 1 C00080_c + 1 C00109_c (1 NAD+ + 1 2-Hydroxybutanoic acid <=> 1 NADH + 1 H+ + 1 2-Oxobutanoate)
+R03104:1 C00004_c + 1 C00080_c + 1 C00957_c -> 1 C00003_c + 1 C05823_c (1 NADH + 1 H+ + 1 Mercaptopyruvate -> 1 NAD+ + 1 3-Mercaptolactate)
+R07136:1 C00003_c + 1 C11537_c <=> 1 C00004_c + 1 C00080_c + 1 C05528_c (1 NAD+ + 1 (2R)-3-Sulfolactate <=> 1 NADH + 1 H+ + 1 3-Sulfopyruvate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00022_c (Pyruvate)
+C00036_c (Oxaloacetate)
+C00080_c (H+)
+C00109_c (2-Oxobutanoate)
+C00149_c ((S)-Malate)
+C00186_c ((S)-Lactate)
+C00957_c (Mercaptopyruvate)
+C05528_c (3-Sulfopyruvate)
+C05823_c (3-Mercaptolactate)
+C05984_c (2-Hydroxybutanoic acid)
+C11537_c ((2R)-3-Sulfolactate)
+
+

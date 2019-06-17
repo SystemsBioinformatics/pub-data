@@ -1,0 +1,23 @@
+AdditionalNotInModel:
+RXN-14196:1 CARBAMATE_c + 1 ATP_c -> 1 CARBAMOYL-P_c + 1 ADP_c (1 carbamate + 1 ATP -> 1 carbamoyl phosphate + 1 ADP)
+RXN-16910:1 CPD-18238_c + 1 AMMONIUM_c -> 1 Pi_c + 1 CARBAMATE_c + 2 PROTON_c (1 carboxyphosphate + 1 ammonium -> 1 phosphate + 1 carbamate + 2 H+)
+RXN-16909:1 HCO3_c + 1 ATP_c -> 1 CPD-18238_c + 1 ADP_c (1 hydrogencarbonate + 1 ATP -> 1 carboxyphosphate + 1 ADP)
+RXN-13202:1 HCO3_c + 1 AMMONIUM_c + 2 ATP_c -> 1 Pi_c + 1 CARBAMOYL-P_c + 2 ADP_c + 2 PROTON_c (1 hydrogencarbonate + 1 ammonium + 2 ATP -> 1 phosphate + 1 carbamoyl phosphate + 2 ADP + 2 H+)
+GLUTAMIN-RXN:1 GLN_c + 1 WATER_c -> 1 GLT_c + 1 AMMONIUM_c (1 L-glutamine + 1 H2O -> 1 L-glutamate + 1 ammonium)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+AMMONIUM_c (ammonium)
+ATP_c (ATP)
+CARBAMATE_c (carbamate)
+CARBAMOYL-P_c (carbamoyl phosphate)
+CPD-18238_c (carboxyphosphate)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+HCO3_c (hydrogencarbonate)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

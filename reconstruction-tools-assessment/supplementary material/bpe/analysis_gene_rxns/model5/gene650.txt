@@ -1,0 +1,2 @@
+AdditionalInModel:
+GLBRAN2:1 glycogen_c -> 1 bglycogen_c (1 Glycogen C6H10O5 -> 1 Branching glycogen)

@@ -1,0 +1,8 @@
+notRecovered:
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 M_Dihydroxyacetone_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+DHAK:1 atp_c + 1 dha_c -> 1 adp_c + 1 dhap_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Dihydroxyacetone -> 1 ADP C10H12N5O10P2 + 1 Dihydroxyacetone phosphate + 1 H+)
+
+

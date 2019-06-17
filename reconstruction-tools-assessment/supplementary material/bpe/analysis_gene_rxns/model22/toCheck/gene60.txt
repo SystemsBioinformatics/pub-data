@@ -1,0 +1,21 @@
+notRecovered:
+DAAD:1 ala__D_c + 1 fad_c + 1 h2o_c -> 1 fadh2_c + 1 nh4_c + 1 pyr_c (1 D-Alanine + 1 Flavin adenine dinucleotide oxidized + 1 H2O -> 1 Flavin adenine dinucleotide reduced + 1 Ammonium + 1 Pyruvate)
+DPHEDH:1 fad_c + 1 h2o_c + 1 phe_D_c -> 1 fadh2_c + 1 nh4_c + 1 phpyr_c (1 Flavin adenine dinucleotide oxidized + 1 H2O + 1 D-Phenylalanine -> 1 Flavin adenine dinucleotide reduced + 1 Ammonium + 1 Phenylpyruvate)
+
+
+AdditionalNotInModel:
+DALADEHYDROG-RXN:1 D-ALANINE_c + 1 ETR-Quinones_c + 1 WATER_c -> 1 AMMONIUM_c + 1 ETR-Quinols_c + 1 PYRUVATE_c (1 D-alanine + 1 ETR-Quinones + 1 H2O -> 1 ammonium + 1 ETR-Quinols + 1 pyruvate)
+RXN-11193:1 D-Amino-Acids_c + 1 ETR-Quinones_c + 1 WATER_c -> 1 2-Oxo-carboxylates_c + 1 AMMONIUM_c + 1 ETR-Quinols_c (1 D-Amino-Acids + 1 ETR-Quinones + 1 H2O -> 1 2-Oxo-carboxylates + 1 ammonium + 1 ETR-Quinols)
+
+
+AdditionalMetabolites:
+2-Oxo-carboxylates_c (2-Oxo-carboxylates)
+AMMONIUM_c (ammonium)
+D-ALANINE_c (D-alanine)
+D-Amino-Acids_c (D-Amino-Acids)
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+PYRUVATE_c (pyruvate)
+WATER_c (H2O)
+
+

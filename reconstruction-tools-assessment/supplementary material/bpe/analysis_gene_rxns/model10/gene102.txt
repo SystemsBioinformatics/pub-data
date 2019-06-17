@@ -1,0 +1,23 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 Coenzyme A + 1 Nicotinamide adenine dinucleotide + 1 Pyruvate -> 1 Acetyl-CoA + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD3:1 3mop_c + 1 coa_c + 1 nad_c -> 1 2mbcoa_c + 1 co2_c + 1 nadh_c (1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 (S)-2-methylbutanoyl-coenzyme A + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 3-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD2:1 3mob_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ibcoa_c + 1 nadh_c (1 3-Methyl-2-oxobutanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+RXN-12508:1 2-ALPHA-HYDROXYETHYL-THPP_c + 1 Pyruvate-dehydrogenase-lipoate_c -> 1 Pyruvate-dehydrogenase-acetylDHlipoyl_c + 1 THIAMINE-PYROPHOSPHATE_c (1 2-(alpha-hydroxyethyl)thiamine diphosphate + 1 a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine -> 1 a [pyruvate dehydrogenase E2 protein] N6-S-acetyldihydrolipoyl-L-lysine + 1 thiamine diphosphate)
+RXN-12583:1 THIAMINE-PYROPHOSPHATE_c + 1 PYRUVATE_c + 1 PROTON_c -> 1 2-ALPHA-HYDROXYETHYL-THPP_c + 1 CARBON-DIOXIDE_c (1 thiamine diphosphate + 1 pyruvate + 1 H+ -> 1 2-(alpha-hydroxyethyl)thiamine diphosphate + 1 CO2)
+RXN0-1134:1 Pyruvate-dehydrogenase-lipoate_c + 1 PYRUVATE_c + 1 PROTON_c -> 1 Pyruvate-dehydrogenase-acetylDHlipoyl_c + 1 CARBON-DIOXIDE_c (1 a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 pyruvate + 1 H+ -> 1 a [pyruvate dehydrogenase E2 protein] N6-S-acetyldihydrolipoyl-L-lysine + 1 CO2)
+
+
+AdditionalMetabolites:
+2-ALPHA-HYDROXYETHYL-THPP_c (2-(alpha-hydroxyethyl)thiamine diphosphate)
+CARBON-DIOXIDE_c (CO2)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+Pyruvate-dehydrogenase-acetylDHlipoyl_c (a [pyruvate dehydrogenase E2 protein] N6-S-acetyldihydrolipoyl-L-lysine)
+Pyruvate-dehydrogenase-lipoate_c (a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine)
+THIAMINE-PYROPHOSPHATE_c (thiamine diphosphate)
+
+

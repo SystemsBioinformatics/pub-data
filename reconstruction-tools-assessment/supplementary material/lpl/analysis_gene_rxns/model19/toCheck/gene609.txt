@@ -1,0 +1,15 @@
+notRecovered:
+DHDPS:1 aspsa_c + 1 pyr_c -> 1 23dhdp_c + 2 h2o_c + 1 h_c (1 M_L_Aspartate_4_semialdehyde_ + 1 M_Pyruvate_ -> 1 M_2_3_Dihydrodipicolinate_ + 2 M_H2O_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R10147:1 C00022_c + 1 C00441_c <=> 1 C00001_c + 1 C20258_c (1 Pyruvate + 1 L-Aspartate 4-semialdehyde <=> 1 H2O + 1 (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00022_c (Pyruvate)
+C00441_c (L-Aspartate 4-semialdehyde)
+C20258_c ((2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+CU1abcpp:1 atp_c + 1 cu_c + 1 h2o_c -> 1 adp_c + 1 cu_p + 1 h_c + 1 pi_c (1 ATP + 1 Cu+ + 1 H2O -> 1 ADP + 1 Cu+ + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+AU1abcpp:1 atp_c + 1 au_c + 1 h2o_c -> 1 adp_c + 1 au_p + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Gold-Au + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Gold-Au + 1 H+ + 1 Phosphate)
+
+
+AdditionalMetabolites:
+au_c (Gold-Au)
+au_p (Gold-Au)
+
+

@@ -1,0 +1,28 @@
+notRecovered:
+PGPP141pp:1 h2o_p + 1 pgp141_p -> 1 pg141_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1) -> 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) + 1 Phosphate)
+PGPP161pp:1 h2o_p + 1 pgp161_p -> 1 pg161_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1) -> 1 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) + 1 Phosphate)
+PGPP120:1 h2o_c + 1 pgp120_c -> 1 pg120_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) -> 1 Phosphatidylglycerol (didodecanoyl, n-C12:0) + 1 Phosphate)
+PGPP161:1 h2o_c + 1 pgp161_c -> 1 pg161_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1) -> 1 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) + 1 Phosphate)
+PGPP140:1 h2o_c + 1 pgp140_c -> 1 pg140_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) -> 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) + 1 Phosphate)
+PGPP180pp:1 h2o_p + 1 pgp180_p -> 1 pg180_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0) -> 1 Phosphatidylglycerol (dioctadecanoyl, n-C18:0) + 1 Phosphate)
+PGPP181pp:1 h2o_p + 1 pgp181_p -> 1 pg181_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) -> 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) + 1 Phosphate)
+PGPP120pp:1 h2o_p + 1 pgp120_p -> 1 pg120_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) -> 1 Phosphatidylglycerol (didodecanoyl, n-C12:0) + 1 Phosphate)
+PGPP141:1 h2o_c + 1 pgp141_c -> 1 pg141_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1) -> 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) + 1 Phosphate)
+PGPP140pp:1 h2o_p + 1 pgp140_p -> 1 pg140_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) -> 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) + 1 Phosphate)
+PGPP160:1 h2o_c + 1 pgp160_c -> 1 pg160_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0) -> 1 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) + 1 Phosphate)
+PGPP160pp:1 h2o_p + 1 pgp160_p -> 1 pg160_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0) -> 1 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) + 1 Phosphate)
+PGPP180:1 h2o_c + 1 pgp180_c -> 1 pg180_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0) -> 1 Phosphatidylglycerol (dioctadecanoyl, n-C18:0) + 1 Phosphate)
+PGPP181:1 h2o_c + 1 pgp181_c -> 1 pg181_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) -> 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) + 1 Phosphate)
+
+
+AdditionalNotInModel:
+PGPPHOSPHA-RXN:1 L-1-PHOSPHATIDYL-GLYCEROL-P_c + 1 WATER_c -> 1 L-1-PHOSPHATIDYL-GLYCEROL_c + 1 Pi_c (1 L-1-PHOSPHATIDYL-GLYCEROL-P + 1 H2O -> 1 L-1-PHOSPHATIDYL-GLYCEROL + 1 phosphate)
+
+
+AdditionalMetabolites:
+L-1-PHOSPHATIDYL-GLYCEROL-P_c (L-1-PHOSPHATIDYL-GLYCEROL-P)
+L-1-PHOSPHATIDYL-GLYCEROL_c (L-1-PHOSPHATIDYL-GLYCEROL)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

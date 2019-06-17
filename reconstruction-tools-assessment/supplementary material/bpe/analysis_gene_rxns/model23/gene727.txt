@@ -1,0 +1,15 @@
+notRecovered:
+AGMT:1 agm_c + 1 h2o_c -> 1 ptrc_c + 1 urea_c (1 Agmatine + 1 H2O -> 1 Putrescine + 1 Urea)
+
+
+AdditionalNotInModel:
+GUANIDINOBUTYRASE-RXN:1 CPD-592_c + 1 WATER_c -> 1 4-AMINO-BUTYRATE_c + 1 UREA_c (1 4-guanidinobutanoate + 1 H2O -> 1 4-aminobutanoate + 1 urea)
+
+
+AdditionalMetabolites:
+4-AMINO-BUTYRATE_c (4-aminobutanoate)
+CPD-592_c (4-guanidinobutanoate)
+UREA_c (urea)
+WATER_c (H2O)
+
+

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R04985:1 C05807_c + 1 C00011_c <=> 1 C05848_c (1 2-Polyprenylphenol + 1 CO2 <=> 1 4-Hydroxy-3-polyprenylbenzoate)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C05807_c (2-Polyprenylphenol)
+C05848_c (4-Hydroxy-3-polyprenylbenzoate)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+
+AdditionalNotInModel:
+RXN-14963:1 Rhodoquinols_c + 1 FUM_c -> 1 Rhodoquinones_c + 1 SUC_c (1 a rhodoquinol + 1 fumarate -> 1 a rhodoquinone + 1 succinate)
+R601-RXN:1 Menaquinols_c + 1 FUM_c -> 1 Menaquinones_c + 1 SUC_c (1 a menaquinol + 1 fumarate -> 1 a menaquinone + 1 succinate)
+
+
+AdditionalMetabolites:
+FUM_c (fumarate)
+Menaquinols_c (a menaquinol)
+Menaquinones_c (a menaquinone)
+Rhodoquinols_c (a rhodoquinol)
+Rhodoquinones_c (a rhodoquinone)
+SUC_c (succinate)
+
+

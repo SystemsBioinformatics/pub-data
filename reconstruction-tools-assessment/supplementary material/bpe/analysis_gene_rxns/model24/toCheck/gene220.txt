@@ -1,0 +1,15 @@
+notRecovered:
+ACGAMT:1 uacgam_c + 1 udcpp_c -> 1 ump_c + 1 unaga_c (1 UDP-N-acetyl-D-glucosamine + 1 Undecaprenyl phosphate -> 1 UMP + 1 undecaprenyl-diphosphate-N-acetyl-glucosamine)
+
+
+AdditionalNotInModel:
+RXN-18036:1 CPD-9646_c + 1 UDP-N-ACETYL-D-GLUCOSAMINE_c -> 1 CPD-19317_c + 1 UDP_c (1 di-trans,octa-cis-undecaprenyl phosphate + 1 UDP-N-acetyl-alpha-D-glucosamine -> 1 N-acetyl-alpha-D-glucosaminyl-phospho-ditrans,octacis-undecaprenol + 1 UDP)
+
+
+AdditionalMetabolites:
+CPD-19317_c (N-acetyl-alpha-D-glucosaminyl-phospho-ditrans,octacis-undecaprenol)
+CPD-9646_c (di-trans,octa-cis-undecaprenyl phosphate)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+UDP_c (UDP)
+
+

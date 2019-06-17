@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R03896:1 C02612_c <=> 1 C00001_c + 1 C02226_c (1 (R)-2-Methylmalate <=> 1 H2O + 1 2-Methylmaleate)
+R03898:1 C00001_c + 1 C02226_c <=> 1 C06032_c (1 H2O + 1 2-Methylmaleate <=> 1 D-erythro-3-Methylmalate)
+R10170:1 C02504_c -> 1 C04411_c (1 alpha-Isopropylmalate -> 1 (2R,3S)-3-Isopropylmalate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C02226_c (2-Methylmaleate)
+C02504_c (alpha-Isopropylmalate)
+C02612_c ((R)-2-Methylmalate)
+C04411_c ((2R,3S)-3-Isopropylmalate)
+C06032_c (D-erythro-3-Methylmalate)
+
+

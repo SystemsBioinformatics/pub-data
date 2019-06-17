@@ -1,0 +1,21 @@
+notRecovered:
+PDE2:1 35cdamp_c + 1 h2o_c -> 1 damp_c + 1 h_c (1 M_3__5__Cyclic_dAMP_ + 1 M_H2O_ -> 1 M_dAMP_ + 1 M_H_)
+PDE3:1 35cimp_c + 1 h2o_c -> 1 h_c + 1 imp_c (1 M_3__5__Cyclic_IMP_ + 1 M_H2O_ -> 1 M_H_ + 1 M_IMP_)
+PDE5:1 35ccmp_c + 1 h2o_c -> 1 cmp_c + 1 h_c (1 M_3__5__Cyclic_CMP_ + 1 M_H2O_ -> 1 M_CMP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn02026:1 cpd00001_c + 1 cpd02415_c <=> 1 cpd00067_c + 1 cpd00054_c + 1 cpd00285_c (1 H2O_c0 + 1 Serine_phosphoethanolamine_c0 <=> 1 H_plus__c0 + 1 L_Serine_c0 + 1 Phosphoethanolamine_c0)
+rxn02334:1 cpd00001_c + 1 cpd02589_c <=> 1 cpd00821_c (1 H2O_c0 + 1 3_5_Cyclic_nucleotide_c0 <=> 1 Nucleoside_5_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00054_c (L_Serine_c0)
+cpd00067_c (H_plus__c0)
+cpd00285_c (Phosphoethanolamine_c0)
+cpd00821_c (Nucleoside_5_phosphate_c0)
+cpd02415_c (Serine_phosphoethanolamine_c0)
+cpd02589_c (3_5_Cyclic_nucleotide_c0)
+
+

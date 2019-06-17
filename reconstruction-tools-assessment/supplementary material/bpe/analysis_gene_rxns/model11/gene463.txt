@@ -1,0 +1,4 @@
+notRecovered:
+PIt2rpp:1 h_p + 1 pi_p <=> 1 h_c + 1 pi_c (1 H+ + 1 Phosphate <=> 1 H+ + 1 Phosphate)
+
+

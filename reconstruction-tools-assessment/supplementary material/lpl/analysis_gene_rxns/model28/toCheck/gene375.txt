@@ -1,0 +1,15 @@
+notRecovered:
+UDCPKr:1 atp_c + 1 udcp_c -> 1 adp_c + 1 h_c + 1 udcpp_c (1 M_ATP_ + 1 M_Undecaprenol_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Undecaprenyl_phosphate_)
+
+
+AdditionalNotInModel:
+R05627:1 C00001_c + 1 C04574_c -> 1 C00009_c + 1 C17556_c (1 H2O + 1 di-trans,poly-cis-Undecaprenyl diphosphate -> 1 Orthophosphate + 1 di-trans,poly-cis-Undecaprenyl phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C04574_c (di-trans,poly-cis-Undecaprenyl diphosphate)
+C17556_c (di-trans,poly-cis-Undecaprenyl phosphate)
+
+

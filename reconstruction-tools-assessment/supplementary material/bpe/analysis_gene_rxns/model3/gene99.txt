@@ -1,0 +1,12 @@
+notRecovered:
+UAC3NACGAMAE_BP:1 uac3nacgama_c <=> 1 uacmamnaca_c (1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate <=> 1 UDP-2-N-acetyl-3-N-acetyl-D-mannosaminuronate)
+
+
+AdditionalNotInModel:
+UAG2EMA:1 h2o_c + 1 uacgam_c -> 1 h_c + 1 udp_c + 1 acmana_c (1 H2O + 1 UDP-N-acetyl-D-glucosamine -> 1 H+ + 1 UDP + 1 N-Acetyl-D-mannosamine)
+
+
+AdditionalMetabolites:
+acmana_c (N-Acetyl-D-mannosamine)
+
+

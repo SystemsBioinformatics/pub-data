@@ -1,0 +1,20 @@
+notRecovered:
+FRDO:1 fdxrd_c + 1 nadp_c -> 1 fdxox_c + 1 h_c + 1 nadph_c (1 ferredoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate -> 1 ferredoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+RXN-12072:1 CPD-674_c + 1 NADH_c + 1 OXYGEN-MOLECULE_c + 1 PROTON_c -> 1 CPD-13034_c + 1 NAD_c (1 trans-cinnamate + 1 NADH + 1 oxygen + 1 H+ -> 1 (2E)-3-(5,6-dihydroxycyclohexa-1,3-dien-1-yl)prop-2-enoate + 1 NAD+)
+HCAMULTI-RXN:1 3-PHENYLPROPIONATE_c + 1 NADH_c + 1 OXYGEN-MOLECULE_c + 1 PROTON_c -> 1 CARBOXYETHYL-3-5-CYCLOHEXADIENE-1-2-DIOL_c + 1 NAD_c (1 3-phenylpropanoate + 1 NADH + 1 oxygen + 1 H+ -> 1 3-(5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate + 1 NAD+)
+
+
+AdditionalMetabolites:
+3-PHENYLPROPIONATE_c (3-phenylpropanoate)
+CARBOXYETHYL-3-5-CYCLOHEXADIENE-1-2-DIOL_c (3-(5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate)
+CPD-13034_c ((2E)-3-(5,6-dihydroxycyclohexa-1,3-dien-1-yl)prop-2-enoate)
+CPD-674_c (trans-cinnamate)
+NADH_c (NADH)
+NAD_c (NAD+)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+
+

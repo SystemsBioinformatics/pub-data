@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+AMMQLT8:1 2dmmql8_c + 1 amet_c -> 1 ahcys_c + 1 h_c + 1 mql8_c (1 2-Demethylmenaquinol 8 + 1 S-Adenosyl-L-methionine -> 1 S-Adenosyl-L-homocysteine + 1 H+ + 1 Menaquinol 8)
+AMMQT8_2:1 2dmmq8_c + 1 amet_c -> 1 ahcys_c + 1 h_c + 1 mqn8_c (1 2-Demethylmenaquinone 8 + 1 S-Adenosyl-L-methionine -> 1 S-Adenosyl-L-homocysteine + 1 H+ + 1 Menaquinone 8)
+URFGTT:1 2ombz_c + 1 amet_c -> 1 2ommb_c + 1 ahcys_c + 1 h_c (1 2-Octaprenyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-methionine -> 1 2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone + 1 S-Adenosyl-L-homocysteine + 1 H+)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+2ombz_c (2-Octaprenyl-6-methoxy-1,4-benzoquinone)
+2ommb_c (2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

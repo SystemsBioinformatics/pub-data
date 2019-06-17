@@ -1,0 +1,21 @@
+notRecovered:
+LOXL:1 lac__L_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_L_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+L_LACD:1 lac__L_c + 2 ficytc_c -> 2 focytc_c + 1 pyr_c (1 L-Lactate + 2 Ferricytochrome c C42H52FeN8O6S2 -> 2 Ferrocytochrome c C42H53FeN8O6S2 + 1 Pyruvate)
+L_LACD3:1 lac__L_c + 1 mqn8_c -> 1 mql8_c + 1 pyr_c (1 L-Lactate + 1 Menaquinone 8 -> 1 Menaquinol 8 + 1 Pyruvate)
+L_LACD2:1 lac__L_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 L-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalMetabolites:
+ficytc_c (Ferricytochrome c C42H52FeN8O6S2)
+focytc_c (Ferrocytochrome c C42H53FeN8O6S2)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+
+AdditionalInModel:
+LDH_L:1 lac__L_c + 1 nad_c <=> 1 pyr_c + 1 nadh_c + 1 h_c (1 L-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 Pyruvate + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)

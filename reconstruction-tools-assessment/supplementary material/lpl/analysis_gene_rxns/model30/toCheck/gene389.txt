@@ -1,0 +1,17 @@
+notRecovered:
+GPDDA5:1 g3pi_c + 1 h2o_c -> 1 glyc3p_c + 1 h_c + 1 inost_c (1 M_sn_Glycero_3_phospho_1_inositol_ + 1 M_H2O_ -> 1 M_sn_Glycerol_3_phosphate_ + 1 M_H_ + 1 M_myo_Inositol_)
+GPDDA3:1 g3ps_c + 1 h2o_c -> 1 glyc3p_c + 1 h_c + 1 ser__L_c (1 M_Glycerophosphoserine_ + 1 M_H2O_ -> 1 M_sn_Glycerol_3_phosphate_ + 1 M_H_ + 1 M_L_Serine_)
+GPDDA4:1 g3pg_c + 1 h2o_c -> 1 glyc3p_c + 1 glyc_c + 1 h_c (1 M_Glycerophosphoglycerol_ + 1 M_H2O_ -> 1 M_sn_Glycerol_3_phosphate_ + 1 M_Glycerol_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R00857:1 C03120_c + 1 C00001_c <=> 1 C00093_c + 1 C00069_c (1 Glycerophosphodiester + 1 H2O <=> 1 sn-Glycerol 3-phosphate + 1 Alcohol)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00069_c (Alcohol)
+C00093_c (sn-Glycerol 3-phosphate)
+C03120_c (Glycerophosphodiester)
+
+

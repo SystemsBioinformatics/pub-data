@@ -1,0 +1,15 @@
+notRecovered:
+SDPTA:1 akg_c + 1 sl26da_c <=> 1 glu__L_c + 1 sl2a6o_c (1 2-Oxoglutarate + 1 N-Succinyl-LL-2,6-diaminoheptanedioate <=> 1 L-Glutamate + 1 N-Succinyl-2-L-amino-6-oxoheptanedioate)
+
+
+AdditionalNotInModel:
+SUCCORNTRANSAM-RXN:1 2-KETOGLUTARATE_c + 1 N2-SUCCINYLORNITHINE_c <=> 1 CPD-822_c + 1 GLT_c (1 2-oxoglutarate + 1 N2-succinyl-L-ornithine <=> 1 N2-succinyl-L-glutamate 5-semialdehyde + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CPD-822_c (N2-succinyl-L-glutamate 5-semialdehyde)
+GLT_c (L-glutamate)
+N2-SUCCINYLORNITHINE_c (N2-succinyl-L-ornithine)
+
+

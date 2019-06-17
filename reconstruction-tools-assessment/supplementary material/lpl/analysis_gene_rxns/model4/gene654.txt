@@ -1,0 +1,4 @@
+notRecovered:
+CYSTRS_1:1 atp_c + 1 cys__L_c + 1 trnacys_c -> 1 amp_c + 1 cystrna_c + 1 h_c + 1 ppi_c (1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_tRNA_Cys__ -> 1 M_AMP_ + 1 M_L_Cysteinyl_tRNA_Cys__ + 1 M_H_ + 1 M_Diphosphate_)
+
+

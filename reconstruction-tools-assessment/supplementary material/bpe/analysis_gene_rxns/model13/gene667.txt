@@ -1,0 +1,4 @@
+notRecovered:
+MALEI:1 male_c <=> 1 fum_c (1 maleate <=> 1 Fumarate)
+
+

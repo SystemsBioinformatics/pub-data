@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+MEVK4:1 mev__R_c + 1 utp_c -> 1 udp_c + 1 5pmev_c + 1 h_c (1  R  Mevalonate C6H11O4 + 1 UTP C9H11N2O15P3 -> 1 UDP C9H11N2O12P2 + 1  R  5 Phosphomevalonate C6H10O7P + 1 H+)
+MEVK3:1 mev__R_c + 1 gtp_c -> 1 gdp_c + 1 5pmev_c + 1 h_c (1  R  Mevalonate C6H11O4 + 1 GTP C10H12N5O14P3 -> 1 GDP C10H12N5O11P2 + 1  R  5 Phosphomevalonate C6H10O7P + 1 H+)
+MEVK2:1 mev__R_c + 1 ctp_c -> 1 cdp_c + 1 5pmev_c + 1 h_c (1  R  Mevalonate C6H11O4 + 1 CTP C9H12N3O14P3 -> 1 CDP C9H12N3O11P2 + 1  R  5 Phosphomevalonate C6H10O7P + 1 H+)
+
+

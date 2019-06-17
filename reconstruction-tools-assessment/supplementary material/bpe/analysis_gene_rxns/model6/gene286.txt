@@ -1,0 +1,24 @@
+notRecovered:
+FRUpts2pp:1 fru_p + 1 pep_c -> 1 f6p_c + 1 pyr_c (1 D-Fructose + 1 Phosphoenolpyruvate -> 1 D-Fructose 6-phosphate + 1 Pyruvate)
+ACMUMptspp:1 acmum_p + 1 pep_c -> 1 acmum6p_c + 1 pyr_c (1 N-Acetylmuramate + 1 Phosphoenolpyruvate -> 1 N-acetylmuramate 6-phosphate + 1 Pyruvate)
+GLCptspp:1 glc__D_p + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 D-Glucose + 1 Phosphoenolpyruvate -> 1 D-Glucose 6-phosphate + 1 Pyruvate)
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 Dihydroxyacetone + 1 Phosphoenolpyruvate -> 1 Dihydroxyacetone phosphate + 1 Pyruvate)
+GAMptspp:1 gam_p + 1 pep_c -> 1 gam6p_c + 1 pyr_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 D-Glucosamine 6-phosphate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+ARBTpts:1 arbt_e + 1 pep_c -> 1 arbt6p_c + 1 pyr_c (1 Arbutin C12H16O7 + 1 Phosphoenolpyruvate -> 1 Arbutin 6-phosphate + 1 Pyruvate)
+GAMpts:1 gam_e + 1 pep_c -> 1 gam6p_c + 1 pyr_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 D-Glucosamine 6-phosphate + 1 Pyruvate)
+MALTpts:1 malt_e + 1 pep_c -> 1 malt6p_c + 1 pyr_c (1 Maltose C12H22O11 + 1 Phosphoenolpyruvate -> 1 Maltose 6'-phosphate + 1 Pyruvate)
+SALCpts:1 pep_c + 1 salcn_e -> 1 pyr_c + 1 salcn6p_c (1 Phosphoenolpyruvate + 1 Salicin C13H18O7 -> 1 Pyruvate + 1 Salicin 6-phosphate)
+
+
+AdditionalMetabolites:
+arbt6p_c (Arbutin 6-phosphate)
+arbt_e (Arbutin C12H16O7)
+malt6p_c (Maltose 6'-phosphate)
+malt_e (Maltose C12H22O11)
+salcn6p_c (Salicin 6-phosphate)
+salcn_e (Salicin C13H18O7)
+
+

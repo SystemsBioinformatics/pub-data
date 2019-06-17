@@ -1,0 +1,8 @@
+notRecovered:
+PROD2:1 fad_c + 1 pro__L_c <=> 1 1pyr5c_c + 1 fadh2_c + 1 h_c (1 Flavin adenine dinucleotide oxidized + 1 L-Proline <=> 1 1-Pyrroline-5-carboxylate + 1 Flavin adenine dinucleotide reduced + 1 H+)
+
+
+AdditionalNotInModel:
+PROD3:1 q8_c + 1 pro__L_c -> 1 q8h2_c + 1 h_c + 1 1pyr5c_c (1 Ubiquinone-8 + 1 L-Proline -> 1 Ubiquinol-8 + 1 H+ + 1 1-Pyrroline-5-carboxylate)
+
+

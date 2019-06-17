@@ -1,0 +1,14 @@
+notRecovered:
+GLNabcpp:1 atp_c + 1 gln__L_p + 1 h2o_c -> 1 adp_c + 1 gln__L_c + 1 h_c + 1 pi_c (1 ATP + 1 L-Glutamine + 1 H2O -> 1 ADP + 1 L-Glutamine + 1 H+ + 1 Phosphate)
+ASNabcpp:1 asn__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 asn__L_c + 1 h_c + 1 pi_c (1 L-Asparagine + 1 ATP + 1 H2O -> 1 ADP + 1 L-Asparagine + 1 H+ + 1 Phosphate)
+
+
+AdditionalInModel:
+ARGabcpp:1 atp_c + 1 h2o_c + 1 arg__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 arg__L_c (1 ATP + 1 H2O + 1 L-Arginine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Arginine)
+GLYabcpp:1 atp_c + 1 h2o_c + 1 gly_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 gly_c (1 ATP + 1 H2O + 1 Glycine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Glycine)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 his__L_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Histidine)
+ILEabcpp:1 atp_c + 1 h2o_c + 1 ile__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 ile__L_c (1 ATP + 1 H2O + 1 L-Isoleucine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Isoleucine)
+LEUabcpp:1 atp_c + 1 h2o_c + 1 leu__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 leu__L_c (1 ATP + 1 H2O + 1 L-Leucine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Leucine)
+METabcpp:1 atp_c + 1 h2o_c + 1 met__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 met__L_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Methionine)
+PROabcpp:1 atp_c + 1 h2o_c + 1 pro__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 pro__L_c (1 ATP + 1 H2O + 1 L-Proline -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Proline)
+VALabcpp:1 atp_c + 1 h2o_c + 1 val__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 val__L_c (1 ATP + 1 H2O + 1 L-Valine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Valine)

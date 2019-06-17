@@ -1,0 +1,53 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+ECOAH1:1 3hbcoa_c <=> 1 b2coa_c + 1 h2o_c (1 (S)-3-Hydroxybutanoyl-CoA <=> 1 Crotonoyl-CoA + 1 H2O)
+
+
+AdditionalNotInModel:
+rxn05250:1 cpd00002_c + 1 cpd00010_c + 1 cpd11440_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd11441_c (1 ATP_c0 + 1 CoA_c0 + 1 fa6_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 fa6coa_c0)
+rxn05248:1 cpd00002_c + 1 cpd00010_c + 1 cpd11438_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd11439_c (1 ATP_c0 + 1 CoA_c0 + 1 fa4_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 fa4coa_c0)
+rxn05251:1 cpd00002_c + 1 cpd00010_c + 1 cpd11433_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd11434_c (1 ATP_c0 + 1 CoA_c0 + 1 fa12_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 fa12coa_c0)
+rxn09450:1 cpd00002_c + 1 cpd00010_c + 1 cpd15237_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd15238_c (1 ATP_c0 + 1 CoA_c0 + 1 hexadecenoate_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 Hexadecenoyl_CoA_c0)
+rxn00947:1 cpd00002_c + 1 cpd00010_c + 1 cpd00214_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00018_c + 1 cpd00134_c (1 ATP_c0 + 1 CoA_c0 + 1 Palmitate_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 AMP_c0 + 1 Palmitoyl_CoA_c0)
+rxn00988:1 cpd00002_c + 1 cpd00010_c + 1 cpd00142_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00018_c + 1 cpd00279_c (1 ATP_c0 + 1 CoA_c0 + 1 Acetoacetate_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 AMP_c0 + 1 Acetoacetyl_CoA_c0)
+rxn05247:1 cpd00002_c + 1 cpd00010_c + 1 cpd11430_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd11435_c (1 ATP_c0 + 1 CoA_c0 + 1 fa1_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 fa1coa_c0)
+rxn05252:1 cpd00002_c + 1 cpd00010_c + 1 cpd11431_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd11432_c (1 ATP_c0 + 1 CoA_c0 + 1 fa11_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 fa11coa_c0)
+rxn09449:1 cpd00002_c + 1 cpd00010_c + 1 cpd01080_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00018_c + 1 cpd00327_c (1 ATP_c0 + 1 CoA_c0 + 1 ocdca_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 AMP_c0 + 1 strcoa_c0)
+rxn05249:1 cpd00002_c + 1 cpd00010_c + 1 cpd11436_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd11437_c (1 ATP_c0 + 1 CoA_c0 + 1 fa3_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 fa3coa_c0)
+rxn09448:1 cpd00002_c + 1 cpd00010_c + 1 cpd15269_c -> 1 cpd00012_c + 1 cpd00018_c + 1 cpd15274_c (1 ATP_c0 + 1 CoA_c0 + 1 octadecenoate_c0 -> 1 PPi_c0 + 1 AMP_c0 + 1 Octadecenoyl_CoA_c0)
+rxn05736:1 cpd00002_c + 1 cpd00010_c + 1 cpd03847_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00018_c + 1 cpd01695_c (1 ATP_c0 + 1 CoA_c0 + 1 Myristic_acid_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 AMP_c0 + 1 Myristoyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00010_c (CoA_c0)
+cpd00012_c (PPi_c0)
+cpd00018_c (AMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00134_c (Palmitoyl_CoA_c0)
+cpd00142_c (Acetoacetate_c0)
+cpd00214_c (Palmitate_c0)
+cpd00279_c (Acetoacetyl_CoA_c0)
+cpd00327_c (strcoa_c0)
+cpd01080_c (ocdca_c0)
+cpd01695_c (Myristoyl_CoA_c0)
+cpd03847_c (Myristic_acid_c0)
+cpd11430_c (fa1_c0)
+cpd11431_c (fa11_c0)
+cpd11432_c (fa11coa_c0)
+cpd11433_c (fa12_c0)
+cpd11434_c (fa12coa_c0)
+cpd11435_c (fa1coa_c0)
+cpd11436_c (fa3_c0)
+cpd11437_c (fa3coa_c0)
+cpd11438_c (fa4_c0)
+cpd11439_c (fa4coa_c0)
+cpd11440_c (fa6_c0)
+cpd11441_c (fa6coa_c0)
+cpd15237_c (hexadecenoate_c0)
+cpd15238_c (Hexadecenoyl_CoA_c0)
+cpd15269_c (octadecenoate_c0)
+cpd15274_c (Octadecenoyl_CoA_c0)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00293:1 cpd00062_c + 1 cpd02611_c <=> 1 cpd00012_c + 1 cpd00037_c (1 UTP_c0 + 1 N_Acetyl_D_glucosamine1_phosphate_c0 <=> 1 PPi_c0 + 1 UDP_N_acetylglucosamine_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00037_c (UDP_N_acetylglucosamine_c0)
+cpd00062_c (UTP_c0)
+cpd02611_c (N_Acetyl_D_glucosamine1_phosphate_c0)
+
+

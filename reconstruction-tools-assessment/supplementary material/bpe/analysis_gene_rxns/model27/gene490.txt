@@ -1,0 +1,24 @@
+notRecovered:
+LDH_D:1 lac__D_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 D-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+R02527:1 C00937_c + 1 C00003_c <=> 1 C00546_c + 1 C00080_c + 1 C00004_c (1 (R)-Lactaldehyde + 1 NAD+ <=> 1 Methylglyoxal + 1 H+ + 1 NADH)
+R01392:1 C00006_c + 1 C00258_c <=> 1 C00005_c + 1 C00080_c + 1 C00168_c (1 NADP+ + 1 D-Glycerate <=> 1 NADPH + 1 H+ + 1 Hydroxypyruvate)
+R00465:1 C00006_c + 1 C00160_c <=> 1 C00048_c + 1 C00005_c + 1 C00080_c (1 NADP+ + 1 Glycolate <=> 1 Glyoxylate + 1 NADPH + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00048_c (Glyoxylate)
+C00080_c (H+)
+C00160_c (Glycolate)
+C00168_c (Hydroxypyruvate)
+C00258_c (D-Glycerate)
+C00546_c (Methylglyoxal)
+C00937_c ((R)-Lactaldehyde)
+
+

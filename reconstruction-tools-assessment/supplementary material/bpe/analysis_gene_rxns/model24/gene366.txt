@@ -1,0 +1,16 @@
+notRecovered:
+HXAND:1 h2o_c + 1 hxan_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xan_c (1 H2O + 1 Hypoxanthine + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Xanthine)
+
+
+AdditionalNotInModel:
+R162-RXN:1 Acceptor_c + 1 CPD-107_c + 1 WATER_c -> 1 CPD-113_c + 1 Donor-H2_c (1 Acceptor + 1 6-hydroxypseudooxynicotine + 1 H2O -> 1 2,6-dihydroxypseudooxynicotine + 1 Donor-H2)
+
+
+AdditionalMetabolites:
+Acceptor_c (Acceptor)
+CPD-107_c (6-hydroxypseudooxynicotine)
+CPD-113_c (2,6-dihydroxypseudooxynicotine)
+Donor-H2_c (Donor-H2)
+WATER_c (H2O)
+
+

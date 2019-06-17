@@ -1,0 +1,32 @@
+notRecovered:
+RNTR4:1 trdrd_c + 1 utp_c -> 1 dutp_c + 1 h2o_c + 1 trdox_c (1 M_Reduced_thioredoxin_ + 1 M_UTP_ -> 1 M_dUTP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNTR2:1 gtp_c + 1 trdrd_c -> 1 dgtp_c + 1 h2o_c + 1 trdox_c (1 M_GTP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dGTP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNTR3:1 ctp_c + 1 trdrd_c -> 1 dctp_c + 1 h2o_c + 1 trdox_c (1 M_CTP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dCTP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNTR1:1 atp_c + 1 trdrd_c -> 1 datp_c + 1 h2o_c + 1 trdox_c (1 M_ATP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dATP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+
+
+AdditionalNotInModel:
+RXN0-746:1 GTP_c + 1 FORMATE_c + 1 PROTON_c -> 1 DGTP_c + 1 CARBON-DIOXIDE_c + 1 WATER_c (1 GTP + 1 formate + 1 H+ -> 1 dGTP + 1 CO2 + 1 H2O)
+RXN0-745:1 FORMATE_c + 1 ATP_c + 1 PROTON_c -> 1 DATP_c + 1 CARBON-DIOXIDE_c + 1 WATER_c (1 formate + 1 ATP + 1 H+ -> 1 dATP + 1 CO2 + 1 H2O)
+RXN0-724:1 FORMATE_c + 1 PROTON_c + 1 UTP_c -> 1 DUTP_c + 1 CARBON-DIOXIDE_c + 1 WATER_c (1 formate + 1 H+ + 1 UTP -> 1 dUTP + 1 CO2 + 1 H2O)
+RIBONUCLEOSIDE-TRIP-REDUCT-RXN-FORMATE/ITP/PROTON//DITP/CARBON-DIOXIDE/WATER.46.:1 ITP_c + 1 FORMATE_c + 1 PROTON_c -> 1 DITP_c + 1 CARBON-DIOXIDE_c + 1 WATER_c (1 ITP + 1 formate + 1 H+ -> 1 dITP + 1 CO2 + 1 H2O)
+RXN0-723:1 CTP_c + 1 FORMATE_c + 1 PROTON_c -> 1 DCTP_c + 1 CARBON-DIOXIDE_c + 1 WATER_c (1 CTP + 1 formate + 1 H+ -> 1 dCTP + 1 CO2 + 1 H2O)
+
+
+AdditionalMetabolites:
+ATP_c (ATP)
+CARBON-DIOXIDE_c (CO2)
+CTP_c (CTP)
+DATP_c (dATP)
+DCTP_c (dCTP)
+DGTP_c (dGTP)
+DITP_c (dITP)
+DUTP_c (dUTP)
+FORMATE_c (formate)
+GTP_c (GTP)
+ITP_c (ITP)
+PROTON_c (H+)
+UTP_c (UTP)
+WATER_c (H2O)
+
+

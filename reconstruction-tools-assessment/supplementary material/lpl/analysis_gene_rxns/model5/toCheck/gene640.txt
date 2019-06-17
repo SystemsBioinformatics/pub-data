@@ -1,0 +1,32 @@
+notRecovered:
+GLYBabc:1 atp_c + 1 glyb_e + 1 h2o_c -> 1 adp_c + 1 glyb_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Glycine_betaine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_Glycine_betaine_ + 1 M_H_ + 1 M_Phosphate_)
+CHLabc:1 atp_c + 1 chol_e + 1 h2o_c -> 1 adp_c + 1 chol_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Choline_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_Choline_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+CTBTabc:1 atp_c + 1 ctbt_e + 1 h2o_c -> 1 adp_c + 1 ctbt_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Crotonobetaine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Crotonobetaine + 1 H+ + 1 Phosphate)
+ARSENBabc:1 arsenb_e + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 arsenb_c + 1 h_c + 1 pi_c (1 ARSENOBETAINE C5H11AsO2 + 1 ATP C10H12N5O13P3 + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 ARSENOBETAINE C5H11AsO2 + 1 H+ + 1 Phosphate)
+CRNabc:1 atp_c + 1 crn_e + 1 h2o_c -> 1 adp_c + 1 crn_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 L-Carnitine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 L-Carnitine + 1 H+ + 1 Phosphate)
+CHOLSabc_1:1 atp_c + 1 chols_e + 1 h2o_c -> 1 adp_c + 1 chols_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Choline sulfate + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Choline sulfate + 1 H+ + 1 Phosphate)
+PROLBabc:1 atp_c + 1 h2o_c + 1 prolb_e -> 1 adp_c + 1 h_c + 1 pi_c + 1 prolb_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Proline betaine C7H13NO2 -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate + 1 Proline betaine C7H13NO2)
+GBBTNabc:1 atp_c + 1 gbbtn_e + 1 h2o_c -> 1 adp_c + 1 gbbtn_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Gamma-butyrobetaine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Gamma-butyrobetaine + 1 H+ + 1 Phosphate)
+ECTOINEabc:1 atp_c + 1 ectoine_e + 1 h2o_c -> 1 adp_c + 1 ectoine_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Ectoine C6H12N2O2 + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Ectoine C6H12N2O2 + 1 H+ + 1 Phosphate)
+
+
+AdditionalMetabolites:
+arsenb_c (ARSENOBETAINE C5H11AsO2)
+arsenb_e (ARSENOBETAINE C5H11AsO2)
+chols_c (Choline sulfate)
+chols_e (Choline sulfate)
+crn_c (L-Carnitine)
+crn_e (L-Carnitine)
+ctbt_c (Crotonobetaine)
+ctbt_e (Crotonobetaine)
+ectoine_c (Ectoine C6H12N2O2)
+ectoine_e (Ectoine C6H12N2O2)
+gbbtn_c (Gamma-butyrobetaine)
+gbbtn_e (Gamma-butyrobetaine)
+prolb_c (Proline betaine C7H13NO2)
+prolb_e (Proline betaine C7H13NO2)
+
+

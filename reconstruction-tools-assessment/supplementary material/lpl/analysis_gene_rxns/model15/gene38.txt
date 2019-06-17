@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01710:1 cpd00067_c + 1 cpd00004_c + 1 cpd00371_c <=> 1 cpd00003_c + 1 cpd03559_c (1 H_plus__c0 + 1 NADH_c0 + 1 Propanal_c0 <=> 1 NAD_c0 + 1 Optal_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00067_c (H_plus__c0)
+cpd00371_c (Propanal_c0)
+cpd03559_c (Optal_c0)
+
+

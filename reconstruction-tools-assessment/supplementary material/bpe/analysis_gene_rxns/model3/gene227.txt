@@ -1,0 +1,7 @@
+AdditionalNotInModel:
+ACACt2:1 h_e + 1 acac_e <=> 1 h_c + 1 acac_c (1 H+ + 1 Acetoacetate <=> 1 H+ + 1 Acetoacetate)
+BUTt2r:1 h_e + 1 but_e <=> 1 h_c + 1 but_c (1 H+ + 1 Butyrate (n-C4:0) <=> 1 H+ + 1 Butyrate (n-C4:0))
+
+
+AdditionalInModel:
+HEXt2rpp:1 h_p + 1 hxa_p <=> 1 h_c + 1 hxa_c (1 H+ + 1 Hexanoate (n-C6:0) <=> 1 H+ + 1 Hexanoate (n-C6:0))

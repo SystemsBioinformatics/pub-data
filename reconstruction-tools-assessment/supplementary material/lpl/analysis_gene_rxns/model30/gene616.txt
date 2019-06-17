@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R06112:1 G10518_c + 1 C00001_c <=> 1 C00031_c + 1 C00092_c (1 M_00936 + 1 H2O <=> 1 D-Glucose + 1 D-Glucose 6-phosphate)
+R05133:1 C06187_c + 1 C00001_c <=> 1 C00530_c + 1 C01172_c (1 Arbutin 6-phosphate + 1 H2O <=> 1 Hydroquinone + 1 beta-D-Glucose 6-phosphate)
+R05134:1 C06188_c + 1 C00001_c <=> 1 C02323_c + 1 C01172_c (1 Salicin 6-phosphate + 1 H2O <=> 1 Salicyl alcohol + 1 beta-D-Glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00092_c (D-Glucose 6-phosphate)
+C00530_c (Hydroquinone)
+C01172_c (beta-D-Glucose 6-phosphate)
+C02323_c (Salicyl alcohol)
+C06187_c (Arbutin 6-phosphate)
+C06188_c (Salicin 6-phosphate)
+G10518_c (M_00936)
+
+

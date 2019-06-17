@@ -1,0 +1,15 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+HEXTT:1 ipdp_c + 1 hexdp_c -> 1 ppi_c + 1 hepdp_c (1 Isopentenyl diphosphate + 1 All trans Hexaprenyl diphosphate C30H49O7P2 -> 1 Diphosphate + 1 All-trans-Heptaprenyl diphosphate)
+OCTDPS:5 ipdp_c + 1 frdp_c -> 5 ppi_c + 1 octdp_c (5 Isopentenyl diphosphate + 1 Farnesyl diphosphate -> 5 Diphosphate + 1 All-trans-Octaprenyl diphosphate)
+
+
+AdditionalMetabolites:
+hepdp_c (All-trans-Heptaprenyl diphosphate)
+hexdp_c (All trans Hexaprenyl diphosphate C30H49O7P2)
+octdp_c (All-trans-Octaprenyl diphosphate)
+
+

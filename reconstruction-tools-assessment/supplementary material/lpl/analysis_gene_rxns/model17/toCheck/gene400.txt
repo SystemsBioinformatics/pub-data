@@ -1,0 +1,26 @@
+notRecovered:
+FLVR:1 h_c + 1 nadph_c + 1 ribflv_c -> 1 nadp_c + 1 rbflvrd_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Riboflavin_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Reduced_riboflavin_)
+
+
+AdditionalNotInModel:
+R05705:1 C00003_c + 1 C01847_c <=> 1 C00004_c + 1 C00061_c + 1 C00080_c (1 NAD+ + 1 Reduced FMN <=> 1 NADH + 1 FMN + 1 H+)
+R05706:1 C00006_c + 1 C01847_c <=> 1 C00005_c + 1 C00061_c + 1 C00080_c (1 NADP+ + 1 Reduced FMN <=> 1 NADPH + 1 FMN + 1 H+)
+R08014:2 C00005_c + 2 C00080_c + 1 C16391_c <=> 1 C00001_c + 2 C00006_c + 1 C16392_c (2 NADPH + 2 H+ + 1 Trinitrotoluene <=> 1 H2O + 2 NADP+ + 1 4-Hydroxylamino-2,6-dinitrotoluene)
+R08017:2 C00004_c + 2 C00080_c + 1 C16391_c <=> 1 C00001_c + 2 C00003_c + 1 C16392_c (2 NADH + 2 H+ + 1 Trinitrotoluene <=> 1 H2O + 2 NAD+ + 1 4-Hydroxylamino-2,6-dinitrotoluene)
+R08042:2 C00004_c + 2 C00080_c + 1 C16391_c <=> 1 C00001_c + 2 C00003_c + 1 C16393_c (2 NADH + 2 H+ + 1 Trinitrotoluene <=> 1 H2O + 2 NAD+ + 1 2-Hydroxylamino-4,6-dinitrotoluene)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00061_c (FMN)
+C00080_c (H+)
+C01847_c (Reduced FMN)
+C16391_c (Trinitrotoluene)
+C16392_c (4-Hydroxylamino-2,6-dinitrotoluene)
+C16393_c (2-Hydroxylamino-4,6-dinitrotoluene)
+
+

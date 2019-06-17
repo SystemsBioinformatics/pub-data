@@ -1,0 +1,15 @@
+notRecovered:
+PAPPT5:1 udcpp_c + 1 ugmdalac_c -> 1 uagmdalac_c + 1 ump_c (1 M_Undecaprenyl_phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UMP_)
+
+
+AdditionalNotInModel:
+RXN-8975:1 C3_c + 1 CPD-9646_c <=> 1 C4_c + 1 UMP_c (1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 di-trans,octa-cis-undecaprenyl phosphate <=> 1 undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanyl-D-alanine + 1 UMP)
+
+
+AdditionalMetabolites:
+C3_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+C4_c (undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanyl-D-alanine)
+CPD-9646_c (di-trans,octa-cis-undecaprenyl phosphate)
+UMP_c (UMP)
+
+

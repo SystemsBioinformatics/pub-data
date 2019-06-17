@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+FCLPA:1 fc1p_c <=> 1 dhap_c + 1 lald__L_c (1 L-Fuculose 1-phosphate <=> 1 Dihydroxyacetone phosphate + 1 L-Lactaldehyde)
+MDRPD:1 5mdru1p_c -> 1 dkmpp_c + 1 h2o_c (1 5-Methylthio-5-deoxy-D-ribulose 1-phosphate -> 1 2,3-diketo-5-methylthio-1-phosphopentane + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+5mdru1p_c (5-Methylthio-5-deoxy-D-ribulose 1-phosphate)
+dkmpp_c (2,3-diketo-5-methylthio-1-phosphopentane)
+fc1p_c (L-Fuculose 1-phosphate)
+
+

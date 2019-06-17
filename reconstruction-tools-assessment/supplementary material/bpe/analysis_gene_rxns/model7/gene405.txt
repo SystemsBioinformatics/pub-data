@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+MALCOAMT:1 amet_c + 1 malcoa_c -> 1 ahcys_c + 1 malcoame_c (1 S-Adenosyl-L-methionine + 1 Malonyl CoA C24H33N7O19P3S -> 1 S-Adenosyl-L-homocysteine + 1 Malonyl-CoA methyl ester)
+
+
+AdditionalMetabolites:
+malcoame_c (Malonyl-CoA methyl ester)
+
+

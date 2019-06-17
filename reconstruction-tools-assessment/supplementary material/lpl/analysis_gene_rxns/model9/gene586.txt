@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+BPNT2:1 paps_c + 1 h2o_c -> 1 aps_c + 1 pi_c (1 3'-Phosphoadenylyl sulfate + 1 H2O H2O -> 1 Adenosine 5'-phosphosulfate + 1 Phosphate)
+MI3PP:1 mi3p__D_c + 1 h2o_c -> 1 pi_c + 1 inost_c (1 1D-myo-Inositol 3-phosphate + 1 H2O H2O -> 1 Phosphate + 1 Myo-Inositol)
+IMP:1 pdip_d_d_c + 1 h2o_c -> 1 dip_d_d_c + 1 pi_c (1 Phospho-di-myo-inositol 1,1' phosphate + 1 H2O H2O -> 1 Di-myo-inositol 1,1' phosphate + 1 Phosphate)
+BPNT:1 pap_c + 1 h2o_c -> 1 amp_c + 1 pi_c (1 Adenosine 3',5'-bisphosphate + 1 H2O H2O -> 1 AMP C10H12N5O7P + 1 Phosphate)
+MI4PP:1 mi4p__D_c + 1 h2o_c -> 1 pi_c + 1 inost_c (1 1D-myo-Inositol 4-phosphate + 1 H2O H2O -> 1 Phosphate + 1 Myo-Inositol)
+FBP:1 fdp_c + 1 h2o_c -> 1 pi_c + 1 f6p_c (1 D-Fructose 1,6-bisphosphate + 1 H2O H2O -> 1 Phosphate + 1 D-Fructose 6-phosphate)
+G2PP:1 glyc2p_c + 1 h2o_c -> 1 pi_c + 1 glyc_c (1 Glycerol 2-phosphate + 1 H2O H2O -> 1 Phosphate + 1 Glycerol)
+
+
+AdditionalMetabolites:
+dip_d_d_c (Di-myo-inositol 1,1' phosphate)
+glyc2p_c (Glycerol 2-phosphate)
+mi3p__D_c (1D-myo-Inositol 3-phosphate)
+mi4p__D_c (1D-myo-Inositol 4-phosphate)
+pdip_d_d_c (Phospho-di-myo-inositol 1,1' phosphate)
+
+
+AdditionalInModel:
+HISTP:1 h2o_c + 1 hisp_c -> 1 pi_c + 1 histd_c (1 H2O H2O + 1 L-Histidinol phosphate -> 1 Phosphate + 1 L-Histidinol)

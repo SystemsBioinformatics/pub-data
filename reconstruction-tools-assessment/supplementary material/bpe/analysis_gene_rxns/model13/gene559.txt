@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn05012:1 cpd00342_c + 1 cpd00146_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd11209_c (1 N_Acetylornithine_c0 + 1 Carbamoylphosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 N_Acetyl_L_citrulline_c0)
+
+
+AdditionalMetabolites:
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00146_c (Carbamoylphosphate_c0)
+cpd00342_c (N_Acetylornithine_c0)
+cpd11209_c (N_Acetyl_L_citrulline_c0)
+
+

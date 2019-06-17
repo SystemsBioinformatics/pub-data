@@ -1,0 +1,4 @@
+notRecovered:
+RMPA:1 rml1p_c <=> 1 dhap_c + 1 lald__L_c (1 M_L_Rhamnulose_1_phosphate_ <=> 1 M_Dihydroxyacetone_phosphate_ + 1 M_L_Lactaldehyde_)
+
+

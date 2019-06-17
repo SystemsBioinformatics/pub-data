@@ -1,0 +1,4 @@
+notRecovered:
+MCLORi:1 h_c + 1 mercppyr_c + 1 nadh_c <=> 1 mercplac_c + 1 nad_c (1 H+ + 1 Mercaptopyruvate + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 Mercaptolactate + 1 Nicotinamide adenine dinucleotide)
+
+

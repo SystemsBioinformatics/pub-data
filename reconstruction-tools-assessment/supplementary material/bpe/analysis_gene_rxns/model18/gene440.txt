@@ -1,0 +1,15 @@
+notRecovered:
+FUCUNDT_BP:1 dtdp2nac4ametfuc_c + 1 udcpp_c -> 1 dtmp_c + 1 undp2nac4ametfuc_c (1 dTDP-2-N-acetyl-4-aminomethyl-fucose + 1 Undecaprenyl phosphate -> 1 dTMP + 1 undecaprenyl-diphosphate-2-N-acetyl-4-aminomethyl-fucose)
+
+
+AdditionalNotInModel:
+R10850:1 C00029_c + 1 C00641_c <=> 1 C00015_c + 1 C06364_c (1 UDP-glucose + 1 1,2-Diacyl-sn-glycerol <=> 1 UDP + 1 1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol)
+
+
+AdditionalMetabolites:
+C00015_c (UDP)
+C00029_c (UDP-glucose)
+C00641_c (1,2-Diacyl-sn-glycerol)
+C06364_c (1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol)
+
+

@@ -1,0 +1,14 @@
+notRecovered:
+CORELPSPPEAGLCNT_BP:1 coreLPSppea_BP_p + 1 undpglcn_BP_p <=> 1 coreLPSppeag_BP_p + 1 h_c + 1 udcpdp_p (1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 undecaprenyl-diphosphate-glucosamine <=> 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA-glucosamine (B. pertussis specific) + 1 H+ + 1 Undecaprenyl diphosphate)
+
+
+AdditionalNotInModel:
+LA4NTGM1pp:1 hghhlipa_p + 1 uLa4n_p -> 1 udcpp_p + 1 gm1lipa_p (1 Heptosyl-glucosyl-heptosyl-heptosyl-kdo2-lipidA + 1 Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose -> 1 Undecaprenyl phosphate + 1 4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A (G. metallireducens, variant 1))
+
+
+AdditionalMetabolites:
+gm1lipa_p (4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A (G. metallireducens, variant 1))
+hghhlipa_p (Heptosyl-glucosyl-heptosyl-heptosyl-kdo2-lipidA)
+uLa4n_p (Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose)
+
+

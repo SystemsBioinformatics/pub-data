@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+ALCD1:1 nad_c + 1 meoh_c <=> 1 nadh_c + 1 fald_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Methanol <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Formaldehyde + 1 H+)
+
+
+AdditionalMetabolites:
+fald_c (Formaldehyde)
+meoh_c (Methanol)
+
+

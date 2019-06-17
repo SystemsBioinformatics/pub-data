@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+GAMpts:1 gam_e + 1 pep_c -> 1 pyr_c + 1 gam6p_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 D-Glucosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+gam_e (D-Glucosamine)
+
+
+AdditionalInModel:
+GLCpts:1 glc__D_e + 1 pep_c -> 1 pyr_c + 1 g6p_c (1 D-Glucose + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 D-Glucose 6-phosphate)

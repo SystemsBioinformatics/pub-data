@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R02341:1 C15586_c + 1 C00001_c <=> 1 C15587_c + 1 C00121_c (1 N-D-Ribosylpurine + 1 H2O <=> 1 Purine + 1 D-Ribose)
+R01273:1 C03150_c + 1 C00001_c <=> 1 C00121_c + 1 C00153_c (1 Nicotinamide-beta-riboside + 1 H2O <=> 1 D-Ribose + 1 Nicotinamide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00121_c (D-Ribose)
+C00153_c (Nicotinamide)
+C03150_c (Nicotinamide-beta-riboside)
+C15586_c (N-D-Ribosylpurine)
+C15587_c (Purine)
+
+

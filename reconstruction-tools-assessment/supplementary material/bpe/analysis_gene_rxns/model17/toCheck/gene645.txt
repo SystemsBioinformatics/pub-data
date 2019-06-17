@@ -1,0 +1,20 @@
+notRecovered:
+OMCDC:1 3c4mop_c + 1 h_c -> 1 4mop_c + 1 co2_c (1 3-Carboxy-4-methyl-2-oxopentanoate + 1 H+ -> 1 4-Methyl-2-oxopentanoate + 1 CO2)
+
+
+AdditionalNotInModel:
+R00994:1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00109_c <=> 1 C00003_c + 1 C06032_c (1 NADH + 1 CO2 + 1 H+ + 1 2-Oxobutanoate <=> 1 NAD+ + 1 D-erythro-3-Methylmalate)
+R10052:1 C00003_c + 1 C04411_c -> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00233_c (1 NAD+ + 1 (2R,3S)-3-Isopropylmalate -> 1 NADH + 1 CO2 + 1 H+ + 1 4-Methyl-2-oxopentanoate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00011_c (CO2)
+C00080_c (H+)
+C00109_c (2-Oxobutanoate)
+C00233_c (4-Methyl-2-oxopentanoate)
+C04411_c ((2R,3S)-3-Isopropylmalate)
+C06032_c (D-erythro-3-Methylmalate)
+
+

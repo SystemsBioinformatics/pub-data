@@ -1,0 +1,8 @@
+notRecovered:
+AIRCr:1 air_c + 1 co2_c -> 1 5aizc_c + 1 h_c (1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_CO2_ -> 1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_4_carboxylate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+AIRC1:1 air_c + 1 atp_c + 1 co2_c + 1 h2o_c -> 1 5aizc_c + 1 adp_c + 2 h_c + 1 pi_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 ATP C10H12N5O13P3 + 1 CO2 CO2 + 1 H2O H2O -> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + 1 ADP C10H12N5O10P2 + 2 H+ + 1 Phosphate)
+
+

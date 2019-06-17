@@ -1,0 +1,19 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+R07460:1 C00097_c + 1 C15811_c <=> 1 C00041_c + 1 C15812_c (1 L-Cysteine + 1 [Enzyme]-cysteine <=> 1 L-Alanine + 1 [Enzyme]-S-sulfanylcysteine)
+R11528:1 C00097_c + 1 C02743_c <=> 1 C00041_c + 1 C21440_c (1 L-Cysteine + 1 [Protein]-L-cysteine <=> 1 L-Alanine + 1 [Protein]-S-sulfanyl-L-cysteine)
+R11529:1 C02743_c + 1 C15812_c <=> 1 C15811_c + 1 C21440_c (1 [Protein]-L-cysteine + 1 [Enzyme]-S-sulfanylcysteine <=> 1 [Enzyme]-cysteine + 1 [Protein]-S-sulfanyl-L-cysteine)
+
+
+AdditionalMetabolites:
+C00041_c (L-Alanine)
+C00097_c (L-Cysteine)
+C02743_c ([Protein]-L-cysteine)
+C15811_c ([Enzyme]-cysteine)
+C15812_c ([Enzyme]-S-sulfanylcysteine)
+C21440_c ([Protein]-S-sulfanyl-L-cysteine)
+
+

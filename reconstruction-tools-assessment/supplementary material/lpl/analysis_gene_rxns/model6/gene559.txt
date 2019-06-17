@@ -1,0 +1,4 @@
+notRecovered:
+PGMT:1 g1p_c <=> 1 g6p_c (1 M_D_Glucose_1_phosphate_ <=> 1 M_D_Glucose_6_phosphate_)
+
+

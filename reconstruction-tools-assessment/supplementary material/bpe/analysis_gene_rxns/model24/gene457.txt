@@ -1,0 +1,13 @@
+notRecovered:
+MACACI:1 4mlacac_c <=> 1 4fumacac_c (1 4-maleylacetoacetate <=> 1 4-fumarylacetoacetate)
+
+
+AdditionalNotInModel:
+MALEYLPYRUVATE-ISOMERASE-RXN:1 CPD-1070_c -> 1 CPD-277_c (1 3-maleylpyruvate -> 1 3-fumarylpyruvate)
+
+
+AdditionalMetabolites:
+CPD-1070_c (3-maleylpyruvate)
+CPD-277_c (3-fumarylpyruvate)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+NAPRT:1 h_c + 1 nac_c + 1 prpp_c -> 1 nicrnt_c + 1 ppi_c (1 M_H_ + 1 M_Nicotinate_ + 1 M_5_Phospho_alpha_D_ribose_1_diphosphate_ -> 1 M_Nicotinate_D_ribonucleotide_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+NICOTINATEPRIBOSYLTRANS-RXN:1 NIACINE_c + 1 PRPP_c + 1 WATER_c + 1 ATP_c -> 1 NICOTINATE_NUCLEOTIDE_c + 1 PPI_c + 1 Pi_c + 1 ADP_c (1 nicotinate + 1 5-phospho-alpha-D-ribose 1-diphosphate + 1 H2O + 1 ATP -> 1 beta-nicotinate D-ribonucleotide + 1 diphosphate + 1 phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+NIACINE_c (nicotinate)
+NICOTINATE_NUCLEOTIDE_c (beta-nicotinate D-ribonucleotide)
+PPI_c (diphosphate)
+PRPP_c (5-phospho-alpha-D-ribose 1-diphosphate)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

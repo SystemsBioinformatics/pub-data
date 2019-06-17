@@ -1,0 +1,28 @@
+notRecovered:
+GHMT2r:1 ser__L_c + 1 thf_c <=> 1 gly_c + 1 h2o_c + 1 mlthf_c (1 L-Serine + 1 5,6,7,8-Tetrahydrofolate <=> 1 Glycine + 1 H2O + 1 5,10-Methylenetetrahydrofolate)
+
+
+AdditionalNotInModel:
+RXN0-5234:1 ALLO-THR_c -> 1 ACETALD_c + 1 GLY_c (1 ALLO-THR -> 1 acetaldehyde + 1 glycine)
+GLYOHMETRANS-RXN:1 SER_c + 1 THF-GLU-N_c <=> 1 GLY_c + 1 METHYLENE-THF-GLU-N_c + 1 WATER_c (1 L-serine + 1 THF-GLU-N <=> 1 glycine + 1 METHYLENE-THF-GLU-N + 1 H2O)
+RXN-6321:1 5-10-METHENYL-THF-GLU-N_c + 1 WATER_c -> 1 N5-Formyl-THF-Glu-N_c + 1 PROTON_c (1 5-10-METHENYL-THF-GLU-N + 1 H2O -> 1 N5-Formyl-THF-Glu-N + 1 H+)
+RXN0-5240:1 D-ALANINE_c + 1 PYRIDOXAL_PHOSPHATE_c <=> 1 PYRIDOXAMINE-5P_c + 1 PYRUVATE_c (1 D-alanine + 1 pyridoxal 5'-phosphate <=> 1 pyridoxamine 5'-phosphate + 1 pyruvate)
+
+
+AdditionalMetabolites:
+5-10-METHENYL-THF-GLU-N_c (5-10-METHENYL-THF-GLU-N)
+ACETALD_c (acetaldehyde)
+ALLO-THR_c (ALLO-THR)
+D-ALANINE_c (D-alanine)
+GLY_c (glycine)
+METHYLENE-THF-GLU-N_c (METHYLENE-THF-GLU-N)
+N5-Formyl-THF-Glu-N_c (N5-Formyl-THF-Glu-N)
+PROTON_c (H+)
+PYRIDOXAL_PHOSPHATE_c (pyridoxal 5'-phosphate)
+PYRIDOXAMINE-5P_c (pyridoxamine 5'-phosphate)
+PYRUVATE_c (pyruvate)
+SER_c (L-serine)
+THF-GLU-N_c (THF-GLU-N)
+WATER_c (H2O)
+
+

@@ -1,0 +1,8 @@
+notRecovered:
+SBTD_L:1 nad_c + 1 sbt__L_c -> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_L_Sorbitol_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD:1 idt_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_L_Iditol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD_D2:1 nad_c + 1 sbt__D_c -> 1 fru_c + 1 h_c + 1 nadh_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_D_Sorbitol_ -> 1 M_D_Fructose_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalInModel:
+BTDD_RR:1 nad_c + 1 btd_RR_c <=> 1 actn__R_c + 1 nadh_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1  R R  2 3 Butanediol C4H10O2 <=> 1  R  Acetoin C4H8O2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)

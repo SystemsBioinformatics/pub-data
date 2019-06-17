@@ -1,0 +1,15 @@
+notRecovered:
+MNLpts:1 mnl_e + 1 pep_c -> 1 mnl1p_c + 1 pyr_c (1 M_D_Mannitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannitol_1_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R02704:1 C00392_c + 1 C04261_c -> 1 C00615_c + 1 C00644_c (1 Mannitol + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 D-Mannitol 1-phosphate)
+
+
+AdditionalMetabolites:
+C00392_c (Mannitol)
+C00615_c (Protein histidine)
+C00644_c (D-Mannitol 1-phosphate)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+
+

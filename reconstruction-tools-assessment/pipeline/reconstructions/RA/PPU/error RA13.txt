@@ -1,0 +1,49 @@
+blastStructure = getBlast(species,inputFile,modelIDs,refFastaFiles);
+draftModel = getModelFromHomology(models, blastStructure, species, 1)
+BLASTing "iJN746" against "ppu"..
+BLASTing "ppu" against "iJN746"..
+
+Standardizing grRules of template model with ID "iJN746" ...Warning: Potentially problematic ") AND (", ") AND" or "AND ("relationships found in
+
+  - grRule #208: (PP_0869 or PP_0871) and PP_0870 and PP_0868
+  - grRule #215: (PP_0076 and PP_0075) or ((PP_0871 or PP_0869) and PP_0870 and PP_0868)
+  - grRule #237: (PP_0869 or PP_0871) and PP_0870 and PP_0868
+  - grRule #530: ((PP_0869 or PP_0871) and PP_0870 and PP_0868) or (PP_0295 and PP_0296 and PP_0294)
+  - grRule #764: PP_4403 and PP_4404 and (PP_4401 and PP_4402)
+  - grRule #765: PP_4403 and PP_4404 and (PP_4401 and PP_4402)
+  - grRule #766: PP_4403 and PP_4404 and (PP_4401 and PP_4402)
+  - grRule #884: ((PP_0871 or PP_0869) and PP_0870 and PP_0868) or (PP_2774 and PP_2775) or (PP_1299 and PP_1298 and PP_1297 and PP_1300) or (PP_0295
+  and PP_0296 and PP_0294)
+
+ This kind of relationships should only be present in  reactions catalysed by complexes of isoenzymes e.g.
+
+  - (G1 or G2) and (G3 or G4)
+
+ For these cases modify the grRules manually, writing all the possible combinations e.g.
+
+  - (G1 and G3) or (G1 and G4) or (G2 and G3) or (G2 and G4)
+
+ For other cases modify the correspondent grRules avoiding:
+
+  1) Overall container brackets, e.g.
+        "(G1 and G2)" should be "G1 and G2"
+
+  2) Single unit enzymes enclosed into brackets, e.g.
+        "(G1)" should be "G1"
+
+  3) The use of uppercases for logical operators, e.g.
+        "G1 OR G2" should be "G1 or G2"
+
+  4) Unbalanced brackets, e.g.
+        "((G1 and G2) or G3" should be "(G1 and G2) or G3"
+ 
+> In standardizeGrRules>findPotentialErrors (line 163)
+  In standardizeGrRules (line 41)
+  In getModelFromHomology (line 133)
+  In buildModel_RAVEN (line 25)
+  In generateAllRAVENModels (line 2) 
+ done
+Subscript indices must either be real positive integers or logicals.
+
+Error in getModelFromHomology (line 175)
+    useOrderIndexes(index)=i;

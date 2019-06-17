@@ -1,0 +1,31 @@
+notRecovered:
+ACOAD10f:1 fad_c + 1 ibcoa_c <=> 1 fadh2_c + 1 2mp2coa_c (1 Flavin adenine dinucleotide oxidized + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) <=> 1 Flavin adenine dinucleotide reduced + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A))
+ACOAD5f:1 ddcacoa_c + 1 fad_c <=> 1 dd2coa_c + 1 fadh2_c (1 Dodecanoyl-CoA (n-C12:0CoA) + 1 Flavin adenine dinucleotide oxidized <=> 1 trans-Dodec-2-enoyl-CoA + 1 Flavin adenine dinucleotide reduced)
+ACOAD3f:1 fad_c + 1 occoa_c <=> 1 fadh2_c + 1 oc2coa_c (1 Flavin adenine dinucleotide oxidized + 1 Octanoyl-CoA (n-C8:0CoA) <=> 1 Flavin adenine dinucleotide reduced + 1 trans-Oct-2-enoyl-CoA)
+ACOADH1:1 2mbcoa_c + 1 fad_c <=> 1 2mb2coa_c + 1 fadh2_c (1 (S)-2-methylbutanoyl-coenzyme A + 1 Flavin adenine dinucleotide oxidized <=> 1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) + 1 Flavin adenine dinucleotide reduced)
+ACOAD4f:1 dcacoa_c + 1 fad_c <=> 1 dc2coa_c + 1 fadh2_c (1 Decanoyl-CoA (n-C10:0CoA) + 1 Flavin adenine dinucleotide oxidized <=> 1 trans-Dec-2-enoyl-CoA + 1 Flavin adenine dinucleotide reduced)
+ACOAD8f:1 fad_c + 1 stcoa_c <=> 1 fadh2_c + 1 od2coa_c (1 Flavin adenine dinucleotide oxidized + 1 Stearoyl-CoA (n-C18:0CoA) <=> 1 Flavin adenine dinucleotide reduced + 1 trans-Octadec-2-enoyl-CoA)
+MBCOAi:1 fad_c + 1 ivcoa_c <=> 1 fadh2_c + 1 3mb2coa_c (1 Flavin adenine dinucleotide oxidized + 1 3-methylbutanoyl-coenzyme A <=> 1 Flavin adenine dinucleotide reduced + 1 3-methylcrotonyl-coenzyme A)
+ACOAD7f:1 fad_c + 1 pmtcoa_c <=> 1 fadh2_c + 1 hdd2coa_c (1 Flavin adenine dinucleotide oxidized + 1 Palmitoyl-CoA (n-C16:0CoA) <=> 1 Flavin adenine dinucleotide reduced + 1 trans-Hexadec-2-enoyl-CoA)
+ACOAD6f:1 fad_c + 1 tdcoa_c <=> 1 fadh2_c + 1 td2coa_c (1 Flavin adenine dinucleotide oxidized + 1 Tetradecanoyl-CoA (n-C14:0CoA) <=> 1 Flavin adenine dinucleotide reduced + 1 trans-Tetradec-2-enoyl-CoA)
+
+
+AdditionalNotInModel:
+R01178:1 C04253_c + 1 C20675_c <=> 1 C20676_c + 1 C04570_c (1 Electron-transferring flavoprotein + 1 Short-chain acyl-CoA <=> 1 Short-chain trans-2,3-dehydroacyl-CoA + 1 Reduced electron-transferring flavoprotein)
+R02661:1 C00630_c + 1 C00028_c <=> 1 C03460_c + 1 C00030_c (1 2-Methylpropanoyl-CoA + 1 Acceptor <=> 1 2-Methylprop-2-enoyl-CoA + 1 Reduced acceptor)
+R03172:1 C15980_c + 1 C00028_c <=> 1 C03345_c + 1 C00030_c (1 (S)-2-Methylbutanoyl-CoA + 1 Acceptor <=> 1 2-Methylbut-2-enoyl-CoA + 1 Reduced acceptor)
+
+
+AdditionalMetabolites:
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00630_c (2-Methylpropanoyl-CoA)
+C03345_c (2-Methylbut-2-enoyl-CoA)
+C03460_c (2-Methylprop-2-enoyl-CoA)
+C04253_c (Electron-transferring flavoprotein)
+C04570_c (Reduced electron-transferring flavoprotein)
+C15980_c ((S)-2-Methylbutanoyl-CoA)
+C20675_c (Short-chain acyl-CoA)
+C20676_c (Short-chain trans-2,3-dehydroacyl-CoA)
+
+

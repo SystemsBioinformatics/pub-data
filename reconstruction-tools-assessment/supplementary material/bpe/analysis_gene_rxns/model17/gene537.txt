@@ -1,0 +1,4 @@
+notRecovered:
+HEPT1_BP:1 adphep_LD_c + 1 lipa_BP_c -> 1 adp_c + 1 h_c + 1 hlipa_BP_c (1 ADP-L-glycero-D-manno-heptose + 1 KDO-lipid IV(A) with secondary C14 acyl chain at position 2' of lipid A (B. pertussis specific) -> 1 ADP + 1 H+ + 1 heptosyl-KDO-lipidA (B. pertussis specific))
+
+

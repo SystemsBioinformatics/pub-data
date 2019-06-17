@@ -1,0 +1,16 @@
+notRecovered:
+ACODA_1:1 acorn_c + 1 h2o_c -> 1 ac_c + 1 orn__L_c (1 M_N2_Acetyl_L_ornithine_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_L_Ornithine_)
+ACGK:1 acglu_c + 1 atp_c -> 1 acg5p_c + 1 adp_c (1 M_N_Acetyl_L_glutamate_ + 1 M_ATP_ -> 1 M_N_Acetyl_L_glutamyl_5_phosphate_ + 1 M_ADP_)
+
+
+AdditionalNotInModel:
+rxn04660:1 cpd00001_c + 1 cpd09352_c <=> 1 cpd00029_c + 1 cpd00039_c (1 H2O_c0 + 1 N2_Acetyl_L_lysine_c0 <=> 1 Acetate_c0 + 1 L_Lysine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00029_c (Acetate_c0)
+cpd00039_c (L_Lysine_c0)
+cpd09352_c (N2_Acetyl_L_lysine_c0)
+
+

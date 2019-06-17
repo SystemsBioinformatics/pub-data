@@ -1,0 +1,19 @@
+notRecovered:
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+SSALy:1 h2o_c + 1 nadp_c + 1 sucsal_c -> 2 h_c + 1 nadph_c + 1 succ_c (1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Succinic semialdehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Succinate)
+GLUSADH:1 oxptn_c + 1 h2o_c + 1 nadp_c <=> 1 glutar_c + 2 h_c + 1 nadph_c (1 Glutarate semialdehyde (5-oxopentanoate) + 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 Glutarate (1,3-propanedicarboxylic acid) + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+rxn00782:1 cpd00067_c + 1 cpd00005_c + 1 cpd00203_c -> 1 cpd00009_c + 1 cpd00006_c + 1 cpd00102_c (1 H_plus__c0 + 1 NADPH_c0 + 1 1_3_Bisphospho_D_glycerate_c0 -> 1 Phosphate_c0 + 1 NADP_c0 + 1 Glyceraldehyde3_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00102_c (Glyceraldehyde3_phosphate_c0)
+cpd00203_c (1_3_Bisphospho_D_glycerate_c0)
+
+

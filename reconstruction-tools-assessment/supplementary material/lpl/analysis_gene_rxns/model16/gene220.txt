@@ -1,0 +1,21 @@
+notRecovered:
+ARAB_Lt:1 arab__L_e <=> 1 arab__L_c (1 M_L_Arabinose_ <=> 1 M_L_Arabinose_)
+
+
+AdditionalNotInModel:
+rxn05500:1 cpd00067_e + 1 cpd00224_e <=> 1 cpd00067_c + 1 cpd00224_c (1 H_plus__e0 + 1 L_Arabinose_e0 <=> 1 H_plus__c0 + 1 L_Arabinose_c0)
+rxn05671:1 cpd00067_e + 1 cpd00154_e <=> 1 cpd00067_c + 1 cpd00154_c (1 H_plus__e0 + 1 Xylose_e0 <=> 1 H_plus__c0 + 1 Xylose_c0)
+rxn05566:1 cpd00067_e + 1 cpd00108_e <=> 1 cpd00067_c + 1 cpd00108_c (1 H_plus__e0 + 1 Galactose_e0 <=> 1 H_plus__c0 + 1 Galactose_c0)
+
+
+AdditionalMetabolites:
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+cpd00108_c (Galactose_c0)
+cpd00108_e (Galactose_e0)
+cpd00154_c (Xylose_c0)
+cpd00154_e (Xylose_e0)
+cpd00224_c (L_Arabinose_c0)
+cpd00224_e (L_Arabinose_e0)
+
+

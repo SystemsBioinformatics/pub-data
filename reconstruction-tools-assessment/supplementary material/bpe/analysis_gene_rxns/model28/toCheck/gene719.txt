@@ -1,0 +1,18 @@
+notRecovered:
+ALCA:1 fadh2_c + 1 o2_c + 1 ptrc_c -> 1 fad_c + 1 h2o_c + 1 hptrc_c (1 Flavin adenine dinucleotide reduced + 1 O2 + 1 Putrescine -> 1 Flavin adenine dinucleotide oxidized + 1 H2O + 1 N4-hydroxyputrescine)
+
+
+AdditionalNotInModel:
+R00448:1 C00007_c + 1 C00047_c + 1 C00005_c + 1 C00080_c <=> 1 C01028_c + 1 C00006_c + 1 C00001_c (1 Oxygen + 1 L-Lysine + 1 NADPH + 1 H+ <=> 1 N6-Hydroxy-L-lysine + 1 NADP+ + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00007_c (Oxygen)
+C00047_c (L-Lysine)
+C00080_c (H+)
+C01028_c (N6-Hydroxy-L-lysine)
+
+

@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn04841:2 cpd00042_c + 1 cpd03555_c <=> 1 cpd00001_c + 1 cpd00111_c + 1 cpd02890_c (2 GSH_c0 + 1 15S_HPETE_c0 <=> 1 H2O_c0 + 1 Oxidized_glutathione_c0 + 1 15S_HETE_c0)
+rxn04840:2 cpd00042_c + 1 cpd03176_c <=> 1 cpd00001_c + 1 cpd00111_c + 1 cpd02918_c (2 GSH_c0 + 1 5S_HPETE_c0 <=> 1 H2O_c0 + 1 Oxidized_glutathione_c0 + 1 5_HETE_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00042_c (GSH_c0)
+cpd00111_c (Oxidized_glutathione_c0)
+cpd02890_c (15S_HETE_c0)
+cpd02918_c (5_HETE_c0)
+cpd03176_c (5S_HPETE_c0)
+cpd03555_c (15S_HPETE_c0)
+
+

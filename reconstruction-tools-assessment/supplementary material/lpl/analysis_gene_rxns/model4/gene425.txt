@@ -1,0 +1,4 @@
+notRecovered:
+SHK3Dr:1 3dhsk_c + 1 h_c + 1 nadph_c <=> 1 nadp_c + 1 skm_c (1 M_3_Dehydroshikimate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ <=> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Shikimate_)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+CRPT_25:25 cdprbtl_c + 1 unagamagp_c -> 25 cmp_c + 25 h_c + 1 unRTA_c (25 M_CDPribitol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_ -> 25 M_CMP_ + 25 M_H_ + 1 M_undecaprenyl_teichoic_acid_with_ribitol_)
+
+
+AdditionalNotInModel:
+RXN-18029:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

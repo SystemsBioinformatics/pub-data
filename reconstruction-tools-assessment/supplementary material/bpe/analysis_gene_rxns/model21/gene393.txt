@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-7744:1 2-METHYLMALEATE_c + 1 WATER_c -> 1 CPD-7066_c (1 citraconate + 1 H2O -> 1 (2R,3S)-3-methylmalate)
+R-2-METHYLMALATE-DEHYDRATASE-RXN:1 CPD-31_c <=> 1 2-METHYLMALEATE_c + 1 WATER_c (1 (R)-citramalate <=> 1 citraconate + 1 H2O)
+
+
+AdditionalMetabolites:
+2-METHYLMALEATE_c (citraconate)
+CPD-31_c ((R)-citramalate)
+CPD-7066_c ((2R,3S)-3-methylmalate)
+WATER_c (H2O)
+
+

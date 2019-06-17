@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+AKGDH:1 nad_c + 1 coa_c + 1 akg_c -> 1 nadh_c + 1 co2_c + 1 succoa_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 2-Oxoglutarate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 CO2 + 1 Succinyl-CoA)
+GCCc:1 nad_c + 1 dhlpro_c -> 1 h_c + 1 nadh_c + 1 lpro_c (1 Nicotinamide adenine dinucleotide + 1 Dihydrolipolprotein H2S2X -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Lipoylprotein S2X)
+PDHcr:1 nad_c + 1 dhlam_c -> 1 h_c + 1 nadh_c + 1 lpam_c (1 Nicotinamide adenine dinucleotide + 1 Dihydrolipoamide C8H17NOS2 -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Lipoamide C8H15NOS2)
+
+
+AdditionalMetabolites:
+dhlam_c (Dihydrolipoamide C8H17NOS2)
+dhlpro_c (Dihydrolipolprotein H2S2X)
+lpam_c (Lipoamide C8H15NOS2)
+lpro_c (Lipoylprotein S2X)
+
+

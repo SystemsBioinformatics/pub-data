@@ -1,0 +1,16 @@
+notRecovered:
+SUCR:1 h2o_c + 1 sucr_c -> 1 fru_c + 1 glc__D_c (1 M_H2O_ + 1 M_Sucrose_ -> 1 M_D_Fructose_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+GLYCOe:1 glycogen1500_e + 1124 h2o_e -> 750 glc__D_e + 375 malt_e (1 Glycogen (n=1500 repeat units) (glc alpha 1,4/6 glc) + 1124 H2O H2O -> 750 D-Glucose + 375 Maltose C12H22O11)
+AMYLe:1 amylose300_e + 199 h2o_e -> 100 glc__D_e + 100 malt_e (1 Amylose (n=300 repeat units, alpha-1,4-glc) + 199 H2O H2O -> 100 D-Glucose + 100 Maltose C12H22O11)
+MTI:1 tre_c <=> 1 malt_c (1 Trehalose <=> 1 Maltose C12H22O11)
+
+
+AdditionalMetabolites:
+amylose300_e (Amylose (n=300 repeat units, alpha-1,4-glc))
+glycogen1500_e (Glycogen (n=1500 repeat units) (glc alpha 1,4/6 glc))
+tre_c (Trehalose)
+
+

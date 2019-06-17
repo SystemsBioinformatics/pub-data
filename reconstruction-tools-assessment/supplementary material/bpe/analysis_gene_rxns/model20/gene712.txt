@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R02952:1 C00811_c -> 1 C00011_c + 1 C05627_c (1 4-Coumarate -> 1 CO2 + 1 4-Hydroxystyrene)
+R03367:1 C01197_c -> 1 C00011_c + 1 C06224_c (1 Caffeate -> 1 CO2 + 1 3,4-Dihydroxystyrene)
+R11225:1 C01847_c + 1 C21214_c <=> 1 C00009_c + 1 C21215_c (1 Reduced FMN + 1 Dimethylallyl phosphate <=> 1 Orthophosphate + 1 Prenylated FMNH2)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00011_c (CO2)
+C00811_c (4-Coumarate)
+C01197_c (Caffeate)
+C01847_c (Reduced FMN)
+C05627_c (4-Hydroxystyrene)
+C06224_c (3,4-Dihydroxystyrene)
+C21214_c (Dimethylallyl phosphate)
+C21215_c (Prenylated FMNH2)
+
+

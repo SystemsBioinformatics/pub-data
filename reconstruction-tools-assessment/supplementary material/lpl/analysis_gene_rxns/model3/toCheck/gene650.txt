@@ -1,0 +1,18 @@
+notRecovered:
+CYTB_B2:2 h_c + 1 mql7_c + 0.5 o2_c -> 1 h2o_c + 2 h_e + 1 mqn7_c (2 M_H_ + 1 M_Menaquinol_7_ + 0.5 M_O2_ -> 1 M_H2O_ + 2 M_H_ + 1 M_Menaquinone_7_)
+
+
+AdditionalNotInModel:
+CYSabc2pp:1 atp_c + 1 h2o_c + 1 cys__L_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 cys__L_p (1 ATP + 1 H2O + 1 L-Cysteine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Cysteine)
+CYTBD2pp:0.5 o2_c + 2 h_c + 1 mql8_c -> 1 h2o_c + 2 h_p + 1 mqn8_c (0.5 O2 + 2 H+ + 1 Menaquinol 8 -> 1 H2O + 2 H+ + 1 Menaquinone 8)
+GTHRDabc2pp:1 atp_c + 1 h2o_c + 1 gthrd_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 gthrd_p (1 ATP + 1 H2O + 1 Reduced glutathione -> 1 ADP + 1 Phosphate + 1 H+ + 1 Reduced glutathione)
+
+
+AdditionalMetabolites:
+cys__L_p (L-Cysteine)
+gthrd_p (Reduced glutathione)
+h_p (H+)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

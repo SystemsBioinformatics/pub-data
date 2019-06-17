@@ -1,0 +1,31 @@
+AdditionalNotInModel:
+MLTG2:1 maltttr_c + 1 h2o_c -> 1 glc__D_c + 1 malttr_c (1 Maltotetraose + 1 H2O H2O -> 1 D-Glucose + 1 Maltotriose C18H32O16)
+AGM3PH:1 anhgm3p_c + 1 h2o_c -> 1 anhm3p_c + 1 acgam_c (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide + 1 H2O H2O -> 1 1,6-anhydrous-N-Acetylmuramyl-tripeptide + 1 N-Acetyl-D-glucosamine)
+MLTG3:1 maltpt_c + 1 h2o_c -> 1 glc__D_c + 1 maltttr_c (1 Maltopentaose + 1 H2O H2O -> 1 D-Glucose + 1 Maltotetraose)
+MLTG5:1 malthp_c + 1 h2o_c -> 1 malthx_c + 1 glc__D_c (1 Maltoheptaose + 1 H2O H2O -> 1 Maltohexaose + 1 D-Glucose)
+MLTG1:1 h2o_c + 1 malttr_c -> 1 malt_c + 1 glc__D_c (1 H2O H2O + 1 Maltotriose C18H32O16 -> 1 Maltose C12H22O11 + 1 D-Glucose)
+MLTG4:1 malthx_c + 1 h2o_c -> 1 maltpt_c + 1 glc__D_c (1 Maltohexaose + 1 H2O H2O -> 1 Maltopentaose + 1 D-Glucose)
+AGMH:1 anhgm_c + 1 h2o_c -> 1 anhm_c + 1 acgam_c (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid + 1 H2O H2O -> 1 1,6-anhydrous-N-Acetylmuramate + 1 N-Acetyl-D-glucosamine)
+AGM4PH:1 anhgm4p_c + 1 h2o_c -> 1 acgam_c + 1 anhm4p_c (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 H2O H2O -> 1 N-Acetyl-D-glucosamine + 1 1,6-anhydrous-N-Acetylmuramyl-tetrapeptide)
+AAMYLpp:1 14glucan_p -> 1 malthx_p (1 1,4-alpha-D-glucan -> 1 Maltohexaose)
+
+
+AdditionalMetabolites:
+14glucan_p (1,4-alpha-D-glucan)
+acgam_c (N-Acetyl-D-glucosamine)
+anhgm3p_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+anhgm4p_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+anhgm_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid)
+anhm3p_c (1,6-anhydrous-N-Acetylmuramyl-tripeptide)
+anhm4p_c (1,6-anhydrous-N-Acetylmuramyl-tetrapeptide)
+anhm_c (1,6-anhydrous-N-Acetylmuramate)
+malthp_c (Maltoheptaose)
+malthx_c (Maltohexaose)
+malthx_p (Maltohexaose)
+maltpt_c (Maltopentaose)
+malttr_c (Maltotriose C18H32O16)
+maltttr_c (Maltotetraose)
+
+
+AdditionalInModel:
+GALS3:1 melib_c + 1 h2o_c -> 1 glc__D_c + 1 gal_c (1 Melibiose C12H22O11 + 1 H2O H2O -> 1 D-Glucose + 1 D-Galactose)

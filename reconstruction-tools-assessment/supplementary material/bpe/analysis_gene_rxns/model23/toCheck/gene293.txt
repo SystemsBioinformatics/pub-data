@@ -1,0 +1,16 @@
+notRecovered:
+UDCPDPpp:1 h2o_p + 1 udcpdp_p -> 1 h_p + 1 pi_p + 1 udcpp_p (1 H2O + 1 Undecaprenyl diphosphate -> 1 H+ + 1 Phosphate + 1 Undecaprenyl phosphate)
+
+
+AdditionalNotInModel:
+RXN-11776:1 FARNESYL-PP_c + 1 WATER_c -> 1 CPD-12587_c + 1 PROTON_c + 1 Pi_c (1 (2E,6E)-farnesyl diphosphate + 1 H2O -> 1 (2E,6E)-farnesyl phosphate + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+CPD-12587_c ((2E,6E)-farnesyl phosphate)
+FARNESYL-PP_c ((2E,6E)-farnesyl diphosphate)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

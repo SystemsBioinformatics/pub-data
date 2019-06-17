@@ -1,0 +1,26 @@
+AdditionalNotInModel:
+RIBONUCLEOSIDE-DIP-REDUCTII-RXN:1 Oxidized-NrdH-Proteins_c + 1 DCDP_c + 1 WATER_c <=> 1 Reduced-NrdH-Proteins_c + 1 CDP_c (1 an oxidized NrdH glutaredoxin-like protein + 1 dCDP + 1 H2O <=> 1 a reduced NrdH glutaredoxin-like protein + 1 CDP)
+RXN0-748:1 Reduced-NrdH-Proteins_c + 1 GDP_c -> 1 Oxidized-NrdH-Proteins_c + 1 DGDP_c + 1 WATER_c (1 a reduced NrdH glutaredoxin-like protein + 1 GDP -> 1 an oxidized NrdH glutaredoxin-like protein + 1 dGDP + 1 H2O)
+RXN0-722:1 Reduced-NrdH-Proteins_c + 1 UDP_c -> 1 Oxidized-NrdH-Proteins_c + 1 DUDP_c + 1 WATER_c (1 a reduced NrdH glutaredoxin-like protein + 1 UDP -> 1 an oxidized NrdH glutaredoxin-like protein + 1 dUDP + 1 H2O)
+RXN0-747:1 Reduced-NrdH-Proteins_c + 1 ADP_c -> 1 Oxidized-NrdH-Proteins_c + 1 DADP_c + 1 WATER_c (1 a reduced NrdH glutaredoxin-like protein + 1 ADP -> 1 an oxidized NrdH glutaredoxin-like protein + 1 dADP + 1 H2O)
+RIBONUCLEOSIDE-DIP-REDUCTI-RXN-CPD0-2231/Ox-Thioredoxin/WATER//IDP/Red-Thioredoxin.52.:1 Red-Thioredoxin_c + 1 IDP_c -> 1 Ox-Thioredoxin_c + 1 CPD0-2231_c + 1 WATER_c (1 a reduced thioredoxin + 1 IDP -> 1 an oxidized thioredoxin + 1 dIDP + 1 H2O)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+CDP_c (CDP)
+CPD0-2231_c (dIDP)
+DADP_c (dADP)
+DCDP_c (dCDP)
+DGDP_c (dGDP)
+DUDP_c (dUDP)
+GDP_c (GDP)
+IDP_c (IDP)
+Ox-Thioredoxin_c (an oxidized thioredoxin)
+Oxidized-NrdH-Proteins_c (an oxidized NrdH glutaredoxin-like protein)
+Red-Thioredoxin_c (a reduced thioredoxin)
+Reduced-NrdH-Proteins_c (a reduced NrdH glutaredoxin-like protein)
+UDP_c (UDP)
+WATER_c (H2O)
+
+

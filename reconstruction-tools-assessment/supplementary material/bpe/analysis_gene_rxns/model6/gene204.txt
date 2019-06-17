@@ -1,0 +1,4 @@
+notRecovered:
+CYSt3pp:1 cys__L_c + 1 h_p -> 1 cys__L_p + 1 h_c (1 L-Cysteine + 1 H+ -> 1 L-Cysteine + 1 H+)
+
+

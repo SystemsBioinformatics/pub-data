@@ -1,0 +1,15 @@
+notRecovered:
+PPCSCT:1 ppcoa_c + 1 succ_c -> 1 ppa_c + 1 succoa_c (1 Propanoyl-CoA + 1 Succinate -> 1 Propionate (n-C3:0) + 1 Succinyl-CoA)
+
+
+AdditionalNotInModel:
+RXN-8807:1 ACET_c + 1 SUC-COA_c <=> 1 ACETYL-COA_c + 1 SUC_c (1 acetate + 1 succinyl-CoA <=> 1 acetyl-CoA + 1 succinate)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+ACET_c (acetate)
+SUC-COA_c (succinyl-CoA)
+SUC_c (succinate)
+
+

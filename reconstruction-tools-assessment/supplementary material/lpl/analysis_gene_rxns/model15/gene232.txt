@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+rxn02314:1 cpd00002_c + 1 cpd00805_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02371_c (1 ATP_c0 + 1 D_Tagatose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_Tagatose_1_6_biphosphate_c0)
+rxn01215:1 cpd00067_c + 1 cpd00089_c + 1 cpd00203_c <=> 1 cpd00169_c + 1 cpd00907_c (1 H_plus__c0 + 1 Glucose_1_phosphate_c0 + 1 1_3_Bisphospho_D_glycerate_c0 <=> 1 3_Phosphoglycerate_c0 + 1 alpha_D_glucose_1_6_biphosphate_c0)
+rxn01343:1 cpd00002_c + 1 cpd00238_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00349_c (1 ATP_c0 + 1 Sedoheptulose7_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Sedoheptulose_1_7_bisphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00089_c (Glucose_1_phosphate_c0)
+cpd00169_c (3_Phosphoglycerate_c0)
+cpd00203_c (1_3_Bisphospho_D_glycerate_c0)
+cpd00238_c (Sedoheptulose7_phosphate_c0)
+cpd00349_c (Sedoheptulose_1_7_bisphosphate_c0)
+cpd00805_c (D_Tagatose_6_phosphate_c0)
+cpd00907_c (alpha_D_glucose_1_6_biphosphate_c0)
+cpd02371_c (D_Tagatose_1_6_biphosphate_c0)
+
+

@@ -1,0 +1,38 @@
+notRecovered:
+FACOAL120t2pp:1 atp_c + 1 coa_c + 1 ddca_p + 1 h_p -> 1 amp_c + 1 ddcacoa_c + 1 h_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 Dodecanoate (n-C12:0) + 1 H+ -> 1 AMP + 1 Dodecanoyl-CoA (n-C12:0CoA) + 1 H+ + 1 Diphosphate)
+FACOAL161t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 hdcea_p -> 1 amp_c + 1 h_c + 1 hdcoa_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 Hexadecenoate (n-C16:1) -> 1 AMP + 1 H+ + 1 Hexadecenoyl-CoA (n-C16:1CoA) + 1 Diphosphate)
+FACOAL160t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 hdca_p -> 1 amp_c + 1 h_c + 1 pmtcoa_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 Hexadecanoate (n-C16:0) -> 1 AMP + 1 H+ + 1 Palmitoyl-CoA (n-C16:0CoA) + 1 Diphosphate)
+FACOAL140t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 ttdca_p -> 1 amp_c + 1 h_c + 1 ppi_c + 1 tdcoa_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 tetradecanoate (n-C14:0) -> 1 AMP + 1 H+ + 1 Diphosphate + 1 Tetradecanoyl-CoA (n-C14:0CoA))
+FACOAL141t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 ttdcea_p -> 1 amp_c + 1 h_c + 1 ppi_c + 1 tdecoa_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 tetradecenoate (n-C14:1) -> 1 AMP + 1 H+ + 1 Diphosphate + 1 Tetradecenoyl-CoA (n-C14:1CoA))
+FACOAL60t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 hxa_p -> 1 amp_c + 1 h_c + 1 hxcoa_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 Hexanoate (n-C6:0) -> 1 AMP + 1 H+ + 1 Hexanoyl-CoA (n-C6:0CoA) + 1 Diphosphate)
+FACOAL100t2pp:1 atp_c + 1 coa_c + 1 dca_p + 1 h_p -> 1 amp_c + 1 dcacoa_c + 1 h_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 Decanoate (n-C10:0) + 1 H+ -> 1 AMP + 1 Decanoyl-CoA (n-C10:0CoA) + 1 H+ + 1 Diphosphate)
+FACOAL80t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 octa_p -> 1 amp_c + 1 h_c + 1 occoa_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 octanoate (n-C8:0) -> 1 AMP + 1 H+ + 1 Octanoyl-CoA (n-C8:0CoA) + 1 Diphosphate)
+FACOAL180t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 ocdca_p -> 1 amp_c + 1 h_c + 1 ppi_c + 1 stcoa_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 octadecanoate (n-C18:0) -> 1 AMP + 1 H+ + 1 Diphosphate + 1 Stearoyl-CoA (n-C18:0CoA))
+FACOAL181t2pp:1 atp_c + 1 coa_c + 1 h_p + 1 ocdcea_p -> 1 amp_c + 1 h_c + 1 odecoa_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 H+ + 1 octadecenoate (n-C18:1) -> 1 AMP + 1 H+ + 1 Octadecenoyl-CoA (n-C18:1CoA) + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+R00982:1 C00002_c + 1 C00010_c + 1 C00108_c <=> 1 C00013_c + 1 C00020_c + 1 C02247_c (1 ATP + 1 CoA + 1 Anthranilate <=> 1 Diphosphate + 1 AMP + 1 Anthraniloyl-CoA)
+R01280:1 C00002_c + 1 C00010_c + 1 C00249_c <=> 1 C00013_c + 1 C00020_c + 1 C00154_c (1 ATP + 1 CoA + 1 Hexadecanoic acid <=> 1 Diphosphate + 1 AMP + 1 Palmitoyl-CoA)
+R03383:1 C00002_c + 1 C00010_c + 1 C02170_c -> 1 C00013_c + 1 C00020_c + 1 C01213_c (1 ATP + 1 CoA + 1 Methylmalonate -> 1 Diphosphate + 1 AMP + 1 (R)-Methylmalonyl-CoA)
+R05620:1 C00002_c + 1 C00010_c + 1 C09822_c <=> 1 C00013_c + 1 C00020_c + 1 C09823_c (1 ATP + 1 CoA + 1 Cyclohexane-1-carboxylate <=> 1 Diphosphate + 1 AMP + 1 Cyclohexane-1-carboxyl-CoA)
+R10769:1 C00002_c + 1 C00010_c + 1 C20199_c <=> 1 C00013_c + 1 C00020_c + 1 C20838_c (1 ATP + 1 CoA + 1 3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate <=> 1 Diphosphate + 1 AMP + 1 3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00010_c (CoA)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00108_c (Anthranilate)
+C00154_c (Palmitoyl-CoA)
+C00249_c (Hexadecanoic acid)
+C01213_c ((R)-Methylmalonyl-CoA)
+C02170_c (Methylmalonate)
+C02247_c (Anthraniloyl-CoA)
+C09822_c (Cyclohexane-1-carboxylate)
+C09823_c (Cyclohexane-1-carboxyl-CoA)
+C20199_c (3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate)
+C20838_c (3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA)
+
+

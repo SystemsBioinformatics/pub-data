@@ -1,0 +1,2 @@
+AdditionalInModel:
+IGPDH_1:1 h_c + 1 eig3p_c -> 1 imacp_c + 1 h2o_c (1 H+ + 1 D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate -> 1 3-(Imidazol-4-yl)-2-oxopropyl phosphate + 1 H2O H2O)

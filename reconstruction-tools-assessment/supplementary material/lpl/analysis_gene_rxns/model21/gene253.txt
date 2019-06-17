@@ -1,0 +1,5 @@
+notRecovered:
+DGNSK:1 atp_c + 1 dgsn_c -> 1 adp_c + 1 dgmp_c + 1 h_c (1 M_ATP_ + 1 M_Deoxyguanosine_ -> 1 M_ADP_ + 1 M_dGMP_ + 1 M_H_)
+DINSK:1 atp_c + 1 din_c -> 1 adp_c + 1 dimp_c (1 M_ATP_ + 1 M_Deoxyinosine_ -> 1 M_ADP_ + 1 M_dIMP_)
+
+

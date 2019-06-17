@@ -1,0 +1,4 @@
+notRecovered:
+A5PISO:1 ru5p__D_c <=> 1 ara5p_c (1 D-Ribulose 5-phosphate <=> 1 D-Arabinose 5-phosphate)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R11896:1 C21751_c + 1 C00001_c <=> 1 C04242_c + 1 C00013_c (1 5-Fluorodeoxyuridine triphosphate + 1 H2O <=> 1 5-Fluorodeoxyuridine monophosphate + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C04242_c (5-Fluorodeoxyuridine monophosphate)
+C21751_c (5-Fluorodeoxyuridine triphosphate)
+
+

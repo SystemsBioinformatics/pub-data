@@ -1,0 +1,17 @@
+notRecovered:
+GLYCLTt4pp:1 glyclt_p + 1 na1_p -> 1 glyclt_c + 1 na1_c (1 Glycolate + 1 Sodium -> 1 Glycolate + 1 Sodium)
+
+
+AdditionalNotInModel:
+3MBt2pp:1 3mb_p + 1 h_p -> 1 3mb_c + 1 h_c (1 3-Methylbutanoic acid + 1 H+ -> 1 3-Methylbutanoic acid + 1 H+)
+3MBt4pp:1 3mb_p + 1 na1_p -> 1 3mb_c + 1 na1_c (1 3-Methylbutanoic acid + 1 Sodium -> 1 3-Methylbutanoic acid + 1 Sodium)
+BUTt4pp:1 but_p + 1 na1_p -> 1 but_c + 1 na1_c (1 Butyrate (n-C4:0) + 1 Sodium -> 1 Butyrate (n-C4:0) + 1 Sodium)
+PPAt4pp:1 na1_p + 1 ppa_p -> 1 na1_c + 1 ppa_c (1 Sodium + 1 Propionate (n-C3:0) -> 1 Sodium + 1 Propionate (n-C3:0))
+PYRt4pp:1 na1_p + 1 pyr_p -> 1 na1_c + 1 pyr_c (1 Sodium + 1 Pyruvate -> 1 Sodium + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+3mb_c (3-Methylbutanoic acid)
+3mb_p (3-Methylbutanoic acid)
+
+

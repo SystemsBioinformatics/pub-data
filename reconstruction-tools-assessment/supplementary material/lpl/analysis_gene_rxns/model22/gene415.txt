@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00529:1 C00002_c + 1 C00059_c <=> 1 C00013_c + 1 C00224_c (1 ATP + 1 Sulfate <=> 1 Diphosphate + 1 Adenylyl sulfate)
+R04928:1 C00002_c + 1 C05686_c <=> 1 C00008_c + 1 C05696_c (1 ATP + 1 Adenylylselenate <=> 1 ADP + 1 3'-Phosphoadenylylselenate)
+R04929:1 C00002_c + 1 C05697_c -> 1 C00013_c + 1 C05686_c (1 ATP + 1 Selenate -> 1 Diphosphate + 1 Adenylylselenate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00013_c (Diphosphate)
+C00059_c (Sulfate)
+C00224_c (Adenylyl sulfate)
+C05686_c (Adenylylselenate)
+C05696_c (3'-Phosphoadenylylselenate)
+C05697_c (Selenate)
+
+

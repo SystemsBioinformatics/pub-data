@@ -1,0 +1,17 @@
+notRecovered:
+GLYCTO1:1 glyclt_c + 1 o2_c -> 1 glx_c + 1 h2o2_c (1 Glycolate + 1 O2 -> 1 Glyoxylate + 1 Hydrogen peroxide)
+
+
+AdditionalNotInModel:
+GLYCTO2:1 glyclt_c + 1 q8_c -> 1 glx_c + 1 q8h2_c (1 Glycolate C2H3O3 + 1 Ubiquinone-8 -> 1 Glyoxylate + 1 Ubiquinol-8)
+GLYCTO3:1 glyclt_c + 1 mqn8_c -> 1 glx_c + 1 mql8_c (1 Glycolate C2H3O3 + 1 Menaquinone 8 -> 1 Glyoxylate + 1 Menaquinol 8)
+GLYCTO4:1 2dmmq8_c + 1 glyclt_c -> 1 2dmmql8_c + 1 glx_c (1 2-Demethylmenaquinone 8 + 1 Glycolate C2H3O3 -> 1 2-Demethylmenaquinol 8 + 1 Glyoxylate)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

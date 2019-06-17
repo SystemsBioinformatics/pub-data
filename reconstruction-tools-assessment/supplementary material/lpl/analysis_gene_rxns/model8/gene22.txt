@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+3OAR181:1 nadph_c + 1 3ocvac11eACP_c + 1 h_c -> 1 3hcvac11eACP_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein] + 1 H+ -> 1 (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein] + 1 Nicotinamide adenine dinucleotide phosphate)
+KAS16:1 ddcaACP_c + 1 nadph_c + 1 malACP_c + 2 h_c -> 1 co2_c + 1 3hmrsACP_c + 1 nadp_c + 1 ACP_c (1 Dodecanoyl-ACP (n-C12:0ACP) + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 2 H+ -> 1 CO2 CO2 + 1 (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] + 1 Nicotinamide adenine dinucleotide phosphate + 1 Acyl carrier protein)
+3OAR121:1 nadph_c + 1 3ocddec5eACP_c + 1 h_c -> 1 3hcddec5eACP_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein] + 1 H+ -> 1 (R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein] + 1 Nicotinamide adenine dinucleotide phosphate)
+3OAR141:1 nadph_c + 1 3ocmrs7eACP_c + 1 h_c -> 1 3hcmrs7eACP_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein] + 1 H+ -> 1 (R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein] + 1 Nicotinamide adenine dinucleotide phosphate)
+3OAR161:1 nadph_c + 1 3ocpalm9eACP_c + 1 h_c -> 1 3hcpalm9eACP_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-palm-9-eoyl-[acyl-carrier protein] + 1 H+ -> 1 (R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein] + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+3hcddec5eACP_c ((R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein])
+3hcmrs7eACP_c ((R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein])
+3hcpalm9eACP_c ((R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein])
+3hcvac11eACP_c ((R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein])
+3ocddec5eACP_c (3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein])
+3ocmrs7eACP_c (3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein])
+3ocpalm9eACP_c (3-oxo-cis-palm-9-eoyl-[acyl-carrier protein])
+3ocvac11eACP_c (3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein])
+
+

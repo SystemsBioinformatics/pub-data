@@ -1,0 +1,12 @@
+notRecovered:
+HACD9:1 3hmbcoa_c + 1 nad_c <=> 1 2maacoa_c + 1 h_c + 1 nadh_c (1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide <=> 1 2-methylacetoacetyl-coenzyme A + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+CTECOAI6:1 tdecoa_c <=> 1 td2coa_c (1 Tetradecenoyl-CoA (n-C14:1CoA) <=> 1 Trans-Tetradec-2-enoyl-CoA)
+CTECOAI8:1 odecoa_c <=> 1 od2coa_c (1 Octadecenoyl-CoA (n-C18:1CoA) <=> 1 Trans-Octadec-2-enoyl-CoA)
+CTECOAI7:1 hdcoa_c <=> 1 hdd2coa_c (1 Hexadecenoyl-CoA (n-C16:1CoA) <=> 1 Trans-Hexadec-2-enoyl-CoA)
+
+
+AdditionalInModel:
+ECOAH1:1 3hbcoa_c <=> 1 b2coa_c + 1 h2o_c (1 (S)-3-Hydroxybutanoyl-CoA <=> 1 Crotonoyl-CoA + 1 H2O H2O)

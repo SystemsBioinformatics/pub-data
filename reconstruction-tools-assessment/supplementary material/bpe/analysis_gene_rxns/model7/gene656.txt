@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+PPAt4pp:1 ppa_p + 1 na1_p -> 1 ppa_c + 1 na1_c (1 Propionate (n-C3:0) + 1 Sodium -> 1 Propionate (n-C3:0) + 1 Sodium)
+
+
+AdditionalInModel:
+PROt4pp:1 na1_p + 1 pro__L_p -> 1 na1_c + 1 pro__L_c (1 Sodium + 1 L-Proline -> 1 Sodium + 1 L-Proline)

@@ -1,0 +1,28 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+
+AdditionalNotInModel:
+ASPO2y:1 asp__L_c + 1 nadp_c -> 1 nadph_c + 1 iasp_c + 2 h_c (1 L-Aspartate + 1 Nicotinamide adenine dinucleotide phosphate -> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Iminoaspartate + 2 H+)
+NADH10:1 nadh_c + 1 mqn8_c + 1 h_c -> 1 nad_c + 1 mql8_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Menaquinone 8 + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 Menaquinol 8)
+NADH5:1 nadh_c + 1 q8_c + 1 h_c -> 1 nad_c + 1 q8h2_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+SUCD1:1 succ_c + 1 fad_c <=> 1 fadh2_c + 1 fum_c (1 Succinate + 1 Flavin adenine dinucleotide oxidized <=> 1 Flavin adenine dinucleotide reduced + 1 Fumarate)
+ASPO6:1 o2_c + 1 asp__L_c -> 1 iasp_c + 1 h_c + 1 h2o2_c (1 O2 O2 + 1 L-Aspartate -> 1 Iminoaspartate + 1 H+ + 1 Hydrogen peroxide)
+ASPO1:1 o2_c + 1 asp__L_c + 1 h2o_c -> 1 oaa_c + 1 nh4_c + 1 h2o2_c (1 O2 O2 + 1 L-Aspartate + 1 H2O H2O -> 1 Oxaloacetate + 1 Ammonium + 1 Hydrogen peroxide)
+NADH9:1 nadh_c + 1 2dmmq8_c + 1 h_c -> 1 2dmmql8_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2-Demethylmenaquinone 8 + 1 H+ -> 1 2-Demethylmenaquinol 8 + 1 Nicotinamide adenine dinucleotide)
+ASPO2:1 nad_c + 1 asp__L_c -> 1 nadh_c + 1 iasp_c + 2 h_c (1 Nicotinamide adenine dinucleotide + 1 L-Aspartate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Iminoaspartate + 2 H+)
+FMNRx2:1 nadph_c + 1 h_c + 1 fmn_c -> 1 fmnh2_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 H+ + 1 FMN C17H19N4O9P -> 1 Reduced FMN + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+fadh2_c (Flavin adenine dinucleotide reduced)
+fmnh2_c (Reduced FMN)
+iasp_c (Iminoaspartate)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+

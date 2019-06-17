@@ -1,0 +1,6 @@
+notRecovered:
+IG3PS:1 gln__L_c + 1 prlp_c -> 1 aicar_c + 1 eig3p_c + 1 glu__L_c + 1 h_c (1 L-Glutamine + 1 5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide -> 1 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide + 1 D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + 1 L-Glutamate + 1 H+)
+
+
+AdditionalInModel:
+IG3PS:1 gln__L_c + 1 prlp_c -> 1 aicar_c + 1 eig3p_c + 1 glu__L_c + 1 h_c (1 L-Glutamine + 1 5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide -> 1 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide + 1 D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + 1 L-Glutamate + 1 H+)

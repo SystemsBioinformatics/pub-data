@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+GTPCII:3 h2o_c + 1 gtp_c -> 2 h_c + 1 ppi_c + 1 for_c + 1 25dhpp_c (3 H2O + 1 GTP -> 2 H+ + 1 Diphosphate + 1 Formate + 1 2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P)
+
+
+AdditionalMetabolites:
+25dhpp_c (2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P)
+
+
+AdditionalInModel:
+DB4PS:1 ru5p__D_c -> 1 h_c + 1 for_c + 1 db4p_c (1 D-Ribulose 5-phosphate -> 1 H+ + 1 Formate + 1 3,4-dihydroxy-2-butanone 4-phosphate)

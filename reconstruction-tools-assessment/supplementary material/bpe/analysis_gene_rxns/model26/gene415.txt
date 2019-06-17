@@ -1,0 +1,21 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+R06782:1 C00004_c + 1 C00007_c + 1 C00080_c + 1 C05629_c <=> 1 C00003_c + 1 C11588_c (1 NADH + 1 Oxygen + 1 H+ + 1 Phenylpropanoate <=> 1 NAD+ + 1 cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol)
+R06783:1 C00004_c + 1 C00007_c + 1 C00080_c + 1 C00423_c <=> 1 C00003_c + 1 C12622_c (1 NADH + 1 Oxygen + 1 H+ + 1 trans-Cinnamate <=> 1 NAD+ + 1 cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00007_c (Oxygen)
+C00080_c (H+)
+C00423_c (trans-Cinnamate)
+C05629_c (Phenylpropanoate)
+C11588_c (cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol)
+C12622_c (cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol)
+
+

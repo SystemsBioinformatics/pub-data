@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+GLYALDt:1 glyald_e <=> 1 glyald_c (1 D-Glyceraldehyde <=> 1 D-Glyceraldehyde)
+H2Otpp:1 h2o_p <=> 1 h2o_c (1 H2O <=> 1 H2O)
+UREAt:1 urea_e <=> 1 urea_c (1 Urea <=> 1 Urea)
+
+
+AdditionalMetabolites:
+glyald_e (D-Glyceraldehyde)
+h2o_p (H2O)
+urea_c (Urea)
+urea_e (Urea)
+
+
+AdditionalInModel:
+H2Ot:1 h2o_e <=> 1 h2o_c (1 H2O <=> 1 H2O)

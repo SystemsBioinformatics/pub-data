@@ -1,0 +1,21 @@
+notRecovered:
+LYSabcpp:1 atp_c + 1 h2o_c + 1 lys__L_p -> 1 adp_c + 1 h_c + 1 lys__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 H+ + 1 L-Lysine + 1 Phosphate)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 h_c + 1 his__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 H+ + 1 L-Histidine + 1 Phosphate)
+ORNabcpp:1 atp_c + 1 h2o_c + 1 orn_p -> 1 adp_c + 1 h_c + 1 orn_c + 1 pi_c (1 ATP + 1 H2O + 1 Ornithine -> 1 ADP + 1 H+ + 1 Ornithine + 1 Phosphate)
+ARGabcpp:1 arg__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 arg__L_c + 1 h_c + 1 pi_c (1 L-Arginine + 1 ATP + 1 H2O -> 1 ADP + 1 L-Arginine + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+METabc:1 atp_c + 1 h2o_c + 1 met__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 met__L_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Methionine)
+METSabc:1 atp_c + 1 h2o_c + 1 metox_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 metox_c (1 ATP + 1 H2O + 1 L Methionine S oxide C5H11NO3S -> 1 ADP + 1 Phosphate + 1 H+ + 1 L Methionine S oxide C5H11NO3S)
+METSRabc:1 atp_c + 1 h2o_c + 1 metox__R_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 metox__R_c (1 ATP + 1 H2O + 1 L methionine R oxide C5H11NO3S -> 1 ADP + 1 Phosphate + 1 H+ + 1 L methionine R oxide C5H11NO3S)
+ORNabc:1 atp_c + 1 h2o_c + 1 orn_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 orn_c (1 ATP + 1 H2O + 1 Ornithine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Ornithine)
+
+
+AdditionalMetabolites:
+metox__R_c (L methionine R oxide C5H11NO3S)
+metox__R_e (L methionine R oxide C5H11NO3S)
+metox_c (L Methionine S oxide C5H11NO3S)
+metox_e (L Methionine S oxide C5H11NO3S)
+
+

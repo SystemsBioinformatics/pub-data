@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+AGM4PCP:1 anhgm4p_c + 1 h2o_c -> 1 ala__D_c + 1 anhgm3p_c (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 H2O H2O -> 1 D-Alanine + 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+AM4PCP:1 anhm4p_c + 1 h2o_c -> 1 ala__D_c + 1 anhm3p_c (1 1,6-anhydrous-N-Acetylmuramyl-tetrapeptide + 1 H2O H2O -> 1 D-Alanine + 1 1,6-anhydrous-N-Acetylmuramyl-tripeptide)
+
+
+AdditionalMetabolites:
+anhgm3p_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+anhgm4p_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+anhm3p_c (1,6-anhydrous-N-Acetylmuramyl-tripeptide)
+anhm4p_c (1,6-anhydrous-N-Acetylmuramyl-tetrapeptide)
+
+

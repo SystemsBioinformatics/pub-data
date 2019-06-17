@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+rxn00124:1 cpd00002_c + 1 cpd00215_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00016_c (1 ATP_c0 + 1 Pyridoxal_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Pyridoxal_phosphate_c0)
+rxn01396:1 cpd00002_c + 1 cpd00263_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00478_c (1 ATP_c0 + 1 Pyridoxol_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Pyridoxine_phosphate_c0)
+rxn01807:1 cpd00002_c + 1 cpd00419_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00493_c (1 ATP_c0 + 1 PM_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Pyridoxamine_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00016_c (Pyridoxal_phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00215_c (Pyridoxal_c0)
+cpd00263_c (Pyridoxol_c0)
+cpd00419_c (PM_c0)
+cpd00478_c (Pyridoxine_phosphate_c0)
+cpd00493_c (Pyridoxamine_phosphate_c0)
+
+

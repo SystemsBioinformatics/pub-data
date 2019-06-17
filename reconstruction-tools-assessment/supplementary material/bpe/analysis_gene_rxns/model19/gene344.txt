@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R11329:2 C00080_c + 1 C21284_c <=> 1 C05770_c + 1 C14818_c (2 H+ + 1 Fe-coproporphyrin III <=> 1 Coproporphyrin III + 1 Fe2+)
+
+
+AdditionalMetabolites:
+C00080_c (H+)
+C05770_c (Coproporphyrin III)
+C14818_c (Fe2+)
+C21284_c (Fe-coproporphyrin III)
+
+

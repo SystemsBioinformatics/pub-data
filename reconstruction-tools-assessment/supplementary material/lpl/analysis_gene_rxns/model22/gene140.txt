@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+R00006:2 C00022_c -> 1 C00011_c + 1 C00900_c (2 Pyruvate -> 1 CO2 + 1 2-Acetolactate)
+R00014:1 C00022_c + 1 C00068_c <=> 1 C00011_c + 1 C05125_c (1 Pyruvate + 1 Thiamin diphosphate <=> 1 CO2 + 1 2-(alpha-Hydroxyethyl)thiamine diphosphate)
+R00207:1 C00007_c + 1 C00009_c + 1 C00022_c <=> 1 C00011_c + 1 C00027_c + 1 C00227_c (1 Oxygen + 1 Orthophosphate + 1 Pyruvate <=> 1 CO2 + 1 Hydrogen peroxide + 1 Acetyl phosphate)
+R03050:1 C00068_c + 1 C00900_c <=> 1 C00022_c + 1 C05125_c (1 Thiamin diphosphate + 1 2-Acetolactate <=> 1 Pyruvate + 1 2-(alpha-Hydroxyethyl)thiamine diphosphate)
+R04672:1 C00068_c + 1 C06010_c <=> 1 C00022_c + 1 C05125_c (1 Thiamin diphosphate + 1 (S)-2-Acetolactate <=> 1 Pyruvate + 1 2-(alpha-Hydroxyethyl)thiamine diphosphate)
+R04673:1 C00109_c + 1 C05125_c <=> 1 C00068_c + 1 C06006_c (1 2-Oxobutanoate + 1 2-(alpha-Hydroxyethyl)thiamine diphosphate <=> 1 Thiamin diphosphate + 1 (S)-2-Aceto-2-hydroxybutanoate)
+
+
+AdditionalMetabolites:
+C00007_c (Oxygen)
+C00009_c (Orthophosphate)
+C00011_c (CO2)
+C00022_c (Pyruvate)
+C00027_c (Hydrogen peroxide)
+C00068_c (Thiamin diphosphate)
+C00109_c (2-Oxobutanoate)
+C00227_c (Acetyl phosphate)
+C00900_c (2-Acetolactate)
+C05125_c (2-(alpha-Hydroxyethyl)thiamine diphosphate)
+C06006_c ((S)-2-Aceto-2-hydroxybutanoate)
+C06010_c ((S)-2-Acetolactate)
+
+

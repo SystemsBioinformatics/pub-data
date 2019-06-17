@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+RXN-12610:1 CPD-13576_c + 1 AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP_c + 2 PROTON_c -> 1 THIAMINE-P_c + 1 PPI_c + 1 CARBON-DIOXIDE_c (1 2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate + 1 4-amino-2-methyl-5-(diphosphomethyl)pyrimidine + 2 H+ -> 1 thiamine phosphate + 1 diphosphate + 1 CO2)
+RXN-12611:1 AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP_c + 1 CPD-13575_c + 2 PROTON_c -> 1 THIAMINE-P_c + 1 PPI_c + 1 CARBON-DIOXIDE_c (1 4-amino-2-methyl-5-(diphosphomethyl)pyrimidine + 1 2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + 2 H+ -> 1 thiamine phosphate + 1 diphosphate + 1 CO2)
+
+
+AdditionalMetabolites:
+AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP_c (4-amino-2-methyl-5-(diphosphomethyl)pyrimidine)
+CARBON-DIOXIDE_c (CO2)
+CPD-13575_c (2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate)
+CPD-13576_c (2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate)
+PPI_c (diphosphate)
+PROTON_c (H+)
+THIAMINE-P_c (thiamine phosphate)
+
+

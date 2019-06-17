@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R07281:1 C00199_c <=> 1 C00058_c + 1 C15556_c (1 D-Ribulose 5-phosphate <=> 1 Formate + 1 L-3,4-Dihydroxybutan-2-one 4-phosphate)
+
+
+AdditionalMetabolites:
+C00058_c (Formate)
+C00199_c (D-Ribulose 5-phosphate)
+C15556_c (L-3,4-Dihydroxybutan-2-one 4-phosphate)
+
+

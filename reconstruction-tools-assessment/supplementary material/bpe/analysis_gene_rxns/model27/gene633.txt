@@ -1,0 +1,4 @@
+notRecovered:
+ADCL:1 4adcho_c -> 1 4abz_c + 1 h_c + 1 pyr_c (1 4-amino-4-deoxychorismate -> 1 4-Aminobenzoate + 1 H+ + 1 Pyruvate)
+
+

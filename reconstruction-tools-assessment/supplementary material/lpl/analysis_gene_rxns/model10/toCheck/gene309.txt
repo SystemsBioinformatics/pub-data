@@ -1,0 +1,15 @@
+notRecovered:
+F6PA:1 f6p_c <=> 1 dha_c + 1 g3p_c (1 M_D_Fructose_6_phosphate_ <=> 1 M_Dihydroxyacetone_ + 1 M_Glyceraldehyde_3_phosphate_)
+
+
+AdditionalNotInModel:
+TRANSALDOL-RXN:1 D-SEDOHEPTULOSE-7-P_c + 1 GAP_c <=> 1 ERYTHROSE-4P_c + 1 FRUCTOSE-6P_c (1 D-sedoheptulose 7-phosphate + 1 D-glyceraldehyde 3-phosphate <=> 1 D-erythrose 4-phosphate + 1 beta-D-fructofuranose 6-phosphate)
+
+
+AdditionalMetabolites:
+D-SEDOHEPTULOSE-7-P_c (D-sedoheptulose 7-phosphate)
+ERYTHROSE-4P_c (D-erythrose 4-phosphate)
+FRUCTOSE-6P_c (beta-D-fructofuranose 6-phosphate)
+GAP_c (D-glyceraldehyde 3-phosphate)
+
+

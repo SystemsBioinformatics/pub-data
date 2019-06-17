@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+PHOSGLYPHOS-RXN:1 ATP_c + 1 G3P_c <=> 1 ADP_c + 1 DPG_c (1 ATP + 1 3-phospho-D-glycerate <=> 1 ADP + 1 3-phospho-D-glyceroyl-phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+DPG_c (3-phospho-D-glyceroyl-phosphate)
+G3P_c (3-phospho-D-glycerate)
+
+

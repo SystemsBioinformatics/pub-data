@@ -1,0 +1,5 @@
+notRecovered:
+MTHFD:1 mlthf_c + 1 nadp_c <=> 1 methf_c + 1 nadph_c (1 M_5_10_Methylenetetrahydrofolate_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ <=> 1 M_5_10_Methenyltetrahydrofolate_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_)
+MTHFC:1 h2o_c + 1 methf_c <=> 1 10fthf_c + 1 h_c (1 M_H2O_ + 1 M_5_10_Methenyltetrahydrofolate_ <=> 1 M_10_Formyltetrahydrofolate_ + 1 M_H_)
+
+

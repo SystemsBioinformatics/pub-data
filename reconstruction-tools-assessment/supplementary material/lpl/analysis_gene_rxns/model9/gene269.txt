@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+2HPTCOAT:1 2hptcoa_c + 1 h2o_c -> 1 2hptcl_c + 1 coa_c (1 2-hydroxycyclohepta-1,4,6-triene-1-carboxyl-CoA + 1 H2O H2O -> 1 2-hydroxycyclohepta-1,4,6-triene-1-carboxylate + 1 Coenzyme A)
+THPAT:1 thdp_c + 1 accoa_c + 1 h2o_c -> 1 coa_c + 1 nal2a6o_c (1 2,3,4,5-Tetrahydrodipicolinate + 1 Acetyl-CoA + 1 H2O H2O -> 1 Coenzyme A + 1 N-Acetyl-L-2-amino-6-oxopimelate)
+
+
+AdditionalMetabolites:
+2hptcl_c (2-hydroxycyclohepta-1,4,6-triene-1-carboxylate)
+2hptcoa_c (2-hydroxycyclohepta-1,4,6-triene-1-carboxyl-CoA)
+nal2a6o_c (N-Acetyl-L-2-amino-6-oxopimelate)
+
+

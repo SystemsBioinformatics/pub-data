@@ -1,0 +1,15 @@
+notRecovered:
+GUAt2r:1 gua_e + 1 h_e -> 1 gua_c + 1 h_c (1 M_Guanine_ + 1 M_H_ -> 1 M_Guanine_ + 1 M_H_)
+CSNt2:1 csn_e + 1 h_e <=> 1 csn_c + 1 h_c (1 M_Cytosine_ + 1 M_H_ <=> 1 M_Cytosine_ + 1 M_H_)
+ADEt2:1 ade_e + 1 h_e <=> 1 ade_c + 1 h_c (1 M_Adenine_ + 1 M_H_ <=> 1 M_Adenine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+ALLTNt2r:1 alltn_e + 1 h_e <=> 1 alltn_c + 1 h_c (1 Allantoin + 1 H+ <=> 1 Allantoin + 1 H+)
+
+
+AdditionalMetabolites:
+alltn_c (Allantoin)
+alltn_e (Allantoin)
+
+

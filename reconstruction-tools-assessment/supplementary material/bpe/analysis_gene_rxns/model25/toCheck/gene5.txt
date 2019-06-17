@@ -1,0 +1,16 @@
+notRecovered:
+AGM4PApp:1 anhgm4p_p + 1 h2o_p -> 1 LalaDgluMdapDala_p + 1 anhgm_p (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 H2O -> 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid)
+AGM3PApp:1 anhgm3p_p + 1 h2o_p -> 1 LalaDgluMdap_p + 1 anhgm_p (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide + 1 H2O -> 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate + 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid)
+
+
+AdditionalNotInModel:
+3.4.24.32-RXN:1 Peptidoglycans_c + 1 WATER_c -> 1 CPD-15797_c + 1 CPD-17583_c (1 Peptidoglycans + 1 H2O -> 1 ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramate + 1 CPD-17583)
+
+
+AdditionalMetabolites:
+CPD-15797_c (ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramate)
+CPD-17583_c (CPD-17583)
+Peptidoglycans_c (Peptidoglycans)
+WATER_c (H2O)
+
+

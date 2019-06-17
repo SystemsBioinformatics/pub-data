@@ -1,0 +1,16 @@
+notRecovered:
+GLTAL:0.01 LTA_LPL_c + 25 udpg_c -> 0.01 LTAglc_LPL_c + 25 h_c + 25 udp_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_UDPglucose_ -> 0.01 M_Lipoteichoic_acid__n25_with_glucose_residues__LPL_specific__ + 25 M_H_ + 25 M_UDP_)
+
+
+AdditionalNotInModel:
+2.4.1.53-RXN:1 CPD-19303_c + 1 UDP-N-ACETYL-D-GLUCOSAMINE_c -> 1 CPD-19793_c + 1 PROTON_c + 1 UDP_c (1 CPD-19303 + 1 UDP-N-acetyl-alpha-D-glucosamine -> 1 CPD-19793 + 1 H+ + 1 UDP)
+
+
+AdditionalMetabolites:
+CPD-19303_c (CPD-19303)
+CPD-19793_c (CPD-19793)
+PROTON_c (H+)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+UDP_c (UDP)
+
+

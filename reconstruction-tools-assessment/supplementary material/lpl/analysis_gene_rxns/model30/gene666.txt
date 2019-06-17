@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R00094:2 C00051_c + 1 C00003_c <=> 1 C00127_c + 1 C00080_c + 1 C00004_c (2 Glutathione + 1 NAD+ <=> 1 Glutathione disulfide + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00051_c (Glutathione)
+C00080_c (H+)
+C00127_c (Glutathione disulfide)
+
+

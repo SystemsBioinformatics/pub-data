@@ -1,0 +1,4 @@
+notRecovered:
+CMLDC:1 4cml_c -> 1 5odhf2a_c + 1 co2_c + 1 h_c (1 M_2_Carboxy_2_5_dihydro_5_oxofuran_2_acetate_ -> 1 M_5_Oxo_4_5_dihydrofuran_2_acetate_ + 1 M_CO2_ + 1 M_H_)
+
+

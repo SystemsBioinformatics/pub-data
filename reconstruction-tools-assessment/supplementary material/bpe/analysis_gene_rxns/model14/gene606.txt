@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01281:1 cpd00006_c + 1 cpd00223_c <=> 1 cpd00067_c + 1 cpd00005_c + 1 cpd00843_c (1 NADP_c0 + 1 Glycerate_c0 <=> 1 H_plus__c0 + 1 NADPH_c0 + 1 Tartronate_semialdehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00223_c (Glycerate_c0)
+cpd00843_c (Tartronate_semialdehyde_c0)
+
+

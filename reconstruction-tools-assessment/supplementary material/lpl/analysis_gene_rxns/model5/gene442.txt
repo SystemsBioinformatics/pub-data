@@ -1,0 +1,5 @@
+notRecovered:
+RAFGH:1 h2o_c + 1 raffin_c -> 1 gal_c + 1 sucr_c (1 M_H2O_ + 1 M_Raffinose_ -> 1 M_D_Galactose_ + 1 M_Sucrose_)
+GALS3:1 h2o_c + 1 melib_c -> 1 gal_c + 1 glc__D_c (1 M_H2O_ + 1 M_Melibiose_ -> 1 M_D_Galactose_ + 1 M_D_Glucose_)
+
+

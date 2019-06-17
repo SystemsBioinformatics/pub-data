@@ -1,0 +1,46 @@
+notRecovered:
+L_LACD2:1 lac__L_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 L-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Cytochromes-c3-Oxidized//PYRUVATE/Cytochromes-c3-Reduced/PROTON.74.:2 Cytochromes-c3-Oxidized_c + 1 L-LACTATE_c <=> 2 Cytochromes-c3-Reduced_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome c3 + 1 (S)-lactate <=> 2 a reduced cytochrome c3 + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Oxidized-cytochromes-C4//PYRUVATE/Reduced-cytochromes-C4/PROTON.74.:2 Oxidized-cytochromes-C4_c + 1 L-LACTATE_c <=> 2 Reduced-cytochromes-C4_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome c4 + 1 (S)-lactate <=> 2 a reduced cytochrome c4 + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Oxidized-CycA1-cytochromes//PYRUVATE/Reduced-CycA1-cytochromes/PROTON.80.:2 Oxidized-CycA1-cytochromes_c + 1 L-LACTATE_c <=> 2 Reduced-CycA1-cytochromes_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized CycA1 cytochrome + 1 (S)-lactate <=> 2 a reduced CycA1 cytochrome + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Oxidized-cytochromes-c2//PYRUVATE/Reduced-cytochromes-c2/PROTON.74.:2 Oxidized-cytochromes-c2_c + 1 L-LACTATE_c <=> 2 Reduced-cytochromes-c2_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome c2 + 1 (S)-lactate <=> 2 a reduced cytochrome c2 + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Cytochromes-C554-Ox//PYRUVATE/Cytochromes-C554-Red/PROTON.68.:2 Cytochromes-C554-Ox_c + 1 L-LACTATE_c <=> 2 Cytochromes-C554-Red_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome c554 + 1 (S)-lactate <=> 2 a reduced cytochrome c554 + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Oxidized-cytochromes-c553//PYRUVATE/Reduced-cytochromes-c553/PROTON.78.:2 Oxidized-cytochromes-c553_c + 1 L-LACTATE_c <=> 2 Reduced-cytochromes-c553_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome c-553 + 1 (S)-lactate <=> 2 a reduced cytochrome c-553 + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Cytochromes-C552-Ox//PYRUVATE/Cytochromes-C552-Red/PROTON.68.:2 Cytochromes-C552-Ox_c + 1 L-LACTATE_c <=> 2 Cytochromes-C552-Red_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome c552 + 1 (S)-lactate <=> 2 a reduced cytochrome c552 + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/an-oxidized-NrfB-protein//PYRUVATE/a-reduced-NrfB-protein/PROTON.75.:2 an-oxidized-NrfB-protein_c + 1 L-LACTATE_c <=> 2 a-reduced-NrfB-protein_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized [NrfB protein] + 1 (S)-lactate <=> 2 a reduced [NrfB protein] + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Cytochromes-CL-Ox//PYRUVATE/Cytochromes-CL-Red/PROTON.64.:2 Cytochromes-CL-Ox_c + 1 L-LACTATE_c <=> 2 Cytochromes-CL-Red_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized cytochrome cL + 1 (S)-lactate <=> 2 a reduced cytochrome cL + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN-L-LACTATE/Oxidized-NapC-proteins//PYRUVATE/Reduced-NapC-proteins/PROTON.72.:2 Oxidized-NapC-proteins_c + 1 L-LACTATE_c <=> 2 Reduced-NapC-proteins_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized [NapC protein] + 1 (S)-lactate <=> 2 a reduced [NapC protein] + 2 H+ + 1 pyruvate)
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN:2 Cytochromes-C-Oxidized_c + 1 L-LACTATE_c <=> 2 Cytochromes-C-Reduced_c + 2 PROTON_c + 1 PYRUVATE_c (2 an oxidized c-type cytochrome + 1 (S)-lactate <=> 2 a reduced c-type cytochrome + 2 H+ + 1 pyruvate)
+
+
+AdditionalMetabolites:
+Cytochromes-C-Oxidized_c (an oxidized c-type cytochrome)
+Cytochromes-C-Reduced_c (a reduced c-type cytochrome)
+Cytochromes-C552-Ox_c (an oxidized cytochrome c552)
+Cytochromes-C552-Red_c (a reduced cytochrome c552)
+Cytochromes-C554-Ox_c (an oxidized cytochrome c554)
+Cytochromes-C554-Red_c (a reduced cytochrome c554)
+Cytochromes-CL-Ox_c (an oxidized cytochrome cL)
+Cytochromes-CL-Red_c (a reduced cytochrome cL)
+Cytochromes-c3-Oxidized_c (an oxidized cytochrome c3)
+Cytochromes-c3-Reduced_c (a reduced cytochrome c3)
+L-LACTATE_c ((S)-lactate)
+Oxidized-CycA1-cytochromes_c (an oxidized CycA1 cytochrome)
+Oxidized-NapC-proteins_c (an oxidized [NapC protein])
+Oxidized-cytochromes-C4_c (an oxidized cytochrome c4)
+Oxidized-cytochromes-c2_c (an oxidized cytochrome c2)
+Oxidized-cytochromes-c553_c (an oxidized cytochrome c-553)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+Reduced-CycA1-cytochromes_c (a reduced CycA1 cytochrome)
+Reduced-NapC-proteins_c (a reduced [NapC protein])
+Reduced-cytochromes-C4_c (a reduced cytochrome c4)
+Reduced-cytochromes-c2_c (a reduced cytochrome c2)
+Reduced-cytochromes-c553_c (a reduced cytochrome c-553)
+a-reduced-NrfB-protein_c (a reduced [NrfB protein])
+an-oxidized-NrfB-protein_c (an oxidized [NrfB protein])
+
+

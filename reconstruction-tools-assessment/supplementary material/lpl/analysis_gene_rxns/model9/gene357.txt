@@ -1,0 +1,2 @@
+AdditionalInModel:
+AMANK:1 atp_c + 1 acmana_c -> 1 adp_c + 1 acmanap_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 N-Acetyl-D-mannosamine -> 1 ADP C10H12N5O10P2 + 1 N-Acetyl-D-mannosamine 6-phosphate + 1 H+)

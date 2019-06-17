@@ -1,0 +1,15 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+
+AdditionalNotInModel:
+TCBO:1 q8_c + 1 tcb_c -> 1 acon_c + 1 q8h2_c (1 Ubiquinone-8 + 1 Tricarballylate -> 1 Cis-Aconitate + 1 Ubiquinol-8)
+
+
+AdditionalMetabolites:
+acon_c (Cis-Aconitate)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+tcb_c (Tricarballylate)
+
+

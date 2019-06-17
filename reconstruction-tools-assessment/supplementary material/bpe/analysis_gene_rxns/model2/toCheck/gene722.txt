@@ -1,0 +1,18 @@
+notRecovered:
+VALt2rpp:1 h_p + 1 val__L_p -> 1 h_c + 1 val__L_c (1 H+ + 1 L-Valine -> 1 H+ + 1 L-Valine)
+
+
+AdditionalNotInModel:
+4HOXPACt2pp:1 h_p + 1 4hphac_p -> 1 h_c + 1 4hphac_c (1 H+ + 1 4-Hydroxyphenylacetate -> 1 H+ + 1 4-Hydroxyphenylacetate)
+GALURt2r:1 h_e + 1 galur_e <=> 1 h_c + 1 galur_c (1 H+ + 1 D-Galacturonate <=> 1 H+ + 1 D-Galacturonate)
+GLCURt2r:1 h_e + 1 glcur_e <=> 1 h_c + 1 glcur_c (1 H+ + 1 D-Glucuronate <=> 1 H+ + 1 D-Glucuronate)
+
+
+AdditionalMetabolites:
+4hphac_c (4-Hydroxyphenylacetate)
+4hphac_p (4-Hydroxyphenylacetate)
+galur_c (D-Galacturonate)
+galur_e (D-Galacturonate)
+glcur_c (D-Glucuronate)
+
+

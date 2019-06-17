@@ -1,0 +1,5 @@
+notRecovered:
+GLYBt2r:1 glyb_e + 1 h_e <=> 1 glyb_c + 1 h_c (1 M_Glycine_betaine_ + 1 M_H_ <=> 1 M_Glycine_betaine_ + 1 M_H_)
+CHLt2:1 chol_e + 1 h_e <=> 1 chol_c + 1 h_c (1 M_Choline_ + 1 M_H_ <=> 1 M_Choline_ + 1 M_H_)
+
+

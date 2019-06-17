@@ -1,0 +1,16 @@
+notRecovered:
+PTAr:1 accoa_c + 1 pi_c <=> 1 actp_c + 1 coa_c (1 Acetyl-CoA + 1 Phosphate <=> 1 Acetyl phosphate + 1 Coenzyme A)
+PTA2:1 pi_c + 1 ppcoa_c -> 1 coa_c + 1 ppap_c (1 Phosphate + 1 Propanoyl-CoA -> 1 Coenzyme A + 1 Propanoyl phosphate)
+
+
+AdditionalNotInModel:
+PHOSPHATE-BUTYRYLTRANSFERASE-RXN:1 BUTYRYL-COA_c + 1 Pi_c <=> 1 BUTYRYL-P_c + 1 CO-A_c (1 butanoyl-CoA + 1 phosphate <=> 1 butanoyl phosphate + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+BUTYRYL-COA_c (butanoyl-CoA)
+BUTYRYL-P_c (butanoyl phosphate)
+CO-A_c (coenzyme A)
+Pi_c (phosphate)
+
+

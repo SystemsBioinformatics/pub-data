@@ -1,0 +1,29 @@
+AdditionalNotInModel:
+rxn03360:1 cpd00011_c + 1 cpd03349_c <=> 1 cpd00067_c + 1 cpd03362_c (1 CO2_c0 + 1 5_Hydroxykynurenamine_c0 <=> 1 H_plus__c0 + 1 5_Hydroxykynurenine_c0)
+rxn00484:1 cpd00067_c + 1 cpd00065_c -> 1 cpd00011_c + 1 cpd00318_c (1 H_plus__c0 + 1 L_Tryptophan_c0 -> 1 CO2_c0 + 1 Tryptamine_c0)
+rxn00497:1 cpd00067_c + 1 cpd00066_c -> 1 cpd03161_c + 1 cpd00011_c (1 H_plus__c0 + 1 L_Phenylalanine_c0 -> 1 Phenethylamine_c0 + 1 CO2_c0)
+rxn00529:1 cpd00067_c + 1 cpd00069_c -> 1 cpd00011_c + 1 cpd00374_c (1 H_plus__c0 + 1 L_Tyrosine_c0 -> 1 CO2_c0 + 1 Tyramine_c0)
+rxn00866:1 cpd00067_c + 1 cpd00119_c <=> 1 cpd00011_c + 1 cpd00312_c (1 H_plus__c0 + 1 L_Histidine_c0 <=> 1 CO2_c0 + 1 Histamine_c0)
+rxn01499:1 cpd00067_c + 1 cpd00291_c <=> 1 cpd00011_c + 1 cpd02357_c (1 H_plus__c0 + 1 L_Dopa_c0 <=> 1 CO2_c0 + 1 Dopamine_c0)
+rxn01948:1 cpd00067_c + 1 cpd00490_c <=> 1 cpd00011_c + 1 cpd00579_c (1 H_plus__c0 + 1 5_Hydroxy_L_tryptophan_c0 <=> 1 CO2_c0 + 1 Serotonin_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00065_c (L_Tryptophan_c0)
+cpd00066_c (L_Phenylalanine_c0)
+cpd00067_c (H_plus__c0)
+cpd00069_c (L_Tyrosine_c0)
+cpd00119_c (L_Histidine_c0)
+cpd00291_c (L_Dopa_c0)
+cpd00312_c (Histamine_c0)
+cpd00318_c (Tryptamine_c0)
+cpd00374_c (Tyramine_c0)
+cpd00490_c (5_Hydroxy_L_tryptophan_c0)
+cpd00579_c (Serotonin_c0)
+cpd02357_c (Dopamine_c0)
+cpd03161_c (Phenethylamine_c0)
+cpd03349_c (5_Hydroxykynurenamine_c0)
+cpd03362_c (5_Hydroxykynurenine_c0)
+
+

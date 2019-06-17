@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+GNKr:1 atp_c + 1 glcn__D_c <=> 1 adp_c + 1 6pgc_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D Gluconate C6H11O7 <=> 1 ADP C10H12N5O10P2 + 1 6-Phospho-D-gluconate + 1 H+)
+DXYLK:1 atp_c + 1 dxyl_c -> 1 dxyl5p_c + 1 adp_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 1-deoxy-D-xylulose -> 1 1-deoxy-D-xylulose 5-phosphate + 1 ADP C10H12N5O10P2 + 1 H+)
+XYLK:1 atp_c + 1 xylu__D_c -> 1 adp_c + 1 xu5p__D_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D-Xylulose -> 1 ADP C10H12N5O10P2 + 1 D-Xylulose 5-phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+dxyl_c (1-deoxy-D-xylulose)
+glcn__D_c (D Gluconate C6H11O7)
+xylu__D_c (D-Xylulose)
+
+

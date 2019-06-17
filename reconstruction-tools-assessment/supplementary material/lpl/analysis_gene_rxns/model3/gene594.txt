@@ -1,0 +1,5 @@
+AdditionalNotInModel:
+ADKd:1 damp_c + 1 datp_c <=> 2 dadp_c (1 DAMP + 1 DATP <=> 2 DADP)
+DADK:1 atp_c + 1 damp_c <=> 1 adp_c + 1 dadp_c (1 ATP + 1 DAMP <=> 1 ADP + 1 DADP)
+
+

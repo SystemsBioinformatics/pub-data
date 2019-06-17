@@ -1,0 +1,21 @@
+notRecovered:
+DAGK120:1 12dgr120_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa120_c (1 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-didodecanoyl-sn-glycerol 3-phosphate)
+DAGK140:1 12dgr140_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa140_c (1 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-ditetradecanoyl-sn-glycerol 3-phosphate)
+DAGK141:1 12dgr141_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa141_c (1 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate)
+DAGK160:1 12dgr160_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa160_c (1 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-dihexadecanoyl-sn-glycerol 3-phosphate)
+DAGK161:1 12dgr161_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa161_c (1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate)
+DAGK180:1 12dgr180_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa180_c (1 1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-dioctadecanoyl-sn-glycerol 3-phosphate)
+DAGK181:1 12dgr181_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa181_c (1 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate)
+
+
+AdditionalNotInModel:
+R02240:1 C00002_c + 1 C00641_c <=> 1 C00008_c + 1 C00416_c (1 ATP + 1 1,2-Diacyl-sn-glycerol <=> 1 ADP + 1 Phosphatidate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00416_c (Phosphatidate)
+C00641_c (1,2-Diacyl-sn-glycerol)
+
+

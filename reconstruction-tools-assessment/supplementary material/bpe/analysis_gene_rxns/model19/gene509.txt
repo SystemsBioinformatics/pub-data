@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04386:1 C00024_c + 1 C04419_c <=> 1 C00083_c + 1 C06250_c (1 Acetyl-CoA + 1 Carboxybiotin-carboxyl-carrier protein <=> 1 Malonyl-CoA + 1 Holo-[carboxylase])
+
+
+AdditionalMetabolites:
+C00024_c (Acetyl-CoA)
+C00083_c (Malonyl-CoA)
+C04419_c (Carboxybiotin-carboxyl-carrier protein)
+C06250_c (Holo-[carboxylase])
+
+

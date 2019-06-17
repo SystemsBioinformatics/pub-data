@@ -1,0 +1,16 @@
+notRecovered:
+UDCPKr:1 atp_c + 1 udcp_c -> 1 adp_c + 1 h_c + 1 udcpp_c (1 M_ATP_ + 1 M_Undecaprenol_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Undecaprenyl_phosphate_)
+
+
+AdditionalNotInModel:
+UNDECAPRENYL-DIPHOSPHATASE-RXN:1 UNDECAPRENYL-DIPHOSPHATE_c + 1 WATER_c -> 1 CPD-9646_c + 1 PROTON_c + 1 Pi_c (1 di-trans,octa-cis-undecaprenyl diphosphate + 1 H2O -> 1 di-trans,octa-cis-undecaprenyl phosphate + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+CPD-9646_c (di-trans,octa-cis-undecaprenyl phosphate)
+PROTON_c (H+)
+Pi_c (phosphate)
+UNDECAPRENYL-DIPHOSPHATE_c (di-trans,octa-cis-undecaprenyl diphosphate)
+WATER_c (H2O)
+
+

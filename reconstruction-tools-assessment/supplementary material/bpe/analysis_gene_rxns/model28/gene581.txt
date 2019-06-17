@@ -1,0 +1,4 @@
+notRecovered:
+UPPDC1:4 h_c + 1 uppg3_c -> 4 co2_c + 1 cpppg3_c (4 H+ + 1 Uroporphyrinogen III -> 4 CO2 + 1 Coproporphyrinogen III)
+
+

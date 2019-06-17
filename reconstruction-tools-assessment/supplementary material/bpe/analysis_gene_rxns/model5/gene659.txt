@@ -1,0 +1,4 @@
+notRecovered:
+ORNCD:1 orn_c -> 1 nh4_c + 1 pro__L_c (1 Ornithine -> 1 Ammonium + 1 L-Proline)
+
+

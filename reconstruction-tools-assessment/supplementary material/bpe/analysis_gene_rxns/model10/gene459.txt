@@ -1,0 +1,20 @@
+notRecovered:
+GLUTCOADHc:1 fad_c + 1 glutcoa_c + 1 h_c <=> 1 b2coa_c + 1 co2_c + 1 fadh2_c (1 Flavin adenine dinucleotide oxidized + 1 glutaryl-coenzyme A + 1 H+ <=> 1 Crotonoyl-CoA + 1 CO2 + 1 Flavin adenine dinucleotide reduced)
+
+
+AdditionalNotInModel:
+GLUTARYL-COA-DEHYDROG-RXN:1 GLUTARYL-COA_c + 1 ETF-Oxidized_c + 1 PROTON_c <=> 1 GLUTACONYL-COA_c + 1 ETF-Reduced_c (1 glutaryl-CoA + 1 an oxidized electron-transfer flavoprotein + 1 H+ <=> 1 (E)-glutaconyl-CoA + 1 a reduced electron-transfer flavoprotein)
+GLUTACONYL-COA-DECARBOXYLASE-RXN:1 GLUTACONYL-COA_c + 1 PROTON_c <=> 1 CARBON-DIOXIDE_c + 1 CROTONYL-COA_c (1 (E)-glutaconyl-CoA + 1 H+ <=> 1 CO2 + 1 crotonyl-CoA)
+GLUTARYL-COA-DEHYDROGENASE-RXN:1 GLUTARYL-COA_c + 1 ETF-Oxidized_c + 2 PROTON_c <=> 1 ETF-Reduced_c + 1 CARBON-DIOXIDE_c + 1 CROTONYL-COA_c (1 glutaryl-CoA + 1 an oxidized electron-transfer flavoprotein + 2 H+ <=> 1 a reduced electron-transfer flavoprotein + 1 CO2 + 1 crotonyl-CoA)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+CROTONYL-COA_c (crotonyl-CoA)
+ETF-Oxidized_c (an oxidized electron-transfer flavoprotein)
+ETF-Reduced_c (a reduced electron-transfer flavoprotein)
+GLUTACONYL-COA_c ((E)-glutaconyl-CoA)
+GLUTARYL-COA_c (glutaryl-CoA)
+PROTON_c (H+)
+
+

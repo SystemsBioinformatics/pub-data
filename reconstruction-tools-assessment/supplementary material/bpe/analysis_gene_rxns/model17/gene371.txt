@@ -1,0 +1,4 @@
+notRecovered:
+PROt4pp:1 na1_p + 1 pro__L_p <=> 1 na1_c + 1 pro__L_c (1 Sodium + 1 L-Proline <=> 1 Sodium + 1 L-Proline)
+
+

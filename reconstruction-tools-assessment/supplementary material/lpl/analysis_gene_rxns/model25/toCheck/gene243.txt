@@ -1,0 +1,16 @@
+notRecovered:
+UAGPT5:1 uacgam_c + 1 uagmdalac_c -> 1 h_c + 1 uaagmdalac_c + 1 udp_c (1 M_UDP_N_acetyl_D_glucosamine_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UDP_)
+
+
+AdditionalNotInModel:
+NACGLCTRANS-RXN:1 C5_c + 1 UDP-N-ACETYL-D-GLUCOSAMINE_c <=> 1 C6_c + 1 PROTON_c + 1 UDP_c (1 undecaprenyldiphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 UDP-N-acetyl-alpha-D-glucosamine <=> 1 ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 H+ + 1 UDP)
+
+
+AdditionalMetabolites:
+C5_c (undecaprenyldiphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+C6_c (ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+PROTON_c (H+)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+UDP_c (UDP)
+
+

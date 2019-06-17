@@ -1,0 +1,19 @@
+notRecovered:
+GTHS:1 atp_c + 1 glucys_c + 1 gly_c -> 1 adp_c + 1 gthrd_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_gamma_L_Glutamyl_L_cysteine_ + 1 M_Glycine_ -> 1 M_ADP_ + 1 M_Reduced_glutathione_ + 1 M_H_ + 1 M_Phosphate_)
+GLUCYS:1 atp_c + 1 cys__L_c + 1 glu__L_c -> 1 adp_c + 1 glucys_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_L_Glutamate_ -> 1 M_ADP_ + 1 M_gamma_L_Glutamyl_L_cysteine_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+RXN-13439:1 ATP_c + 1 CPD-14416_c + 1 L-ASPARTATE_c -> 1 ADP_c + 1 CPD-14417_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 cyanophycin primer + 1 L-aspartate -> 1 ADP + 1 cyanophycin primer-L-aspartate + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CPD-14416_c (cyanophycin primer)
+CPD-14417_c (cyanophycin primer-L-aspartate)
+L-ASPARTATE_c (L-aspartate)
+PROTON_c (H+)
+Pi_c (phosphate)
+
+

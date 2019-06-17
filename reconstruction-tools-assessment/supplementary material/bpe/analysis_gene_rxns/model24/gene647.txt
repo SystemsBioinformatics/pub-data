@@ -1,0 +1,15 @@
+notRecovered:
+LDH_D2:1 lac__D_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 D-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+DLACTDEHYDROGFAD-RXN:1 D-LACTATE_c + 1 Ubiquinones_c -> 1 PYRUVATE_c + 1 Ubiquinols_c (1 (R)-lactate + 1 Ubiquinones -> 1 pyruvate + 1 Ubiquinols)
+
+
+AdditionalMetabolites:
+D-LACTATE_c ((R)-lactate)
+PYRUVATE_c (pyruvate)
+Ubiquinols_c (Ubiquinols)
+Ubiquinones_c (Ubiquinones)
+
+

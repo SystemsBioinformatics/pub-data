@@ -1,0 +1,5 @@
+notRecovered:
+FKYNH:1 h2o_c + 1 Lfmkynr_c -> 1 for_c + 1 h_c + 1 Lkynr_c (1 H2O + 1 N-formylkynurenine -> 1 Formate + 1 H+ + 1 Kynurenine)
+ANTHFOR:1 h2o_c + 1 nfanth_c -> 1 anth_c + 1 for_c + 1 h_c (1 H2O + 1 N-formylanthranilate -> 1 Anthranilate + 1 Formate + 1 H+)
+
+

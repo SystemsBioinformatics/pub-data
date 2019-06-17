@@ -1,0 +1,15 @@
+notRecovered:
+MGDS:1 moco_c + 1 gtp_c + 1 h_c -> 1 mocogdp_c + 1 h2o_c + 1 ppi_c (1 M_Molybdenum_cofactor_ + 1 M_GTP_ + 1 M_H_ -> 1 M_moldybdopterin_guanine_dinucleotide_ + 1 M_H2O_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+BMOGDS1:1 h_c + 1 gtp_c + 1 bmoco_c -> 1 ppi_c + 1 bmoco1gdp_c (1 H+ + 1 GTP + 1 Bis-molybdenum cofactor -> 1 Diphosphate + 1 Bis-molybdopterin mono-guanine dinucleotide)
+BMOGDS2:1 h_c + 1 gtp_c + 1 bmoco1gdp_c -> 1 ppi_c + 1 bmocogdp_c (1 H+ + 1 GTP + 1 Bis-molybdopterin mono-guanine dinucleotide -> 1 Diphosphate + 1 Bis-molybdopterin guanine dinucleotide)
+
+
+AdditionalMetabolites:
+bmoco1gdp_c (Bis-molybdopterin mono-guanine dinucleotide)
+bmoco_c (Bis-molybdenum cofactor)
+bmocogdp_c (Bis-molybdopterin guanine dinucleotide)
+
+

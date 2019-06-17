@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R00772:1 C00275_c <=> 1 C00085_c (1 D-Mannose 6-phosphate <=> 1 D-Fructose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00085_c (D-Fructose 6-phosphate)
+C00275_c (D-Mannose 6-phosphate)
+
+

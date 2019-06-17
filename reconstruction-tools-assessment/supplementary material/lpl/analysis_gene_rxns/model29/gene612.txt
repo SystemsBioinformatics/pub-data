@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00256:1 C00001_c + 1 C00064_c <=> 1 C00014_c + 1 C00025_c (1 H2O + 1 L-Glutamine <=> 1 Ammonia + 1 L-Glutamate)
+R00483:1 C00049_c + 1 C00014_c + 1 C00002_c <=> 1 C00152_c + 1 C00020_c + 1 C00013_c (1 L-Aspartate + 1 Ammonia + 1 ATP <=> 1 L-Asparagine + 1 AMP + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00014_c (Ammonia)
+C00020_c (AMP)
+C00025_c (L-Glutamate)
+C00049_c (L-Aspartate)
+C00064_c (L-Glutamine)
+C00152_c (L-Asparagine)
+
+

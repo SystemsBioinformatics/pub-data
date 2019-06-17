@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R02110:1 C00718_c <=> 1 C00369_c (1 Amylose <=> 1 Starch)
+R06186:1 G10495_c <=> 1 G10545_c (1 1,4-alpha-D-Glucan <=> 1 Starch)
+
+
+AdditionalMetabolites:
+C00369_c (Starch)
+C00718_c (Amylose)
+G10495_c (1,4-alpha-D-Glucan)
+G10545_c (Starch)
+
+

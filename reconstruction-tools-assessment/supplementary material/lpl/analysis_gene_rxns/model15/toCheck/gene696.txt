@@ -1,0 +1,12 @@
+notRecovered:
+THRTRS_1:1 atp_c + 1 thr__L_c + 1 trnathr_c -> 1 amp_c + 1 h_c + 1 ppi_c + 1 thrtrna_c (1 M_ATP_ + 1 M_L_Threonine_ + 1 M_tRNA_Thr__ -> 1 M_AMP_ + 1 M_H_ + 1 M_Diphosphate_ + 1 M_L_Threonyl_tRNA_Thr__)
+
+
+AdditionalNotInModel:
+rxn13782: -> 1 cpd17041_c ( -> 1 Protein_biosynthesis_c0)
+
+
+AdditionalMetabolites:
+cpd17041_c (Protein_biosynthesis_c0)
+
+

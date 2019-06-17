@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R00842:1 C00003_c + 1 C00093_c <=> 1 C00004_c + 1 C00111_c + 1 C00080_c (1 NAD+ + 1 sn-Glycerol 3-phosphate <=> 1 NADH + 1 Glycerone phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00093_c (sn-Glycerol 3-phosphate)
+C00111_c (Glycerone phosphate)
+
+

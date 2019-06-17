@@ -1,0 +1,15 @@
+notRecovered:
+AMAA:1 acmama_c + 1 h2o_c -> 1 acmam_c + 1 ala__L_c (1 M_N_Acetyl_D_muramoyl_L_alanine_ + 1 M_H2O_ -> 1 M_N_Acetyl_D_muramoate_ + 1 M_L_Alanine_)
+
+
+AdditionalNotInModel:
+R04112:1 C00001_c + 1 C02999_c <=> 1 C00041_c + 1 C02713_c (1 H2O + 1 N-Acetylmuramoyl-Ala <=> 1 L-Alanine + 1 N-Acetylmuramate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00041_c (L-Alanine)
+C02713_c (N-Acetylmuramate)
+C02999_c (N-Acetylmuramoyl-Ala)
+
+

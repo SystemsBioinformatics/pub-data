@@ -1,0 +1,16 @@
+notRecovered:
+GLYCK2:1 atp_c + 1 glyc__R_c -> 1 2pg_c + 1 adp_c + 1 h_c (1 ATP + 1 (R)-Glycerate -> 1 D-Glycerate 2-phosphate + 1 ADP + 1 H+)
+
+
+AdditionalNotInModel:
+rxn00780:1 cpd00002_c + 1 cpd00448_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00102_c (1 ATP_c0 + 1 D_Glyceraldehyde_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Glyceraldehyde3_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00102_c (Glyceraldehyde3_phosphate_c0)
+cpd00448_c (D_Glyceraldehyde_c0)
+
+

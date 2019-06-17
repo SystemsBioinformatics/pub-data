@@ -1,0 +1,4 @@
+notRecovered:
+PGL:1 6pgl_c + 1 h2o_c -> 1 6pgc_c + 1 h_c (1 M_6_phospho_D_glucono_1_5_lactone_ + 1 M_H2O_ -> 1 M_6_Phospho_D_gluconate_ + 1 M_H_)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+PRAIS_1:1 atp_c + 1 fpram_c -> 1 adp_c + 1 air_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_2__Formamido__N1__5_phospho_D_ribosyl_acetamidine_ -> 1 M_ADP_ + 1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+AIRS-RXN:1 5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c + 1 ATP_c -> 1 5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c + 1 PROTON_c + 1 ADP_c + 1 Pi_c (1 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine + 1 ATP -> 1 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + 1 H+ + 1 ADP + 1 phosphate)
+
+
+AdditionalMetabolites:
+5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c (5-amino-1-(5-phospho-beta-D-ribosyl)imidazole)
+5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c (2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine)
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+Pi_c (phosphate)
+
+

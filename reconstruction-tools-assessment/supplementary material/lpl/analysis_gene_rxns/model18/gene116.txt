@@ -1,0 +1,15 @@
+notRecovered:
+RBLK2:1 atp_c + 1 rbt_c -> 1 adp_c + 1 h_c + 1 rbt5p_c (1 M_ATP_ + 1 M_Ribitol_ -> 1 M_ADP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_)
+
+
+AdditionalNotInModel:
+R01526:1 C00002_c + 1 C00309_c <=> 1 C00008_c + 1 C00199_c (1 ATP + 1 D-Ribulose <=> 1 ADP + 1 D-Ribulose 5-phosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00199_c (D-Ribulose 5-phosphate)
+C00309_c (D-Ribulose)
+
+

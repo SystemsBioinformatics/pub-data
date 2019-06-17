@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn02961:1 cpd00052_c + 1 cpd02233_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd03379_c (1 CTP_c0 + 1 Ciliatine_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 CMPciliatine_c0)
+rxn01479:1 cpd00052_c + 1 cpd00285_c <=> 1 cpd00012_c + 1 cpd00444_c (1 CTP_c0 + 1 Phosphoethanolamine_c0 <=> 1 PPi_c0 + 1 CDPethanolamine_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00052_c (CTP_c0)
+cpd00067_c (H_plus__c0)
+cpd00285_c (Phosphoethanolamine_c0)
+cpd00444_c (CDPethanolamine_c0)
+cpd02233_c (Ciliatine_c0)
+cpd03379_c (CMPciliatine_c0)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+AGMT:1 agm_c + 1 h2o_c -> 1 ptrc_c + 1 urea_c (1 Agmatine + 1 H2O -> 1 Putrescine + 1 Urea)
+
+

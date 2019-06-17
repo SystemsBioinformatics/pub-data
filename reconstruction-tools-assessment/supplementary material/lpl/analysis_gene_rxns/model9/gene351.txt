@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+MTI:1 tre_c <=> 1 malt_c (1 Trehalose <=> 1 Maltose C12H22O11)
+
+
+AdditionalMetabolites:
+tre_c (Trehalose)
+
+

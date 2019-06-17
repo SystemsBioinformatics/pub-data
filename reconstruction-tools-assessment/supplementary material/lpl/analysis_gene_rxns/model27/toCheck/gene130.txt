@@ -1,0 +1,15 @@
+notRecovered:
+FFSD:1 h2o_c + 1 suc6p_c -> 1 fru_c + 1 g6p_c (1 M_H2O_ + 1 M_Sucrose_6_phosphate_ -> 1 M_D_Fructose_ + 1 M_D_Glucose_6_phosphate_)
+
+
+AdditionalNotInModel:
+3.2.1.26-RXN:1 CPD-15716_c + 1 WATER_c -> 1 BETA-D-FRUCTOSE_c + 1 GLC-6-P_c (1 sucrose 6G-phosphate + 1 H2O -> 1 beta-D-fructofuranose + 1 beta-D-glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+BETA-D-FRUCTOSE_c (beta-D-fructofuranose)
+CPD-15716_c (sucrose 6G-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+WATER_c (H2O)
+
+

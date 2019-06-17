@@ -1,0 +1,16 @@
+notRecovered:
+TSULR3e:2 gthrd_c + 1 tsul_c -> 1 gthox_c + 1 h2s_c + 1 so3_c (2 Reduced glutathione + 1 Thiosulfate -> 1 Oxidized glutathione + 1 Hydrogen sulfide + 1 Sulfite)
+
+
+AdditionalNotInModel:
+R07229:1 C05684_c + 1 C00028_c + 1 C00001_c <=> 1 C05697_c + 1 C00030_c (1 Selenite + 1 Acceptor + 1 H2O <=> 1 Selenate + 1 Reduced acceptor)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C05684_c (Selenite)
+C05697_c (Selenate)
+
+

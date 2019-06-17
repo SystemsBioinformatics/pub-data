@@ -1,0 +1,14 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 M_5_Methyltetrahydrofolate_ + 1 M_L_Homocysteine_ -> 1 M_H_ + 1 M_L_Methionine_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+
+AdditionalNotInModel:
+MTHFR:1 fadh2_c + 1 h_c + 1 mlthf_c -> 1 5mthf_c + 1 fad_c (1 Flavin adenine dinucleotide reduced + 1 H+ + 1 5,10-Methylenetetrahydrofolate -> 1 5-Methyltetrahydrofolate + 1 Flavin adenine dinucleotide oxidized)
+
+
+AdditionalMetabolites:
+fadh2_c (Flavin adenine dinucleotide reduced)
+
+
+AdditionalInModel:
+MTHFR3:2 h_c + 1 mlthf_c + 1 nadph_c -> 1 5mthf_c + 1 nadp_c (2 H+ + 1 5,10-Methylenetetrahydrofolate + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 5-Methyltetrahydrofolate + 1 Nicotinamide adenine dinucleotide phosphate)

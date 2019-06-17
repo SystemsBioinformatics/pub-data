@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+SHSL1:1 cys__L_c + 1 suchms_c -> 1 succ_c + 1 cyst__L_c + 1 h_c (1 L-Cysteine + 1 O-Succinyl-L-homoserine -> 1 Succinate + 1 L-Cystathionine + 1 H+)
+CYSDS:1 cys__L_c + 1 h2o_c -> 1 pyr_c + 1 nh4_c + 1 h2s_c (1 L-Cysteine + 1 H2O H2O -> 1 Pyruvate + 1 Ammonium + 1 Hydrogen sulfide)
+METGL:1 met__L_c + 1 h2o_c -> 1 nh4_c + 1 2obut_c + 1 ch4s_c (1 L-Methionine + 1 H2O H2O -> 1 Ammonium + 1 2-Oxobutanoate + 1 Methanethiol CH4S)
+SHSL2r:1 suchms_c + 1 h2s_c <=> 1 succ_c + 1 hcys__L_c + 1 h_c (1 O-Succinyl-L-homoserine + 1 Hydrogen sulfide <=> 1 Succinate + 1 L-Homocysteine + 1 H+)
+TRPAS1:1 cys__L_c + 1 h2o_c -> 1 pyr_c + 1 nh4_c + 1 h_c + 1 h2s_c (1 L-Cysteine + 1 H2O H2O -> 1 Pyruvate + 1 Ammonium + 1 H+ + 1 Hydrogen sulfide)
+SHSL4r:1 suchms_c + 1 h2o_c <=> 1 succ_c + 1 nh4_c + 1 2obut_c + 1 h_c (1 O-Succinyl-L-homoserine + 1 H2O H2O <=> 1 Succinate + 1 Ammonium + 1 2-Oxobutanoate + 1 H+)
+
+
+AdditionalMetabolites:
+ch4s_c (Methanethiol CH4S)
+suchms_c (O-Succinyl-L-homoserine)
+
+
+AdditionalInModel:
+METB1:1 cys__L_c + 1 achms_c <=> 1 cyst__L_c + 1 ac_c + 1 h_c (1 L-Cysteine + 1 O Acetyl L homoserine C6H11NO4 <=> 1 L-Cystathionine + 1 Acetate + 1 H+)
+AHSERL2:1 achms_c + 1 h2s_c <=> 1 hcys__L_c + 1 ac_c + 1 h_c (1 O Acetyl L homoserine C6H11NO4 + 1 Hydrogen sulfide <=> 1 L-Homocysteine + 1 Acetate + 1 H+)

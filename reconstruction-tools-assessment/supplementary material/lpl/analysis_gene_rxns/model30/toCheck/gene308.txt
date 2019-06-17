@@ -1,0 +1,17 @@
+notRecovered:
+F6PA:1 f6p_c <=> 1 dha_c + 1 g3p_c (1 M_D_Fructose_6_phosphate_ <=> 1 M_Dihydroxyacetone_ + 1 M_Glyceraldehyde_3_phosphate_)
+
+
+AdditionalNotInModel:
+R08575:1 C00118_c + 1 C05382_c <=> 1 C00085_c + 1 C00279_c (1 D-Glyceraldehyde 3-phosphate + 1 Sedoheptulose 7-phosphate <=> 1 D-Fructose 6-phosphate + 1 D-Erythrose 4-phosphate)
+R01827:1 C00118_c + 1 C05382_c <=> 1 C05345_c + 1 C00279_c (1 D-Glyceraldehyde 3-phosphate + 1 Sedoheptulose 7-phosphate <=> 1 beta-D-Fructose 6-phosphate + 1 D-Erythrose 4-phosphate)
+
+
+AdditionalMetabolites:
+C00085_c (D-Fructose 6-phosphate)
+C00118_c (D-Glyceraldehyde 3-phosphate)
+C00279_c (D-Erythrose 4-phosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+C05382_c (Sedoheptulose 7-phosphate)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R03471:1 C00002_c + 1 C01279_c <=> 1 C00008_c + 1 C04556_c (1 ATP + 1 4-Amino-5-hydroxymethyl-2-methylpyrimidine <=> 1 ADP + 1 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C01279_c (4-Amino-5-hydroxymethyl-2-methylpyrimidine)
+C04556_c (4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine)
+
+

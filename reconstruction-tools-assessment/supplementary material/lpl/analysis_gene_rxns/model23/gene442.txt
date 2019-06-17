@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+RXN-12088:1 Alpha-D-Galactosides_c + 1 WATER_c -> 1 ALPHA-D-GALACTOSE_c + 1 Non-Galactosylated-Galactose-Acceptors_c (1 Alpha-D-Galactosides + 1 H2O -> 1 alpha-D-galactose + 1 Non-Galactosylated-Galactose-Acceptors)
+RXN-15343:1 ATP_c + 1 SUCROSE_c <=> 1 ADP_c + 1 CPD-15716_c + 1 PROTON_c (1 ATP + 1 sucrose <=> 1 ADP + 1 sucrose 6G-phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ALPHA-D-GALACTOSE_c (alpha-D-galactose)
+ATP_c (ATP)
+Alpha-D-Galactosides_c (Alpha-D-Galactosides)
+CPD-15716_c (sucrose 6G-phosphate)
+Non-Galactosylated-Galactose-Acceptors_c (Non-Galactosylated-Galactose-Acceptors)
+PROTON_c (H+)
+SUCROSE_c (sucrose)
+WATER_c (H2O)
+
+

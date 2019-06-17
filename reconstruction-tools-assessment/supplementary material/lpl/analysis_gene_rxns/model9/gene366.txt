@@ -1,0 +1,26 @@
+AdditionalNotInModel:
+AGM3PApp:1 anhgm3p_p + 1 h2o_p -> 1 anhgm_p + 1 LalaDgluMdap_p (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide + 1 H2O H2O -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid + 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate)
+AM3PA:1 anhm3p_c + 1 h2o_c -> 1 anhm_c + 1 LalaDgluMdap_c (1 1,6-anhydrous-N-Acetylmuramyl-tripeptide + 1 H2O H2O -> 1 1,6-anhydrous-N-Acetylmuramate + 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate)
+AGM4PA:1 anhgm4p_c + 1 h2o_c -> 1 LalaDgluMdapDala_c + 1 anhgm_c (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 H2O H2O -> 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid)
+AM4PA:1 h2o_c + 1 anhm4p_c -> 1 anhm_c + 1 LalaDgluMdapDala_c (1 H2O H2O + 1 1,6-anhydrous-N-Acetylmuramyl-tetrapeptide -> 1 1,6-anhydrous-N-Acetylmuramate + 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine)
+AGM4PApp:1 anhgm4p_p + 1 h2o_p -> 1 anhgm_p + 1 LalaDgluMdapDala_p (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 H2O H2O -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid + 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine)
+AGM3PA:1 anhgm3p_c + 1 h2o_c -> 1 anhgm_c + 1 LalaDgluMdap_c (1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide + 1 H2O H2O -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid + 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate)
+
+
+AdditionalMetabolites:
+LalaDgluMdapDala_c (L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine)
+LalaDgluMdapDala_p (L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine)
+LalaDgluMdap_c (L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate)
+LalaDgluMdap_p (L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate)
+anhgm3p_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+anhgm3p_p (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+anhgm4p_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+anhgm4p_p (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+anhgm_c (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid)
+anhgm_p (N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid)
+anhm3p_c (1,6-anhydrous-N-Acetylmuramyl-tripeptide)
+anhm4p_c (1,6-anhydrous-N-Acetylmuramyl-tetrapeptide)
+anhm_c (1,6-anhydrous-N-Acetylmuramate)
+h2o_p (H2O H2O)
+
+

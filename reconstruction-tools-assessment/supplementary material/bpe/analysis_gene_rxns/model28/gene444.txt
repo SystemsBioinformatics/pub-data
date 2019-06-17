@@ -1,0 +1,4 @@
+notRecovered:
+GLYOX:1 h2o_c + 1 lgt__S_c -> 1 gthrd_c + 1 h_c + 1 lac__D_c (1 H2O + 1 (R)-S-Lactoylglutathione -> 1 Reduced glutathione + 1 H+ + 1 D-Lactate)
+
+

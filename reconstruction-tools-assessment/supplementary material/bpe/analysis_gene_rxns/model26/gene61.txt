@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R09082:1 C18174_c -> 1 C00011_c + 1 C03375_c (1 Carboxynorspermidine -> 1 CO2 + 1 Norspermidine)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C03375_c (Norspermidine)
+C18174_c (Carboxynorspermidine)
+
+

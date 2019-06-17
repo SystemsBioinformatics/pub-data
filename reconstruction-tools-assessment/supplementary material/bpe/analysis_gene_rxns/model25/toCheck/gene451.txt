@@ -1,0 +1,15 @@
+notRecovered:
+CORELPSPPEAGLCNT_BP:1 coreLPSppea_BP_p + 1 undpglcn_BP_p <=> 1 coreLPSppeag_BP_p + 1 h_c + 1 udcpdp_p (1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 undecaprenyl-diphosphate-glucosamine <=> 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA-glucosamine (B. pertussis specific) + 1 H+ + 1 Undecaprenyl diphosphate)
+
+
+AdditionalNotInModel:
+RXN0-2001:1 CPD0-1189_c + 1 KDO2-LIPID-A_c -> 1 CPD-9646_c + 1 L-ARA4N-MODIFIED-KDO2-LIPID-A_c (1 4-amino-4-deoxy-alpha-L-arabinopyranosyl ditrans,octacis-undecaprenyl phosphate + 1 alpha-D-Kdo-(2rarr4)-alpha-D-Kdo-(2rarr6)-lipid A -> 1 di-trans,octa-cis-undecaprenyl phosphate + 1 4'-alpha-L-Ara4N-alpha-Kdo-(2rarr4)-alpha-Kdo-(2rarr6)-[P4'-alpha-L-ara4N]-lipid A)
+
+
+AdditionalMetabolites:
+CPD-9646_c (di-trans,octa-cis-undecaprenyl phosphate)
+CPD0-1189_c (4-amino-4-deoxy-alpha-L-arabinopyranosyl ditrans,octacis-undecaprenyl phosphate)
+KDO2-LIPID-A_c (alpha-D-Kdo-(2rarr4)-alpha-D-Kdo-(2rarr6)-lipid A)
+L-ARA4N-MODIFIED-KDO2-LIPID-A_c (4'-alpha-L-Ara4N-alpha-Kdo-(2rarr4)-alpha-Kdo-(2rarr6)-[P4'-alpha-L-ara4N]-lipid A)
+
+

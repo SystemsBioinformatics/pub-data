@@ -1,0 +1,35 @@
+notRecovered:
+FKYNH:1 h2o_c + 1 Lfmkynr_c -> 1 for_c + 1 h_c + 1 Lkynr_c (1 H2O + 1 N-formylkynurenine -> 1 Formate + 1 H+ + 1 Kynurenine)
+ANTHFOR:1 h2o_c + 1 nfanth_c -> 1 anth_c + 1 for_c + 1 h_c (1 H2O + 1 N-formylanthranilate -> 1 Anthranilate + 1 Formate + 1 H+)
+
+
+AdditionalNotInModel:
+R00630:1 C00001_c + 1 C02391_c <=> 1 C00060_c + 1 C00069_c (1 H2O + 1 Ester <=> 1 Carboxylate + 1 Alcohol)
+R08255:1 C16641_c + 1 C00001_c <=> 1 C11173_c + 1 C16836_c (1 Irinotecan + 1 H2O <=> 1 SN-38 + 1 1,4''-Bipiperidine-1''-carboxylic acid)
+R08258:1 C16543_c + 1 C00001_c <=> 1 C11173_c + 1 C16837_c (1 NPC + 1 H2O <=> 1 SN-38 + 1 4-Amino-1-piperidinecarboxylic acid)
+R08251:1 C07054_c + 1 C00001_c <=> 1 C05361_c + 1 C07446_c (1 Isoniazid + 1 H2O <=> 1 Hydrazine + 1 Isonicotinic acid)
+R08249:1 C07585_c + 1 C00001_c <=> 1 C07446_c + 1 C07447_c (1 N-Acetylisoniazid + 1 H2O <=> 1 Isonicotinic acid + 1 Acetylhydrazine)
+R08220:1 C00001_c + 1 C12650_c <=> 1 C00011_c + 1 C16834_c + 1 C16635_c (1 H2O + 1 Capecitabine <=> 1 CO2 + 1 1-Pentanol + 1 5''-Deoxy-5-fluorocytidine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00060_c (Carboxylate)
+C00069_c (Alcohol)
+C02391_c (Ester)
+C05361_c (Hydrazine)
+C07054_c (Isoniazid)
+C07446_c (Isonicotinic acid)
+C07447_c (Acetylhydrazine)
+C07585_c (N-Acetylisoniazid)
+C11173_c (SN-38)
+C12650_c (Capecitabine)
+C16543_c (NPC)
+C16635_c (5''-Deoxy-5-fluorocytidine)
+C16641_c (Irinotecan)
+C16834_c (1-Pentanol)
+C16836_c (1,4''-Bipiperidine-1''-carboxylic acid)
+C16837_c (4-Amino-1-piperidinecarboxylic acid)
+
+

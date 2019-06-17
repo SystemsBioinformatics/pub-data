@@ -1,0 +1,4 @@
+notRecovered:
+OCTDPS:1 frdp_c + 5 ipdp_c -> 1 octdp_c + 5 ppi_c (1 Farnesyl diphosphate + 5 Isopentenyl diphosphate -> 1 all-trans-Octaprenyl diphosphate + 5 Diphosphate)
+
+

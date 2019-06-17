@@ -1,0 +1,21 @@
+notRecovered:
+DHORD2:1 dhor__S_c + 1 q8_c -> 1 orot_c + 1 q8h2_c (1 (S)-Dihydroorotate + 1 Ubiquinone-8 -> 1 Orotate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+RXN0-6491:1 DI-H-OROTATE_c + 1 Ubiquinones_c -> 1 OROTATE_c + 1 Ubiquinols_c (1 (S)-dihydroorotate + 1 Ubiquinones -> 1 orotate + 1 Ubiquinols)
+RXN0-6554:1 DI-H-OROTATE_c + 1 Menaquinones_c -> 1 Menaquinols_c + 1 OROTATE_c (1 (S)-dihydroorotate + 1 Menaquinones -> 1 Menaquinols + 1 orotate)
+DIHYDROOROTATE-DEHYDROGENASE-RXN:1 DI-H-OROTATE_c + 1 ETR-Quinones_c -> 1 ETR-Quinols_c + 1 OROTATE_c (1 (S)-dihydroorotate + 1 ETR-Quinones -> 1 ETR-Quinols + 1 orotate)
+
+
+AdditionalMetabolites:
+DI-H-OROTATE_c ((S)-dihydroorotate)
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+Menaquinols_c (Menaquinols)
+Menaquinones_c (Menaquinones)
+OROTATE_c (orotate)
+Ubiquinols_c (Ubiquinols)
+Ubiquinones_c (Ubiquinones)
+
+

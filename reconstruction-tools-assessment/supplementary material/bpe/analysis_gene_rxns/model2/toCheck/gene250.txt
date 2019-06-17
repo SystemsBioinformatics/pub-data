@@ -1,0 +1,20 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+NADH10:1 h_c + 1 nadh_c + 1 mqn8_c -> 1 nad_c + 1 mql8_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Menaquinone 8 -> 1 Nicotinamide adenine dinucleotide + 1 Menaquinol 8)
+NADH17pp:4 h_c + 1 nadh_c + 1 mqn8_c -> 1 nad_c + 3 h_p + 1 mql8_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Menaquinone 8 -> 1 Nicotinamide adenine dinucleotide + 3 H+ + 1 Menaquinol 8)
+NADH2r:1 h_c + 1 nadh_c + 1 q_c -> 1 nad_c + 1 qh2_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone -> 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol)
+NADH9:1 h_c + 1 nadh_c + 1 2dmmq8_c -> 1 nad_c + 1 2dmmql8_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 2-Demethylmenaquinone 8 -> 1 Nicotinamide adenine dinucleotide + 1 2-Demethylmenaquinol 8)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+q_c (Ubiquinone)
+qh2_c (Ubiquinol)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn03446:1 cpd00001_c + 1 cpd03607_c -> 1 cpd00009_c + 1 cpd03608_c (1 H2O_c0 + 1 4_Phosphonooxy_threonine_c0 -> 1 Phosphate_c0 + 1 4_Hydroxy_L_threonine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd03607_c (4_Phosphonooxy_threonine_c0)
+cpd03608_c (4_Hydroxy_L_threonine_c0)
+
+

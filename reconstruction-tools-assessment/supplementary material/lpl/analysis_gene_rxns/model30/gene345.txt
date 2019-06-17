@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R05085:1 C06055_c + 1 C00026_c <=> 1 C06054_c + 1 C00025_c (1 O-Phospho-4-hydroxy-L-threonine + 1 2-Oxoglutarate <=> 1 2-Oxo-3-hydroxy-4-phosphobutanoate + 1 L-Glutamate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C06054_c (2-Oxo-3-hydroxy-4-phosphobutanoate)
+C06055_c (O-Phospho-4-hydroxy-L-threonine)
+
+

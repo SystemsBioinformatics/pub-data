@@ -1,0 +1,13 @@
+notRecovered:
+ARAI:1 arab__L_c <=> 1 rbl__L_c (1 M_L_Arabinose_ <=> 1 M_L_Ribulose_)
+
+
+AdditionalNotInModel:
+R01761:1 C00259_c <=> 1 C00508_c (1 L-Arabinose <=> 1 L-Ribulose)
+
+
+AdditionalMetabolites:
+C00259_c (L-Arabinose)
+C00508_c (L-Ribulose)
+
+

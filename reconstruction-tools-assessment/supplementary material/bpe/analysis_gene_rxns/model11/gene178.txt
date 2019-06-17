@@ -1,0 +1,4 @@
+notRecovered:
+TAUDO:1 akg_c + 1 o2_c + 1 taur_c -> 1 aacald_c + 1 co2_c + 1 h_c + 1 so3_c + 1 succ_c (1 2-Oxoglutarate + 1 O2 + 1 Taurine -> 1 Aminoacetaldehyde + 1 CO2 + 1 H+ + 1 Sulfite + 1 Succinate)
+
+

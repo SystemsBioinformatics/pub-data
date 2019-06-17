@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+GLUTRACE-RXN:1 GLT_c -> 1 D-GLT_c (1 L-glutamate -> 1 D-glutamate)
+
+
+AdditionalMetabolites:
+D-GLT_c (D-glutamate)
+GLT_c (L-glutamate)
+
+

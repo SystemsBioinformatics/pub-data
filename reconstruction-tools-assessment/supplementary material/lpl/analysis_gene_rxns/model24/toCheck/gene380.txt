@@ -1,0 +1,15 @@
+notRecovered:
+AHMMPS_1:1 air_c + 1 h2o_c -> 1 4ahmmp_c + 1 gcald_c + 0.5 o2_c + 1 pi_c (1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_H2O_ -> 1 M_4_Amino_5_hydroxymethyl_2_methylpyrimidine_ + 1 M_Glycolaldehyde_ + 0.5 M_O2_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+RXN-14461:1 FAD_c + 1 Proteins-L-Threonines_c -> 1 AMP_c + 1 Protein-flavinated-threonines_c (1 FAD + 1 Proteins-L-Threonines -> 1 AMP + 1 Protein-flavinated-threonines)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+FAD_c (FAD)
+Protein-flavinated-threonines_c (Protein-flavinated-threonines)
+Proteins-L-Threonines_c (Proteins-L-Threonines)
+
+

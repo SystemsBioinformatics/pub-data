@@ -1,0 +1,4 @@
+notRecovered:
+FFSD:1 h2o_c + 1 suc6p_c -> 1 fru_c + 1 g6p_c (1 M_H2O_ + 1 M_Sucrose_6_phosphate_ -> 1 M_D_Fructose_ + 1 M_D_Glucose_6_phosphate_)
+
+

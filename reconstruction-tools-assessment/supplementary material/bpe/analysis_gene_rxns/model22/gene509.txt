@@ -1,0 +1,15 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 Acetyl-CoA + 1 ATP + 1 Bicarbonate -> 1 ADP + 1 H+ + 1 Malonyl-CoA + 1 Phosphate)
+
+
+AdditionalNotInModel:
+RXN0-5055:1 ACETYL-COA_c + 1 carboxybiotin-L-lysine-in-BCCP-dimers_c -> 1 MALONYL-COA_c + 1 biotin-L-lysine-in-BCCP-dimers_c (1 acetyl-CoA + 1 carboxybiotin-L-lysine-in-BCCP-dimers -> 1 malonyl-CoA + 1 biotin-L-lysine-in-BCCP-dimers)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+MALONYL-COA_c (malonyl-CoA)
+biotin-L-lysine-in-BCCP-dimers_c (biotin-L-lysine-in-BCCP-dimers)
+carboxybiotin-L-lysine-in-BCCP-dimers_c (carboxybiotin-L-lysine-in-BCCP-dimers)
+
+

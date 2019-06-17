@@ -1,0 +1,19 @@
+notRecovered:
+GNK:1 atp_c + 1 glcn_c -> 1 6pgc_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M_D_Gluconate_ -> 1 M_6_Phospho_D_gluconate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+XYLULOKIN-RXN:1 ATP_c + 1 D-XYLULOSE_c -> 1 ADP_c + 1 PROTON_c + 1 XYLULOSE-5-PHOSPHATE_c (1 ATP + 1 D-xylulose -> 1 ADP + 1 H+ + 1 D-xylulose 5-phosphate)
+RXN0-382:1 ATP_c + 1 CPD-1093_c -> 1 ADP_c + 1 DEOXYXYLULOSE-5P_c + 1 PROTON_c (1 ATP + 1 1-deoxy-D-xylulose -> 1 ADP + 1 1-deoxy-D-xylulose 5-phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CPD-1093_c (1-deoxy-D-xylulose)
+D-XYLULOSE_c (D-xylulose)
+DEOXYXYLULOSE-5P_c (1-deoxy-D-xylulose 5-phosphate)
+PROTON_c (H+)
+XYLULOSE-5-PHOSPHATE_c (D-xylulose 5-phosphate)
+
+

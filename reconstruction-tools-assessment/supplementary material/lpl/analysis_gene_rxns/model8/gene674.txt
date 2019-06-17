@@ -1,0 +1,4 @@
+notRecovered:
+RPI:1 r5p_c <=> 1 ru5p__D_c (1 M_alpha_D_Ribose_5_phosphate_ <=> 1 M_D_Ribulose_5_phosphate_)
+
+

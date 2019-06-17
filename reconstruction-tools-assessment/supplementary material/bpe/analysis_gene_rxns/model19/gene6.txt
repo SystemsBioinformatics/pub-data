@@ -1,0 +1,19 @@
+notRecovered:
+GLCNUNDFUCMANT_BP:1 uacgam_c + 1 undpfucman_c -> 1 h_c + 1 udp_c + 1 undpfucmanglcn_BP_c (1 UDP-N-acetyl-D-glucosamine + 1 undecaprenyl-diphosphate-(2-N-acetyl-4-aminomethyl)-fucose-(2-N-acetyl-3-N-acetyl)-D-mannosaminuronate -> 1 H+ + 1 UDP + 1 undecaprenyl-diphosphate-(2-N-acetyl-4-aminomethyl)-fucose-(2-N-acetyl-3-N-acetyl)-D-mannosaminuronate-(N-acetyl)-glucosamine)
+
+
+AdditionalNotInModel:
+R09641:1 C00029_c + 1 C17556_c <=> 1 C00105_c + 1 C19772_c (1 UDP-glucose + 1 di-trans,poly-cis-Undecaprenyl phosphate <=> 1 UMP + 1 alpha-D-Glucopyranosyl-diphospho-ditrans,octacis-undecaprenol)
+R10184:1 C20357_c + 1 C20420_c <=> 1 C00105_c + 1 C20421_c (1 UDP-N,N'-Diacetylbacillosamine + 1 tritrans,heptacis-Undecaprenyl phosphate <=> 1 UMP + 1 N,N'-Diacetyl-alpha-D-bacillosaminyldiphospho-tritrans,heptacis-undecaprenol)
+
+
+AdditionalMetabolites:
+C00029_c (UDP-glucose)
+C00105_c (UMP)
+C17556_c (di-trans,poly-cis-Undecaprenyl phosphate)
+C19772_c (alpha-D-Glucopyranosyl-diphospho-ditrans,octacis-undecaprenol)
+C20357_c (UDP-N,N'-Diacetylbacillosamine)
+C20420_c (tritrans,heptacis-Undecaprenyl phosphate)
+C20421_c (N,N'-Diacetyl-alpha-D-bacillosaminyldiphospho-tritrans,heptacis-undecaprenol)
+
+

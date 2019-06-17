@@ -1,0 +1,15 @@
+notRecovered:
+GDPDPK:1 atp_c + 1 gdp_c -> 1 amp_c + 1 h_c + 1 ppgpp_c (1 ATP + 1 GDP -> 1 AMP + 1 H+ + 1 Guanosine 3',5'-bis(diphosphate))
+
+
+AdditionalNotInModel:
+R00429:1 C00002_c + 1 C00044_c -> 1 C00020_c + 1 C04494_c (1 ATP + 1 GTP -> 1 AMP + 1 Guanosine 3'-diphosphate 5'-triphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00020_c (AMP)
+C00044_c (GTP)
+C04494_c (Guanosine 3'-diphosphate 5'-triphosphate)
+
+

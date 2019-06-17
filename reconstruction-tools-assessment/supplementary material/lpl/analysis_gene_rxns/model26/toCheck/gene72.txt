@@ -1,0 +1,20 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Pyruvate_ -> 1 M_Acetyl_CoA_ + 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+RXN0-1147:1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c + 1 SUC-COA_c <=> 1 CO-A_c + 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c (1 Oxo-glutarate-dehydrogenase-DH-lipoyl + 1 succinyl-CoA <=> 1 coenzyme A + 1 Oxo-glutarate-dehydro-suc-DH-lipoyl)
+2OXOGLUTARATEDEH-RXN:1 2-KETOGLUTARATE_c + 1 CO-A_c + 1 NAD_c -> 1 CARBON-DIOXIDE_c + 1 NADH_c + 1 SUC-COA_c (1 2-oxoglutarate + 1 coenzyme A + 1 NAD+ -> 1 CO2 + 1 NADH + 1 succinyl-CoA)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CARBON-DIOXIDE_c (CO2)
+CO-A_c (coenzyme A)
+NADH_c (NADH)
+NAD_c (NAD+)
+Oxo-glutarate-dehydro-suc-DH-lipoyl_c (Oxo-glutarate-dehydro-suc-DH-lipoyl)
+Oxo-glutarate-dehydrogenase-DH-lipoyl_c (Oxo-glutarate-dehydrogenase-DH-lipoyl)
+SUC-COA_c (succinyl-CoA)
+
+

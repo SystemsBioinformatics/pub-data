@@ -1,0 +1,6 @@
+notRecovered:
+HACD9:1 3hmbcoa_c + 1 nad_c <=> 1 2maacoa_c + 1 h_c + 1 nadh_c (1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide <=> 1 2-methylacetoacetyl-coenzyme A + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalInModel:
+ECOAH1:1 3hbcoa_c <=> 1 b2coa_c + 1 h2o_c (1 (S)-3-Hydroxybutanoyl-CoA <=> 1 Crotonoyl-CoA + 1 H2O H2O)

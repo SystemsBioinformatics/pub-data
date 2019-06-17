@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-15733:1 CPD-16953_c + 1 ATP_c <=> 1 CPD-16954_c + 1 AMP_c + 1 PROTON_c (1 2-amino-6-[1-hydroxyethyl]-7-methyl-7,8-dihydropterin + 1 ATP <=> 1 [1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl diphosphate + 1 AMP + 1 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+CPD-16953_c (2-amino-6-[1-hydroxyethyl]-7-methyl-7,8-dihydropterin)
+CPD-16954_c ([1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl diphosphate)
+PROTON_c (H+)
+
+

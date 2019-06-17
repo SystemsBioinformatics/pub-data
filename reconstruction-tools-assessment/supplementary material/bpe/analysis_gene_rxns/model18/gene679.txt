@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04911:1 C00001_c + 1 C05648_c -> 1 C00058_c + 1 C05651_c (1 H2O + 1 5-Hydroxy-N-formylkynurenine -> 1 Formate + 1 5-Hydroxykynurenine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00058_c (Formate)
+C05648_c (5-Hydroxy-N-formylkynurenine)
+C05651_c (5-Hydroxykynurenine)
+
+

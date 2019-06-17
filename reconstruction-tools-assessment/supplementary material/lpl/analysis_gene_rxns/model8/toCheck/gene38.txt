@@ -1,0 +1,15 @@
+notRecovered:
+13PPDH:1 3hppnl_c + 1 h_c + 1 nadh_c <=> 1 13ppd_c + 1 nad_c (1 M_3_Hydroxypropanal_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_Propane_1_3_diol_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+LCARS:1 nadh_c + 1 lald__L_c + 1 h_c <=> 1 nad_c + 1 12ppd__S_c (1 Nicotinamide adenine dinucleotide - reduced + 1 L-Lactaldehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 (S)-Propane-1,2-diol)
+CHOLD2:1 fad_c + 1 chol_c -> 1 fadh2_c + 1 betald_c (1 Flavin adenine dinucleotide oxidized + 1 Choline C5H14NO -> 1 Flavin adenine dinucleotide reduced + 1 Betaine aldehyde)
+
+
+AdditionalMetabolites:
+12ppd__S_c ((S)-Propane-1,2-diol)
+betald_c (Betaine aldehyde)
+fadh2_c (Flavin adenine dinucleotide reduced)
+
+

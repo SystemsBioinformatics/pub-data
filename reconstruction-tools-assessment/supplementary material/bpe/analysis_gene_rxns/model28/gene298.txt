@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00256:1 C00064_c + 1 C00001_c <=> 1 C00025_c + 1 C00014_c (1 L-Glutamine + 1 H2O <=> 1 L-Glutamate + 1 Ammonia)
+R00571:1 C00002_c + 1 C00075_c + 1 C00014_c <=> 1 C00009_c + 1 C00008_c + 1 C00063_c (1 ATP + 1 UTP + 1 Ammonia <=> 1 Orthophosphate + 1 ADP + 1 CTP)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00014_c (Ammonia)
+C00025_c (L-Glutamate)
+C00063_c (CTP)
+C00064_c (L-Glutamine)
+C00075_c (UTP)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+RIBt2:1 h_e + 1 rib__D_e -> 1 h_c + 1 rib__D_c (1 M_H_ + 1 M_D_Ribose_ -> 1 M_H_ + 1 M_D_Ribose_)
+
+
+AdditionalNotInModel:
+rxn05160:1 cpd00002_c + 1 cpd00001_c + 1 cpd00105_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00105_c (1 ATP_c0 + 1 H2O_c0 + 1 D_Ribose_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 D_Ribose_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00105_c (D_Ribose_c0)
+cpd00105_e (D_Ribose_e0)
+
+

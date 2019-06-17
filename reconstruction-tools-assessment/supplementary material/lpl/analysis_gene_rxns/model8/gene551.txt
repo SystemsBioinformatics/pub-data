@@ -1,0 +1,43 @@
+notRecovered:
+PGSA_LPL:0.01 cdpdag_LPL_c + 1 glyc3p_c <=> 1 cmp_c + 1 h_c + 0.01 pgp_LPL_c (0.01 M_CDPdiacylglycerol__LPL_specific__ + 1 M_sn_Glycerol_3_phosphate_ <=> 1 M_CMP_ + 1 M_H_ + 0.01 M_Phosphatidylglycerophosphate__LPL_specific__)
+
+
+AdditionalNotInModel:
+PGSA_SA:0.02 cdpdag_SA_c + 1 glyc3p_c <=> 1 cmp_c + 1 h_c + 0.02 pgp_SA_c (0.02 CDPdiacylglycerol (Saureus) + 1 Glycerol 3-phosphate <=> 1 CMP C9H12N3O8P + 1 H+ + 0.02 Phosphatidylglycerophosphate (Saureus))
+PGSA_LLA:0.01 cdpdag_LLA_c + 1 glyc3p_c <=> 0.01 pgp_LLA_c + 1 cmp_c + 1 h_c (0.01 CDPdiacylglycerol  lactis specific + 1 Glycerol 3-phosphate <=> 0.01 Phosphatidylglycerophosphate  lactis specific  + 1 CMP C9H12N3O8P + 1 H+)
+PGSA140:1 cdpdtdecg_c + 1 glyc3p_c -> 1 cmp_c + 1 pgp140_c + 1 h_c (1 CDP-1,2-ditetradecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP C9H12N3O8P + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) + 1 H+)
+PGSA161:1 cdpdhdec9eg_c + 1 glyc3p_c -> 1 pgp161_c + 1 cmp_c + 1 h_c (1 CDP-1,2-dihexadec-9-enoylglycerol + 1 Glycerol 3-phosphate -> 1 Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1) + 1 CMP C9H12N3O8P + 1 H+)
+PGSA160190:1 cdpc16c19g_c + 1 glyc3p_c -> 1 cmp_c + 1 pgp160190_c + 1 h_c (1 Cdp diacylglycerol (C16:0, C19:0) + 1 Glycerol 3-phosphate -> 1 CMP C9H12N3O8P + 1 Phosphatidylglycerophosphate (hexadecanoyl, tuberculostearoyl, C16:0, C19:0) + 1 H+)
+PGSA180:1 cdpdodecg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp180_c (1 CDP-1,2-dioctadecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP C9H12N3O8P + 1 H+ + 1 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0))
+PGSA190:1 glyc3p_c + 1 cdpc19c19g_c -> 1 cmp_c + 1 pgp190_c + 1 h_c (1 Glycerol 3-phosphate + 1 Cdp diacylglycerol (C19:0, C19:0) -> 1 CMP C9H12N3O8P + 1 Phosphatidylglycerophosphate (dituberculostearoyl, C19:0) + 1 H+)
+CDGPT_BS:0.01 cdpdag_BS_c + 1 glyc3p_c -> 1 cmp_c + 0.01 pglyp_BS_c + 1 h_c (0.01 CDPdiacylglycerol  B subtilis  C4336H7772N300O1500P200 + 1 Glycerol 3-phosphate -> 1 CMP C9H12N3O8P + 0.01 Phosphatidylglycerophosphate  B subtilis  C3736H7172O1300P200 + 1 H+)
+PGSA120:1 cdpdddecg_c + 1 glyc3p_c -> 1 cmp_c + 1 pgp120_c + 1 h_c (1 CDP-1,2-didodecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP C9H12N3O8P + 1 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) + 1 H+)
+PGSA160:1 cdpdhdecg_c + 1 glyc3p_c -> 1 pgp160_c + 1 cmp_c + 1 h_c (1 CDP-1,2-dihexadecanoylglycerol + 1 Glycerol 3-phosphate -> 1 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0) + 1 CMP C9H12N3O8P + 1 H+)
+PGSA181:1 cdpdodec11eg_c + 1 glyc3p_c -> 1 pgp181_c + 1 cmp_c + 1 h_c (1 CDP-1,2-dioctadec-11-enoylglycerol + 1 Glycerol 3-phosphate -> 1 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) + 1 CMP C9H12N3O8P + 1 H+)
+
+
+AdditionalMetabolites:
+cdpc16c19g_c (Cdp diacylglycerol (C16:0, C19:0))
+cdpc19c19g_c (Cdp diacylglycerol (C19:0, C19:0))
+cdpdag_BS_c (CDPdiacylglycerol  B subtilis  C4336H7772N300O1500P200)
+cdpdag_LLA_c (CDPdiacylglycerol  lactis specific)
+cdpdag_SA_c (CDPdiacylglycerol (Saureus))
+cdpdddecg_c (CDP-1,2-didodecanoylglycerol)
+cdpdhdec9eg_c (CDP-1,2-dihexadec-9-enoylglycerol)
+cdpdhdecg_c (CDP-1,2-dihexadecanoylglycerol)
+cdpdodec11eg_c (CDP-1,2-dioctadec-11-enoylglycerol)
+cdpdodecg_c (CDP-1,2-dioctadecanoylglycerol)
+cdpdtdecg_c (CDP-1,2-ditetradecanoylglycerol)
+pglyp_BS_c (Phosphatidylglycerophosphate  B subtilis  C3736H7172O1300P200)
+pgp120_c (Phosphatidylglycerophosphate (didodecanoyl, n-C12:0))
+pgp140_c (Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0))
+pgp160190_c (Phosphatidylglycerophosphate (hexadecanoyl, tuberculostearoyl, C16:0, C19:0))
+pgp160_c (Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0))
+pgp161_c (Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1))
+pgp180_c (Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0))
+pgp181_c (Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1))
+pgp190_c (Phosphatidylglycerophosphate (dituberculostearoyl, C19:0))
+pgp_LLA_c (Phosphatidylglycerophosphate  lactis specific)
+pgp_SA_c (Phosphatidylglycerophosphate (Saureus))
+
+

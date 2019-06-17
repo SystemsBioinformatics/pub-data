@@ -1,0 +1,19 @@
+notRecovered:
+BTS4:1 amet_c + 1 dtbt_c + 1 s_c -> 1 btn_c + 1 dad_5_c + 1 h_c + 1 met__L_c (1 S-Adenosyl-L-methionine + 1 Dethiobiotin + 1 Sulfur -> 1 Biotin + 1 5'-Deoxyadenosine + 1 H+ + 1 L-Methionine)
+
+
+AdditionalNotInModel:
+R01078:2 C00019_c + 2 C00080_c + 2 C05359_c + 1 C01909_c + 1 C17023_c <=> 2 C00073_c + 1 C00120_c + 2 C05198_c (2 S-Adenosyl-L-methionine + 2 H+ + 2 e- + 1 Dethiobiotin + 1 Sulfur donor <=> 2 L-Methionine + 1 Biotin + 2 5''-Deoxyadenosine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00073_c (L-Methionine)
+C00080_c (H+)
+C00120_c (Biotin)
+C01909_c (Dethiobiotin)
+C05198_c (5''-Deoxyadenosine)
+C05359_c (e-)
+C17023_c (Sulfur donor)
+
+

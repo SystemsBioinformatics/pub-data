@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R00028:1 C00001_c + 1 C00208_c <=> 2 C00031_c (1 H2O + 1 Maltose <=> 2 D-Glucose)
+R00802:1 C00001_c + 1 C00089_c <=> 1 C00267_c + 1 C02336_c (1 H2O + 1 Sucrose <=> 1 alpha-D-Glucose + 1 beta-D-Fructose)
+R06087:1 C00001_c + 1 G00370_c <=> 1 C00031_c + 1 C00095_c (1 H2O + 1 Sucrose (G00370) <=> 1 D-Glucose + 1 D-Fructose)
+R06088:1 C00001_c + 1 G00370_c <=> 1 C00267_c + 1 C02336_c (1 H2O + 1 Sucrose (G00370) <=> 1 alpha-D-Glucose + 1 beta-D-Fructose)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00089_c (Sucrose)
+C00095_c (D-Fructose)
+C00208_c (Maltose)
+C00267_c (alpha-D-Glucose)
+C02336_c (beta-D-Fructose)
+G00370_c (Sucrose (G00370))
+
+

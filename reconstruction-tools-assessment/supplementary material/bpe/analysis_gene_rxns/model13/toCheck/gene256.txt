@@ -1,0 +1,15 @@
+notRecovered:
+METB1:1 achms_c + 1 cys__L_c -> 1 ac_c + 1 cyst__L_c + 1 h_c (1 O-Acetyl-L-homoserine + 1 L-Cysteine -> 1 Acetate + 1 L-Cystathionine + 1 H+)
+SHSL1:1 cys__L_c + 1 suchms_c -> 1 cyst__L_c + 1 h_c + 1 succ_c (1 L-Cysteine + 1 O-Succinyl-L-homoserine -> 1 L-Cystathionine + 1 H+ + 1 Succinate)
+
+
+AdditionalNotInModel:
+rxn06517:1 cpd12379_c <=> 1 cpd01495_c + 1 cpd12050_c (1 S_Alkyl_L_cysteine_S_oxide_c0 <=> 1 Dehydroalanine_c0 + 1 Alkyl_sulfenate_c0)
+
+
+AdditionalMetabolites:
+cpd01495_c (Dehydroalanine_c0)
+cpd12050_c (Alkyl_sulfenate_c0)
+cpd12379_c (S_Alkyl_L_cysteine_S_oxide_c0)
+
+

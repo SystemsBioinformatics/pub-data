@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+GMP-SYN-NH3-RXN:1 AMMONIUM_c + 1 ATP_c + 1 XANTHOSINE-5-PHOSPHATE_c -> 1 AMP_c + 1 GMP_c + 1 PPI_c + 2 PROTON_c (1 ammonium + 1 ATP + 1 XMP -> 1 AMP + 1 GMP + 1 diphosphate + 2 H+)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+AMP_c (AMP)
+ATP_c (ATP)
+GMP_c (GMP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+XANTHOSINE-5-PHOSPHATE_c (XMP)
+
+

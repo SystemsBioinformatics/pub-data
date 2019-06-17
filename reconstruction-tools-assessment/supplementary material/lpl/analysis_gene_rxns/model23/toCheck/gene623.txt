@@ -1,0 +1,16 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 M_UDPglucose_ <=> 1 M_UDPgalactose_)
+
+
+AdditionalNotInModel:
+UDP-N-ACETYLGLUCOSAMINE-4-EPIMERASE-RXN:1 UDP-N-ACETYL-D-GLUCOSAMINE_c <=> 1 CPD-14795_c (1 UDP-N-acetyl-alpha-D-glucosamine <=> 1 UDP-N-acetyl-alpha-D-galactosamine)
+RXN-16259:1 UDP-N-ACETYL-2-AMINO-D-GLUCURONATE_c -> 1 CPD-15639_c (1 UDP-N-acetyl-alpha-D-glucosaminouronate -> 1 UDP-N-acetyl-alpha-D-galactosaminouronate)
+
+
+AdditionalMetabolites:
+CPD-14795_c (UDP-N-acetyl-alpha-D-galactosamine)
+CPD-15639_c (UDP-N-acetyl-alpha-D-galactosaminouronate)
+UDP-N-ACETYL-2-AMINO-D-GLUCURONATE_c (UDP-N-acetyl-alpha-D-glucosaminouronate)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+
+

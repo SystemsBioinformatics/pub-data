@@ -1,0 +1,4 @@
+notRecovered:
+FEALCtonex:1 fealc_e + 1 h_p -> 1 fealc_p + 1 h_c (1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+ -> 1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+)
+
+

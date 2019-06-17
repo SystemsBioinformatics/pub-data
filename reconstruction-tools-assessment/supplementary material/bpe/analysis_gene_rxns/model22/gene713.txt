@@ -1,0 +1,20 @@
+notRecovered:
+P5CD:1 1pyr5c_c + 2 h2o_c + 1 nad_c <=> 1 glu__L_c + 1 h_c + 1 nadh_c (1 1-Pyrroline-5-carboxylate + 2 H2O + 1 Nicotinamide adenine dinucleotide <=> 1 L-Glutamate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+RXN-14472:1 L-4-HYDROXYGLUTAMATE_SEMIALDEHYDE_c + 1 NAD_c + 1 WATER_c -> 1 L-ERYTHRO-4-HYDROXY-GLUTAMATE_c + 1 NADH_c + 2 PROTON_c (1 L-4-hydroxyglutamate semialdehyde + 1 NAD+ + 1 H2O -> 1 erythro-4-hydroxy-L-glutamate + 1 NADH + 2 H+)
+RXN-14116:1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 NAD_c + 1 WATER_c -> 1 GLT_c + 1 NADH_c + 2 PROTON_c (1 L-glutamate-5-semialdehyde + 1 NAD+ + 1 H2O -> 1 L-glutamate + 1 NADH + 2 H+)
+
+
+AdditionalMetabolites:
+GLT_c (L-glutamate)
+L-4-HYDROXYGLUTAMATE_SEMIALDEHYDE_c (L-4-hydroxyglutamate semialdehyde)
+L-ERYTHRO-4-HYDROXY-GLUTAMATE_c (erythro-4-hydroxy-L-glutamate)
+L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c (L-glutamate-5-semialdehyde)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+PPAKr:1 adp_c + 1 ppap_c <=> 1 atp_c + 1 ppa_c (1 ADP + 1 Propanoyl phosphate <=> 1 ATP + 1 Propionate (n-C3:0))
+
+
+AdditionalMetabolites:
+ppa_c (Propionate (n-C3:0))
+ppap_c (Propanoyl phosphate)
+
+

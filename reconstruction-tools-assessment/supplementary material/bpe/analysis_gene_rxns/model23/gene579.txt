@@ -1,0 +1,16 @@
+notRecovered:
+NADDP:1 h2o_c + 1 nad_c -> 1 amp_c + 2 h_c + 1 nmn_c (1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 AMP + 2 H+ + 1 NMN)
+
+
+AdditionalNotInModel:
+RXN0-4401:1 NADH_c + 1 WATER_c -> 1 AMP_c + 1 NMNH_c + 2 PROTON_c (1 NADH + 1 H2O -> 1 AMP + 1 reduced beta-nicotinamide D-ribonucleotide + 2 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+NADH_c (NADH)
+NMNH_c (reduced beta-nicotinamide D-ribonucleotide)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

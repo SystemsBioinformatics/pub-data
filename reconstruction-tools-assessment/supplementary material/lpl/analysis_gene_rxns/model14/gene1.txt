@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+GLUTAMIN-RXN:1 GLN_c + 1 WATER_c -> 1 GLT_c + 1 AMMONIUM_c (1 L-glutamine + 1 H2O -> 1 L-glutamate + 1 ammonium)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+WATER_c (H2O)
+
+

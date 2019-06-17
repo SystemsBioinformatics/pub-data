@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+rxn02009:1 cpd00002_c + 1 cpd00039_c + 1 cpd00525_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd02861_c (1 ATP_c0 + 1 L_Lysine_c0 + 1 UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_L_lysine_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00039_c (L_Lysine_c0)
+cpd00067_c (H_plus__c0)
+cpd00525_c (UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_c0)
+cpd02861_c (UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_L_lysine_c0)
+
+

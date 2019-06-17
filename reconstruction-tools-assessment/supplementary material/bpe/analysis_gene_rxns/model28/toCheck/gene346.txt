@@ -1,0 +1,36 @@
+notRecovered:
+DPHETA:1 phe_D_c + 1 pyr_c <=> 1 ala__D_c + 1 phpyr_c (1 D-Phenylalanine + 1 Pyruvate <=> 1 D-Alanine + 1 Phenylpyruvate)
+ALATA_D3:1 akg_c + 1 ala__D_c <=> 1 glu__L_c + 1 pyr_c (1 2-Oxoglutarate + 1 D-Alanine <=> 1 L-Glutamate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+R01582:1 C02265_c + 1 C00026_c <=> 1 C00217_c + 1 C00166_c (1 D-Phenylalanine + 1 2-Oxoglutarate <=> 1 D-Glutamate + 1 Phenylpyruvate)
+R02851:1 C00739_c + 1 C00161_c <=> 1 C03239_c + 1 C00405_c (1 D-Lysine + 1 2-Oxo acid <=> 1 6-Amino-2-oxohexanoate + 1 D-Amino acid)
+R05053:1 C05946_c + 1 C00402_c <=> 1 C00036_c + 1 C05947_c (1 (4R)-4-Hydroxy-2-oxoglutarate + 1 D-Aspartate <=> 1 Oxaloacetate + 1 L-erythro-4-Hydroxyglutamate)
+R01344:1 C00405_c + 1 C00022_c <=> 1 C00133_c + 1 C00161_c (1 D-Amino acid + 1 Pyruvate <=> 1 D-Alanine + 1 2-Oxo acid)
+R02924:1 C00161_c + 1 C00792_c <=> 1 C00405_c + 1 C03771_c (1 2-Oxo acid + 1 D-Arginine <=> 1 D-Amino acid + 1 5-Guanidino-2-oxopentanoate)
+R02459:1 C00515_c + 1 C00161_c <=> 1 C01110_c + 1 C00405_c (1 D-Ornithine + 1 2-Oxo acid <=> 1 5-Amino-2-oxopentanoic acid + 1 D-Amino acid)
+R01148:1 C00026_c + 1 C00133_c <=> 1 C00217_c + 1 C00022_c (1 2-Oxoglutarate + 1 D-Alanine <=> 1 D-Glutamate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00026_c (2-Oxoglutarate)
+C00036_c (Oxaloacetate)
+C00133_c (D-Alanine)
+C00161_c (2-Oxo acid)
+C00166_c (Phenylpyruvate)
+C00217_c (D-Glutamate)
+C00402_c (D-Aspartate)
+C00405_c (D-Amino acid)
+C00515_c (D-Ornithine)
+C00739_c (D-Lysine)
+C00792_c (D-Arginine)
+C01110_c (5-Amino-2-oxopentanoic acid)
+C02265_c (D-Phenylalanine)
+C03239_c (6-Amino-2-oxohexanoate)
+C03771_c (5-Guanidino-2-oxopentanoate)
+C05946_c ((4R)-4-Hydroxy-2-oxoglutarate)
+C05947_c (L-erythro-4-Hydroxyglutamate)
+
+

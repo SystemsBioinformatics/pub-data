@@ -1,0 +1,21 @@
+notRecovered:
+GTPCI:1 gtp_c + 1 h2o_c -> 1 ahdt_c + 1 for_c + 1 h_c (1 M_GTP_ + 1 M_H2O_ -> 1 M_2_Amino_4_hydroxy_6__erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_ + 1 M_Formate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R00428:1 C00001_c + 1 C00044_c <=> 1 C05922_c (1 H2O + 1 GTP <=> 1 Formamidopyrimidine nucleoside triphosphate)
+R04639:1 C00001_c + 1 C04895_c <=> 1 C06148_c (1 H2O + 1 7,8-Dihydroneopterin 3'-triphosphate <=> 1 2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine)
+R05046:1 C00001_c + 1 C05922_c <=> 1 C00058_c + 1 C05923_c (1 H2O + 1 Formamidopyrimidine nucleoside triphosphate <=> 1 Formate + 1 2,5-Diaminopyrimidine nucleoside triphosphate)
+R05048:1 C05923_c <=> 1 C06148_c (1 2,5-Diaminopyrimidine nucleoside triphosphate <=> 1 2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00044_c (GTP)
+C00058_c (Formate)
+C04895_c (7,8-Dihydroneopterin 3'-triphosphate)
+C05922_c (Formamidopyrimidine nucleoside triphosphate)
+C05923_c (2,5-Diaminopyrimidine nucleoside triphosphate)
+C06148_c (2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine)
+
+

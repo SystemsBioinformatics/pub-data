@@ -1,0 +1,4 @@
+notRecovered:
+SO4NA1t:1 na1_e + 1 so4_e <=> 1 na1_c + 1 so4_c (1 M_Sodium_ + 1 M_Sulfate_ <=> 1 M_Sodium_ + 1 M_Sulfate_)
+
+

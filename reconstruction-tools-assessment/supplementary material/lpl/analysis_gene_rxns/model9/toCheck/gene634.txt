@@ -1,0 +1,21 @@
+notRecovered:
+MGDS:1 moco_c + 1 gtp_c + 1 h_c -> 1 mocogdp_c + 1 h2o_c + 1 ppi_c (1 M_Molybdenum_cofactor_ + 1 M_GTP_ + 1 M_H_ -> 1 M_moldybdopterin_guanine_dinucleotide_ + 1 M_H2O_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+BMOGDS1:1 gtp_c + 1 bmoco_c + 1 h_c -> 1 ppi_c + 1 bmoco1gdp_c (1 GTP C10H12N5O14P3 + 1 Bis-molybdenum cofactor + 1 H+ -> 1 Diphosphate + 1 Bis-molybdopterin mono-guanine dinucleotide)
+BWCOGDS1:1 gtp_c + 1 h_c + 1 bwco_c -> 1 ppi_c + 1 bwco1gdp_c (1 GTP C10H12N5O14P3 + 1 H+ + 1 Tungsten bispterin cofactor -> 1 Diphosphate + 1 Tungsten bispterin cofactor mono-guanine dinucleotide)
+MOGDS:1 moco_c + 1 gtp_c + 1 h_c -> 1 ppi_c + 1 mocogdp_c (1 Molybdenum cofactor + 1 GTP C10H12N5O14P3 + 1 H+ -> 1 Diphosphate + 1 Molybdopterin guanine dinucleotide)
+BMOGDS2:1 gtp_c + 1 h_c + 1 bmoco1gdp_c -> 1 ppi_c + 1 bmocogdp_c (1 GTP C10H12N5O14P3 + 1 H+ + 1 Bis-molybdopterin mono-guanine dinucleotide -> 1 Diphosphate + 1 Bis-molybdopterin guanine dinucleotide)
+BWCOGDS2:1 bwco1gdp_c + 1 gtp_c + 1 h_c -> 1 ppi_c + 1 bwcogdp_c (1 Tungsten bispterin cofactor mono-guanine dinucleotide + 1 GTP C10H12N5O14P3 + 1 H+ -> 1 Diphosphate + 1 Tungsten bispterin cofactor guanine dinucleotide)
+
+
+AdditionalMetabolites:
+bmoco1gdp_c (Bis-molybdopterin mono-guanine dinucleotide)
+bmoco_c (Bis-molybdenum cofactor)
+bmocogdp_c (Bis-molybdopterin guanine dinucleotide)
+bwco1gdp_c (Tungsten bispterin cofactor mono-guanine dinucleotide)
+bwco_c (Tungsten bispterin cofactor)
+bwcogdp_c (Tungsten bispterin cofactor guanine dinucleotide)
+
+

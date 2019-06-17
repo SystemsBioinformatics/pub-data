@@ -1,0 +1,14 @@
+notRecovered:
+LACZ:1 h2o_c + 1 lcts_c -> 1 gal_c + 1 glc__D_c (1 M_H2O_ + 1 M_Lactose_ -> 1 M_D_Galactose_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+METGLCUR:1 h2o_c + 1 metglcur_c -> 1 glcur_c + 1 meoh_c (1 H2O H2O + 1 1-O-methyl-Beta-D-glucuronate -> 1 D-Glucuronate + 1 Methanol)
+
+
+AdditionalMetabolites:
+glcur_c (D-Glucuronate)
+meoh_c (Methanol)
+metglcur_c (1-O-methyl-Beta-D-glucuronate)
+
+

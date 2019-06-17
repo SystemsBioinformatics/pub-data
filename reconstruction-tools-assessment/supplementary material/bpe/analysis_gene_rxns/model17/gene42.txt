@@ -1,0 +1,4 @@
+notRecovered:
+MUCLACISO:1 muclac_c <=> 1 5odhf2a_c (1 Muconolactone <=> 1 3-Oxoadipate enol-lactone)
+
+

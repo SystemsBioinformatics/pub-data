@@ -1,0 +1,4 @@
+notRecovered:
+HMBS:1 h2o_c + 4 ppbng_c -> 1 hmbil_c + 4 nh4_c (1 H2O + 4 Porphobilinogen -> 1 Hydroxymethylbilane + 4 Ammonium)
+
+

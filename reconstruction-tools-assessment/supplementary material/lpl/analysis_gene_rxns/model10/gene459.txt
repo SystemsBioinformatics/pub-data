@@ -1,0 +1,4 @@
+notRecovered:
+ACGApts:1 acgam_e + 1 pep_c -> 1 acgam6p_c + 1 pyr_c (1 M_N_Acetyl_D_glucosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_Acetyl_D_glucosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+

@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn07312:1 cpd00017_c + 1 cpd01306_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd05727_c (1 S_Adenosyl_L_methionine_c0 + 1 Cycloartenol_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 24_Methylenecycloartanol_c0)
+rxn03063:1 cpd00017_c + 1 cpd03221_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd02755_c (1 S_Adenosyl_L_methionine_c0 + 1 Zymosterol_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 Fecosterol_c0)
+
+
+AdditionalMetabolites:
+cpd00017_c (S_Adenosyl_L_methionine_c0)
+cpd00019_c (S_Adenosyl_homocysteine_c0)
+cpd00067_c (H_plus__c0)
+cpd01306_c (Cycloartenol_c0)
+cpd02755_c (Fecosterol_c0)
+cpd03221_c (Zymosterol_c0)
+cpd05727_c (24_Methylenecycloartanol_c0)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+GLTAL:0.01 LTA_LPL_c + 25 udpg_c -> 0.01 LTAglc_LPL_c + 25 h_c + 25 udp_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_UDPglucose_ -> 0.01 M_Lipoteichoic_acid__n25_with_glucose_residues__LPL_specific__ + 25 M_H_ + 25 M_UDP_)
+
+
+AdditionalNotInModel:
+TEICHOICSYN5-RXN:1 CPD-12575_c + 1 Teichoic-P-Gro_c -> 1 PROTON_c + 1 Teichoic-P-Gro-Glc_c + 1 UDP_c (1 UDP-alpha-D-glucose + 1 Teichoic-P-Gro -> 1 H+ + 1 Teichoic-P-Gro-Glc + 1 UDP)
+
+
+AdditionalMetabolites:
+CPD-12575_c (UDP-alpha-D-glucose)
+PROTON_c (H+)
+Teichoic-P-Gro-Glc_c (Teichoic-P-Gro-Glc)
+Teichoic-P-Gro_c (Teichoic-P-Gro)
+UDP_c (UDP)
+
+

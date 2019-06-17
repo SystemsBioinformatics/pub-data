@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+RXN-10952:1 D-MYO-INOSITOL-4-PHOSPHATE_c + 1 WATER_c -> 1 MYO-INOSITOL_c + 1 Pi_c (1 1D-myo-inositol 4-monophosphate + 1 H2O -> 1 myo-inositol + 1 phosphate)
+RXN-10954:1 CPD-6702_c + 1 WATER_c -> 1 MYO-INOSITOL_c + 1 Pi_c (1 1D-myo-inositol 6-monophosphate + 1 H2O -> 1 myo-inositol + 1 phosphate)
+RXN-10953:1 CPD-6701_c + 1 WATER_c -> 1 MYO-INOSITOL_c + 1 Pi_c (1 1D-myo-inositol 5-monophosphate + 1 H2O -> 1 myo-inositol + 1 phosphate)
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN:1 1-L-MYO-INOSITOL-1-P_c + 1 WATER_c -> 1 MYO-INOSITOL_c + 1 Pi_c (1 1D-myo-inositol 3-monophosphate + 1 H2O -> 1 myo-inositol + 1 phosphate)
+
+
+AdditionalMetabolites:
+1-L-MYO-INOSITOL-1-P_c (1D-myo-inositol 3-monophosphate)
+CPD-6701_c (1D-myo-inositol 5-monophosphate)
+CPD-6702_c (1D-myo-inositol 6-monophosphate)
+D-MYO-INOSITOL-4-PHOSPHATE_c (1D-myo-inositol 4-monophosphate)
+MYO-INOSITOL_c (myo-inositol)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

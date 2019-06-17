@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+MEVK2:1 ctp_c + 1 mev__R_c -> 1 h_c + 1 cdp_c + 1 5pmev_c (1 CTP + 1  R  Mevalonate C6H11O4 -> 1 H+ + 1 CDP + 1  R  5 Phosphomevalonate C6H10O7P)
+MEVK3:1 gtp_c + 1 mev__R_c -> 1 h_c + 1 gdp_c + 1 5pmev_c (1 GTP + 1  R  Mevalonate C6H11O4 -> 1 H+ + 1 GDP + 1  R  5 Phosphomevalonate C6H10O7P)
+MEVK4:1 utp_c + 1 mev__R_c -> 1 h_c + 1 udp_c + 1 5pmev_c (1 UTP + 1  R  Mevalonate C6H11O4 -> 1 H+ + 1 UDP + 1  R  5 Phosphomevalonate C6H10O7P)
+
+

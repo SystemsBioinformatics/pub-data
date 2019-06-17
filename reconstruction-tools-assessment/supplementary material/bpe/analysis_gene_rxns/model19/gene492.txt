@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+R01230:1 C00002_c + 1 C00014_c + 1 C00655_c <=> 1 C00013_c + 1 C00020_c + 1 C00144_c (1 ATP + 1 Ammonia + 1 Xanthosine 5'-phosphate <=> 1 Diphosphate + 1 AMP + 1 GMP)
+R08244:1 C00001_c + 1 C00002_c + 1 C00064_c + 1 C16618_c -> 1 C00013_c + 1 C00020_c + 1 C00025_c + 1 C16619_c (1 H2O + 1 ATP + 1 L-Glutamine + 1 6-Thioxanthine 5'-monophosphate -> 1 Diphosphate + 1 AMP + 1 L-Glutamate + 1 6-Thioguanosine monophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00014_c (Ammonia)
+C00020_c (AMP)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C00144_c (GMP)
+C00655_c (Xanthosine 5'-phosphate)
+C16618_c (6-Thioxanthine 5'-monophosphate)
+C16619_c (6-Thioguanosine monophosphate)
+
+

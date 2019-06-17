@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R04315:1 C00677_c + 1 C00343_c + 1 C00001_c <=> 1 C03802_c + 1 C00342_c (1 Deoxynucleoside triphosphate + 1 Thioredoxin disulfide + 1 H2O <=> 1 Ribonucleoside triphosphate + 1 Thioredoxin)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00342_c (Thioredoxin)
+C00343_c (Thioredoxin disulfide)
+C00677_c (Deoxynucleoside triphosphate)
+C03802_c (Ribonucleoside triphosphate)
+
+

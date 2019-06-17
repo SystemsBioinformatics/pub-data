@@ -1,0 +1,26 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Pyruvate_ -> 1 M_Acetyl_CoA_ + 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+1.2.1.25-RXN:1 2-KETO-ISOVALERATE_c + 1 CO-A_c + 1 NAD_c -> 1 CARBON-DIOXIDE_c + 1 ISOBUTYRYL-COA_c + 1 NADH_c (1 3-methyl-2-oxobutanoate + 1 coenzyme A + 1 NAD+ -> 1 CO2 + 1 isobutanoyl-CoA + 1 NADH)
+2KETO-3METHYLVALERATE-RXN:1 2-KETO-3-METHYL-VALERATE_c + 1 CO-A_c + 1 NAD_c <=> 1 2-METHYL-BUTYRYL-COA_c + 1 CARBON-DIOXIDE_c + 1 NADH_c (1 (S)-3-methyl-2-oxopentanoate + 1 coenzyme A + 1 NAD+ <=> 1 2-methylbutanoyl-CoA + 1 CO2 + 1 NADH)
+2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN:1 2K-4CH3-PENTANOATE_c + 1 CO-A_c + 1 NAD_c -> 1 CARBON-DIOXIDE_c + 1 ISOVALERYL-COA_c + 1 NADH_c (1 4-methyl-2-oxopentanoate + 1 coenzyme A + 1 NAD+ -> 1 CO2 + 1 isovaleryl-CoA + 1 NADH)
+2.3.1.168-RXN:1 BCAA-dehydrogenase-DH-lipoyl_c + 1 ISOBUTYRYL-COA_c <=> 1 BCAA-dehydrogenase-2MP-DH-lipoyl_c + 1 CO-A_c (1 BCAA-dehydrogenase-DH-lipoyl + 1 isobutanoyl-CoA <=> 1 BCAA-dehydrogenase-2MP-DH-lipoyl + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+2-KETO-3-METHYL-VALERATE_c ((S)-3-methyl-2-oxopentanoate)
+2-KETO-ISOVALERATE_c (3-methyl-2-oxobutanoate)
+2-METHYL-BUTYRYL-COA_c (2-methylbutanoyl-CoA)
+2K-4CH3-PENTANOATE_c (4-methyl-2-oxopentanoate)
+BCAA-dehydrogenase-2MP-DH-lipoyl_c (BCAA-dehydrogenase-2MP-DH-lipoyl)
+BCAA-dehydrogenase-DH-lipoyl_c (BCAA-dehydrogenase-DH-lipoyl)
+CARBON-DIOXIDE_c (CO2)
+CO-A_c (coenzyme A)
+ISOBUTYRYL-COA_c (isobutanoyl-CoA)
+ISOVALERYL-COA_c (isovaleryl-CoA)
+NADH_c (NADH)
+NAD_c (NAD+)
+
+

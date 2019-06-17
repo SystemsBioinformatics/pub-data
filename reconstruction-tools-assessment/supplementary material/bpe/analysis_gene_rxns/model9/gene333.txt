@@ -1,0 +1,27 @@
+notRecovered:
+GTHRDHpp:1 gthrd_p + 1 h2o_p -> 1 cgly_p + 1 glu__L_p (1 Reduced glutathione + 1 H2O -> 1 Cys-Gly + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+RXN-18093:1 CPD-9385_c + 1 GLYCYLGLYCINE_c <=> 1 4-NITROANILINE_c + 1 CPD-19395_c (1 gamma-glutamyl-p-nitroanilide + 1 glycyl-glycine <=> 1 4-nitroaniline + 1 gamma-L-glutamyl-glycylglycine)
+RXN-18092:1 GLYCYLGLYCINE_c + 1 GLUTATHIONE_c <=> 1 CPD-19395_c + 1 CYS-GLY_c (1 glycyl-glycine + 1 glutathione <=> 1 gamma-L-glutamyl-glycylglycine + 1 L-cysteinylglycine)
+RXN-9157:1 CPD-9699_c + 1 GLUTATHIONE_c -> 1 CPD-9700_c + 1 CYS-GLY_c (1 hypoglycin A + 1 glutathione -> 1 hypoglycin B + 1 L-cysteinylglycine)
+RXN66-336-LEUKOTRIENE-C4/CYS//L-GAMMA-GLUTAMYLCYSTEINE/CPD66-21.54.:1 LEUKOTRIENE-C4_c + 1 CYS_c -> 1 CPD66-21_c + 1 L-GAMMA-GLUTAMYLCYSTEINE_c (1 leukotriene-C4 + 1 L-cysteine -> 1 leukotriene-D4 + 1 gamma-L-glutamyl-L-cysteine)
+RXN-6601-GLUTATHIONE/CYS//L-GAMMA-GLUTAMYLCYSTEINE/CYS-GLY.50.:1 GLUTATHIONE_c + 1 CYS_c -> 1 CYS-GLY_c + 1 L-GAMMA-GLUTAMYLCYSTEINE_c (1 glutathione + 1 L-cysteine -> 1 L-cysteinylglycine + 1 gamma-L-glutamyl-L-cysteine)
+
+
+AdditionalMetabolites:
+4-NITROANILINE_c (4-nitroaniline)
+CPD-19395_c (gamma-L-glutamyl-glycylglycine)
+CPD-9385_c (gamma-glutamyl-p-nitroanilide)
+CPD-9699_c (hypoglycin A)
+CPD-9700_c (hypoglycin B)
+CPD66-21_c (leukotriene-D4)
+CYS-GLY_c (L-cysteinylglycine)
+CYS_c (L-cysteine)
+GLUTATHIONE_c (glutathione)
+GLYCYLGLYCINE_c (glycyl-glycine)
+L-GAMMA-GLUTAMYLCYSTEINE_c (gamma-L-glutamyl-L-cysteine)
+LEUKOTRIENE-C4_c (leukotriene-C4)
+
+

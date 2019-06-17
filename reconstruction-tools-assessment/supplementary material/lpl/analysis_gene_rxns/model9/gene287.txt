@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+URDGLYCD:1 nad_c + 1 urdglyc_c -> 1 nadh_c + 1 h_c + 1 oxur_c (1 Nicotinamide adenine dinucleotide + 1 (-)-Ureidoglycolate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Oxalureate)
+DOGULNR:1 nadh_c + 1 23doguln_c + 1 h_c -> 1 nad_c + 1 3dhguln_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2,3-Dioxo-L-gulonate + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 3-Dehydro-L-gulonate)
+1PPDCRc:1 nadph_c + 1 1pipdn2c_c + 1 h_c -> 1 nadp_c + 1 Lpipecol_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Delta1-Piperideine-2-carboxylate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 L-pipecolic acid; piperidine-2-carboxylic acid)
+
+
+AdditionalMetabolites:
+1pipdn2c_c (Delta1-Piperideine-2-carboxylate)
+23doguln_c (2,3-Dioxo-L-gulonate)
+3dhguln_c (3-Dehydro-L-gulonate)
+Lpipecol_c (L-pipecolic acid; piperidine-2-carboxylic acid)
+oxur_c (Oxalureate)
+urdglyc_c ((-)-Ureidoglycolate)
+
+

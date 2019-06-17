@@ -1,0 +1,22 @@
+notRecovered:
+GTHRDHpp:1 gthrd_p + 1 h2o_p -> 1 cgly_p + 1 glu__L_p (1 Reduced glutathione + 1 H2O -> 1 Cys-Gly + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+rxn02791:1 cpd00023_c + 1 cpd01651_c <=> 1 cpd00001_c + 1 cpd03407_c (1 L_Glutamate_c0 + 1 L_3_Cyanoalanine_c0 <=> 1 H2O_c0 + 1 gamma_Glutamyl_beta_cyanoalanine_c0)
+rxn02792:1 cpd00067_c + 1 cpd00023_c + 1 cpd01651_c -> 1 cpd00001_c + 1 cpd00011_c + 1 cpd03646_c (1 H_plus__c0 + 1 L_Glutamate_c0 + 1 L_3_Cyanoalanine_c0 -> 1 H2O_c0 + 1 CO2_c0 + 1 gamma_Glutamyl_3_aminopropiononitrile_c0)
+rxn00350:1 cpd00042_c + 1 cpd00001_c <=> 1 cpd00023_c + 1 cpd01017_c (1 GSH_c0 + 1 H2O_c0 <=> 1 L_Glutamate_c0 + 1 Cys_Gly_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00011_c (CO2_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00042_c (GSH_c0)
+cpd00067_c (H_plus__c0)
+cpd01017_c (Cys_Gly_c0)
+cpd01651_c (L_3_Cyanoalanine_c0)
+cpd03407_c (gamma_Glutamyl_beta_cyanoalanine_c0)
+cpd03646_c (gamma_Glutamyl_3_aminopropiononitrile_c0)
+
+

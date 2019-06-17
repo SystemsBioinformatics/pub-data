@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+DHPPDA:1 h2o_c + 1 h_c + 1 25dhpp_c -> 1 nh4_c + 1 5apru_c (1 H2O + 1 H+ + 1 2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P -> 1 Ammonium + 1 5-Amino-6-(5'-phosphoribosylamino)uracil)
+
+
+AdditionalMetabolites:
+25dhpp_c (2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P)
+
+

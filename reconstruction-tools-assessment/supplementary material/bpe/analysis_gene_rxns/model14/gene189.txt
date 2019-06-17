@@ -1,0 +1,14 @@
+notRecovered:
+CHORM:1 chor_c -> 1 pphn_c (1 chorismate -> 1 Prephenate)
+
+
+AdditionalNotInModel:
+rxn01157:1 cpd00186_c <=> 1 cpd00001_c + 1 cpd01512_c (1 D_Glutamate_c0 <=> 1 H2O_c0 + 1 5_Oxo_D_proline_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00186_c (D_Glutamate_c0)
+cpd01512_c (5_Oxo_D_proline_c0)
+
+

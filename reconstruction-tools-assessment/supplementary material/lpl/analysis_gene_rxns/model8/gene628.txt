@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+IPDPUPT:7 ipdp_c + 1 tcggrpp_c -> 7 ppi_c + 1 dtpcudcpp_c (7 Isopentenyl diphosphate + 1 Trans trans cis Geranylgeranyl pyrophosphate C20H33O7P2 -> 7 Diphosphate + 1 Di trans poly cis Undecaprenyl diphosphate C55H89O7P2)
+UDPDPS:1 ipdp_c + 1 decdp_c -> 1 udcpdp_c + 1 ppi_c (1 Isopentenyl diphosphate + 1 All trans Decaprenyl diphosphate -> 1 Undecaprenyl diphosphate + 1 Diphosphate)
+UDPDPS2:1 ipdp_c + 1 decdp_tb_c -> 1 udcpdp_c + 1 ppi_c (1 Isopentenyl diphosphate + 1 (E,E,E,E,E,E,E,Z,Z) Decaprenyl diphosphate -> 1 Undecaprenyl diphosphate + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+decdp_c (All trans Decaprenyl diphosphate)
+decdp_tb_c ((E,E,E,E,E,E,E,Z,Z) Decaprenyl diphosphate)
+dtpcudcpp_c (Di trans poly cis Undecaprenyl diphosphate C55H89O7P2)
+tcggrpp_c (Trans trans cis Geranylgeranyl pyrophosphate C20H33O7P2)
+
+

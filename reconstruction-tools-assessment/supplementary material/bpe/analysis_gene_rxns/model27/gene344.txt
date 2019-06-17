@@ -1,0 +1,4 @@
+notRecovered:
+FCLT:1 fe2_c + 1 ppp9_c -> 2 h_c + 1 pheme_c (1 Fe2+ + 1 Protoporphyrin -> 2 H+ + 1 Protoheme)
+
+

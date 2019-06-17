@@ -1,0 +1,19 @@
+notRecovered:
+AACOAR_syn:1 aacoa_c + 1 h_c + 1 nadph_c -> 1 3hbcoa__R_c + 1 nadp_c (1 Acetoacetyl-CoA + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 (R)-3-hydroxybutanoyl-CoA + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+RXN-12560:1 CPD-13533_c + 1 NADP_c <=> 1 CPD-13534_c + 1 NADPH_c + 1 PROTON_c (1 (R)-3-hydroxyvaleryl-CoA + 1 NADP+ <=> 1 beta-ketovaleryl-CoA + 1 NADPH + 1 H+)
+RXN-5901:1 ACETOACETYL-COA_c + 1 NADPH_c + 1 PROTON_c -> 1 CPD-650_c + 1 NADP_c (1 acetoacetyl-CoA + 1 NADPH + 1 H+ -> 1 (3R)-3-hydroxybutanoyl-CoA + 1 NADP+)
+
+
+AdditionalMetabolites:
+ACETOACETYL-COA_c (acetoacetyl-CoA)
+CPD-13533_c ((R)-3-hydroxyvaleryl-CoA)
+CPD-13534_c (beta-ketovaleryl-CoA)
+CPD-650_c ((3R)-3-hydroxybutanoyl-CoA)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

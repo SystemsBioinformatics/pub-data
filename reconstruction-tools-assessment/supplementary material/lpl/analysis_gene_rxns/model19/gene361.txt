@@ -1,0 +1,25 @@
+notRecovered:
+3OAS180:1 h_c + 1 palmACP_c + 1 malACP_c -> 1 3ooctdACP_c + 1 ACP_c + 1 co2_c (1 M_H_ + 1 M_Hexadecanoyl_acyl_carrier_protein_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_3_Oxooctadecanoyl_acp_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+
+
+AdditionalNotInModel:
+R04355:1 C01209_c + 1 C03939_c <=> 1 C00011_c + 1 C00229_c + 1 C05744_c (1 Malonyl-[acyl-carrier protein] + 1 Acetyl-[acyl-carrier protein] <=> 1 CO2 + 1 Acyl-carrier protein + 1 Acetoacetyl-[acp])
+R07762:1 C01209_c + 1 C05764_c -> 1 C00011_c + 1 C00229_c + 1 C16219_c (1 Malonyl-[acyl-carrier protein] + 1 Hexadecanoyl-[acp] -> 1 CO2 + 1 Acyl-carrier protein + 1 3-Oxostearoyl-[acp])
+R10115:1 C01209_c + 1 C19673_c <=> 1 C00011_c + 1 C00229_c + 1 C20372_c (1 Malonyl-[acyl-carrier protein] + 1 Malonyl-[acp] methyl ester <=> 1 CO2 + 1 Acyl-carrier protein + 1 3-Ketoglutaryl-[acp] methyl ester)
+R10119:1 C01209_c + 1 C20375_c <=> 1 C00011_c + 1 C00229_c + 1 C20376_c (1 Malonyl-[acyl-carrier protein] + 1 Glutaryl-[acp] methyl ester <=> 1 CO2 + 1 Acyl-carrier protein + 1 3-Ketopimeloyl-[acp] methyl ester)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00229_c (Acyl-carrier protein)
+C01209_c (Malonyl-[acyl-carrier protein])
+C03939_c (Acetyl-[acyl-carrier protein])
+C05744_c (Acetoacetyl-[acp])
+C05764_c (Hexadecanoyl-[acp])
+C16219_c (3-Oxostearoyl-[acp])
+C19673_c (Malonyl-[acp] methyl ester)
+C20372_c (3-Ketoglutaryl-[acp] methyl ester)
+C20375_c (Glutaryl-[acp] methyl ester)
+C20376_c (3-Ketopimeloyl-[acp] methyl ester)
+
+

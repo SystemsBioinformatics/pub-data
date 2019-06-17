@@ -1,0 +1,4 @@
+notRecovered:
+IMPD:1 h2o_c + 1 imp_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xmp_c (1 M_H2O_ + 1 M_IMP_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Xanthosine_5__phosphate_)
+
+

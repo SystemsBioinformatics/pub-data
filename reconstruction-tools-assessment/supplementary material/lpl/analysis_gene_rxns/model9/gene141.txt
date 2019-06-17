@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+CFAS160G:1 pg161_c + 2 amet_c -> 2 h_c + 1 cpg160_c + 2 ahcys_c (1 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) + 2 S-Adenosyl-L-methionine -> 2 H+ + 1 Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo) + 2 S-Adenosyl-L-homocysteine)
+CFAS180E:1 pe181_c + 2 amet_c -> 1 cpe180_c + 2 h_c + 2 ahcys_c (1 Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1) + 2 S-Adenosyl-L-methionine -> 1 Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo) + 2 H+ + 2 S-Adenosyl-L-homocysteine)
+C190cSN:1 octeACP_c + 1 amet_c -> 1 c190cACP_c + 1 h_c + 1 ahcys_c (1 Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) + 1 S-Adenosyl-L-methionine -> 1 19 carbon cyclopropane-ACP + 1 H+ + 1 S-Adenosyl-L-homocysteine)
+CFAS180G:2 amet_c + 1 pg181_c -> 1 cpg180_c + 2 h_c + 2 ahcys_c (2 S-Adenosyl-L-methionine + 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) -> 1 Cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo) + 2 H+ + 2 S-Adenosyl-L-homocysteine)
+CFAS160E:1 pe161_c + 2 amet_c -> 1 cpe160_c + 2 h_c + 2 ahcys_c (1 Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1) + 2 S-Adenosyl-L-methionine -> 1 Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo) + 2 H+ + 2 S-Adenosyl-L-homocysteine)
+
+
+AdditionalMetabolites:
+c190cACP_c (19 carbon cyclopropane-ACP)
+cpe160_c (Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo))
+cpe180_c (Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo))
+cpg160_c (Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo))
+cpg180_c (Cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo))
+octeACP_c (Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1))
+pe161_c (Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1))
+pe181_c (Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1))
+pg161_c (Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1))
+pg181_c (Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1))
+
+

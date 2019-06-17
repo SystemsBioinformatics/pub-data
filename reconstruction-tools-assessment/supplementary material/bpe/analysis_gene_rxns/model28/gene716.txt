@@ -1,0 +1,4 @@
+notRecovered:
+MCCC:1 atp_c + 1 hco3_c + 1 3mb2coa_c -> 1 adp_c + 1 h_c + 1 3mgcoa_c + 1 pi_c (1 ATP + 1 Bicarbonate + 1 3-methylcrotonyl-coenzyme A -> 1 ADP + 1 H+ + 1 3-methylglutaconyl-coenzyme A + 1 Phosphate)
+
+

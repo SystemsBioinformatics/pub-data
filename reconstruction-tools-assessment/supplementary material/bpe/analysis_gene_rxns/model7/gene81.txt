@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+EGMEACPR:1 egmeACP_c + 1 h_c + 1 nadph_c -> 1 gmeACP_c + 1 nadp_c (1 Enoylglutaryl-[acyl-carrier protein] methyl ester + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Glutaryl-[acyl-carrier protein] methyl ester + 1 Nicotinamide adenine dinucleotide phosphate)
+EPMEACPR:1 h_c + 1 epmeACP_c + 1 nadph_c -> 1 pmeACP_c + 1 nadp_c (1 H+ + 1 Enoylpimeloyl-[acyl-carrier protein] methyl ester + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Pimeloyl-[acyl-carrier protein] methyl ester + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+egmeACP_c (Enoylglutaryl-[acyl-carrier protein] methyl ester)
+epmeACP_c (Enoylpimeloyl-[acyl-carrier protein] methyl ester)
+gmeACP_c (Glutaryl-[acyl-carrier protein] methyl ester)
+pmeACP_c (Pimeloyl-[acyl-carrier protein] methyl ester)
+
+

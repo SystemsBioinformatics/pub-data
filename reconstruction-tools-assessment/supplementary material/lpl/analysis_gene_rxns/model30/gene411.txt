@@ -1,0 +1,17 @@
+notRecovered:
+PPNCL:1 4ppan_c + 1 ctp_c + 1 cys__L_c -> 1 4ppcys_c + 1 cdp_c + 1 h_c + 1 pi_c (1 M_D_4__Phosphopantothenate_ + 1 M_CTP_ + 1 M_L_Cysteine_ -> 1 M_N___R__4_Phosphopantothenoyl__L_cysteine_ + 1 M_CDP_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R04231:1 C03492_c + 1 C00097_c + 1 C00063_c <=> 1 C00055_c + 1 C04352_c + 1 C00013_c (1 D-4''-Phosphopantothenate + 1 L-Cysteine + 1 CTP <=> 1 CMP + 1 (R)-4''-Phosphopantothenoyl-L-cysteine + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00055_c (CMP)
+C00063_c (CTP)
+C00097_c (L-Cysteine)
+C03492_c (D-4''-Phosphopantothenate)
+C04352_c ((R)-4''-Phosphopantothenoyl-L-cysteine)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+CFAS180:1 2cocdacp_c + 1 amet_c -> 1 ahcys_c + 1 cpocdacp_c + 1 h_c (1 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_S_Adenosyl_L_methionine_ -> 1 M_S_Adenosyl_L_homocysteine_ + 1 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RXN-16880:1 S-ADENOSYLMETHIONINE_c + 1 Vaccenoyl-Lipid_c -> 1 ADENOSYL-HOMO-CYS_c + 1 E-11-methyl-12-octadec-12-enoate-lipid_c + 1 PROTON_c (1 S-adenosyl-L-methionine + 1 Vaccenoyl-Lipid -> 1 S-adenosyl-L-homocysteine + 1 E-11-methyl-12-octadec-12-enoate-lipid + 1 H+)
+
+
+AdditionalMetabolites:
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+E-11-methyl-12-octadec-12-enoate-lipid_c (E-11-methyl-12-octadec-12-enoate-lipid)
+PROTON_c (H+)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+Vaccenoyl-Lipid_c (Vaccenoyl-Lipid)
+
+

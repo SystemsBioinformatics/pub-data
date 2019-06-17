@@ -1,0 +1,2 @@
+AdditionalInModel:
+NADHPO:1 nadh_c + 1 h_c + 1 h2o2_c -> 1 nad_c + 2 h2o_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Hydrogen peroxide -> 1 Nicotinamide adenine dinucleotide + 2 H2O H2O)

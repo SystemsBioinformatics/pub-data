@@ -1,0 +1,17 @@
+notRecovered:
+RNDR4:1 trdrd_c + 1 udp_c -> 1 dudp_c + 1 h2o_c + 1 trdox_c (1 M_Reduced_thioredoxin_ + 1 M_UDP_ -> 1 M_dUDP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNDR1:1 adp_c + 1 trdrd_c -> 1 dadp_c + 1 h2o_c + 1 trdox_c (1 M_ADP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dADP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+
+
+AdditionalNotInModel:
+RNDR1b:1 adp_c + 1 grxrd_c -> 1 h2o_c + 1 dadp_c + 1 grxox_c (1 ADP + 1 Glutaredoxin (reduced) -> 1 H2O + 1 DADP + 1 Glutaredoxin (oxidized))
+RNDR2b:1 gdp_c + 1 grxrd_c -> 1 h2o_c + 1 dgdp_c + 1 grxox_c (1 GDP + 1 Glutaredoxin (reduced) -> 1 H2O + 1 DGDP + 1 Glutaredoxin (oxidized))
+RNDR3b:1 cdp_c + 1 grxrd_c -> 1 h2o_c + 1 dcdp_c + 1 grxox_c (1 CDP + 1 Glutaredoxin (reduced) -> 1 H2O + 1 DCDP + 1 Glutaredoxin (oxidized))
+RNDR4b:1 udp_c + 1 grxrd_c -> 1 h2o_c + 1 dudp_c + 1 grxox_c (1 UDP + 1 Glutaredoxin (reduced) -> 1 H2O + 1 DUDP + 1 Glutaredoxin (oxidized))
+
+
+AdditionalMetabolites:
+grxox_c (Glutaredoxin (oxidized))
+grxrd_c (Glutaredoxin (reduced))
+
+

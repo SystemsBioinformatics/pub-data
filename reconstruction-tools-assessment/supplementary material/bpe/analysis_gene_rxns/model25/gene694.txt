@@ -1,0 +1,4 @@
+notRecovered:
+OMPDC:1 h_c + 1 orot5p_c -> 1 co2_c + 1 ump_c (1 H+ + 1 Orotidine 5'-phosphate -> 1 CO2 + 1 UMP)
+
+

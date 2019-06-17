@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+rxn05040:1 cpd00171_c -> 1 cpd00067_c + 1 cpd00047_c + 1 cpd11225_c (1 D_Ribulose5_phosphate_c0 -> 1 H_plus__c0 + 1 Formate_c0 + 1 3_4_dihydroxy_2_butanone4_phosphate_c0)
+rxn02090:1 cpd00067_c + 1 cpd00001_c + 1 cpd00585_c <=> 1 cpd00013_c + 1 cpd01679_c (1 H_plus__c0 + 1 H2O_c0 + 1 Creatinine_c0 <=> 1 NH3_c0 + 1 N_Methylhydantoin_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00047_c (Formate_c0)
+cpd00067_c (H_plus__c0)
+cpd00171_c (D_Ribulose5_phosphate_c0)
+cpd00585_c (Creatinine_c0)
+cpd01679_c (N_Methylhydantoin_c0)
+cpd11225_c (3_4_dihydroxy_2_butanone4_phosphate_c0)
+
+

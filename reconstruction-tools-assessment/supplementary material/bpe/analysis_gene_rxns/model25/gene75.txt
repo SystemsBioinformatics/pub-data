@@ -1,0 +1,4 @@
+notRecovered:
+NADS1:1 atp_c + 1 dnad_c + 1 nh4_c -> 1 amp_c + 1 h_c + 1 nad_c + 1 ppi_c (1 ATP + 1 Deamino-NAD+ + 1 Ammonium -> 1 AMP + 1 H+ + 1 Nicotinamide adenine dinucleotide + 1 Diphosphate)
+
+

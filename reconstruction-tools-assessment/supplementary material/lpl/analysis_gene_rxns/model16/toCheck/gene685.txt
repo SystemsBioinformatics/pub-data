@@ -1,0 +1,16 @@
+notRecovered:
+FRUK:1 atp_c + 1 f1p_c -> 1 adp_c + 1 fdp_c + 1 h_c (1 M_ATP_ + 1 M_D_Fructose_1_phosphate_ -> 1 M_ADP_ + 1 M_D_Fructose_1_6_bisphosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn02262:1 cpd00002_c + 1 cpd00751_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd01912_c (1 ATP_c0 + 1 L_Fucose_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 L_Fucose_1_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00751_c (L_Fucose_c0)
+cpd01912_c (L_Fucose_1_phosphate_c0)
+
+

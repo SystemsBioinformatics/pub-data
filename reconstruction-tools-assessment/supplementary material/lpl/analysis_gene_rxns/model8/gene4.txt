@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+ARBTpts:1 pep_c + 1 arbt_e -> 1 arbt6p_c + 1 pyr_c (1 Phosphoenolpyruvate + 1 Arbutin C12H16O7 -> 1 Arbutin 6-phosphate + 1 Pyruvate)
+SALCpts:1 pep_c + 1 salcn_e -> 1 salcn6p_c + 1 pyr_c (1 Phosphoenolpyruvate + 1 Salicin C13H18O7 -> 1 Salicin 6-phosphate + 1 Pyruvate)
+GAMpts:1 gam_e + 1 pep_c -> 1 pyr_c + 1 gam6p_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 D-Glucosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+arbt6p_c (Arbutin 6-phosphate)
+arbt_e (Arbutin C12H16O7)
+gam_e (D-Glucosamine)
+salcn6p_c (Salicin 6-phosphate)
+salcn_e (Salicin C13H18O7)
+
+

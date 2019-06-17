@@ -1,0 +1,20 @@
+notRecovered:
+UPP3MT:2 amet_c + 1 uppg3_c -> 2 ahcys_c + 1 dscl_c + 1 h_c (2 S-Adenosyl-L-methionine + 1 Uroporphyrinogen III -> 2 S-Adenosyl-L-homocysteine + 1 dihydrosirohydrochlorin + 1 H+)
+SHCHF:1 fe2_c + 1 scl_c -> 3 h_c + 1 sheme_c (1 Fe2+ + 1 sirohydrochlorin -> 3 H+ + 1 Siroheme)
+SHCHD2:1 dscl_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 scl_c (1 dihydrosirohydrochlorin + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 sirohydrochlorin)
+
+
+AdditionalNotInModel:
+rxn05005:1 cpd00017_c + 1 cpd00774_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd11206_c (1 S_Adenosyl_L_methionine_c0 + 1 UroporphyrinogenIII_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 Precorrin_1_c0)
+rxn05006:1 cpd00017_c + 1 cpd11206_c <=> 1 cpd00019_c + 1 cpd01620_c (1 S_Adenosyl_L_methionine_c0 + 1 Precorrin_1_c0 <=> 1 S_Adenosyl_homocysteine_c0 + 1 Precorrin_2_c0)
+
+
+AdditionalMetabolites:
+cpd00017_c (S_Adenosyl_L_methionine_c0)
+cpd00019_c (S_Adenosyl_homocysteine_c0)
+cpd00067_c (H_plus__c0)
+cpd00774_c (UroporphyrinogenIII_c0)
+cpd01620_c (Precorrin_2_c0)
+cpd11206_c (Precorrin_1_c0)
+
+

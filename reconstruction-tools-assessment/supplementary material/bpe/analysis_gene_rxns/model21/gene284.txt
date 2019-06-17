@@ -1,0 +1,18 @@
+notRecovered:
+ALDD20x:1 h2o_c + 1 id3acald_c + 1 nad_c -> 2 h_c + 1 ind3ac_c + 1 nadh_c (1 H2O + 1 Indole-3-acetaldehyde + 1 Nicotinamide adenine dinucleotide -> 2 H+ + 1 Indole-3-acetate + 1 Nicotinamide adenine dinucleotide - reduced)
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+25-DIOXOVALERATE-DEHYDROGENASE-RXN:1 CPD-654_c + 1 NADP_c + 1 WATER_c -> 1 2-KETOGLUTARATE_c + 1 NADPH_c + 2 PROTON_c (1 2,5-dioxopentanoate + 1 NADP+ + 1 H2O -> 1 2-oxoglutarate + 1 NADPH + 2 H+)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CPD-654_c (2,5-dioxopentanoate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

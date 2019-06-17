@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn04794:1 cpd00010_c + 1 cpd00094_c <=> 1 cpd00047_c + 1 cpd00086_c (1 CoA_c0 + 1 2_Oxobutyrate_c0 <=> 1 Formate_c0 + 1 Propionyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00047_c (Formate_c0)
+cpd00086_c (Propionyl_CoA_c0)
+cpd00094_c (2_Oxobutyrate_c0)
+
+

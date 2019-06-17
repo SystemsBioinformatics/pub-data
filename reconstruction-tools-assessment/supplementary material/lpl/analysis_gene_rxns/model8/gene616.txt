@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+S6PG:1 h2o_c + 1 salcn6p_c -> 1 g6p_c + 1 2hxmp_c (1 H2O H2O + 1 Salicin 6-phosphate -> 1 D-Glucose 6-phosphate + 1 2  Hydroxymethyl phenol C7H8O2)
+AB6PGH:1 h2o_c + 1 arbt6p_c -> 1 hqn_c + 1 g6p_c (1 H2O H2O + 1 Arbutin 6-phosphate -> 1 Hydroquinone + 1 D-Glucose 6-phosphate)
+6PHBG:1 h2o_c + 1 salcn6p_c -> 1 g6p_c + 1 2hymeph_c (1 H2O H2O + 1 Salicin 6-phosphate -> 1 D-Glucose 6-phosphate + 1 2-(Hydroxymethyl)phenol)
+
+
+AdditionalMetabolites:
+2hxmp_c (2  Hydroxymethyl phenol C7H8O2)
+2hymeph_c (2-(Hydroxymethyl)phenol)
+arbt6p_c (Arbutin 6-phosphate)
+hqn_c (Hydroquinone)
+salcn6p_c (Salicin 6-phosphate)
+
+

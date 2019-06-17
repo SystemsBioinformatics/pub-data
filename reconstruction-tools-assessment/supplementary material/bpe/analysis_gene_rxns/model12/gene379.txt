@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN0-5224:1 HCO3_c + 1 PROTON_c <=> 1 CARBON-DIOXIDE_c + 1 WATER_c (1 hydrogencarbonate + 1 H+ <=> 1 CO2 + 1 H2O)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+HCO3_c (hydrogencarbonate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

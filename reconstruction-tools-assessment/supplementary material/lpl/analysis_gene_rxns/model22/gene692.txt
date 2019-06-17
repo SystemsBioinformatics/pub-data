@@ -1,0 +1,4 @@
+notRecovered:
+ACYP_2:1 actp_c + 1 h2o_c -> 1 ac_c + 1 h_c + 1 pi_c (1 M_Acetyl_phosphate_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_H_ + 1 M_Phosphate_)
+
+

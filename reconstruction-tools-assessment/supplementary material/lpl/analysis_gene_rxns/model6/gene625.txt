@@ -1,0 +1,6 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 M_UDPglucose_ <=> 1 M_UDPgalactose_)
+
+
+AdditionalInModel:
+UDPG4E_copy_1:1 udpg_c <=> 1 udpgal_c (1 UDPglucose <=> 1 UDPgalactose)

@@ -1,0 +1,17 @@
+notRecovered:
+GMPR:1 gmp_c + 2 h_c + 1 nadph_c -> 1 imp_c + 1 nadp_c + 1 nh4_c (1 M_GMP_ + 2 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M_IMP_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Ammonium_)
+
+
+AdditionalNotInModel:
+IMP-DEHYDROG-RXN:1 IMP_c + 1 NAD_c + 1 WATER_c <=> 1 NADH_c + 1 PROTON_c + 1 XANTHOSINE-5-PHOSPHATE_c (1 IMP + 1 NAD+ + 1 H2O <=> 1 NADH + 1 H+ + 1 XMP)
+
+
+AdditionalMetabolites:
+IMP_c (IMP)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+WATER_c (H2O)
+XANTHOSINE-5-PHOSPHATE_c (XMP)
+
+

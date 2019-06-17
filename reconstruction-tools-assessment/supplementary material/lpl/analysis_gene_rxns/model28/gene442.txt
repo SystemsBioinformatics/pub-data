@@ -1,0 +1,37 @@
+AdditionalNotInModel:
+R01101:1 C00001_c + 1 C05402_c -> 1 C00031_c + 1 C00124_c (1 H2O + 1 Melibiose -> 1 D-Glucose + 1 D-Galactose)
+R01104:1 C00001_c + 1 C05401_c <=> 1 C00116_c + 1 C00124_c (1 H2O + 1 3-beta-D-Galactosyl-sn-glycerol <=> 1 Glycerol + 1 D-Galactose)
+R01194:1 C00001_c + 1 C01235_c <=> 1 C00124_c + 1 C00137_c (1 H2O + 1 alpha-D-Galactosyl-(1->3)-1D-myo-inositol <=> 1 D-Galactose + 1 myo-Inositol)
+R01329:1 C00001_c + 1 C05400_c <=> 1 C00124_c + 1 C00159_c (1 H2O + 1 Epimelibiose <=> 1 D-Galactose + 1 D-Mannose)
+R02926:1 C00001_c + 1 C05399_c <=> 1 C00124_c + 1 C00794_c (1 H2O + 1 Melibiitol <=> 1 D-Galactose + 1 D-Sorbitol)
+R03634:1 C00001_c + 1 C01613_c -> 1 C00124_c + 1 C00492_c (1 H2O + 1 Stachyose -> 1 D-Galactose + 1 Raffinose)
+R04019:1 C00001_c + 1 C06126_c -> 1 C00124_c + 1 C02686_c (1 H2O + 1 Digalactosylceramide -> 1 D-Galactose + 1 Galactosylceramide)
+R04470:1 C00001_c + 1 C06037_c -> 1 C00124_c + 1 C03692_c (1 H2O + 1 Digalactosyl-diacylglycerol -> 1 D-Galactose + 1 1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol)
+R05549:1 C00001_c + 1 C05404_c -> 1 C00124_c + 1 C05402_c (1 H2O + 1 D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose -> 1 D-Galactose + 1 Melibiose)
+R05961:1 C00001_c + 1 G00093_c <=> 1 C00124_c + 1 G00092_c (1 H2O + 1 Globotriaosylceramide <=> 1 D-Galactose + 1 Lactosylceramide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00116_c (Glycerol)
+C00124_c (D-Galactose)
+C00137_c (myo-Inositol)
+C00159_c (D-Mannose)
+C00492_c (Raffinose)
+C00794_c (D-Sorbitol)
+C01235_c (alpha-D-Galactosyl-(1->3)-1D-myo-inositol)
+C01613_c (Stachyose)
+C02686_c (Galactosylceramide)
+C03692_c (1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol)
+C05399_c (Melibiitol)
+C05400_c (Epimelibiose)
+C05401_c (3-beta-D-Galactosyl-sn-glycerol)
+C05402_c (Melibiose)
+C05404_c (D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose)
+C06037_c (Digalactosyl-diacylglycerol)
+C06126_c (Digalactosylceramide)
+G00092_c (Lactosylceramide)
+G00093_c (Globotriaosylceramide)
+
+

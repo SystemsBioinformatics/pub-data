@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn03445:1 cpd00024_c + 1 cpd03607_c <=> 1 cpd00023_c + 1 cpd03606_c (1 2_Oxoglutarate_c0 + 1 4_Phosphonooxy_threonine_c0 <=> 1 L_Glutamate_c0 + 1 2_Oxo_3_hydroxy_4_phosphobutanoate_c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00024_c (2_Oxoglutarate_c0)
+cpd03606_c (2_Oxo_3_hydroxy_4_phosphobutanoate_c0)
+cpd03607_c (4_Phosphonooxy_threonine_c0)
+
+

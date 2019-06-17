@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R01515:1 C00236_c + 1 C00001_c <=> 1 C00197_c + 1 C00009_c (1 3-Phospho-D-glyceroyl phosphate + 1 H2O <=> 1 3-Phospho-D-glycerate + 1 Orthophosphate)
+R01421:1 C06206_c + 1 C00001_c <=> 1 C00180_c + 1 C00009_c (1 Benzoyl phosphate + 1 H2O <=> 1 Benzoate + 1 Orthophosphate)
+R00539:1 C02133_c + 1 C00001_c <=> 1 C00060_c + 1 C00009_c (1 Acyl phosphate + 1 H2O <=> 1 Carboxylate + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00060_c (Carboxylate)
+C00180_c (Benzoate)
+C00197_c (3-Phospho-D-glycerate)
+C00236_c (3-Phospho-D-glyceroyl phosphate)
+C02133_c (Acyl phosphate)
+C06206_c (Benzoyl phosphate)
+
+

@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+rxn00548:1 cpd00009_c + 1 cpd00072_c -> 1 cpd00001_c + 1 cpd00236_c + 1 cpd00196_c (1 Phosphate_c0 + 1 D_fructose_6_phosphate_c0 -> 1 H2O_c0 + 1 D_Erythrose4_phosphate_c0 + 1 Acetylphosphate_c0)
+rxn01621:1 cpd00831_c <=> 1 cpd00095_c + 1 cpd00334_c (1 L_Rhamnulose_1_phosphate_c0 <=> 1 Glycerone_phosphate_c0 + 1 L_Lactaldehyde_c0)
+rxn01308:1 cpd03861_c <=> 1 cpd00229_c + 1 cpd00095_c (1 L_Xylulose_1_phosphate_c0 <=> 1 Glycolaldehyde_c0 + 1 Glycerone_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00072_c (D_fructose_6_phosphate_c0)
+cpd00095_c (Glycerone_phosphate_c0)
+cpd00196_c (Acetylphosphate_c0)
+cpd00229_c (Glycolaldehyde_c0)
+cpd00236_c (D_Erythrose4_phosphate_c0)
+cpd00334_c (L_Lactaldehyde_c0)
+cpd00831_c (L_Rhamnulose_1_phosphate_c0)
+cpd03861_c (L_Xylulose_1_phosphate_c0)
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+PRAIi:1 pran_c -> 1 2cpr5p_c (1 N-(5-Phospho-D-ribosyl)anthranilate -> 1 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate)
+IGPS:1 2cpr5p_c + 1 h_c -> 1 3ig3p_c + 1 co2_c + 1 h2o_c (1 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate + 1 H+ -> 1 C'-(3-Indolyl)-glycerol 3-phosphate + 1 CO2 + 1 H2O)
+
+

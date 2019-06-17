@@ -1,0 +1,14 @@
+notRecovered:
+DDPA:1 e4p_c + 1 h2o_c + 1 pep_c -> 1 2dda7p_c + 1 pi_c (1 M_D_Erythrose_4_phosphate_ + 1 M_H2O_ + 1 M_Phosphoenolpyruvate_ -> 1 M_2_Dehydro_3_deoxy_D_arabino_heptonate_7_phosphate_ + 1 M_Phosphate_)
+CHORM:1 chor_c -> 1 pphn_c (1 M_Chorismate_ -> 1 M_Prephenate_)
+
+
+AdditionalNotInModel:
+KDOPS:1 ara5p_c + 1 h2o_c + 1 pep_c -> 1 kdo8p_c + 1 pi_c (1 D-Arabinose 5-phosphate + 1 H2O H2O + 1 Phosphoenolpyruvate -> 1 3-Deoxy-D-manno-octulosonate 8-phosphate + 1 Phosphate)
+
+
+AdditionalMetabolites:
+ara5p_c (D-Arabinose 5-phosphate)
+kdo8p_c (3-Deoxy-D-manno-octulosonate 8-phosphate)
+
+

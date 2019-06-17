@@ -1,0 +1,18 @@
+notRecovered:
+PAPPT5:1 udcpp_c + 1 ugmdalac_c -> 1 uagmdalac_c + 1 ump_c (1 M_Undecaprenyl_phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UMP_)
+
+
+AdditionalNotInModel:
+R05630:1 C17556_c + 1 C04882_c <=> 1 C05897_c + 1 C00105_c (1 di-trans,poly-cis-Undecaprenyl phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine <=> 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 UMP)
+R05629:1 C17556_c + 1 C04702_c <=> 1 C00105_c + 1 C04851_c (1 di-trans,poly-cis-Undecaprenyl phosphate + 1 UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala) <=> 1 UMP + 1 MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol)
+
+
+AdditionalMetabolites:
+C00105_c (UMP)
+C04702_c (UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala))
+C04851_c (MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol)
+C04882_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine)
+C05897_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+C17556_c (di-trans,poly-cis-Undecaprenyl phosphate)
+
+

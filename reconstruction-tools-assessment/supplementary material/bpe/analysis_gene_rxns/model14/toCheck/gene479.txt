@@ -1,0 +1,15 @@
+notRecovered:
+SO4t2pp:1 h_p + 1 so4_p -> 1 h_c + 1 so4_c (1 H+ + 1 Sulfate -> 1 H+ + 1 Sulfate)
+
+
+AdditionalNotInModel:
+rxn05651:1 cpd00067_e + 1 cpd00048_e <=> 1 cpd00067_c + 1 cpd00048_c (1 H_plus__e0 + 1 Sulfate_e0 <=> 1 H_plus__c0 + 1 Sulfate_c0)
+
+
+AdditionalMetabolites:
+cpd00048_c (Sulfate_c0)
+cpd00048_e (Sulfate_e0)
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+
+

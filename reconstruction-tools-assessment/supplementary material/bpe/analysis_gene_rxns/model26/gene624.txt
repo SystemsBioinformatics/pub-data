@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R00268:1 C05379_c <=> 1 C00011_c + 1 C00026_c (1 Oxalosuccinate <=> 1 CO2 + 1 2-Oxoglutarate)
+R01899:1 C00006_c + 1 C00311_c <=> 1 C00005_c + 1 C00080_c + 1 C05379_c (1 NADP+ + 1 Isocitrate <=> 1 NADPH + 1 H+ + 1 Oxalosuccinate)
+
+
+AdditionalMetabolites:
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00011_c (CO2)
+C00026_c (2-Oxoglutarate)
+C00080_c (H+)
+C00311_c (Isocitrate)
+C05379_c (Oxalosuccinate)
+
+

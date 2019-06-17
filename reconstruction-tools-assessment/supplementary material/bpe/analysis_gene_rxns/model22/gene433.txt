@@ -1,0 +1,5 @@
+notRecovered:
+TDSR1:1 dsbcox_p + 1 dsbdrd_c -> 1 dsbcrd_p + 1 dsbdox_c (1 protein disulfide isomerase II (oxidized) + 1 fused thiol:disulfide interchange protein (reduced) -> 1 protein disulfide isomerase II (reduced) + 1 fused thiol:disulfide interchange protein (oxidized))
+DSBCGT:1 dsbcox_p + 2 gthrd_p -> 1 dsbcrd_p + 1 gthox_p (1 protein disulfide isomerase II (oxidized) + 2 Reduced glutathione -> 1 protein disulfide isomerase II (reduced) + 1 Oxidized glutathione)
+
+

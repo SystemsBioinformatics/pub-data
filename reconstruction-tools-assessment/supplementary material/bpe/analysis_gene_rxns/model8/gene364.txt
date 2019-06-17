@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+RXN0-2161:1 tRNA-Sec_c + 1 SER_c + 1 ATP_c -> 1 L-seryl-SEC-tRNAs_c + 1 AMP_c + 1 PPI_c (1 a tRNAsec + 1 L-serine + 1 ATP -> 1 an L-seryl-[tRNAsec] + 1 AMP + 1 diphosphate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+L-seryl-SEC-tRNAs_c (an L-seryl-[tRNAsec])
+PPI_c (diphosphate)
+SER_c (L-serine)
+tRNA-Sec_c (a tRNAsec)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+MNLpts:1 mnl_e + 1 pep_c -> 1 mnl1p_c + 1 pyr_c (1 M_D_Mannitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannitol_1_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-169:1 Hpr-pi-phospho-L-histidines_c + 1 SORBITOL_c -> 1 D-SORBITOL-6-P_c + 1 Hpr-Histidine_c (1 Hpr-pi-phospho-L-histidines + 1 D-sorbitol -> 1 D-sorbitol 6-phosphate + 1 Hpr-Histidine)
+TRANS-RXN-156:1 Hpr-pi-phospho-L-histidines_c + 1 MANNITOL_c -> 1 Hpr-Histidine_c + 1 MANNITOL-1P_c (1 Hpr-pi-phospho-L-histidines + 1 D-mannitol -> 1 Hpr-Histidine + 1 D-mannitol 1-phosphate)
+
+
+AdditionalMetabolites:
+D-SORBITOL-6-P_c (D-sorbitol 6-phosphate)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+MANNITOL-1P_c (D-mannitol 1-phosphate)
+MANNITOL_c (D-mannitol)
+SORBITOL_c (D-sorbitol)
+
+

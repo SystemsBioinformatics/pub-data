@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+CBItonex:1 cbi_e + 1 h_p -> 1 cbi_p + 1 h_c (1 Cobinamide + 1 H+ -> 1 Cobinamide + 1 H+)
+CBL1tonex:1 cbl1_e + 1 h_p -> 1 cbl1_p + 1 h_c (1 Cob(I)alamin + 1 H+ -> 1 Cob(I)alamin + 1 H+)
+
+
+AdditionalMetabolites:
+cbi_e (Cobinamide)
+cbi_p (Cobinamide)
+cbl1_e (Cob(I)alamin)
+cbl1_p (Cob(I)alamin)
+
+

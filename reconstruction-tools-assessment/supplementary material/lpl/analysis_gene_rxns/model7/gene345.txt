@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+OHPBAT:1 ohpb_c + 1 glu__L_c <=> 1 akg_c + 1 phthr_c (1 2-Oxo-3-hydroxy-4-phosphobutanoate + 1 L-Glutamate <=> 1 2-Oxoglutarate + 1 O-Phospho-4-hydroxy-L-threonine)
+
+
+AdditionalMetabolites:
+ohpb_c (2-Oxo-3-hydroxy-4-phosphobutanoate)
+phthr_c (O-Phospho-4-hydroxy-L-threonine)
+
+

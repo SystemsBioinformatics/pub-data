@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+GUANPRIBOSYLTRAN-RXN:1 GUANINE_c + 1 PRPP_c -> 1 GMP_c + 1 PPI_c (1 guanine + 1 5-phospho-alpha-D-ribose 1-diphosphate -> 1 GMP + 1 diphosphate)
+HYPOXANPRIBOSYLTRAN-RXN:1 HYPOXANTHINE_c + 1 PRPP_c -> 1 IMP_c + 1 PPI_c (1 hypoxanthine + 1 5-phospho-alpha-D-ribose 1-diphosphate -> 1 IMP + 1 diphosphate)
+
+
+AdditionalMetabolites:
+GMP_c (GMP)
+GUANINE_c (guanine)
+HYPOXANTHINE_c (hypoxanthine)
+IMP_c (IMP)
+PPI_c (diphosphate)
+PRPP_c (5-phospho-alpha-D-ribose 1-diphosphate)
+
+

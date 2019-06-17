@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn11040:1 cpd00003_c + 1 cpd00284_c <=> 1 cpd00004_c + 1 cpd00011_c + 1 cpd00171_c (1 NAD_c0 + 1 6_Phospho_D_gluconate_c0 <=> 1 NADH_c0 + 1 CO2_c0 + 1 D_Ribulose5_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00011_c (CO2_c0)
+cpd00171_c (D_Ribulose5_phosphate_c0)
+cpd00284_c (6_Phospho_D_gluconate_c0)
+
+

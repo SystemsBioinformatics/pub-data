@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+DHPS:1 4abz_c + 1 2ahhmp_c -> 1 h2o_c + 1 dhpt_c (1 4-Aminobenzoate + 1 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2 -> 1 H2O + 1 Dihydropteroate)
+DHPS2:1 4abz_c + 1 6hmhptpp_c -> 1 ppi_c + 1 dhpt_c (1 4-Aminobenzoate + 1 6-hydroxymethyl-dihydropterin pyrophosphate -> 1 Diphosphate + 1 Dihydropteroate)
+
+
+AdditionalMetabolites:
+6hmhptpp_c (6-hydroxymethyl-dihydropterin pyrophosphate)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+2OXOGLUTDECARB-RXN:1 2-KETOGLUTARATE_c + 1 Oxo-glutarate-dehydrogenase-lipoyl_c + 1 PROTON_c -> 1 CARBON-DIOXIDE_c + 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c (1 2-oxoglutarate + 1 Oxo-glutarate-dehydrogenase-lipoyl + 1 H+ -> 1 CO2 + 1 Oxo-glutarate-dehydro-suc-DH-lipoyl)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+CARBON-DIOXIDE_c (CO2)
+Oxo-glutarate-dehydro-suc-DH-lipoyl_c (Oxo-glutarate-dehydro-suc-DH-lipoyl)
+Oxo-glutarate-dehydrogenase-lipoyl_c (Oxo-glutarate-dehydrogenase-lipoyl)
+PROTON_c (H+)
+
+

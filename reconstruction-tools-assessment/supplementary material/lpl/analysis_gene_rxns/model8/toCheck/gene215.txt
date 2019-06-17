@@ -1,0 +1,9 @@
+notRecovered:
+GLNabc:1 atp_c + 1 gln__L_e + 1 h2o_c -> 1 adp_c + 1 gln__L_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_L_Glutamine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_L_Glutamine_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+GLUabc:1 h2o_c + 1 atp_c + 1 glu__L_e -> 1 pi_c + 1 glu__L_c + 1 adp_c + 1 h_c (1 H2O H2O + 1 ATP C10H12N5O13P3 + 1 L-Glutamate -> 1 Phosphate + 1 L-Glutamate + 1 ADP C10H12N5O10P2 + 1 H+)
+ARGabc:1 h2o_c + 1 arg__L_e + 1 atp_c -> 1 pi_c + 1 adp_c + 1 arg__L_c + 1 h_c (1 H2O H2O + 1 L-Arginine + 1 ATP C10H12N5O13P3 -> 1 Phosphate + 1 ADP C10H12N5O10P2 + 1 L-Arginine + 1 H+)
+
+

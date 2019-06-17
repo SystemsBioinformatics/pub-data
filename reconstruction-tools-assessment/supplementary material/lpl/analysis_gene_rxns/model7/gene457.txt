@@ -1,0 +1,4 @@
+notRecovered:
+MPTS_LPL:2 MCOSH_c + 1 cpmp_c + 1 h2o_c -> 2 MCOOH_c + 1 mpt_c + 3 h_c (2 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_Precursor_Z_in_molybdenum_cofactor_biosynthesis_ + 1 M_H2O_ -> 2 M_MPT_synthase_small_subunit_MoaD_ + 1 M_molybdopterin_ + 3 M_H_)
+
+

@@ -1,0 +1,23 @@
+notRecovered:
+NADDP:1 h2o_c + 1 nad_c -> 1 amp_c + 2 h_c + 1 nmn_c (1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 AMP + 2 H+ + 1 NMN)
+
+
+AdditionalNotInModel:
+DNA-LIGASE-NAD+-RXN:1 3-Hydroxy-Terminated-DNAs_c + 1 5-Phospho-terminated-DNAs_c + 1 NAD_c -> 1 AMP_c + 1 DNA-N_c + 1 NICOTINAMIDE_NUCLEOTIDE_c + 1 PROTON_c (1 3-Hydroxy-Terminated-DNAs + 1 5-Phospho-terminated-DNAs + 1 NAD+ -> 1 AMP + 1 DNA-N + 1 beta-nicotinamide D-ribonucleotide + 1 H+)
+RXN1G-94:1 MALONYL-ACP_c + 1 PROTON_c + 1 cis-cis-D15-33-C52-2-ACPs_c -> 1 ACP_c + 1 CARBON-DIOXIDE_c + 1 cis-cis-D17-35-3-oxo-C54-2-ACPs_c (1 MALONYL-ACP + 1 H+ + 1 cis-cis-D15-33-C52-2-ACPs -> 1 ACP + 1 CO2 + 1 cis-cis-D17-35-3-oxo-C54-2-ACPs)
+
+
+AdditionalMetabolites:
+3-Hydroxy-Terminated-DNAs_c (3-Hydroxy-Terminated-DNAs)
+5-Phospho-terminated-DNAs_c (5-Phospho-terminated-DNAs)
+AMP_c (AMP)
+CARBON-DIOXIDE_c (CO2)
+DNA-N_c (DNA-N)
+MALONYL-ACP_c (MALONYL-ACP)
+NAD_c (NAD+)
+NICOTINAMIDE_NUCLEOTIDE_c (beta-nicotinamide D-ribonucleotide)
+PROTON_c (H+)
+cis-cis-D15-33-C52-2-ACPs_c (cis-cis-D15-33-C52-2-ACPs)
+cis-cis-D17-35-3-oxo-C54-2-ACPs_c (cis-cis-D17-35-3-oxo-C54-2-ACPs)
+
+

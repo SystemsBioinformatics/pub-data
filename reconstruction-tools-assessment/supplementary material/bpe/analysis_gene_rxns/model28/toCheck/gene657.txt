@@ -1,0 +1,15 @@
+notRecovered:
+ALCB:1 hptrc_c + 1 succoa_c -> 1 coa_c + 1 shptrc_c (1 N4-hydroxyputrescine + 1 Succinyl-CoA -> 1 Coenzyme A + 1 N4-succinyl-N4-hydroxyputrescine)
+
+
+AdditionalNotInModel:
+R03168:1 C01028_c + 1 C00024_c <=> 1 C03955_c + 1 C00010_c (1 N6-Hydroxy-L-lysine + 1 Acetyl-CoA <=> 1 N6-Acetyl-N6-hydroxy-L-lysine + 1 CoA)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00024_c (Acetyl-CoA)
+C01028_c (N6-Hydroxy-L-lysine)
+C03955_c (N6-Acetyl-N6-hydroxy-L-lysine)
+
+

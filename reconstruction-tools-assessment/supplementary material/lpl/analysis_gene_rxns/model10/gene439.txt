@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+GDPPYPHOSKIN-RXN:1 GDP_c + 1 ATP_c -> 1 GUANOSINE-5DP-3DP_c + 1 AMP_c (1 GDP + 1 ATP -> 1 ppGpp + 1 AMP)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+GDP_c (GDP)
+GUANOSINE-5DP-3DP_c (ppGpp)
+
+

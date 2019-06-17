@@ -1,0 +1,2 @@
+AdditionalInModel:
+HSDy:1 hom__L_c + 1 nadp_c <=> 1 aspsa_c + 1 h_c + 1 nadph_c (1 L-Homoserine + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 L-Aspartate 4-semialdehyde + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)

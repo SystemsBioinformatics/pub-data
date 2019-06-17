@@ -1,0 +1,16 @@
+notRecovered:
+PMANM:1 man1p_c <=> 1 man6p_c (1 M_D_Mannose_1_phosphate_ <=> 1 M_D_Mannose_6_phosphate_)
+
+
+AdditionalNotInModel:
+R01057:1 C00620_c <=> 1 C00117_c (1 alpha-D-Ribose 1-phosphate <=> 1 D-Ribose 5-phosphate)
+R08639:1 C00103_c <=> 1 C00092_c (1 D-Glucose 1-phosphate <=> 1 D-Glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00092_c (D-Glucose 6-phosphate)
+C00103_c (D-Glucose 1-phosphate)
+C00117_c (D-Ribose 5-phosphate)
+C00620_c (alpha-D-Ribose 1-phosphate)
+
+

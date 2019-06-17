@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn00542:1 cpd00159_c <=> 1 cpd00047_c + 1 cpd00071_c (1 L_Lactate_c0 <=> 1 Formate_c0 + 1 Acetaldehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00047_c (Formate_c0)
+cpd00071_c (Acetaldehyde_c0)
+cpd00159_c (L_Lactate_c0)
+
+

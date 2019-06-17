@@ -1,0 +1,16 @@
+notRecovered:
+CRPT_25:25 cdprbtl_c + 1 unagamagp_c -> 25 cmp_c + 25 h_c + 1 unRTA_c (25 M_CDPribitol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_ -> 25 M_CMP_ + 25 M_H_ + 1 M_undecaprenyl_teichoic_acid_with_ribitol_)
+
+
+AdditionalNotInModel:
+rxn01414:1 cpd00256_c + 1 cpd00267_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd02284_c (1 CDPcholine_c0 + 1 Sphingoid_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 Sphingosyl_phosphocholine_c0)
+
+
+AdditionalMetabolites:
+cpd00046_c (CMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00256_c (CDPcholine_c0)
+cpd00267_c (Sphingoid_c0)
+cpd02284_c (Sphingosyl_phosphocholine_c0)
+
+

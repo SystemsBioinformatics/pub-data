@@ -1,0 +1,21 @@
+notRecovered:
+PRAIS:1 atp_c + 1 fpram_c -> 1 adp_c + 1 air_c + 2 h_c + 1 pi_c (1 ATP + 1 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine -> 1 ADP + 1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 2 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn03147:1 cpd00002_c + 1 cpd00041_c + 1 cpd02893_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd02921_c (1 ATP_c0 + 1 L_Aspartate_c0 + 1 5_Phosphoribosyl_4_carboxy_5_aminoimidazole_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 SAICAR_c0)
+rxn02937:1 cpd00002_c + 1 cpd02826_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd02140_c (1 ATP_c0 + 1 5_Phosphoribosylformylglycinamidine_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 AIR_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd00067_c (H_plus__c0)
+cpd02140_c (AIR_c0)
+cpd02826_c (5_Phosphoribosylformylglycinamidine_c0)
+cpd02893_c (5_Phosphoribosyl_4_carboxy_5_aminoimidazole_c0)
+cpd02921_c (SAICAR_c0)
+
+

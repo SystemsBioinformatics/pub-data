@@ -1,0 +1,24 @@
+notRecovered:
+G3POc:1 glyc3p_c + 1 o2_c -> 1 dhap_c + 1 h2o2_c (1 M_sn_Glycerol_3_phosphate_ + 1 M_O2_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Hydrogen_peroxide_)
+
+
+AdditionalNotInModel:
+G3PD6:1 mqn8_c + 1 glyc3p_c -> 1 mql8_c + 1 dhap_c (1 Menaquinone 8 + 1 Glycerol 3-phosphate -> 1 Menaquinol 8 + 1 Dihydroxyacetone phosphate)
+G3PD5:1 q8_c + 1 glyc3p_c -> 1 q8h2_c + 1 dhap_c (1 Ubiquinone-8 + 1 Glycerol 3-phosphate -> 1 Ubiquinol-8 + 1 Dihydroxyacetone phosphate)
+G3PD:1 fad_c + 1 glyc3p_c <=> 1 fadh2_c + 1 dhap_c (1 Flavin adenine dinucleotide oxidized + 1 Glycerol 3-phosphate <=> 1 Flavin adenine dinucleotide reduced + 1 Dihydroxyacetone phosphate)
+G3PD4:1 mqn7_c + 1 glyc3p_c -> 1 mql7_c + 1 dhap_c (1 Menaquinone 7 C46H64O2 + 1 Glycerol 3-phosphate -> 1 Menaquinol 7 C46H66O2 + 1 Dihydroxyacetone phosphate)
+G3PD7:1 2dmmq8_c + 1 glyc3p_c -> 1 2dmmql8_c + 1 dhap_c (1 2-Demethylmenaquinone 8 + 1 Glycerol 3-phosphate -> 1 2-Demethylmenaquinol 8 + 1 Dihydroxyacetone phosphate)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+fadh2_c (Flavin adenine dinucleotide reduced)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+
+AdditionalInModel:
+G3PD1ir:1 nadh_c + 1 dhap_c + 1 h_c <=> 1 nad_c + 1 glyc3p_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Dihydroxyacetone phosphate + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 Glycerol 3-phosphate)

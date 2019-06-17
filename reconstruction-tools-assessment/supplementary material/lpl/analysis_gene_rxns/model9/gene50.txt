@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+PYRDC:1 pyr_c + 1 h_c -> 1 co2_c + 1 acald_c (1 Pyruvate + 1 H+ -> 1 CO2 CO2 + 1 Acetaldehyde)
+ALDD1:1 fald_c + 1 nad_c + 1 h2o_c -> 1 nadh_c + 1 for_c + 2 h_c (1 Formaldehyde + 1 Nicotinamide adenine dinucleotide + 1 H2O H2O -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Formate + 2 H+)
+FALDH2:1 nad_c + 1 hmgth_c <=> 1 nadh_c + 1 h_c + 1 Sfglutth_c (1 Nicotinamide adenine dinucleotide + 1 Hydroxymethylglutathione <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 S-Formylglutathione)
+ALCD2y:1 etoh_c + 1 nadp_c <=> 1 nadph_c + 1 h_c + 1 acald_c (1 Ethanol + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 H+ + 1 Acetaldehyde)
+34DHOXPEGOX:1 nadh_c + 1 34dhmald_c + 1 h_c <=> 1 nad_c + 1 34dhoxpeg_c (1 Nicotinamide adenine dinucleotide - reduced + 1 3,4-Dihydroxymandelaldehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 3,4-Dihydroxyphenylethyleneglycol)
+LALDO:1 gthrd_c + 1 nad_c + 1 lald__D_c <=> 1 lgt__S_c + 1 nadh_c + 1 h_c (1 Reduced glutathione + 1 Nicotinamide adenine dinucleotide + 1 D-Lactaldehyde <=> 1 (R)-S-Lactoylglutathione + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)
+
+
+AdditionalMetabolites:
+34dhmald_c (3,4-Dihydroxymandelaldehyde)
+34dhoxpeg_c (3,4-Dihydroxyphenylethyleneglycol)
+Sfglutth_c (S-Formylglutathione)
+fald_c (Formaldehyde)
+hmgth_c (Hydroxymethylglutathione)
+lald__D_c (D-Lactaldehyde)
+lgt__S_c ((R)-S-Lactoylglutathione)
+
+
+AdditionalInModel:
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 nadh_c + 1 h_c + 1 acald_c (1 Ethanol + 1 Nicotinamide adenine dinucleotide <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Acetaldehyde)
+ALCD19:1 nadh_c + 1 glyald_c + 1 h_c <=> 1 nad_c + 1 glyc_c (1 Nicotinamide adenine dinucleotide - reduced + 1 D-Glyceraldehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 Glycerol)

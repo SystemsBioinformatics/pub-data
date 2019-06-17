@@ -1,0 +1,4 @@
+notRecovered:
+ARGN:1 arg__L_c + 1 h2o_c -> 1 orn_c + 1 urea_c (1 L-Arginine + 1 H2O -> 1 Ornithine + 1 Urea)
+
+

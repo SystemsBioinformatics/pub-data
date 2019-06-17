@@ -1,0 +1,13 @@
+notRecovered:
+UGMDDS2_LPL:1 alalac_c + 1 atp_c + 1 ugmd_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 ugmdalac_c (1 M_D_Alanyl_D_lactate_ + 1 M_ATP_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_gamma_glutamyl_meso_2_6_diaminopimelate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_)
+
+
+AdditionalNotInModel:
+UGMDDS:1 atp_c + 1 alaala_c + 1 ugmd_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 ugmda_c (1 ATP + 1 D-Alanyl-D-alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate -> 1 ADP + 1 Phosphate + 1 H+ + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+
+
+AdditionalMetabolites:
+alaala_c (D-Alanyl-D-alanine)
+ugmda_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+
+

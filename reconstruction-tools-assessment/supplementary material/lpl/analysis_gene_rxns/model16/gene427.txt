@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn08703:1 cpd00135_c + 1 cpd02027_c <=> 1 cpd00067_c + 2 cpd00060_c (1 Homocysteine_c0 + 1 S_Methyl_L_methionine_c0 <=> 1 H_plus__c0 + 2 L_Methionine_c0)
+
+
+AdditionalMetabolites:
+cpd00060_c (L_Methionine_c0)
+cpd00067_c (H_plus__c0)
+cpd00135_c (Homocysteine_c0)
+cpd02027_c (S_Methyl_L_methionine_c0)
+
+

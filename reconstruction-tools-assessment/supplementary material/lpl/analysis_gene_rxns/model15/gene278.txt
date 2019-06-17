@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+rxn03721:1 cpd00001_c + 1 cpd04008_c <=> 1 cpd00067_c + 1 cpd00646_c + 1 cpd04011_c (1 H2O_c0 + 1 DNTP_c0 <=> 1 H_plus__c0 + 1 PNP_c0 + 1 DETP_c0)
+rxn03837:1 cpd00001_c + 1 cpd04010_c <=> 1 cpd00067_c + 1 cpd00646_c + 1 cpd04012_c (1 H2O_c0 + 1 Paraoxon_c0 <=> 1 H_plus__c0 + 1 PNP_c0 + 1 Diethylphosphoric_acid_c0)
+rxn11584:1 cpd00001_c + 1 cpd12278_c <=> 1 cpd00067_c + 1 cpd00127_c + 1 cpd12127_c (1 H2O_c0 + 1 Aryl_dialkyl_phosphate_c0 <=> 1 H_plus__c0 + 1 Phenol_c0 + 1 Dialkyl_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00067_c (H_plus__c0)
+cpd00127_c (Phenol_c0)
+cpd00646_c (PNP_c0)
+cpd04008_c (DNTP_c0)
+cpd04010_c (Paraoxon_c0)
+cpd04011_c (DETP_c0)
+cpd04012_c (Diethylphosphoric_acid_c0)
+cpd12127_c (Dialkyl_phosphate_c0)
+cpd12278_c (Aryl_dialkyl_phosphate_c0)
+
+

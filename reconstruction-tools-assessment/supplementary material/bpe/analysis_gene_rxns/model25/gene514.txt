@@ -1,0 +1,14 @@
+notRecovered:
+MCITL2:1 micit_c -> 1 pyr_c + 1 succ_c (1 methylisocitrate -> 1 Pyruvate + 1 Succinate)
+
+
+AdditionalNotInModel:
+23-DIMETHYLMALATE-LYASE-RXN:1 CPD-61_c -> 1 PROPIONATE_c + 1 PYRUVATE_c (1 (2R,3S)-2,3-dimethylmalate -> 1 propanoate + 1 pyruvate)
+
+
+AdditionalMetabolites:
+CPD-61_c ((2R,3S)-2,3-dimethylmalate)
+PROPIONATE_c (propanoate)
+PYRUVATE_c (pyruvate)
+
+

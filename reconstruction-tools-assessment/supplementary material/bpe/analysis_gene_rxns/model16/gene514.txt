@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R01355:1 C03652_c <=> 1 C00022_c + 1 C00163_c (1 (2R,3S)-2,3-Dimethylmalate <=> 1 Pyruvate + 1 Propanoate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00163_c (Propanoate)
+C03652_c ((2R,3S)-2,3-Dimethylmalate)
+
+

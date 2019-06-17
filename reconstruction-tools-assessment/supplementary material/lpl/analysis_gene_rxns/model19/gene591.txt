@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+R00256:1 C00001_c + 1 C00064_c <=> 1 C00014_c + 1 C00025_c (1 H2O + 1 L-Glutamine <=> 1 Ammonia + 1 L-Glutamate)
+R01395:1 C00008_c + 1 C00169_c -> 1 C00002_c + 1 C01563_c (1 ADP + 1 Carbamoyl phosphate -> 1 ATP + 1 Carbamate)
+R10948:1 C00002_c + 1 C00288_c <=> 1 C00008_c + 1 C20969_c (1 ATP + 1 HCO3- <=> 1 ADP + 1 Carboxyphosphate)
+R10949:1 C00014_c + 1 C20969_c <=> 1 C00009_c + 1 C01563_c (1 Ammonia + 1 Carboxyphosphate <=> 1 Orthophosphate + 1 Carbamate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00014_c (Ammonia)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C00169_c (Carbamoyl phosphate)
+C00288_c (HCO3-)
+C01563_c (Carbamate)
+C20969_c (Carboxyphosphate)
+
+

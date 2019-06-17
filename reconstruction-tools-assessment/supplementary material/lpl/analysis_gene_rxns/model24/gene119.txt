@@ -1,0 +1,4 @@
+notRecovered:
+NNAM:1 h2o_c + 1 ncam_c <=> 1 nac_c + 1 nh4_c (1 M_H2O_ + 1 M_Nicotinamide_ <=> 1 M_Nicotinate_ + 1 M_Ammonium_)
+
+

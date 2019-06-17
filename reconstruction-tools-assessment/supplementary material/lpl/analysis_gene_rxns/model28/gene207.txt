@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R00139:1 C00002_c + 1 C11038_c -> 1 C00008_c + 1 C11039_c (1 ATP + 1 2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate -> 1 ADP + 1 2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate)
+R03530:1 C00002_c + 1 C01344_c <=> 1 C00008_c + 1 C01345_c (1 ATP + 1 dIDP <=> 1 ADP + 1 dITP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C01344_c (dIDP)
+C01345_c (dITP)
+C11038_c (2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate)
+C11039_c (2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate)
+
+

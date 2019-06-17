@@ -1,0 +1,4 @@
+notRecovered:
+SADT:1 atp_c + 1 h_c + 1 so4_c -> 1 aps_c + 1 ppi_c (1 M_ATP_ + 1 M_H_ + 1 M_Sulfate_ -> 1 M_Adenosine_5__phosphosulfate_ + 1 M_Diphosphate_)
+
+

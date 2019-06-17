@@ -1,0 +1,21 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+R01658:1 C00129_c + 1 C00235_c <=> 1 C00013_c + 1 C00341_c (1 Isopentenyl diphosphate + 1 Dimethylallyl diphosphate <=> 1 Diphosphate + 1 Geranyl diphosphate)
+R02003:1 C00129_c + 1 C00341_c <=> 1 C00013_c + 1 C00448_c (1 Isopentenyl diphosphate + 1 Geranyl diphosphate <=> 1 Diphosphate + 1 trans,trans-Farnesyl diphosphate)
+R02061:1 C00129_c + 1 C00448_c <=> 1 C00013_c + 1 C00353_c (1 Isopentenyl diphosphate + 1 trans,trans-Farnesyl diphosphate <=> 1 Diphosphate + 1 Geranylgeranyl diphosphate)
+R09248:5 C00129_c + 1 C00448_c <=> 5 C00013_c + 1 C04146_c (5 Isopentenyl diphosphate + 1 trans,trans-Farnesyl diphosphate <=> 5 Diphosphate + 1 all-trans-Octaprenyl diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00129_c (Isopentenyl diphosphate)
+C00235_c (Dimethylallyl diphosphate)
+C00341_c (Geranyl diphosphate)
+C00353_c (Geranylgeranyl diphosphate)
+C00448_c (trans,trans-Farnesyl diphosphate)
+C04146_c (all-trans-Octaprenyl diphosphate)
+
+

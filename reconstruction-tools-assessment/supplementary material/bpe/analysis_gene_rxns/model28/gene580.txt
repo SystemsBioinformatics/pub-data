@@ -1,0 +1,16 @@
+notRecovered:
+NADDP:1 h2o_c + 1 nad_c -> 1 amp_c + 2 h_c + 1 nmn_c (1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 AMP + 2 H+ + 1 NMN)
+
+
+AdditionalNotInModel:
+R00382:1 C00003_c + 1 C02128_c <=> 1 C00020_c + 1 C00039_c + 1 C00455_c (1 NAD+ + 1 5''-Phospho-DNA <=> 1 AMP + 1 DNA + 1 Nicotinamide D-ribonucleotide)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00020_c (AMP)
+C00039_c (DNA)
+C00455_c (Nicotinamide D-ribonucleotide)
+C02128_c (5''-Phospho-DNA)
+
+

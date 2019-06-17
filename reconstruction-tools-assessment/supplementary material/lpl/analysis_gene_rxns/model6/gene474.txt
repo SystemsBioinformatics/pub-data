@@ -1,0 +1,4 @@
+notRecovered:
+GALM:1 gal_c <=> 1 a_gal__D_c (1 M_D_Galactose_ <=> 1 M_alpha_D_galactose_)
+
+

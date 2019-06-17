@@ -1,0 +1,31 @@
+AdditionalNotInModel:
+R00767:1 C00085_c + 1 C00063_c <=> 1 C00354_c + 1 C00112_c (1 D-Fructose 6-phosphate + 1 CTP <=> 1 D-Fructose 1,6-bisphosphate + 1 CDP)
+R00770:1 C00085_c + 1 C00081_c <=> 1 C00354_c + 1 C00104_c (1 D-Fructose 6-phosphate + 1 ITP <=> 1 D-Fructose 1,6-bisphosphate + 1 IDP)
+R00769:1 C00085_c + 1 C00075_c <=> 1 C00354_c + 1 C00015_c (1 D-Fructose 6-phosphate + 1 UTP <=> 1 D-Fructose 1,6-bisphosphate + 1 UDP)
+R03236:1 C01097_c + 1 C00002_c <=> 1 C00008_c + 1 C03785_c (1 D-Tagatose 6-phosphate + 1 ATP <=> 1 ADP + 1 D-Tagatose 1,6-bisphosphate)
+R03239:1 C01097_c + 1 C00081_c <=> 1 C03785_c + 1 C00104_c (1 D-Tagatose 6-phosphate + 1 ITP <=> 1 D-Tagatose 1,6-bisphosphate + 1 IDP)
+R03237:1 C00063_c + 1 C01097_c <=> 1 C00112_c + 1 C03785_c (1 CTP + 1 D-Tagatose 6-phosphate <=> 1 CDP + 1 D-Tagatose 1,6-bisphosphate)
+R01843:1 C05382_c + 1 C00002_c <=> 1 C00008_c + 1 C00447_c (1 Sedoheptulose 7-phosphate + 1 ATP <=> 1 ADP + 1 Sedoheptulose 1,7-bisphosphate)
+R03238:1 C00075_c + 1 C01097_c <=> 1 C00015_c + 1 C03785_c (1 UTP + 1 D-Tagatose 6-phosphate <=> 1 UDP + 1 D-Tagatose 1,6-bisphosphate)
+R04779:1 C05345_c + 1 C00002_c <=> 1 C05378_c + 1 C00008_c (1 beta-D-Fructose 6-phosphate + 1 ATP <=> 1 beta-D-Fructose 1,6-bisphosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00015_c (UDP)
+C00063_c (CTP)
+C00075_c (UTP)
+C00081_c (ITP)
+C00085_c (D-Fructose 6-phosphate)
+C00104_c (IDP)
+C00112_c (CDP)
+C00354_c (D-Fructose 1,6-bisphosphate)
+C00447_c (Sedoheptulose 1,7-bisphosphate)
+C01097_c (D-Tagatose 6-phosphate)
+C03785_c (D-Tagatose 1,6-bisphosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+C05378_c (beta-D-Fructose 1,6-bisphosphate)
+C05382_c (Sedoheptulose 7-phosphate)
+
+

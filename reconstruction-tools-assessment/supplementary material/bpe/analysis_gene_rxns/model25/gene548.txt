@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN0-1147:1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c + 1 SUC-COA_c <=> 1 CO-A_c + 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c (1 Oxo-glutarate-dehydrogenase-DH-lipoyl + 1 succinyl-CoA <=> 1 coenzyme A + 1 Oxo-glutarate-dehydro-suc-DH-lipoyl)
+
+
+AdditionalMetabolites:
+CO-A_c (coenzyme A)
+Oxo-glutarate-dehydro-suc-DH-lipoyl_c (Oxo-glutarate-dehydro-suc-DH-lipoyl)
+Oxo-glutarate-dehydrogenase-DH-lipoyl_c (Oxo-glutarate-dehydrogenase-DH-lipoyl)
+SUC-COA_c (succinyl-CoA)
+
+

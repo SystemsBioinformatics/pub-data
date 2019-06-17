@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R06134:1 C00001_c + 1 C00241_c <=> 1 C00014_c + 1 C00060_c (1 H2O + 1 Amide <=> 1 Ammonia + 1 Carboxylate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00060_c (Carboxylate)
+C00241_c (Amide)
+
+

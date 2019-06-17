@@ -1,0 +1,2 @@
+AdditionalInModel:
+TALA:1 g3p_c + 1 s7p_c <=> 1 e4p_c + 1 f6p_c (1 Glyceraldehyde 3-phosphate + 1 Sedoheptulose 7-phosphate <=> 1 D-Erythrose 4-phosphate + 1 D-Fructose 6-phosphate)

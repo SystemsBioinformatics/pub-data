@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+GLCNt2ir:1 h_e + 1 glcn__D_e <=> 1 glcn__D_c + 1 h_c (1 H+ + 1 D Gluconate C6H11O7 <=> 1 D Gluconate C6H11O7 + 1 H+)
+
+
+AdditionalMetabolites:
+glcn__D_c (D Gluconate C6H11O7)
+glcn__D_e (D Gluconate C6H11O7)
+
+

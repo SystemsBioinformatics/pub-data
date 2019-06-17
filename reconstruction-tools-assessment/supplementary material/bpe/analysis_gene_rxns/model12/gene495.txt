@@ -1,0 +1,16 @@
+notRecovered:
+DHDPS:1 aspsa_c + 1 pyr_c -> 1 23dhdp_c + 2 h2o_c + 1 h_c (1 L-Aspartate 4-semialdehyde + 1 Pyruvate -> 1 2,3-Dihydrodipicolinate + 2 H2O + 1 H+)
+
+
+AdditionalNotInModel:
+DIHYDRODIPICSYN-RXN:1 L-ASPARTATE-SEMIALDEHYDE_c + 1 PYRUVATE_c -> 1 CPD-14443_c + 1 PROTON_c + 1 WATER_c (1 L-aspartate-semialdehyde + 1 pyruvate -> 1 (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + 1 H+ + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-14443_c ((2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate)
+L-ASPARTATE-SEMIALDEHYDE_c (L-aspartate-semialdehyde)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+WATER_c (H2O)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R03868:1 C02167_c <=> 1 C02514_c (1 Maleylpyruvate <=> 1 3-Fumarylpyruvate)
+
+
+AdditionalMetabolites:
+C02167_c (Maleylpyruvate)
+C02514_c (3-Fumarylpyruvate)
+
+

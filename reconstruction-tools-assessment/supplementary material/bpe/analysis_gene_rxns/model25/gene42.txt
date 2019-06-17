@@ -1,0 +1,13 @@
+notRecovered:
+MUCLACISO:1 muclac_c <=> 1 5odhf2a_c (1 Muconolactone <=> 1 3-Oxoadipate enol-lactone)
+
+
+AdditionalNotInModel:
+RXN-10082:1 CPD-10824_c -> 1 CPD-10825_c (1 3-methylmuconolactone -> 1 4-methyl-3-oxoadipate-enol-lactone)
+
+
+AdditionalMetabolites:
+CPD-10824_c (3-methylmuconolactone)
+CPD-10825_c (4-methyl-3-oxoadipate-enol-lactone)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+MCITL2:1 micit_c -> 1 pyr_c + 1 succ_c (1 methylisocitrate -> 1 Pyruvate + 1 Succinate)
+
+
+AdditionalNotInModel:
+R08868:1 C06367_c <=> 1 C17946_c (1 1-Carboxyvinyl carboxyphosphonate <=> 1 Carboxyphosphonopyruvate)
+R08869:1 C17946_c <=> 1 C06368_c + 1 C00011_c (1 Carboxyphosphonopyruvate <=> 1 3-(Hydrohydroxyphosphoryl)pyruvate + 1 CO2)
+R05165:1 C06367_c <=> 1 C06368_c + 1 C00011_c (1 1-Carboxyvinyl carboxyphosphonate <=> 1 3-(Hydrohydroxyphosphoryl)pyruvate + 1 CO2)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C06367_c (1-Carboxyvinyl carboxyphosphonate)
+C06368_c (3-(Hydrohydroxyphosphoryl)pyruvate)
+C17946_c (Carboxyphosphonopyruvate)
+
+

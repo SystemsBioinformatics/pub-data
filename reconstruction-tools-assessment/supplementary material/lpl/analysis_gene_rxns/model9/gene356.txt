@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+ALLTN:1 h2o_c + 1 alltn_c -> 1 h_c + 1 alltt_c (1 H2O H2O + 1 Allantoin -> 1 H+ + 1 Allantoate)
+
+
+AdditionalMetabolites:
+alltn_c (Allantoin)
+alltt_c (Allantoate)
+
+

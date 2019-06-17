@@ -1,0 +1,25 @@
+notRecovered:
+CFAS180:1 2cocdacp_c + 1 amet_c -> 1 ahcys_c + 1 cpocdacp_c + 1 h_c (1 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_S_Adenosyl_L_methionine_ -> 1 M_S_Adenosyl_L_homocysteine_ + 1 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+2.1.1.79-RXN:1 Phospholipid-Olefinic-Fatty-Acids_c + 1 S-ADENOSYLMETHIONINE_c -> 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c + 1 Phospholipid-Cyclopropane-Fatty-Acids_c (1 Phospholipid-Olefinic-Fatty-Acids + 1 S-adenosyl-L-methionine -> 1 S-adenosyl-L-homocysteine + 1 H+ + 1 Phospholipid-Cyclopropane-Fatty-Acids)
+RXN1G-45:2 S-ADENOSYLMETHIONINE_c + 1 cis-cis-D19-31-C50-2-ACPs_c -> 2 ADENOSYL-HOMO-CYS_c + 2 PROTON_c + 1 cis-cis-19-31-dicyclopropyl-C52-ACPs_c (2 S-adenosyl-L-methionine + 1 cis-cis-D19-31-C50-2-ACPs -> 2 S-adenosyl-L-homocysteine + 2 H+ + 1 cis-cis-19-31-dicyclopropyl-C52-ACPs)
+RXN1G-3641:1 S-ADENOSYLMETHIONINE_c + 1 cis-D21-39-oxo-40-Me-C59-1-ACPs_c -> 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c + 1 cis-21-CP-39-keto-40-Me-C60-ACPs_c (1 S-adenosyl-L-methionine + 1 cis-D21-39-oxo-40-Me-C59-1-ACPs -> 1 S-adenosyl-L-homocysteine + 1 H+ + 1 cis-21-CP-39-keto-40-Me-C60-ACPs)
+RXN1G-2544:1 S-ADENOSYLMETHIONINE_c + 1 cis-D19-37-MOH-38-Me-C57-1-ACPs_c -> 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c + 1 cis-19-CP-37-Mex-38-Me-C59-ACPs_c (1 S-adenosyl-L-methionine + 1 cis-D19-37-MOH-38-Me-C57-1-ACPs -> 1 S-adenosyl-L-homocysteine + 1 H+ + 1 cis-19-CP-37-Mex-38-Me-C59-ACPs)
+
+
+AdditionalMetabolites:
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+PROTON_c (H+)
+Phospholipid-Cyclopropane-Fatty-Acids_c (Phospholipid-Cyclopropane-Fatty-Acids)
+Phospholipid-Olefinic-Fatty-Acids_c (Phospholipid-Olefinic-Fatty-Acids)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+cis-19-CP-37-Mex-38-Me-C59-ACPs_c (cis-19-CP-37-Mex-38-Me-C59-ACPs)
+cis-21-CP-39-keto-40-Me-C60-ACPs_c (cis-21-CP-39-keto-40-Me-C60-ACPs)
+cis-D19-37-MOH-38-Me-C57-1-ACPs_c (cis-D19-37-MOH-38-Me-C57-1-ACPs)
+cis-D21-39-oxo-40-Me-C59-1-ACPs_c (cis-D21-39-oxo-40-Me-C59-1-ACPs)
+cis-cis-19-31-dicyclopropyl-C52-ACPs_c (cis-cis-19-31-dicyclopropyl-C52-ACPs)
+cis-cis-D19-31-C50-2-ACPs_c (cis-cis-D19-31-C50-2-ACPs)
+
+

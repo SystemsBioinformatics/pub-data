@@ -1,0 +1,19 @@
+notRecovered:
+SULRi2:3 fdxrd_c + 2 h_c + 1 so3_c -> 3 fdxox_c + 3 h2o_c + 1 h2s_c (3 ferredoxin (reduced) + 2 H+ + 1 Sulfite -> 3 ferredoxin (oxidized) + 3 H2O + 1 Hydrogen sulfide)
+FADRx2:1 fad_c + 1 h_c + 1 nadph_c -> 1 fadh2_c + 1 nadp_c (1 Flavin adenine dinucleotide oxidized + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Flavin adenine dinucleotide reduced + 1 Nicotinamide adenine dinucleotide phosphate)
+FMNRx2:1 fmn_c + 1 h_c + 1 nadph_c -> 1 fmnh2_c + 1 nadp_c (1 FMN + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Reduced FMN + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+SULFITE-REDUCTASE-FERREDOXIN-RXN:6 Reduced-ferredoxins_c + 1 SO3_c + 8 PROTON_c -> 1 HS_c + 6 Oxidized-ferredoxins_c + 3 WATER_c (6 a reduced ferredoxin [iron-sulfur] cluster + 1 sulfite + 8 H+ -> 1 hydrogen sulfide + 6 an oxidized ferredoxin [iron-sulfur] cluster + 3 H2O)
+
+
+AdditionalMetabolites:
+HS_c (hydrogen sulfide)
+Oxidized-ferredoxins_c (an oxidized ferredoxin [iron-sulfur] cluster)
+PROTON_c (H+)
+Reduced-ferredoxins_c (a reduced ferredoxin [iron-sulfur] cluster)
+SO3_c (sulfite)
+WATER_c (H2O)
+
+

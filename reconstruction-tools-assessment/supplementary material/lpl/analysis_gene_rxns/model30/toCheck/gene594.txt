@@ -1,0 +1,19 @@
+notRecovered:
+ADK2:1 amp_c + 1 pppi_c <=> 1 adp_c + 1 ppi_c (1 M_AMP_ + 1 M_Inorganic_triphosphate_ <=> 1 M_ADP_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+R11319:1 C00068_c + 1 C00008_c <=> 1 C03028_c + 1 C00020_c (1 Thiamin diphosphate + 1 ADP <=> 1 Thiamin triphosphate + 1 AMP)
+R01547:1 C00360_c + 1 C00002_c <=> 1 C00008_c + 1 C00206_c (1 dAMP + 1 ATP <=> 1 ADP + 1 dADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00020_c (AMP)
+C00068_c (Thiamin diphosphate)
+C00206_c (dADP)
+C00360_c (dAMP)
+C03028_c (Thiamin triphosphate)
+
+

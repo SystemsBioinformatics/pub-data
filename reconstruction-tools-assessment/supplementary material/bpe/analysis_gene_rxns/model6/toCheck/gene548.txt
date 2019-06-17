@@ -1,0 +1,17 @@
+notRecovered:
+AKGDH:1 akg_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 succoa_c (1 2-Oxoglutarate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 Succinyl-CoA)
+
+
+AdditionalNotInModel:
+AKGDb:1 coa_c + 1 sdhlam_c <=> 1 dhlam_c + 1 succoa_c (1 Coenzyme A + 1 S Succinyldihydrolipoamide C12H20NO4S2 <=> 1 Dihydrolipoamide C8H17NOS2 + 1 Succinyl-CoA)
+OXOADLR:1 2oxoadp_c + 1 h_c + 1 lpam_c -> 1 S_gtrdhdlp_c + 1 co2_c (1 2 Oxoadipate C6H6O5 + 1 H+ + 1 Lipoamide C8H15NOS2 -> 1 S-Glutaryldihydrolipoamide + 1 CO2 CO2)
+
+
+AdditionalMetabolites:
+2oxoadp_c (2 Oxoadipate C6H6O5)
+S_gtrdhdlp_c (S-Glutaryldihydrolipoamide)
+dhlam_c (Dihydrolipoamide C8H17NOS2)
+lpam_c (Lipoamide C8H15NOS2)
+sdhlam_c (S Succinyldihydrolipoamide C12H20NO4S2)
+
+

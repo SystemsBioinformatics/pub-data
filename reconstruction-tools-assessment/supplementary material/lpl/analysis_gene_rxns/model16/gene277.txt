@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn10060:1 cpd00003_c + 1 cpd00357_c <=> 1 cpd00067_c + 1 cpd00006_c + 1 cpd00297_c (1 NAD_c0 + 1 TTP_c0 <=> 1 H_plus__c0 + 1 NADP_c0 + 1 dTDP_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00006_c (NADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00297_c (dTDP_c0)
+cpd00357_c (TTP_c0)
+
+

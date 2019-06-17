@@ -1,0 +1,2 @@
+AdditionalInModel:
+THRA:1 thr__L_c -> 1 acald_c + 1 gly_c (1 L-Threonine -> 1 Acetaldehyde + 1 Glycine)

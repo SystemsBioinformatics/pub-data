@@ -1,0 +1,4 @@
+notRecovered:
+ALAALAr:2 ala__D_c + 1 atp_c <=> 1 adp_c + 1 alaala_c + 1 h_c + 1 pi_c (2 D-Alanine + 1 ATP <=> 1 ADP + 1 D-Alanyl-D-alanine + 1 H+ + 1 Phosphate)
+
+

@@ -1,0 +1,7 @@
+notRecovered:
+ACONTb:1 acon_C_c + 1 h2o_c -> 1 icit_c (1 cis-Aconitate + 1 H2O -> 1 Isocitrate)
+ACONTa:1 cit_c -> 1 acon_C_c + 1 h2o_c (1 Citrate -> 1 cis-Aconitate + 1 H2O)
+
+
+AdditionalInModel:
+MICITDr:1 h2o_c + 1 2mcacn_c <=> 1 micit_c (1 H2O + 1 Cis-2-Methylaconitate <=> 1 Methylisocitrate)

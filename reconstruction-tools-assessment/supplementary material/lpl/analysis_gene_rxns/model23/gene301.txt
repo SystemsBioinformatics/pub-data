@@ -1,0 +1,4 @@
+notRecovered:
+G6PI:1 g6p_c <=> 1 g6p_B_c (1 M_D_Glucose_6_phosphate_ <=> 1 M_beta_D_glucose_6_phosphate_)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-34:1 CANAVANINE_c + 1 WATER_c <=> 1 L-CANALINE_c + 1 UREA_c + 1 PROTON_c (1 L-canavanine + 1 H2O <=> 1 L-canaline + 1 urea + 1 H+)
+
+
+AdditionalMetabolites:
+CANAVANINE_c (L-canavanine)
+L-CANALINE_c (L-canaline)
+PROTON_c (H+)
+UREA_c (urea)
+WATER_c (H2O)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01902:1 C00312_c + 1 C00002_c <=> 1 C06441_c + 1 C00008_c (1 L-Xylulose + 1 ATP <=> 1 L-Xylulose 1-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00312_c (L-Xylulose)
+C06441_c (L-Xylulose 1-phosphate)
+
+

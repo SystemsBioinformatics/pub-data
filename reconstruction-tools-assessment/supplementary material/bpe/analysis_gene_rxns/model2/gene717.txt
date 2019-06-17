@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+GDPTPDP:1 h2o_c + 1 gdptp_c -> 1 ppi_c + 1 gtp_c (1 H2O + 1 Guanosine 3'-diphosphate 5'-triphosphate -> 1 Diphosphate + 1 GTP)
+
+

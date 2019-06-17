@@ -1,0 +1,14 @@
+notRecovered:
+EDTXS1_BP:1 kdolipid4_BP_c + 1 myrsACP_c -> 1 ACP_c + 1 lipa_BP_c (1 KDO-lipid IV(A) (B. pertussis specific) + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 acyl carrier protein + 1 KDO-lipid IV(A) with secondary C14 acyl chain at position 2' of lipid A (B. pertussis specific))
+
+
+AdditionalNotInModel:
+LAUROYLACYLTRAN-RXN:1 Dodecanoyl-ACPs_c + 1 KDO2-LIPID-IVA_c -> 1 ACP_c + 1 KDO2-LAUROYL-LIPID-IVA_c (1 Dodecanoyl-ACPs + 1 alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA -> 1 ACP + 1 alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-(lauroyl)-lipid IVA)
+
+
+AdditionalMetabolites:
+Dodecanoyl-ACPs_c (Dodecanoyl-ACPs)
+KDO2-LAUROYL-LIPID-IVA_c (alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-(lauroyl)-lipid IVA)
+KDO2-LIPID-IVA_c (alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+NADH10:1 h_c + 1 mqn8_c + 1 nadh_c -> 1 mql8_c + 1 nad_c (1 H+ + 1 Menaquinone 8 + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Menaquinol 8 + 1 Nicotinamide adenine dinucleotide)
+NADH9:1 2dmmq8_c + 1 h_c + 1 nadh_c -> 1 2dmmql8_c + 1 nad_c (1 2-Demethylmenaquinone 8 + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 2-Demethylmenaquinol 8 + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

@@ -1,0 +1,36 @@
+AdditionalNotInModel:
+R00355:1 C00026_c + 1 C00049_c <=> 1 C00025_c + 1 C00036_c (1 2-Oxoglutarate + 1 L-Aspartate <=> 1 L-Glutamate + 1 Oxaloacetate)
+R00694:1 C00026_c + 1 C00079_c <=> 1 C00025_c + 1 C00166_c (1 2-Oxoglutarate + 1 L-Phenylalanine <=> 1 L-Glutamate + 1 Phenylpyruvate)
+R00734:1 C00026_c + 1 C00082_c <=> 1 C00025_c + 1 C01179_c (1 2-Oxoglutarate + 1 L-Tyrosine <=> 1 L-Glutamate + 1 3-(4-Hydroxyphenyl)pyruvate)
+R00896:1 C00026_c + 1 C00097_c <=> 1 C00302_c + 1 C00957_c (1 2-Oxoglutarate + 1 L-Cysteine <=> 1 Glutamate + 1 Mercaptopyruvate)
+R01731:1 C00036_c + 1 C00826_c <=> 1 C00049_c + 1 C00254_c (1 Oxaloacetate + 1 L-Arogenate <=> 1 L-Aspartate + 1 Prephenate)
+R02433:1 C00026_c + 1 C00506_c <=> 1 C00025_c + 1 C05528_c (1 2-Oxoglutarate + 1 L-Cysteate <=> 1 L-Glutamate + 1 3-Sulfopyruvate)
+R02619:1 C00026_c + 1 C00606_c <=> 1 C00025_c + 1 C05527_c (1 2-Oxoglutarate + 1 3-Sulfino-L-alanine <=> 1 L-Glutamate + 1 3-Sulfinylpyruvate)
+R05052:1 C00026_c + 1 C05947_c <=> 1 C00025_c + 1 C05946_c (1 2-Oxoglutarate + 1 L-erythro-4-Hydroxyglutamate <=> 1 L-Glutamate + 1 (4R)-4-Hydroxy-2-oxoglutarate)
+R10845:1 C00026_c + 1 C20895_c <=> 1 C00025_c + 1 C20646_c (1 2-Oxoglutarate + 1 (2S,3S)-3-Methylphenylalanine <=> 1 L-Glutamate + 1 (3S)-2-Oxo-3-phenylbutanoate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00036_c (Oxaloacetate)
+C00049_c (L-Aspartate)
+C00079_c (L-Phenylalanine)
+C00082_c (L-Tyrosine)
+C00097_c (L-Cysteine)
+C00166_c (Phenylpyruvate)
+C00254_c (Prephenate)
+C00302_c (Glutamate)
+C00506_c (L-Cysteate)
+C00606_c (3-Sulfino-L-alanine)
+C00826_c (L-Arogenate)
+C00957_c (Mercaptopyruvate)
+C01179_c (3-(4-Hydroxyphenyl)pyruvate)
+C05527_c (3-Sulfinylpyruvate)
+C05528_c (3-Sulfopyruvate)
+C05946_c ((4R)-4-Hydroxy-2-oxoglutarate)
+C05947_c (L-erythro-4-Hydroxyglutamate)
+C20646_c ((3S)-2-Oxo-3-phenylbutanoate)
+C20895_c ((2S,3S)-3-Methylphenylalanine)
+
+

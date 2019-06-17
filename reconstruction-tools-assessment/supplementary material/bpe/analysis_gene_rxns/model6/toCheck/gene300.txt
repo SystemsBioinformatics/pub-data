@@ -1,0 +1,13 @@
+notRecovered:
+INDPYRD:1 h_c + 1 indpyr_c -> 1 co2_c + 1 id3acald_c (1 H+ + 1 Indolepyruvate -> 1 CO2 + 1 Indole-3-acetaldehyde)
+KMBADC:1 h_c + 1 2kmb_c -> 1 co2_c + 1 methal_c (1 H+ + 1 2-keto-4-methylthiobutanoate -> 1 CO2 + 1 Methional)
+
+
+AdditionalNotInModel:
+ilvg:1 2obut_c + 1 hethmpp_c -> 1 2ahbut_c + 1 thmpp_c (1 2-Oxobutanoate + 1 Hydroxy ethyl Thiamin diphosphate -> 1 (S)-2-Aceto-2-hydroxybutanoate + 1 Thiamine diphosphate)
+
+
+AdditionalMetabolites:
+hethmpp_c (Hydroxy ethyl Thiamin diphosphate)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+HXANt2pp:1 h_p + 1 hxan_p -> 1 hxan_c + 1 h_c (1 H+ + 1 Hypoxanthine -> 1 Hypoxanthine + 1 H+)
+ADEt2rpp:1 ade_p + 1 h_p <=> 1 h_c + 1 ade_c (1 Adenine + 1 H+ <=> 1 H+ + 1 Adenine)
+GUAt2pp:1 h_p + 1 gua_p -> 1 gua_c + 1 h_c (1 H+ + 1 Guanine -> 1 Guanine + 1 H+)
+
+
+AdditionalMetabolites:
+ade_p (Adenine)
+gua_p (Guanine)
+h_p (H+)
+hxan_p (Hypoxanthine)
+
+

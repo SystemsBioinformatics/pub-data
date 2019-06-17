@@ -1,0 +1,4 @@
+notRecovered:
+CHORS:1 3psme_c -> 1 chor_c + 1 pi_c (1 M_5_O__1_Carboxyvinyl__3_phosphoshikimate_ -> 1 M_Chorismate_ + 1 M_Phosphate_)
+
+

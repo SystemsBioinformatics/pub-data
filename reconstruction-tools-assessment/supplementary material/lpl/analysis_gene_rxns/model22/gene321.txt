@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R03508:1 C01302_c <=> 1 C00001_c + 1 C00011_c + 1 C03506_c (1 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate <=> 1 H2O + 1 CO2 + 1 Indoleglycerol phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C01302_c (1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate)
+C03506_c (Indoleglycerol phosphate)
+
+

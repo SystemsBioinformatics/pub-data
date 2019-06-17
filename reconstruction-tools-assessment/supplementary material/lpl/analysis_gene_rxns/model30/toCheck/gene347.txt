@@ -1,0 +1,17 @@
+notRecovered:
+MPL:1 malt_c + 1 pi_c <=> 1 g1p_B_c + 1 glc__D_c (1 M_Maltose_ + 1 M_Phosphate_ <=> 1 M_beta_D_Glucose_1_phosphate_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+R06044:1 G09795_c + 1 C00009_c <=> 1 C00092_c + 1 C00663_c (1 Trehalose 6-phosphate + 1 Orthophosphate <=> 1 D-Glucose 6-phosphate + 1 beta-D-Glucose 1-phosphate)
+R05767:1 C00689_c + 1 C00009_c <=> 1 C00092_c + 1 C00663_c (1 alpha,alpha''-Trehalose 6-phosphate + 1 Orthophosphate <=> 1 D-Glucose 6-phosphate + 1 beta-D-Glucose 1-phosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00092_c (D-Glucose 6-phosphate)
+C00663_c (beta-D-Glucose 1-phosphate)
+C00689_c (alpha,alpha''-Trehalose 6-phosphate)
+G09795_c (Trehalose 6-phosphate)
+
+

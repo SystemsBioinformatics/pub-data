@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R02340:1 C03506_c <=> 1 C00118_c + 1 C00463_c (1 Indoleglycerol phosphate <=> 1 D-Glyceraldehyde 3-phosphate + 1 Indole)
+R00674:1 C00065_c + 1 C00463_c <=> 1 C00078_c + 1 C00001_c (1 L-Serine + 1 Indole <=> 1 L-Tryptophan + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00065_c (L-Serine)
+C00078_c (L-Tryptophan)
+C00118_c (D-Glyceraldehyde 3-phosphate)
+C00463_c (Indole)
+C03506_c (Indoleglycerol phosphate)
+
+

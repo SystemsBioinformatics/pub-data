@@ -1,0 +1,4 @@
+notRecovered:
+DB4PS:1 ru5p__D_c -> 1 db4p_c + 1 for_c + 1 h_c (1 M_D_Ribulose_5_phosphate_ -> 1 M_3_4_dihydroxy_2_butanone_4_phosphate_ + 1 M_Formate_ + 1 M_H_)
+
+

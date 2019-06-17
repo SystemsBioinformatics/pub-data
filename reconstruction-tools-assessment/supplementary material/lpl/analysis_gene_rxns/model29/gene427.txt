@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R11063:1 C03172_c + 1 C00155_c <=> 2 C00073_c (1 S-Methyl-L-methionine + 1 L-Homocysteine <=> 2 L-Methionine)
+
+
+AdditionalMetabolites:
+C00073_c (L-Methionine)
+C00155_c (L-Homocysteine)
+C03172_c (S-Methyl-L-methionine)
+
+

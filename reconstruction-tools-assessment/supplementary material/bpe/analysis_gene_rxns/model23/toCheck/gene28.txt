@@ -1,0 +1,15 @@
+notRecovered:
+G3PD5:1 glyc3p_c + 1 q8_c -> 1 dhap_c + 1 q8h2_c (1 Glycerol 3-phosphate + 1 Ubiquinone-8 -> 1 Dihydroxyacetone phosphate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+RXN-15745:1 ETR-Quinones_c + 1 GLYCEROL-3P_c -> 1 DIHYDROXY-ACETONE-PHOSPHATE_c + 1 ETR-Quinols_c (1 ETR-Quinones + 1 sn-glycerol 3-phosphate -> 1 glycerone phosphate + 1 ETR-Quinols)
+
+
+AdditionalMetabolites:
+DIHYDROXY-ACETONE-PHOSPHATE_c (glycerone phosphate)
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+GLYCEROL-3P_c (sn-glycerol 3-phosphate)
+
+

@@ -1,0 +1,22 @@
+notRecovered:
+GLNTAL:1 atp_c + 1 gln__L_c + 1 glutrna_c + 1 h2o_c <=> 1 adp_c + 1 glntrna_c + 1 glu__L_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_L_Glutamine_ + 1 M_L_Glutamyl_tRNA_Glu__ + 1 M_H2O_ <=> 1 M_ADP_ + 1 M_L_Glutaminyl_tRNA_Gln__ + 1 M_L_Glutamate_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+GLNTRAT:1 atp_c + 1 gln__L_c + 1 h2o_c + 1 glutrna_gln_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 glntrna_c + 1 glu__L_c (1 ATP C10H12N5O13P3 + 1 L-Glutamine + 1 H2O H2O + 1 L-Glutamyl-tRNA(Gln) -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 L-Glutaminyl-tRNA(Gln) + 1 L-Glutamate)
+GLNTRS:1 atp_c + 1 gln__L_c + 1 trnagln_c -> 1 amp_c + 1 ppi_c + 1 glntrna_c (1 ATP C10H12N5O13P3 + 1 L-Glutamine + 1 TRNA(Gln) -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 L-Glutaminyl-tRNA(Gln))
+FORAMD:1 frmd_c + 1 h2o_c -> 1 nh4_c + 1 for_c (1 Formamide + 1 H2O H2O -> 1 Ammonium + 1 Formate)
+ASNTRAT:1 atp_c + 1 gln__L_c + 1 asptrna_asn_c + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 asntrna_c + 1 glu__L_c (1 ATP C10H12N5O13P3 + 1 L-Glutamine + 1 L-Aspartyl-tRNA(Asn) + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 L-Asparaginyl-tRNA(Asn) + 1 L-Glutamate)
+GLNTRS2:1 atp_c + 1 nh4_c + 1 glutrnagln_c -> 1 amp_c + 1 ppi_c + 1 h_c + 1 glntrna_c (1 ATP C10H12N5O13P3 + 1 Ammonium + 1 Glutamine tRNA charged with glutamate -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 H+ + 1 L-Glutaminyl-tRNA(Gln))
+
+
+AdditionalMetabolites:
+asptrna_asn_c (L-Aspartyl-tRNA(Asn))
+frmd_c (Formamide)
+glutrna_gln_c (L-Glutamyl-tRNA(Gln))
+glutrnagln_c (Glutamine tRNA charged with glutamate)
+trnagln_c (TRNA(Gln))
+
+
+AdditionalInModel:
+ASNS1:1 atp_c + 1 gln__L_c + 1 asp__L_c + 1 h2o_c -> 1 amp_c + 1 ppi_c + 1 h_c + 1 asn__L_c + 1 glu__L_c (1 ATP C10H12N5O13P3 + 1 L-Glutamine + 1 L-Aspartate + 1 H2O H2O -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 H+ + 1 L-Asparagine + 1 L-Glutamate)

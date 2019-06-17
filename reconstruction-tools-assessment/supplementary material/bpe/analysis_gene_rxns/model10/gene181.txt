@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-11781:1 CPD-12760_c + 1 B-ALANINE_c + 1 ATP_c -> 1 4-P-PANTOTHENATE_c + 1 AMP_c + 1 PPI_c + 1 PROTON_c (1 (R)-4-phosphopantoate + 1 beta-alanine + 1 ATP -> 1 (R)-4'-phosphopantothenate + 1 AMP + 1 diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+4-P-PANTOTHENATE_c ((R)-4'-phosphopantothenate)
+AMP_c (AMP)
+ATP_c (ATP)
+B-ALANINE_c (beta-alanine)
+CPD-12760_c ((R)-4-phosphopantoate)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

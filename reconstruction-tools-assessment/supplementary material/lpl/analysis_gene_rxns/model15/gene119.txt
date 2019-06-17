@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+rxn00390:1 cpd00001_c + 1 cpd01759_c <=> 1 cpd00041_c + 1 cpd00049_c (1 H2O_c0 + 1 N_Acyl_L_aspartate_c0 <=> 1 L_Aspartate_c0 + 1 Carboxylic_acid_c0)
+rxn00345:1 cpd00001_c + 1 cpd00767_c <=> 1 cpd00041_c + 1 cpd00029_c (1 H2O_c0 + 1 N_Acetyl_L_aspartate_c0 <=> 1 L_Aspartate_c0 + 1 Acetate_c0)
+rxn00376:1 cpd00001_c + 1 cpd00769_c <=> 1 cpd00041_c + 1 cpd00047_c (1 H2O_c0 + 1 N_Formyl_L_aspartate_c0 <=> 1 L_Aspartate_c0 + 1 Formate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00029_c (Acetate_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd00047_c (Formate_c0)
+cpd00049_c (Carboxylic_acid_c0)
+cpd00767_c (N_Acetyl_L_aspartate_c0)
+cpd00769_c (N_Formyl_L_aspartate_c0)
+cpd01759_c (N_Acyl_L_aspartate_c0)
+
+

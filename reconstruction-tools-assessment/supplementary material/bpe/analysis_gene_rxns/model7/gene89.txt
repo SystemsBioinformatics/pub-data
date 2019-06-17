@@ -1,0 +1,4 @@
+notRecovered:
+HGNTOR:1 hgentis_c + 1 o2_c -> 1 4mlacac_c + 1 h_c (1 2,5-dihydroxyphenylacetic acid (homogentisate) + 1 O2 -> 1 4-maleylacetoacetate + 1 H+)
+
+

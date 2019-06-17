@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+GLU6PDEHYDROG-RXN-GLC-6-P/NADP//D-6-P-GLUCONO-DELTA-LACTONE/NADPH/PROTON.55.:1 NADP_c + 1 GLC-6-P_c <=> 1 D-6-P-GLUCONO-DELTA-LACTONE_c + 1 NADPH_c + 1 PROTON_c (1 NADP+ + 1 beta-D-glucose 6-phosphate <=> 1 6-phospho D-glucono-1,5-lactone + 1 NADPH + 1 H+)
+GLU6PDEHYDROG-RXN:1 NADP_c + 1 D-glucopyranose-6-phosphate_c <=> 1 D-6-P-GLUCONO-DELTA-LACTONE_c + 1 NADPH_c + 1 PROTON_c (1 NADP+ + 1 D-glucopyranose 6-phosphate <=> 1 6-phospho D-glucono-1,5-lactone + 1 NADPH + 1 H+)
+
+
+AdditionalMetabolites:
+D-6-P-GLUCONO-DELTA-LACTONE_c (6-phospho D-glucono-1,5-lactone)
+D-glucopyranose-6-phosphate_c (D-glucopyranose 6-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

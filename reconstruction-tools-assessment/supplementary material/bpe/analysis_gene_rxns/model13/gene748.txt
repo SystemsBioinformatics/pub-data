@@ -1,0 +1,13 @@
+notRecovered:
+G1SAT:1 glu1sa_c <=> 1 5aop_c (1 L-Glutamate 1-semialdehyde <=> 1 5-Amino-4-oxopentanoate)
+
+
+AdditionalNotInModel:
+rxn02045:1 cpd00549_c <=> 1 cpd03073_c (1 D_Lysine_c0 <=> 1 2_5_Diaminohexanoate_c0)
+
+
+AdditionalMetabolites:
+cpd00549_c (D_Lysine_c0)
+cpd03073_c (2_5_Diaminohexanoate_c0)
+
+

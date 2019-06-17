@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+G3PD2:1 nadp_c + 1 glyc3p_c <=> 1 h_c + 1 nadph_c + 1 dhap_c (1 Nicotinamide adenine dinucleotide phosphate + 1 Glycerol 3-phosphate <=> 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Dihydroxyacetone phosphate)
+
+

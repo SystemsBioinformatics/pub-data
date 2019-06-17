@@ -1,0 +1,4 @@
+notRecovered:
+TYRTRS_1:1 atp_c + 1 trnatyr_c + 1 tyr__L_c -> 1 amp_c + 1 h_c + 1 ppi_c + 1 tyrtrna_c (1 M_ATP_ + 1 M_tRNA_Tyr__ + 1 M_L_Tyrosine_ -> 1 M_AMP_ + 1 M_H_ + 1 M_Diphosphate_ + 1 M_L_Tyrosyl_tRNA_Tyr__)
+
+

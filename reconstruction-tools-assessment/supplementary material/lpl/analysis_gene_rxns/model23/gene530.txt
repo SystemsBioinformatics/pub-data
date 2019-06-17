@@ -1,0 +1,21 @@
+notRecovered:
+PYROX_1:1 h_c + 1 o2_c + 1 pi_c + 1 pyr_c -> 1 actp_c + 1 co2_c + 1 h2o2_c (1 M_H_ + 1 M_O2_ + 1 M_Phosphate_ + 1 M_Pyruvate_ -> 1 M_Acetyl_phosphate_ + 1 M_CO2_ + 1 M_Hydrogen_peroxide_)
+
+
+AdditionalNotInModel:
+RXN-11496:1 PYRUVATE_c + 1 Ubiquinones_c + 1 WATER_c -> 1 ACET_c + 1 CARBON-DIOXIDE_c + 1 Ubiquinols_c (1 pyruvate + 1 Ubiquinones + 1 H2O -> 1 acetate + 1 CO2 + 1 Ubiquinols)
+RXN0-2022:1 ACETALD_c + 1 PROTON_c + 1 PYRUVATE_c -> 1 ACETOIN_c + 1 CARBON-DIOXIDE_c (1 acetaldehyde + 1 H+ + 1 pyruvate -> 1 ACETOIN + 1 CO2)
+
+
+AdditionalMetabolites:
+ACETALD_c (acetaldehyde)
+ACETOIN_c (ACETOIN)
+ACET_c (acetate)
+CARBON-DIOXIDE_c (CO2)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+Ubiquinols_c (Ubiquinols)
+Ubiquinones_c (Ubiquinones)
+WATER_c (H2O)
+
+

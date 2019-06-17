@@ -1,0 +1,2 @@
+AdditionalInModel:
+TPI:1 dhap_c <=> 1 g3p_c (1 Dihydroxyacetone phosphate <=> 1 Glyceraldehyde 3-phosphate)

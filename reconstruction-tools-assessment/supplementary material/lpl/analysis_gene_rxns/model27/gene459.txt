@@ -1,0 +1,18 @@
+notRecovered:
+ACGApts:1 acgam_e + 1 pep_c -> 1 acgam6p_c + 1 pyr_c (1 M_N_Acetyl_D_glucosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_Acetyl_D_glucosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-167:1 Hpr-pi-phospho-L-histidines_c + 1 N-acetyl-D-glucosamine_c -> 1 Hpr-Histidine_c + 1 N-ACETYL-D-GLUCOSAMINE-6-P_c (1 Hpr-pi-phospho-L-histidines + 1 N-acetyl-D-glucosamine -> 1 Hpr-Histidine + 1 N-ACETYL-D-GLUCOSAMINE-6-P)
+TRANS-RXN-167A:1 GLUCOSAMINE_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 D-GLUCOSAMINE-6-P_c + 1 Hpr-Histidine_c (1 GLUCOSAMINE + 1 Hpr-pi-phospho-L-histidines -> 1 D-GLUCOSAMINE-6-P + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+D-GLUCOSAMINE-6-P_c (D-GLUCOSAMINE-6-P)
+GLUCOSAMINE_c (GLUCOSAMINE)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+N-ACETYL-D-GLUCOSAMINE-6-P_c (N-ACETYL-D-GLUCOSAMINE-6-P)
+N-acetyl-D-glucosamine_c (N-acetyl-D-glucosamine)
+
+

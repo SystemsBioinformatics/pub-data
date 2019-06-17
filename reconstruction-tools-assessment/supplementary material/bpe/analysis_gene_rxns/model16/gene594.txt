@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R08240:1 C00001_c + 1 C00003_c + 1 C04646_c -> 1 C00004_c + 1 C00080_c + 1 C16618_c (1 H2O + 1 NAD+ + 1 6-Thioinosine-5'-monophosphate -> 1 NADH + 1 H+ + 1 6-Thioxanthine 5'-monophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C04646_c (6-Thioinosine-5'-monophosphate)
+C16618_c (6-Thioxanthine 5'-monophosphate)
+
+

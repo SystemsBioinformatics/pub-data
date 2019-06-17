@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R09769:1 C05382_c <=> 1 C19878_c (1 Sedoheptulose 7-phosphate <=> 1 D-glycero-alpha-D-manno-Heptose 7-phosphate)
+R05645:1 C05382_c <=> 1 C07836_c (1 Sedoheptulose 7-phosphate <=> 1 D-glycero-beta-D-manno-Heptose 7-phosphate)
+
+
+AdditionalMetabolites:
+C05382_c (Sedoheptulose 7-phosphate)
+C07836_c (D-glycero-beta-D-manno-Heptose 7-phosphate)
+C19878_c (D-glycero-alpha-D-manno-Heptose 7-phosphate)
+
+

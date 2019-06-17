@@ -1,0 +1,21 @@
+notRecovered:
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 2-Oxoglutarate + 1 L-Tryptophan <=> 1 L-Glutamate + 1 Indolepyruvate)
+
+
+AdditionalNotInModel:
+R00372:1 C00037_c + 1 C00026_c <=> 1 C00025_c + 1 C00048_c (1 Glycine + 1 2-Oxoglutarate <=> 1 L-Glutamate + 1 Glyoxylate)
+R00369:1 C00041_c + 1 C00048_c <=> 1 C00037_c + 1 C00022_c (1 L-Alanine + 1 Glyoxylate <=> 1 Glycine + 1 Pyruvate)
+R10992:1 C00041_c + 1 C00109_c <=> 1 C02356_c + 1 C00022_c (1 L-Alanine + 1 2-Oxobutanoate <=> 1 (S)-2-Aminobutanoate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00037_c (Glycine)
+C00041_c (L-Alanine)
+C00048_c (Glyoxylate)
+C00109_c (2-Oxobutanoate)
+C02356_c ((S)-2-Aminobutanoate)
+
+

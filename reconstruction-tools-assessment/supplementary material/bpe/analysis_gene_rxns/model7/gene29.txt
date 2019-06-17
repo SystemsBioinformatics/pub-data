@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+OGMEACPR:1 h_c + 1 ogmeACP_c + 1 nadph_c -> 1 hgmeACP_c + 1 nadp_c (1 H+ + 1 3-Oxo-glutaryl-[acyl-carrier protein] methyl ester + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester + 1 Nicotinamide adenine dinucleotide phosphate)
+OPMEACPR:1 opmeACP_c + 1 h_c + 1 nadph_c -> 1 hpmeACP_c + 1 nadp_c (1 3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+hgmeACP_c (3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester)
+hpmeACP_c (3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester)
+ogmeACP_c (3-Oxo-glutaryl-[acyl-carrier protein] methyl ester)
+opmeACP_c (3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester)
+
+

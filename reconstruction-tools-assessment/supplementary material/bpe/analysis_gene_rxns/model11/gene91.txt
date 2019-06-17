@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+RXN-17900:1 PHOSPHORIBULOSYL-FORMIMINO-AICAR-P_c + 1 AMMONIUM_c -> 1 D-ERYTHRO-IMIDAZOLE-GLYCEROL-P_c + 1 AICAR_c + 1 PROTON_c + 1 WATER_c (1 phosphoribulosylformimino-AICAR-phosphate + 1 ammonium -> 1 D-erythro-imidazole-glycerol-phosphate + 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + 1 H+ + 1 H2O)
+GLUTAMIN-RXN:1 GLN_c + 1 WATER_c -> 1 AMMONIUM_c + 1 GLT_c (1 L-glutamine + 1 H2O -> 1 ammonium + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+AICAR_c (5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide)
+AMMONIUM_c (ammonium)
+D-ERYTHRO-IMIDAZOLE-GLYCEROL-P_c (D-erythro-imidazole-glycerol-phosphate)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+PHOSPHORIBULOSYL-FORMIMINO-AICAR-P_c (phosphoribulosylformimino-AICAR-phosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

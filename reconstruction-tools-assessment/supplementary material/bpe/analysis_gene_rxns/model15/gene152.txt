@@ -1,0 +1,19 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+
+
+AdditionalNotInModel:
+R09837:1 C20062_c <=> 1 C19975_c (1 2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA <=> 1 2-Oxepin-2(3H)-ylideneacetyl-CoA)
+R09839:1 C00010_c + 1 C19945_c <=> 1 C00024_c + 1 C14144_c (1 CoA + 1 3-Oxo-5,6-dehydrosuberyl-CoA <=> 1 Acetyl-CoA + 1 5-Carboxy-2-pentenoyl-CoA)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00024_c (Acetyl-CoA)
+C14144_c (5-Carboxy-2-pentenoyl-CoA)
+C19945_c (3-Oxo-5,6-dehydrosuberyl-CoA)
+C19975_c (2-Oxepin-2(3H)-ylideneacetyl-CoA)
+C20062_c (2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA)
+
+

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+ACETYL-COA-ACETYLTRANSFER-RXN:2 ACETYL-COA_c <=> 1 ACETOACETYL-COA_c + 1 CO-A_c (2 acetyl-CoA <=> 1 acetoacetyl-CoA + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+ACETOACETYL-COA_c (acetoacetyl-CoA)
+ACETYL-COA_c (acetyl-CoA)
+CO-A_c (coenzyme A)
+
+

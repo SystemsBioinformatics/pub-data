@@ -1,0 +1,16 @@
+notRecovered:
+NFKYRH:1 h2o_c + 1 Lfmkynr_c -> 1 ala__L_c + 1 h_c + 1 nfanth_c (1 H2O + 1 N-formylkynurenine -> 1 L-Alanine + 1 H+ + 1 N-formylanthranilate)
+
+
+AdditionalNotInModel:
+3-HYDROXY-KYNURENINASE-RXN:1 3-HYDROXY-L-KYNURENINE_c + 1 WATER_c -> 1 3-HYDROXY-ANTHRANILATE_c + 1 L-ALPHA-ALANINE_c + 1 PROTON_c (1 3-hydroxy-L-kynurenine + 1 H2O -> 1 3-hydroxyanthranilate + 1 L-alanine + 1 H+)
+
+
+AdditionalMetabolites:
+3-HYDROXY-ANTHRANILATE_c (3-hydroxyanthranilate)
+3-HYDROXY-L-KYNURENINE_c (3-hydroxy-L-kynurenine)
+L-ALPHA-ALANINE_c (L-alanine)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

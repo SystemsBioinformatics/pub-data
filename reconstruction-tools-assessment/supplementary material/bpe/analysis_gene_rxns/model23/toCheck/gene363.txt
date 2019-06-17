@@ -1,0 +1,16 @@
+notRecovered:
+P5CR:1 1pyr5c_c + 2 h_c + 1 nadph_c <=> 1 nadp_c + 1 pro__L_c (1 1-Pyrroline-5-carboxylate + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced <=> 1 Nicotinamide adenine dinucleotide phosphate + 1 L-Proline)
+
+
+AdditionalNotInModel:
+PYRROLINECARBREDUCT-RXN:1 L-DELTA1-PYRROLINE_5-CARBOXYLATE_c + 1 NADH-P-OR-NOP_c + 2 PROTON_c -> 1 NAD-P-OR-NOP_c + 1 PRO_c (1 (S)-1-pyrroline-5-carboxylate + 1 NADH-P-OR-NOP + 2 H+ -> 1 NAD-P-OR-NOP + 1 L-proline)
+
+
+AdditionalMetabolites:
+L-DELTA1-PYRROLINE_5-CARBOXYLATE_c ((S)-1-pyrroline-5-carboxylate)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+PROTON_c (H+)
+PRO_c (L-proline)
+
+

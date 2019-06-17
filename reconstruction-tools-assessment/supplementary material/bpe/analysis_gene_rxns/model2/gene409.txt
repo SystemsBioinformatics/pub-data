@@ -1,0 +1,8 @@
+notRecovered:
+ASNt3pp:1 asn__L_c + 1 h_p -> 1 asn__L_p + 1 h_c (1 L-Asparagine + 1 H+ -> 1 L-Asparagine + 1 H+)
+GLNt3pp:1 gln__L_c + 1 h_p -> 1 gln__L_p + 1 h_c (1 L-Glutamine + 1 H+ -> 1 L-Glutamine + 1 H+)
+ACSERtpp:1 acser_c -> 1 acser_p (1 O-Acetyl-L-serine -> 1 O-Acetyl-L-serine)
+
+
+AdditionalInModel:
+CYStpp:1 cys__L_c -> 1 cys__L_p (1 L-Cysteine -> 1 L-Cysteine)

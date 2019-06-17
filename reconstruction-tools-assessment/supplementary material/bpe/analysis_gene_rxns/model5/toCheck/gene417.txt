@@ -1,0 +1,13 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+NO3R1bpp:1 no3_p + 1 q8h2_c -> 1 h2o_p + 1 no2_p + 1 q8_c (1 Nitrate + 1 Ubiquinol-8 -> 1 H2O H2O + 1 Nitrite + 1 Ubiquinone-8)
+
+
+AdditionalMetabolites:
+no2_p (Nitrite)
+
+

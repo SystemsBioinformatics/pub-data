@@ -1,0 +1,18 @@
+notRecovered:
+GALTpts:1 galt_e + 1 pep_c -> 1 galt1p_c + 1 pyr_c (1 M_Galactitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Galactitol_1_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-169:1 Hpr-pi-phospho-L-histidines_c + 1 SORBITOL_c -> 1 D-SORBITOL-6-P_c + 1 Hpr-Histidine_c (1 Hpr-pi-phospho-L-histidines + 1 D-sorbitol -> 1 D-sorbitol 6-phosphate + 1 Hpr-Histidine)
+TRANS-RXN-161:1 GALACTITOL_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 GALACTITOL-1-PHOSPHATE_c + 1 Hpr-Histidine_c (1 D-galactitol + 1 Hpr-pi-phospho-L-histidines -> 1 galactitol 1-phosphate + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+D-SORBITOL-6-P_c (D-sorbitol 6-phosphate)
+GALACTITOL-1-PHOSPHATE_c (galactitol 1-phosphate)
+GALACTITOL_c (D-galactitol)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+SORBITOL_c (D-sorbitol)
+
+

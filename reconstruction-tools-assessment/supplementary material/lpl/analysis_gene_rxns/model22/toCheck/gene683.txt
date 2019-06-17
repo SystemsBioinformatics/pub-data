@@ -1,0 +1,51 @@
+notRecovered:
+METB1:1 achms_c + 1 cys__L_c -> 1 ac_c + 1 cyst__L_c + 1 h_c (1 M_O_Acetyl_L_homoserine_ + 1 M_L_Cysteine_ -> 1 M_Acetate_ + 1 M_L_Cystathionine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R00654:1 C00001_c + 1 C00073_c -> 1 C00014_c + 1 C00109_c + 1 C00409_c (1 H2O + 1 L-Methionine -> 1 Ammonia + 1 2-Oxobutanoate + 1 Methanethiol)
+R00782:1 C00001_c + 1 C00097_c <=> 1 C00014_c + 1 C00022_c + 1 C00283_c (1 H2O + 1 L-Cysteine <=> 1 Ammonia + 1 Pyruvate + 1 Hydrogen sulfide)
+R01001:1 C00001_c + 1 C02291_c <=> 1 C00014_c + 1 C00097_c + 1 C00109_c (1 H2O + 1 L-Cystathionine <=> 1 Ammonia + 1 L-Cysteine + 1 2-Oxobutanoate)
+R01283:1 C00001_c + 1 C00155_c -> 1 C00014_c + 1 C00109_c + 1 C00283_c (1 H2O + 1 L-Homocysteine -> 1 Ammonia + 1 2-Oxobutanoate + 1 Hydrogen sulfide)
+R01286:1 C00001_c + 1 C02291_c <=> 1 C00014_c + 1 C00022_c + 1 C00155_c (1 H2O + 1 L-Cystathionine <=> 1 Ammonia + 1 Pyruvate + 1 L-Homocysteine)
+R01287:1 C00283_c + 1 C01077_c <=> 1 C00033_c + 1 C00155_c (1 Hydrogen sulfide + 1 O-Acetyl-L-homoserine <=> 1 Acetate + 1 L-Homocysteine)
+R01288:1 C00283_c + 1 C01118_c <=> 1 C00042_c + 1 C00155_c (1 Hydrogen sulfide + 1 O-Succinyl-L-homoserine <=> 1 Succinate + 1 L-Homocysteine)
+R02408:1 C00001_c + 1 C00491_c -> 1 C00014_c + 1 C00022_c + 1 C01962_c (1 H2O + 1 L-Cystine -> 1 Ammonia + 1 Pyruvate + 1 Thiocysteine)
+R04770:1 C00001_c + 1 C05335_c -> 1 C00014_c + 1 C00109_c + 1 C05703_c (1 H2O + 1 L-Selenomethionine -> 1 Ammonia + 1 2-Oxobutanoate + 1 Methaneselenol)
+R04859:1 C00080_c + 1 C00320_c + 1 C00342_c + 1 C00979_c <=> 1 C00033_c + 1 C00094_c + 1 C00097_c + 1 C00343_c (1 H+ + 1 Thiosulfate + 1 Thioredoxin + 1 O-Acetyl-L-serine <=> 1 Acetate + 1 Sulfite + 1 L-Cysteine + 1 Thioredoxin disulfide)
+R04930:1 C00001_c + 1 C05699_c <=> 1 C00014_c + 1 C00109_c + 1 C05688_c (1 H2O + 1 L-Selenocystathionine <=> 1 Ammonia + 1 2-Oxobutanoate + 1 L-Selenocysteine)
+R04941:1 C00001_c + 1 C05699_c -> 1 C00014_c + 1 C00022_c + 1 C05698_c (1 H2O + 1 L-Selenocystathionine -> 1 Ammonia + 1 Pyruvate + 1 Selenohomocysteine)
+R09366:1 C00001_c + 1 C05689_c -> 1 C00014_c + 1 C00022_c + 1 C05703_c (1 H2O + 1 Se-Methyl-L-selenocysteine -> 1 Ammonia + 1 Pyruvate + 1 Methaneselenol)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00033_c (Acetate)
+C00042_c (Succinate)
+C00073_c (L-Methionine)
+C00080_c (H+)
+C00094_c (Sulfite)
+C00097_c (L-Cysteine)
+C00109_c (2-Oxobutanoate)
+C00155_c (L-Homocysteine)
+C00283_c (Hydrogen sulfide)
+C00320_c (Thiosulfate)
+C00342_c (Thioredoxin)
+C00343_c (Thioredoxin disulfide)
+C00409_c (Methanethiol)
+C00491_c (L-Cystine)
+C00979_c (O-Acetyl-L-serine)
+C01077_c (O-Acetyl-L-homoserine)
+C01118_c (O-Succinyl-L-homoserine)
+C01962_c (Thiocysteine)
+C02291_c (L-Cystathionine)
+C05335_c (L-Selenomethionine)
+C05688_c (L-Selenocysteine)
+C05689_c (Se-Methyl-L-selenocysteine)
+C05698_c (Selenohomocysteine)
+C05699_c (L-Selenocystathionine)
+C05703_c (Methaneselenol)
+
+

@@ -1,0 +1,8 @@
+notRecovered:
+AALDH:1 h_c + 1 nadh_c + 1 pacald_c <=> 1 nad_c + 1 pea_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Phenylacetaldehyde_ <=> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Phenylethyl_alcohol_)
+
+
+AdditionalNotInModel:
+PYRDC:1 h_c + 1 pyr_c -> 1 acald_c + 1 co2_c (1 H+ + 1 Pyruvate -> 1 Acetaldehyde + 1 CO2 CO2)
+
+

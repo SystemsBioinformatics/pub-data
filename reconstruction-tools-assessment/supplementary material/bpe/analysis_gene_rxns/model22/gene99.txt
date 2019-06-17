@@ -1,0 +1,14 @@
+notRecovered:
+UAG2E:1 uacgam_c <=> 1 uacmam_c (1 UDP-N-acetyl-D-glucosamine <=> 1 UDP-N-acetyl-D-mannosamine)
+UAC3NACGAMAE_BP:1 uac3nacgama_c <=> 1 uacmamnaca_c (1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate <=> 1 UDP-2-N-acetyl-3-N-acetyl-D-mannosaminuronate)
+
+
+AdditionalNotInModel:
+5.1.3.23-RXN:1 CPD-10313_c -> 1 CPD-10314_c (1 UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate -> 1 UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate)
+
+
+AdditionalMetabolites:
+CPD-10313_c (UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate)
+CPD-10314_c (UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate)
+
+

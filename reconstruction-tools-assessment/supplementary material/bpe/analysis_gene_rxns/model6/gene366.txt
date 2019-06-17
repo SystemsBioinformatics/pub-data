@@ -1,0 +1,16 @@
+notRecovered:
+HXAND:1 h2o_c + 1 hxan_c + 1 nad_c -> 1 h_c + 1 nadh_c + 1 xan_c (1 H2O + 1 Hypoxanthine + 1 Nicotinamide adenine dinucleotide -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Xanthine)
+
+
+AdditionalNotInModel:
+CODH2r:1 co_c + 2 fdox_c + 1 h2o_c <=> 1 co2_c + 2 fdred_c + 2 h_c (1 Carbon monoxide + 2 Ferredoxin (oxidized) 2[4Fe-4S] + 1 H2O H2O <=> 1 CO2 CO2 + 2 Ferredoxin (reduced) 2[4Fe-4S] + 2 H+)
+CODH3:1 adfdOX_c + 2 co_c + 2 h2o_c -> 1 adfdRD_c + 2 co2_c + 2 h_c (1 Oxidized adrenal ferredoxin + 2 Carbon monoxide + 2 H2O H2O -> 1 Reduced adrenal ferredoxin + 2 CO2 CO2 + 2 H+)
+
+
+AdditionalMetabolites:
+adfdOX_c (Oxidized adrenal ferredoxin)
+adfdRD_c (Reduced adrenal ferredoxin)
+fdox_c (Ferredoxin (oxidized) 2[4Fe-4S])
+fdred_c (Ferredoxin (reduced) 2[4Fe-4S])
+
+

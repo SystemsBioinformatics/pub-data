@@ -1,0 +1,15 @@
+notRecovered:
+GLYCLTt4pp:1 glyclt_p + 1 na1_p -> 1 glyclt_c + 1 na1_c (1 Glycolate + 1 Sodium -> 1 Glycolate + 1 Sodium)
+
+
+AdditionalNotInModel:
+BUTt4pp:1 na1_p + 1 but_p -> 1 na1_c + 1 but_c (1 Sodium + 1 Butyrate (n-C4:0) -> 1 Sodium + 1 Butyrate (n-C4:0))
+PPAt4pp:1 na1_p + 1 ppa_p -> 1 na1_c + 1 ppa_c (1 Sodium + 1 Propionate (n-C3:0) -> 1 Sodium + 1 Propionate (n-C3:0))
+PYRt4pp:1 na1_p + 1 pyr_p -> 1 pyr_c + 1 na1_c (1 Sodium + 1 Pyruvate -> 1 Pyruvate + 1 Sodium)
+
+
+AdditionalInModel:
+ACt2rpp:1 h_p + 1 ac_p <=> 1 h_c + 1 ac_c (1 H+ + 1 Acetate <=> 1 H+ + 1 Acetate)
+BUTt2rpp:1 h_p + 1 but_p <=> 1 h_c + 1 but_c (1 H+ + 1 Butyrate (n-C4:0) <=> 1 H+ + 1 Butyrate (n-C4:0))
+PPAt2pp:1 h_p + 1 ppa_p -> 1 h_c + 1 ppa_c (1 H+ + 1 Propionate (n-C3:0) -> 1 H+ + 1 Propionate (n-C3:0))
+PYRt2rpp:1 h_p + 1 pyr_p <=> 1 h_c + 1 pyr_c (1 H+ + 1 Pyruvate <=> 1 H+ + 1 Pyruvate)

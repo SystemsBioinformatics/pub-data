@@ -1,0 +1,13 @@
+notRecovered:
+MECDPDH2:1 2mecdp_c + 1 nadh_c -> 1 h2mb4p_c + 1 h2o_c + 1 nad_c (1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate + 1 Nicotinamide adenine dinucleotide - reduced -> 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H2O + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+MECDPDH5:1 2mecdp_c + 2 flxr_c + 1 h_c -> 2 flxso_c + 1 h2mb4p_c + 1 h2o_c (1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate + 2 Flavodoxin reduced + 1 H+ -> 2 Flavodoxin semi oxidized + 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+flxr_c (Flavodoxin reduced)
+flxso_c (Flavodoxin semi oxidized)
+
+

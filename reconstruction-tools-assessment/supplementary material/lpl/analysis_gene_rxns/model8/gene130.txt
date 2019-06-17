@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+RAFH:1 h2o_c + 1 raffin_c -> 1 fru_c + 1 melib_c (1 H2O H2O + 1 Raffinose C18H32O16 -> 1 D-Fructose + 1 Melibiose C12H22O11)
+
+
+AdditionalInModel:
+SUCR:1 h2o_c + 1 sucr_c -> 1 glc__D_c + 1 fru_c (1 H2O H2O + 1 Sucrose C12H22O11 -> 1 D-Glucose + 1 D-Fructose)

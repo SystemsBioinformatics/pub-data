@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+RXN-16165:1 ATP_c + 1 Initiation-tRNAmet_c + 1 MET_c -> 1 AMP_c + 1 L-methionyl-tRNAfmet_c + 1 PPI_c (1 ATP + 1 Initiation-tRNAmet + 1 L-methionine -> 1 AMP + 1 L-methionyl-tRNAfmet + 1 diphosphate)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+Initiation-tRNAmet_c (Initiation-tRNAmet)
+L-methionyl-tRNAfmet_c (L-methionyl-tRNAfmet)
+MET_c (L-methionine)
+PPI_c (diphosphate)
+
+

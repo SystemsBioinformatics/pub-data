@@ -1,0 +1,17 @@
+notRecovered:
+FALDH2:1 hmgth_c + 1 nad_c <=> 1 Sfglutth_c + 1 h_c + 1 nadh_c (1 hydroxymethylglutathione + 1 Nicotinamide adenine dinucleotide <=> 1 S-Formylglutathione + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 acald_c + 1 h_c + 1 nadh_c (1 Ethanol + 1 Nicotinamide adenine dinucleotide <=> 1 Acetaldehyde + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+RXN-2962:1 NAD-P-OR-NOP_c + 1 S-HYDROXYMETHYLGLUTATHIONE_c -> 1 CPD-548_c + 1 NADH-P-OR-NOP_c + 1 PROTON_c (1 NAD-P-OR-NOP + 1 S-(hydroxymethyl)glutathione -> 1 S-formylglutathione + 1 NADH-P-OR-NOP + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-548_c (S-formylglutathione)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+PROTON_c (H+)
+S-HYDROXYMETHYLGLUTATHIONE_c (S-(hydroxymethyl)glutathione)
+
+

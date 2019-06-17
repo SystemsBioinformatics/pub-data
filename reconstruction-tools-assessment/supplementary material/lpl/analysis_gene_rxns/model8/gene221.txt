@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+FRTT:1 ipdp_c + 1 frdp_c -> 1 ggdp_c + 1 ppi_c (1 Isopentenyl diphosphate + 1 Farnesyl diphosphate -> 1 Geranylgeranyl diphosphate C20H33O7P2 + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+ggdp_c (Geranylgeranyl diphosphate C20H33O7P2)
+
+

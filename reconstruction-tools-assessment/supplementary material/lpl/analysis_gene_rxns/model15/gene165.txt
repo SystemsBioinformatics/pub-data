@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+rxn00549:1 cpd00001_c + 1 cpd00290_c -> 1 cpd00009_c + 1 cpd00072_c (1 H2O_c0 + 1 D_fructose_1_6_bisphosphate_c0 -> 1 Phosphate_c0 + 1 D_fructose_6_phosphate_c0)
+rxn01345:1 cpd00001_c + 1 cpd00349_c -> 1 cpd00009_c + 1 cpd00238_c (1 H2O_c0 + 1 Sedoheptulose_1_7_bisphosphate_c0 -> 1 Phosphate_c0 + 1 Sedoheptulose7_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00072_c (D_fructose_6_phosphate_c0)
+cpd00238_c (Sedoheptulose7_phosphate_c0)
+cpd00290_c (D_fructose_1_6_bisphosphate_c0)
+cpd00349_c (Sedoheptulose_1_7_bisphosphate_c0)
+
+

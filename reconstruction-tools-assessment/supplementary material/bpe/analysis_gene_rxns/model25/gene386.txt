@@ -1,0 +1,18 @@
+notRecovered:
+LYSDC:1 h_c + 1 lys__L_c -> 1 15dap_c + 1 co2_c (1 H+ + 1 L-Lysine -> 1 1,5-Diaminopentane + 1 CO2)
+
+
+AdditionalNotInModel:
+RXN-4314:1 CPD-4206_c + 1 WATER_c -> 1 CPD-15317_c + 1 CPD-4210_c (1 trans-zeatin riboside monophosphate + 1 H2O -> 1 CPD-15317 + 1 trans-zeatin)
+RXN-4313:1 CPD-4205_c + 1 WATER_c -> 1 CPD-15317_c + 1 CPD-4209_c (1 N6-(Delta2-isopentenyl)-adenosine 5'-monophosphate + 1 H2O -> 1 CPD-15317 + 1 N6-dimethylallyladenine)
+
+
+AdditionalMetabolites:
+CPD-15317_c (CPD-15317)
+CPD-4205_c (N6-(Delta2-isopentenyl)-adenosine 5'-monophosphate)
+CPD-4206_c (trans-zeatin riboside monophosphate)
+CPD-4209_c (N6-dimethylallyladenine)
+CPD-4210_c (trans-zeatin)
+WATER_c (H2O)
+
+

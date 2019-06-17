@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R04773:1 C05335_c + 1 C01647_c + 1 C00002_c <=> 1 C05336_c + 1 C00020_c + 1 C00013_c (1 L-Selenomethionine + 1 tRNA(Met) + 1 ATP <=> 1 Selenomethionyl-tRNA(Met) + 1 AMP + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C01647_c (tRNA(Met))
+C05335_c (L-Selenomethionine)
+C05336_c (Selenomethionyl-tRNA(Met))
+
+

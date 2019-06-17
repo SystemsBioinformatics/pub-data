@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R00994:1 C00109_c + 1 C00011_c + 1 C00080_c + 1 C00004_c <=> 1 C06032_c + 1 C00003_c (1 2-Oxobutanoate + 1 CO2 + 1 H+ + 1 NADH <=> 1 D-erythro-3-Methylmalate + 1 NAD+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00011_c (CO2)
+C00080_c (H+)
+C00109_c (2-Oxobutanoate)
+C06032_c (D-erythro-3-Methylmalate)
+
+

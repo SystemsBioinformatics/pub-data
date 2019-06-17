@@ -1,0 +1,17 @@
+notRecovered:
+FTHFLi:1 atp_c + 1 for_c + 1 thf_c -> 1 10fthf_c + 1 adp_c + 1 pi_c (1 M_ATP_ + 1 M_Formate_ + 1 M_5_6_7_8_Tetrahydrofolate_ -> 1 M_10_Formyltetrahydrofolate_ + 1 M_ADP_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+FORMATETHFLIG-RXN:1 THF-GLU-N_c + 1 FORMATE_c + 1 ATP_c <=> 1 FORMYL-THF-GLU-N_c + 1 ADP_c + 1 Pi_c (1 a tetrahydrofolate + 1 formate + 1 ATP <=> 1 a 10-formyltetrahydrofolate + 1 ADP + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+FORMATE_c (formate)
+FORMYL-THF-GLU-N_c (a 10-formyltetrahydrofolate)
+Pi_c (phosphate)
+THF-GLU-N_c (a tetrahydrofolate)
+
+

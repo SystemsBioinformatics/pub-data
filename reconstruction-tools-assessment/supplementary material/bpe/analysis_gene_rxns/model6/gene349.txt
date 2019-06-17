@@ -1,0 +1,8 @@
+notRecovered:
+ZNabcpp:1 atp_c + 1 h2o_c + 1 zn2_p -> 1 adp_c + 1 h_c + 1 pi_c + 1 zn2_c (1 ATP + 1 H2O + 1 Zinc -> 1 ADP + 1 H+ + 1 Phosphate + 1 Zinc)
+
+
+AdditionalNotInModel:
+MNabc_1:1 atp_c + 1 h2o_c + 1 mn2_p -> 1 adp_c + 1 h_c + 1 mn2_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Manganese -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 Manganese + 1 Phosphate)
+
+

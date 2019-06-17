@@ -1,0 +1,8 @@
+notRecovered:
+DHORD6:1 dhor__S_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 orot_c (1 M__S__Dihydroorotate_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Orotate_)
+
+
+AdditionalNotInModel:
+DHORDi:1 o2_c + 1 dhor__S_c -> 1 h2o2_c + 1 orot_c (1 O2 + 1 (S)-Dihydroorotate -> 1 Hydrogen peroxide + 1 Orotate)
+
+

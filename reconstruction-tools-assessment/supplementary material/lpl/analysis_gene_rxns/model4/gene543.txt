@@ -1,0 +1,4 @@
+notRecovered:
+TMPPP:1 2mahmp_c + 1 4mpetz_c + 1 h_c -> 1 ppi_c + 1 thmmp_c (1 M_2_Methyl_4_amino_5_hydroxymethylpyrimidine_diphosphate_ + 1 M_4_Methyl_5__2_phosphoethyl__thiazole_ + 1 M_H_ -> 1 M_Diphosphate_ + 1 M_Thiamin_monophosphate_)
+
+

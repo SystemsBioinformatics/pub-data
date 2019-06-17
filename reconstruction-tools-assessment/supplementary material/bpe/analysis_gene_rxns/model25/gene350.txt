@@ -1,0 +1,20 @@
+notRecovered:
+CLPNS120pp:2 pg120_p <=> 1 clpn120_p + 1 glyc_p (2 Phosphatidylglycerol (didodecanoyl, n-C12:0) <=> 1 cardiolipin (tetradodecanoyl, n-C12:0) + 1 Glycerol)
+CLPNS141pp:2 pg141_p <=> 1 clpn141_p + 1 glyc_p (2 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) <=> 1 cardiolipin (tetratetradec-7-enoyl, n-C14:1) + 1 Glycerol)
+CLPNS161pp:2 pg161_p <=> 1 clpn161_p + 1 glyc_p (2 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) <=> 1 cardiolipin (tetrahexadec-9-enoyl, n-C16:1) + 1 Glycerol)
+CLPNS160pp:2 pg160_p <=> 1 clpn160_p + 1 glyc_p (2 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) <=> 1 cardiolipin (tetrahexadecanoyl, n-C16:0) + 1 Glycerol)
+CLPNS181pp:2 pg181_p <=> 1 clpn181_p + 1 glyc_p (2 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) <=> 1 cardiolipin (tetraoctadec-11-enoyl, n-C18:1) + 1 Glycerol)
+CLPNS180pp:2 pg180_p <=> 1 clpn180_p + 1 glyc_p (2 Phosphatidylglycerol (dioctadecanoyl, n-C18:0) <=> 1 cardiolipin (tetraoctadecanoyl, n-C18:0) + 1 Glycerol)
+CLPNS140pp:2 pg140_p <=> 1 clpn140_p + 1 glyc_p (2 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) <=> 1 cardiolipin (tetratetradecanoyl, n-C14:0) + 1 Glycerol)
+
+
+AdditionalNotInModel:
+CARDIOLIPSYN-RXN:2 L-1-PHOSPHATIDYL-GLYCEROL_c -> 1 CARDIOLIPIN_c + 1 GLYCEROL_c (2 L-1-PHOSPHATIDYL-GLYCEROL -> 1 CARDIOLIPIN + 1 glycerol)
+
+
+AdditionalMetabolites:
+CARDIOLIPIN_c (CARDIOLIPIN)
+GLYCEROL_c (glycerol)
+L-1-PHOSPHATIDYL-GLYCEROL_c (L-1-PHOSPHATIDYL-GLYCEROL)
+
+

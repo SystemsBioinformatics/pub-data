@@ -1,0 +1,18 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 5-Methyltetrahydrofolate + 1 L-Homocysteine -> 1 H+ + 1 L-Methionine + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+R04405:1 C00155_c + 1 C04489_c <=> 1 C00073_c + 1 C04144_c (1 L-Homocysteine + 1 5-Methyltetrahydropteroyltri-L-glutamate <=> 1 L-Methionine + 1 Tetrahydropteroyltri-L-glutamate)
+R09365:1 C04489_c + 1 C05698_c <=> 1 C05335_c + 1 C04144_c (1 5-Methyltetrahydropteroyltri-L-glutamate + 1 Selenohomocysteine <=> 1 L-Selenomethionine + 1 Tetrahydropteroyltri-L-glutamate)
+
+
+AdditionalMetabolites:
+C00073_c (L-Methionine)
+C00155_c (L-Homocysteine)
+C04144_c (Tetrahydropteroyltri-L-glutamate)
+C04489_c (5-Methyltetrahydropteroyltri-L-glutamate)
+C05335_c (L-Selenomethionine)
+C05698_c (Selenohomocysteine)
+
+

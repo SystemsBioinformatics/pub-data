@@ -1,0 +1,16 @@
+notRecovered:
+NADH5:1 h_c + 1 nadh_c + 1 q8_c -> 1 nad_c + 1 q8h2_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00281:1 C00004_c + 1 C00028_c + 1 C00080_c <=> 1 C00003_c + 1 C00030_c (1 NADH + 1 Acceptor + 1 H+ <=> 1 NAD+ + 1 Reduced acceptor)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00080_c (H+)
+
+

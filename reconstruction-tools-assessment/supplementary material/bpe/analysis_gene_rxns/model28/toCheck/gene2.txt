@@ -1,0 +1,16 @@
+notRecovered:
+UNK3:1 glu__L_c + 1 2kmb_c <=> 1 akg_c + 1 met__L_c (1 L-Glutamate + 1 2-keto-4-methylthiobutanoate <=> 1 2-Oxoglutarate + 1 L-Methionine)
+HISTA:1 akg_c + 1 his__L_c <=> 1 glu__L_c + 1 impyr_c (1 2-Oxoglutarate + 1 L-Histidine <=> 1 L-Glutamate + 1 Imidazole pyruvate)
+
+
+AdditionalNotInModel:
+R08618:1 C00161_c + 1 C00073_c <=> 1 C00151_c + 1 C01180_c (1 2-Oxo acid + 1 L-Methionine <=> 1 L-Amino acid + 1 4-Methylthio-2-oxobutanoic acid)
+
+
+AdditionalMetabolites:
+C00073_c (L-Methionine)
+C00151_c (L-Amino acid)
+C00161_c (2-Oxo acid)
+C01180_c (4-Methylthio-2-oxobutanoic acid)
+
+

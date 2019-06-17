@@ -1,0 +1,6 @@
+notRecovered:
+2HXICDH:1 4mop_c + 1 h_c + 1 nadh_c <=> 1 2hxic__L_c + 1 nad_c (1 M_4_Methyl_2_oxopentanoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_L_2_hydroxyisocaproate_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalInModel:
+MDH:1 nad_c + 1 mal__L_c <=> 1 nadh_c + 1 oaa_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 L-Malate <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Oxaloacetate + 1 H+)

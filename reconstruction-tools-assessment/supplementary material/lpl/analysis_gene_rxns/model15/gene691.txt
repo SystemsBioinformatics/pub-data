@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn06062:1 cpd00001_c + 1 cpd12064_c <=> 1 cpd00067_c + 1 cpd00049_c + 1 cpd00266_c (1 H2O_c0 + 1 O_Acylcarnitine_c0 <=> 1 H_plus__c0 + 1 Carboxylic_acid_c0 + 1 Carnitine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00049_c (Carboxylic_acid_c0)
+cpd00067_c (H_plus__c0)
+cpd00266_c (Carnitine_c0)
+cpd12064_c (O_Acylcarnitine_c0)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+GLCNUNDFUCMANT_BP:1 uacgam_c + 1 undpfucman_c -> 1 h_c + 1 udp_c + 1 undpfucmanglcn_BP_c (1 UDP-N-acetyl-D-glucosamine + 1 undecaprenyl-diphosphate-(2-N-acetyl-4-aminomethyl)-fucose-(2-N-acetyl-3-N-acetyl)-D-mannosaminuronate -> 1 H+ + 1 UDP + 1 undecaprenyl-diphosphate-(2-N-acetyl-4-aminomethyl)-fucose-(2-N-acetyl-3-N-acetyl)-D-mannosaminuronate-(N-acetyl)-glucosamine)
+
+
+AdditionalNotInModel:
+RXN-15377:1 CPD-16606_c + 1 CPD-9646_c -> 1 CPD-16607_c + 1 UMP_c (1 UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-galactose + 1 di-trans,octa-cis-undecaprenyl phosphate -> 1 2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-galactosyl-diphospho-ditrans,octacis-undecaprenol + 1 UMP)
+
+
+AdditionalMetabolites:
+CPD-16606_c (UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-galactose)
+CPD-16607_c (2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-galactosyl-diphospho-ditrans,octacis-undecaprenol)
+CPD-9646_c (di-trans,octa-cis-undecaprenyl phosphate)
+UMP_c (UMP)
+
+

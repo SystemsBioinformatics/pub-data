@@ -1,0 +1,16 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+ECOAH1:1 3hbcoa_c <=> 1 b2coa_c + 1 h2o_c (1 (S)-3-Hydroxybutanoyl-CoA <=> 1 Crotonoyl-CoA + 1 H2O)
+
+
+AdditionalNotInModel:
+CARNDETRU-RXN:1 L-CARNITINYL-COA_c <=> 1 CROTONOBETAINYL-COA_c + 1 WATER_c (1 L-carnitinyl-CoA <=> 1 crotonobetainyl-CoA + 1 H2O)
+
+
+AdditionalMetabolites:
+CROTONOBETAINYL-COA_c (crotonobetainyl-CoA)
+L-CARNITINYL-COA_c (L-carnitinyl-CoA)
+WATER_c (H2O)
+
+

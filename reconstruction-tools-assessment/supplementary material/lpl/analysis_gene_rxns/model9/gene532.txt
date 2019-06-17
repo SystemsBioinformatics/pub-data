@@ -1,0 +1,19 @@
+notRecovered:
+PYROX_1:1 h_c + 1 o2_c + 1 pi_c + 1 pyr_c -> 1 actp_c + 1 co2_c + 1 h2o2_c (1 M_H_ + 1 M_O2_ + 1 M_Phosphate_ + 1 M_Pyruvate_ -> 1 M_Acetyl_phosphate_ + 1 M_CO2_ + 1 M_Hydrogen_peroxide_)
+
+
+AdditionalNotInModel:
+GLXCBL:2 glx_c + 1 h_c -> 1 2h3opp_c + 1 co2_c (2 Glyoxylate + 1 H+ -> 1 2 Hydroxy 3 oxopropanoate C3H3O4 + 1 CO2 CO2)
+POX2:1.5 o2_c + 1 pyr_c + 1 pi_c + 1 h_c + 1 h2o_c -> 1 co2_c + 1 actp_c + 2 h2o2_c (1.5 O2 O2 + 1 Pyruvate + 1 Phosphate + 1 H+ + 1 H2O H2O -> 1 CO2 CO2 + 1 Acetyl phosphate + 2 Hydrogen peroxide)
+POX:1 pyr_c + 1 q8_c + 1 h2o_c -> 1 co2_c + 1 ac_c + 1 q8h2_c (1 Pyruvate + 1 Ubiquinone-8 + 1 H2O H2O -> 1 CO2 CO2 + 1 Acetate + 1 Ubiquinol-8)
+
+
+AdditionalMetabolites:
+2h3opp_c (2 Hydroxy 3 oxopropanoate C3H3O4)
+glx_c (Glyoxylate)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+
+AdditionalInModel:
+ACLS:2 pyr_c + 1 h_c -> 1 co2_c + 1 alac__S_c (2 Pyruvate + 1 H+ -> 1 CO2 CO2 + 1 (S)-2-Acetolactate)

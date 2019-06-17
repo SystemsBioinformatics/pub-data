@@ -1,0 +1,8 @@
+notRecovered:
+CLt3_2pp:2 cl_p + 1 h_c -> 2 cl_c + 1 h_p (2 Chloride + 1 H+ -> 2 Chloride + 1 H+)
+
+
+AdditionalNotInModel:
+CLt3_1pp:1 cl_c + 1 h_c -> 1 cl_p + 1 h_p (1 Chloride + 1 H+ -> 1 Chloride + 1 H+)
+
+

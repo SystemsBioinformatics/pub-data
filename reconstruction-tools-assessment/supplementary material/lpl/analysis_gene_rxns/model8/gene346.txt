@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GTPCII:3 h2o_c + 1 gtp_c -> 1 ppi_c + 1 for_c + 1 25dhpp_c + 2 h_c (3 H2O H2O + 1 GTP C10H12N5O14P3 -> 1 Diphosphate + 1 Formate + 1 2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P + 2 H+)
+
+
+AdditionalMetabolites:
+25dhpp_c (2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P)
+
+

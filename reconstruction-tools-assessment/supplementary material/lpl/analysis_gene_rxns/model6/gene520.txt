@@ -1,0 +1,2 @@
+AdditionalInModel:
+YUMPS_copy1:1 r5p_c + 1 ura_c -> 1 h2o_c + 1 psd5p_c (1 Alpha-D-Ribose 5-phosphate + 1 Uracil -> 1 H2O H2O + 1 Pseudouridine 5  phosphate C9H11N2O9P)

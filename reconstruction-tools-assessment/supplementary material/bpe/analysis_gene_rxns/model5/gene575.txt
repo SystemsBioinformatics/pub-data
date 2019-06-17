@@ -1,0 +1,15 @@
+notRecovered:
+THZPSN:1 atp_c + 1 cys__L_c + 1 dxyl5p_c + 1 tyr__L_c -> 1 4hba_c + 1 4mpetz_c + 1 ala__L_c + 1 amp_c + 1 co2_c + 1 h2o_c + 1 h_c + 1 ppi_c (1 ATP + 1 L-Cysteine + 1 1-deoxy-D-xylulose 5-phosphate + 1 L-Tyrosine -> 1 4-Hydroxy-benzyl alcohol + 1 4-Methyl-5-(2-phosphoethyl)-thiazole + 1 L-Alanine + 1 AMP + 1 CO2 + 1 H2O + 1 H+ + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+DXYTST:1 dxyl5p_c + 1 imgly_c + 1 thissh_c -> 1 2c4mthzep_c + 2 h2o_c + 1 h_c + 1 this_c (1 1-deoxy-D-xylulose 5-phosphate + 1 Iminoglycine + 1 Thiamine biosynthesis intermediate 5 -> 1 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + 2 H2O H2O + 1 H+ + 1 Thiamine biosynthesis intermediate 1)
+
+
+AdditionalMetabolites:
+2c4mthzep_c (2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate)
+imgly_c (Iminoglycine)
+this_c (Thiamine biosynthesis intermediate 1)
+thissh_c (Thiamine biosynthesis intermediate 5)
+
+

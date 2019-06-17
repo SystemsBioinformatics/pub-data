@@ -1,0 +1,13 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 UDPglucose <=> 1 UDPgalactose)
+
+
+AdditionalNotInModel:
+TDPGDH:1 dtdpglu_c -> 1 dtdp4d6dg_c + 1 h2o_c (1 DTDPglucose -> 1 DTDP-4-dehydro-6-deoxy-D-glucose + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+dtdp4d6dg_c (DTDP-4-dehydro-6-deoxy-D-glucose)
+dtdpglu_c (DTDPglucose)
+
+

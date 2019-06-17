@@ -1,0 +1,17 @@
+notRecovered:
+ALCE:1 h_c + 1 nadph_c + 1 o2_c + 1 shptrc_c -> 1 h2o_c + 1 hshptrc_c + 1 nadp_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 O2 + 1 N4-succinyl-N4-hydroxyputrescine -> 1 H2O + 1 N4-succinyl-N4-hydroxy-2-hydroxyputrescine + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+R03543:1 C00007_c + 1 C00080_c + 1 C00004_c + 1 C01407_c <=> 1 C00003_c + 1 C04091_c (1 Oxygen + 1 H+ + 1 NADH + 1 Benzene <=> 1 NAD+ + 1 cis-1,2-Dihydrobenzene-1,2-diol)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00007_c (Oxygen)
+C00080_c (H+)
+C01407_c (Benzene)
+C04091_c (cis-1,2-Dihydrobenzene-1,2-diol)
+
+

@@ -1,0 +1,37 @@
+AdditionalNotInModel:
+RXN-14281-MALTOPENTAOSE/WATER//MALTOTETRAOSE/GLC.39.:1 MALTOPENTAOSE_c + 1 WATER_c -> 1 MALTOTETRAOSE_c + 1 GLC_c (1 maltopentaose + 1 H2O -> 1 maltotetraose + 1 beta-D-glucopyranose)
+RXN-14281-MALTOPENTAOSE/WATER//MALTOTETRAOSE/ALPHA-GLUCOSE.49.:1 MALTOPENTAOSE_c + 1 WATER_c -> 1 MALTOTETRAOSE_c + 1 ALPHA-GLUCOSE_c (1 maltopentaose + 1 H2O -> 1 maltotetraose + 1 alpha-D-glucopyranose)
+RXN-14281:1 MALTOPENTAOSE_c + 1 WATER_c -> 1 MALTOTETRAOSE_c + 1 Glucopyranose_c (1 maltopentaose + 1 H2O -> 1 maltotetraose + 1 D-glucopyranose)
+RXN-14283-CPD0-1133/WATER//MALTOHEXAOSE/GLC.34.:1 CPD0-1133_c + 1 WATER_c -> 1 MALTOHEXAOSE_c + 1 GLC_c (1 maltoheptaose + 1 H2O -> 1 maltohexaose + 1 beta-D-glucopyranose)
+RXN-14283-CPD0-1133/WATER//MALTOHEXAOSE/ALPHA-GLUCOSE.44.:1 CPD0-1133_c + 1 WATER_c -> 1 MALTOHEXAOSE_c + 1 ALPHA-GLUCOSE_c (1 maltoheptaose + 1 H2O -> 1 maltohexaose + 1 alpha-D-glucopyranose)
+RXN-14283:1 CPD0-1133_c + 1 WATER_c -> 1 MALTOHEXAOSE_c + 1 Glucopyranose_c (1 maltoheptaose + 1 H2O -> 1 maltohexaose + 1 D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//ALPHA-MALTOSE/GLC.37.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 ALPHA-MALTOSE_c + 1 GLC_c (1 maltotriose + 1 H2O -> 1 alpha-maltose + 1 beta-D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//ALPHA-MALTOSE/ALPHA-GLUCOSE.47.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 ALPHA-MALTOSE_c + 1 ALPHA-GLUCOSE_c (1 maltotriose + 1 H2O -> 1 alpha-maltose + 1 alpha-D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//ALPHA-MALTOSE/Glucopyranose.47.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 ALPHA-MALTOSE_c + 1 Glucopyranose_c (1 maltotriose + 1 H2O -> 1 alpha-maltose + 1 D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//MALTOSE/GLC.31.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 MALTOSE_c + 1 GLC_c (1 maltotriose + 1 H2O -> 1 maltose + 1 beta-D-glucopyranose)
+RXN0-5183-MALTOTRIOSE/WATER//MALTOSE/ALPHA-GLUCOSE.41.:1 MALTOTRIOSE_c + 1 WATER_c -> 1 MALTOSE_c + 1 ALPHA-GLUCOSE_c (1 maltotriose + 1 H2O -> 1 maltose + 1 alpha-D-glucopyranose)
+RXN0-5183:1 MALTOTRIOSE_c + 1 WATER_c -> 1 MALTOSE_c + 1 Glucopyranose_c (1 maltotriose + 1 H2O -> 1 maltose + 1 D-glucopyranose)
+RXN-14282-MALTOHEXAOSE/WATER//MALTOPENTAOSE/GLC.38.:1 MALTOHEXAOSE_c + 1 WATER_c -> 1 MALTOPENTAOSE_c + 1 GLC_c (1 maltohexaose + 1 H2O -> 1 maltopentaose + 1 beta-D-glucopyranose)
+RXN-14282-MALTOHEXAOSE/WATER//MALTOPENTAOSE/ALPHA-GLUCOSE.48.:1 MALTOHEXAOSE_c + 1 WATER_c -> 1 MALTOPENTAOSE_c + 1 ALPHA-GLUCOSE_c (1 maltohexaose + 1 H2O -> 1 maltopentaose + 1 alpha-D-glucopyranose)
+RXN-14282:1 MALTOHEXAOSE_c + 1 WATER_c -> 1 MALTOPENTAOSE_c + 1 Glucopyranose_c (1 maltohexaose + 1 H2O -> 1 maltopentaose + 1 D-glucopyranose)
+RXN-15910-ALPHA-MALTOSE/WATER//ALPHA-GLUCOSE.35.:1 ALPHA-MALTOSE_c + 1 WATER_c -> 2 ALPHA-GLUCOSE_c (1 alpha-maltose + 1 H2O -> 2 alpha-D-glucopyranose)
+RXN-15910-ALPHA-MALTOSE/WATER//Glucopyranose.35.:1 ALPHA-MALTOSE_c + 1 WATER_c -> 2 Glucopyranose_c (1 alpha-maltose + 1 H2O -> 2 D-glucopyranose)
+RXN-15910-MALTOSE/WATER//GLC.19.:1 MALTOSE_c + 1 WATER_c -> 2 GLC_c (1 maltose + 1 H2O -> 2 beta-D-glucopyranose)
+RXN-15910-MALTOSE/WATER//ALPHA-GLUCOSE.29.:1 MALTOSE_c + 1 WATER_c -> 2 ALPHA-GLUCOSE_c (1 maltose + 1 H2O -> 2 alpha-D-glucopyranose)
+RXN-15910:1 MALTOSE_c + 1 WATER_c -> 2 Glucopyranose_c (1 maltose + 1 H2O -> 2 D-glucopyranose)
+
+
+AdditionalMetabolites:
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+ALPHA-MALTOSE_c (alpha-maltose)
+CPD0-1133_c (maltoheptaose)
+GLC_c (beta-D-glucopyranose)
+Glucopyranose_c (D-glucopyranose)
+MALTOHEXAOSE_c (maltohexaose)
+MALTOPENTAOSE_c (maltopentaose)
+MALTOSE_c (maltose)
+MALTOTETRAOSE_c (maltotetraose)
+MALTOTRIOSE_c (maltotriose)
+WATER_c (H2O)
+
+

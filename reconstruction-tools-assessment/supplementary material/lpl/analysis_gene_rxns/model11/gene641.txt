@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-14270:1 CPD-3762_c + 1 PRPP_c -> 1 AICAR_c + 1 PPI_c (1 5-amino-4-imidazolecarboxyamide + 1 5-phospho-alpha-D-ribose 1-diphosphate -> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + 1 diphosphate)
+
+
+AdditionalMetabolites:
+AICAR_c (5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide)
+CPD-3762_c (5-amino-4-imidazolecarboxyamide)
+PPI_c (diphosphate)
+PRPP_c (5-phospho-alpha-D-ribose 1-diphosphate)
+
+

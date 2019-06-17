@@ -1,0 +1,31 @@
+notRecovered:
+DMATT:1 dmpp_c + 1 ipdp_c -> 1 grdp_c + 1 ppi_c (1 M_Dimethylallyl_diphosphate_ + 1 M_Isopentenyl_diphosphate_ -> 1 M_Geranyl_diphosphate_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+rxn03463:1 cpd00112_c + 1 cpd03658_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd03659_c (1 CMP_N_acetylneuraminate_c0 + 1 GT1a_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 GQ1_c0)
+rxn03185:1 cpd00112_c + 1 cpd02999_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd03660_c (1 CMP_N_acetylneuraminate_c0 + 1 GD1a_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 GT1b_c0)
+rxn06750:1 cpd00112_c + 1 cpd02996_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd03655_c (1 CMP_N_acetylneuraminate_c0 + 1 GM2_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 GD2_c0)
+rxn06735:1 cpd00112_c + 1 cpd12599_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd03654_c (1 CMP_N_acetylneuraminate_c0 + 1 GM3_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 GD3_c0)
+rxn06728:1 cpd00112_c + 1 cpd12592_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd02972_c (1 CMP_N_acetylneuraminate_c0 + 1 alpha_N_Acetylneuraminyl_2_3_beta_D_galactosyl_R_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 alpha_N_Acetylneuraminyl_2_8_alpha_N_acetylneuraminyl_2_3_beta_D__galactosyl_R_c0)
+rxn06759:1 cpd00112_c + 1 cpd12640_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd03661_c (1 CMP_N_acetylneuraminate_c0 + 1 GM1_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 GD1b_c0)
+
+
+AdditionalMetabolites:
+cpd00046_c (CMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00112_c (CMP_N_acetylneuraminate_c0)
+cpd02972_c (alpha_N_Acetylneuraminyl_2_8_alpha_N_acetylneuraminyl_2_3_beta_D__galactosyl_R_c0)
+cpd02996_c (GM2_c0)
+cpd02999_c (GD1a_c0)
+cpd03654_c (GD3_c0)
+cpd03655_c (GD2_c0)
+cpd03658_c (GT1a_c0)
+cpd03659_c (GQ1_c0)
+cpd03660_c (GT1b_c0)
+cpd03661_c (GD1b_c0)
+cpd12592_c (alpha_N_Acetylneuraminyl_2_3_beta_D_galactosyl_R_c0)
+cpd12599_c (GM3_c0)
+cpd12640_c (GM1_c0)
+
+

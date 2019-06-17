@@ -1,0 +1,19 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+R08409:1 C16695_c + 2 C03162_c <=> 1 C10385_c + 2 C03025_c (1 Plastoquinol-9 + 2 Oxidized plastocyanin <=> 1 Plastoquinone-9 + 2 Reduced plastocyanin)
+R03817:1 C16693_c + 2 C03162_c <=> 2 C03025_c + 1 C02061_c (1 Plastoquinol + 2 Oxidized plastocyanin <=> 2 Reduced plastocyanin + 1 Plastoquinone)
+
+
+AdditionalMetabolites:
+C02061_c (Plastoquinone)
+C03025_c (Reduced plastocyanin)
+C03162_c (Oxidized plastocyanin)
+C10385_c (Plastoquinone-9)
+C16693_c (Plastoquinol)
+C16695_c (Plastoquinol-9)
+
+

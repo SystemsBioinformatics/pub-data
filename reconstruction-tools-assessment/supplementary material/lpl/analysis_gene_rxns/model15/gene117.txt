@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00346:1 cpd00067_c + 1 cpd00041_c -> 1 cpd00011_c + 1 cpd00085_c (1 H_plus__c0 + 1 L_Aspartate_c0 -> 1 CO2_c0 + 1 beta_Alanine_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd00067_c (H_plus__c0)
+cpd00085_c (beta_Alanine_c0)
+
+

@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+HPYRRx:1 nadh_c + 1 hpyr_c + 1 h_c -> 1 glyc__R_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Hydroxypyruvate + 1 H+ -> 1 (R)-Glycerate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+hpyr_c (Hydroxypyruvate)
+
+

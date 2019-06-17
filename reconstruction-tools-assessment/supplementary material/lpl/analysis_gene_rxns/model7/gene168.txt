@@ -1,0 +1,4 @@
+notRecovered:
+RBP4E:1 ru5p__L_c <=> 1 xu5p__D_c (1 M_L_Ribulose_5_phosphate_ <=> 1 M_D_Xylulose_5_phosphate_)
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+DHPPDA2:1 25drapp_c + 1 h2o_c + 1 h_c -> 1 5apru_c + 1 nh4_c (1 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate + 1 H2O + 1 H+ -> 1 5-Amino-6-(5'-phosphoribosylamino)uracil + 1 Ammonium)
+APRAUR:1 5apru_c + 1 h_c + 1 nadph_c -> 1 5aprbu_c + 1 nadp_c (1 5-Amino-6-(5'-phosphoribosylamino)uracil + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 5-Amino-6-(5'-phosphoribitylamino)uracil + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

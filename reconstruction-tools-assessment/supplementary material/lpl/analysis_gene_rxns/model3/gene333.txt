@@ -1,0 +1,33 @@
+notRecovered:
+AEPabc:1 2aeppn_e + 1 atp_c + 1 h2o_c -> 1 2aeppn_c + 1 adp_c + 1 h_c + 1 pi_c (1 M__2_Aminoethyl_phosphonate_ + 1 M_ATP_ + 1 M_H2O_ -> 1 M__2_Aminoethyl_phosphonate_ + 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+ARGabc:1 atp_c + 1 h2o_c + 1 arg__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 arg__L_c (1 ATP + 1 H2O + 1 L-Arginine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Arginine)
+ARGabcpp:1 atp_c + 1 h2o_c + 1 arg__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 arg__L_c (1 ATP + 1 H2O + 1 L-Arginine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Arginine)
+CYSabcpp:1 atp_c + 1 h2o_c + 1 cys__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 cys__L_c (1 ATP + 1 H2O + 1 L-Cysteine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Cysteine)
+HISabc:1 atp_c + 1 h2o_c + 1 his__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 his__L_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Histidine)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 his__L_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Histidine)
+LYSabc:1 atp_c + 1 h2o_c + 1 lys__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 lys__L_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Lysine)
+LYSabcpp:1 atp_c + 1 h2o_c + 1 lys__L_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 lys__L_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Lysine)
+METabc:1 atp_c + 1 h2o_c + 1 met__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 met__L_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Methionine)
+METSabc:1 atp_c + 1 h2o_c + 1 metox_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 metox_c (1 ATP + 1 H2O + 1 L Methionine S oxide C5H11NO3S -> 1 ADP + 1 Phosphate + 1 H+ + 1 L Methionine S oxide C5H11NO3S)
+METSRabc:1 atp_c + 1 h2o_c + 1 metox__R_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 metox__R_c (1 ATP + 1 H2O + 1 L methionine R oxide C5H11NO3S -> 1 ADP + 1 Phosphate + 1 H+ + 1 L methionine R oxide C5H11NO3S)
+ORNabc:1 atp_c + 1 h2o_c + 1 orn_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 orn_c (1 ATP + 1 H2O + 1 Ornithine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Ornithine)
+ORNabcpp:1 atp_c + 1 h2o_c + 1 orn_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 orn_c (1 ATP + 1 H2O + 1 Ornithine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Ornithine)
+
+
+AdditionalMetabolites:
+arg__L_p (L-Arginine)
+cys__L_p (L-Cysteine)
+his__L_p (L-Histidine)
+lys__L_p (L-Lysine)
+metox__R_c (L methionine R oxide C5H11NO3S)
+metox__R_e (L methionine R oxide C5H11NO3S)
+metox_c (L Methionine S oxide C5H11NO3S)
+metox_e (L Methionine S oxide C5H11NO3S)
+orn_c (Ornithine)
+orn_e (Ornithine)
+orn_p (Ornithine)
+
+

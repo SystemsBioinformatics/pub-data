@@ -1,0 +1,15 @@
+notRecovered:
+DHORD2:1 dhor__S_c + 1 q8_c -> 1 orot_c + 1 q8h2_c (1 (S)-Dihydroorotate + 1 Ubiquinone-8 -> 1 Orotate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R01868:1 C15602_c + 1 C00337_c <=> 1 C15603_c + 1 C00295_c (1 Quinone + 1 (S)-Dihydroorotate <=> 1 Hydroquinone + 1 Orotate)
+
+
+AdditionalMetabolites:
+C00295_c (Orotate)
+C00337_c ((S)-Dihydroorotate)
+C15602_c (Quinone)
+C15603_c (Hydroquinone)
+
+

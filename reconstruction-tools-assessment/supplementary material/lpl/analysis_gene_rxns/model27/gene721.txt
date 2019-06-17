@@ -1,0 +1,4 @@
+notRecovered:
+PRATPP:1 h2o_c + 1 prbatp_c -> 1 h_c + 1 ppi_c + 1 prbamp_c (1 M_H2O_ + 1 M_1__5_Phosphoribosyl__ATP_ -> 1 M_H_ + 1 M_Diphosphate_ + 1 M_1__5_Phosphoribosyl__AMP_)
+
+

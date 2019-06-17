@@ -1,0 +1,6 @@
+notRecovered:
+CMPDC:1 T4hcinnm_c + 1 h_c -> 1 4vcoum_c + 1 co2_c (1 M_4_Coumarate_ + 1 M_H_ -> 1 M_4_vinyl_p_coumaric_acid_ + 1 M_CO2_)
+
+
+AdditionalInModel:
+PPYRDC:1 h_c + 1 phpyr_c -> 1 co2_c + 1 pacald_c (1 H+ + 1 Phenylpyruvate -> 1 CO2 CO2 + 1 Phenylacetaldehyde)

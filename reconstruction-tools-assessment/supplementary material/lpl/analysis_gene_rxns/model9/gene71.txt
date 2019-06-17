@@ -1,0 +1,26 @@
+AdditionalNotInModel:
+OIVD1r:1 4mop_c + 1 nad_c + 1 coa_c <=> 1 nadh_c + 1 ivcoa_c + 1 co2_c (1 4-Methyl-2-oxopentanoate + 1 Nicotinamide adenine dinucleotide + 1 Coenzyme A <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Isovaleryl-CoA + 1 CO2 CO2)
+GCCc:1 nad_c + 1 dhlpro_c -> 1 nadh_c + 1 lpro_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Dihydrolipolprotein H2S2X -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Lipoylprotein S2X + 1 H+)
+OIVD2:1 nad_c + 1 coa_c + 1 3mob_c -> 1 nadh_c + 1 ibcoa_c + 1 co2_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 3-Methyl-2-oxobutanoate -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Isobutyryl-CoA + 1 CO2 CO2)
+OIVD3:1 nad_c + 1 3mop_c + 1 coa_c -> 1 nadh_c + 1 co2_c + 1 2mbcoa_c (1 Nicotinamide adenine dinucleotide + 1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A -> 1 Nicotinamide adenine dinucleotide - reduced + 1 CO2 CO2 + 1 2-Methylbutanoyl-CoA)
+OBDHc:1 nad_c + 1 2obut_c + 1 coa_c -> 1 nadh_c + 1 co2_c + 1 ppcoa_c (1 Nicotinamide adenine dinucleotide + 1 2-Oxobutanoate + 1 Coenzyme A -> 1 Nicotinamide adenine dinucleotide - reduced + 1 CO2 CO2 + 1 Propanoyl-CoA)
+PDHcr:1 nad_c + 1 dhlam_c -> 1 lpam_c + 1 nadh_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Dihydrolipoamide C8H17NOS2 -> 1 Lipoamide C8H15NOS2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)
+PDHa:1 lpam_c + 1 pyr_c + 1 h_c -> 1 co2_c + 1 adhlam_c (1 Lipoamide C8H15NOS2 + 1 Pyruvate + 1 H+ -> 1 CO2 CO2 + 1 S-Acetyldihydrolipoamide)
+PDHcr_copy2:1 nad_c + 1 dhlam_c -> 1 lpam_c + 1 nadh_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Dihydrolipoamide C8H17NOS2 -> 1 Lipoamide C8H15NOS2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)
+LPD5:1 nad_c + 1 dhlplarg_c -> 1 nadh_c + 1 lplarg_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Dihydrolipoyl carrier protein LarG -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Lipoyl carrier protein LarG + 1 H+)
+
+
+AdditionalMetabolites:
+2mbcoa_c (2-Methylbutanoyl-CoA)
+adhlam_c (S-Acetyldihydrolipoamide)
+dhlam_c (Dihydrolipoamide C8H17NOS2)
+dhlplarg_c (Dihydrolipoyl carrier protein LarG)
+dhlpro_c (Dihydrolipolprotein H2S2X)
+ibcoa_c (Isobutyryl-CoA)
+ivcoa_c (Isovaleryl-CoA)
+lpam_c (Lipoamide C8H15NOS2)
+lplarg_c (Lipoyl carrier protein LarG)
+lpro_c (Lipoylprotein S2X)
+ppcoa_c (Propanoyl-CoA)
+
+

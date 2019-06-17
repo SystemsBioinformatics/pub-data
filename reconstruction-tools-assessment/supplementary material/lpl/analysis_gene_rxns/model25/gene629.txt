@@ -1,0 +1,4 @@
+notRecovered:
+ACGK:1 acglu_c + 1 atp_c -> 1 acg5p_c + 1 adp_c (1 M_N_Acetyl_L_glutamate_ + 1 M_ATP_ -> 1 M_N_Acetyl_L_glutamyl_5_phosphate_ + 1 M_ADP_)
+
+

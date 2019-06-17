@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01607:1 cpd00002_c + 1 cpd00332_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00812_c (1 ATP_c0 + 1 Mevalonic_acid_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 5_phosphomevalonate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00332_c (Mevalonic_acid_c0)
+cpd00812_c (5_phosphomevalonate_c0)
+
+

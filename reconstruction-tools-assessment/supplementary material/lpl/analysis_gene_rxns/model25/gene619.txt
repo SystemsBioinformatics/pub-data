@@ -1,0 +1,18 @@
+notRecovered:
+BGLA1:1 6pgg_c + 1 h2o_c -> 1 g6p_c + 1 glc__D_c (1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_H2O_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+RXN0-5295:1 CPD-1162_c + 1 WATER_c -> 1 GLC-6-P_c + 1 HYDROQUINONE_c (1 arbutin-6-phosphate + 1 H2O -> 1 beta-D-glucose 6-phosphate + 1 hydroquinone)
+RXN0-6994:1 CPD0-2499_c + 1 WATER_c -> 1 GLC-6-P_c + 1 METOH_c (1 methyl beta-D-glucoside 6-phosphate + 1 H2O -> 1 beta-D-glucose 6-phosphate + 1 methanol)
+
+
+AdditionalMetabolites:
+CPD-1162_c (arbutin-6-phosphate)
+CPD0-2499_c (methyl beta-D-glucoside 6-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+HYDROQUINONE_c (hydroquinone)
+METOH_c (methanol)
+WATER_c (H2O)
+
+

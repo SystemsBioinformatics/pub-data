@@ -1,0 +1,22 @@
+notRecovered:
+DINSK:1 atp_c + 1 din_c -> 1 adp_c + 1 dimp_c (1 M_ATP_ + 1 M_Deoxyinosine_ -> 1 M_ADP_ + 1 M_dIMP_)
+
+
+AdditionalNotInModel:
+RXN-14093:1 DEOXYCYTIDINE_c + 1 ATP_c -> 1 DCMP_c + 1 ADP_c + 1 PROTON_c (1 2'-deoxycytidine + 1 ATP -> 1 dCMP + 1 ADP + 1 H+)
+DURIDKI-RXN:1 DEOXYURIDINE_c + 1 ATP_c -> 1 DUMP_c + 1 ADP_c + 1 PROTON_c (1 2'-deoxyuridine + 1 ATP -> 1 dUMP + 1 ADP + 1 H+)
+THYKI-RXN:1 THYMIDINE_c + 1 ATP_c -> 1 TMP_c + 1 ADP_c + 1 PROTON_c (1 thymidine + 1 ATP -> 1 dTMP + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+DCMP_c (dCMP)
+DEOXYCYTIDINE_c (2'-deoxycytidine)
+DEOXYURIDINE_c (2'-deoxyuridine)
+DUMP_c (dUMP)
+PROTON_c (H+)
+THYMIDINE_c (thymidine)
+TMP_c (dTMP)
+
+

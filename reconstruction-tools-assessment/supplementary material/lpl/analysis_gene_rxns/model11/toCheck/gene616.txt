@@ -1,0 +1,40 @@
+notRecovered:
+BGLA1:1 6pgg_c + 1 h2o_c -> 1 g6p_c + 1 glc__D_c (1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_H2O_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+RXN0-6994:1 CPD0-2499_c + 1 WATER_c -> 1 METOH_c + 1 GLC-6-P_c (1 methyl beta-D-glucoside 6-phosphate + 1 H2O -> 1 methanol + 1 beta-D-glucose 6-phosphate)
+RXN0-5295:1 CPD-1162_c + 1 WATER_c -> 1 HYDROQUINONE_c + 1 GLC-6-P_c (1 arbutin-6-phosphate + 1 H2O -> 1 hydroquinone + 1 beta-D-glucose 6-phosphate)
+RXN0-7002:1 CPD0-2501_c + 1 WATER_c -> 1 GLUCOSAMINE_c + 1 N-ACETYL-D-GLUCOSAMINE-6-P_c (1 N-monoacetylchitobiose 6'-phosphate + 1 H2O -> 1 D-glucosamine + 1 N-acetyl-D-glucosamine 6-phosphate)
+RXN0-5297:1 CPD-1181_c + 1 WATER_c -> 1 CPD-173_c + 1 GLC-6-P_c (1 salicin 6-phosphate + 1 H2O -> 1 salicyl alcohol + 1 beta-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//GLC-6-P/GLC.29.:1 CPD-15978_c + 1 WATER_c -> 1 GLC_c + 1 GLC-6-P_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 beta-D-glucopyranose + 1 beta-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//GLC-6-P/ALPHA-GLUCOSE.39.:1 CPD-15978_c + 1 WATER_c -> 1 ALPHA-GLUCOSE_c + 1 GLC-6-P_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 alpha-D-glucopyranose + 1 beta-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//GLC-6-P/Glucopyranose.39.:1 CPD-15978_c + 1 WATER_c -> 1 Glucopyranose_c + 1 GLC-6-P_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 D-glucopyranose + 1 beta-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//ALPHA-GLC-6-P/GLC.35.:1 CPD-15978_c + 1 WATER_c -> 1 GLC_c + 1 ALPHA-GLC-6-P_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 beta-D-glucopyranose + 1 alpha-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//ALPHA-GLC-6-P/ALPHA-GLUCOSE.45.:1 CPD-15978_c + 1 WATER_c -> 1 ALPHA-GLUCOSE_c + 1 ALPHA-GLC-6-P_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 alpha-D-glucopyranose + 1 alpha-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//ALPHA-GLC-6-P/Glucopyranose.45.:1 CPD-15978_c + 1 WATER_c -> 1 Glucopyranose_c + 1 ALPHA-GLC-6-P_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 D-glucopyranose + 1 alpha-D-glucose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//D-glucopyranose-6-phosphate/GLC.49.:1 CPD-15978_c + 1 WATER_c -> 1 GLC_c + 1 D-glucopyranose-6-phosphate_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 beta-D-glucopyranose + 1 D-glucopyranose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN-CPD-15978/WATER//D-glucopyranose-6-phosphate/ALPHA-GLUCOSE.59.:1 CPD-15978_c + 1 WATER_c -> 1 ALPHA-GLUCOSE_c + 1 D-glucopyranose-6-phosphate_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 alpha-D-glucopyranose + 1 D-glucopyranose 6-phosphate)
+6-PHOSPHO-BETA-GLUCOSIDASE-RXN:1 CPD-15978_c + 1 WATER_c -> 1 Glucopyranose_c + 1 D-glucopyranose-6-phosphate_c (1 D-cellobiose 6'-phosphate + 1 H2O -> 1 D-glucopyranose + 1 D-glucopyranose 6-phosphate)
+
+
+AdditionalMetabolites:
+ALPHA-GLC-6-P_c (alpha-D-glucose 6-phosphate)
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+CPD-1162_c (arbutin-6-phosphate)
+CPD-1181_c (salicin 6-phosphate)
+CPD-15978_c (D-cellobiose 6'-phosphate)
+CPD-173_c (salicyl alcohol)
+CPD0-2499_c (methyl beta-D-glucoside 6-phosphate)
+CPD0-2501_c (N-monoacetylchitobiose 6'-phosphate)
+D-glucopyranose-6-phosphate_c (D-glucopyranose 6-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+GLC_c (beta-D-glucopyranose)
+GLUCOSAMINE_c (D-glucosamine)
+Glucopyranose_c (D-glucopyranose)
+HYDROQUINONE_c (hydroquinone)
+METOH_c (methanol)
+N-ACETYL-D-GLUCOSAMINE-6-P_c (N-acetyl-D-glucosamine 6-phosphate)
+WATER_c (H2O)
+
+

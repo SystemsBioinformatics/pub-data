@@ -1,0 +1,29 @@
+notRecovered:
+ARAB_Lt:1 arab__L_e <=> 1 arab__L_c (1 M_L_Arabinose_ <=> 1 M_L_Arabinose_)
+
+
+AdditionalNotInModel:
+DARBt2rpp:1 arab__D_p + 1 h_p <=> 1 h_c + 1 arab__D_c (1 D Arabinose C5H10O5 + 1 H+ <=> 1 H+ + 1 D Arabinose C5H10O5)
+AKGt2r:1 akg_e + 1 h_e <=> 1 akg_c + 1 h_c (1 2-Oxoglutarate + 1 H+ <=> 1 2-Oxoglutarate + 1 H+)
+XYLt2:1 xyl__D_e + 1 h_e -> 1 xyl__D_c + 1 h_c (1 D-Xylose + 1 H+ -> 1 D-Xylose + 1 H+)
+FRUt3:1 fru_p + 1 h_p -> 1 fru_c + 1 h_c (1 D-Fructose + 1 H+ -> 1 D-Fructose + 1 H+)
+ARBt2rpp:1 arab__L_p + 1 h_p <=> 1 h_c + 1 arab__L_c (1 L-Arabinose + 1 H+ <=> 1 H+ + 1 L-Arabinose)
+GLCt2pp:1 glc__D_p + 1 h_p -> 1 glc__D_c + 1 h_c (1 D-Glucose + 1 H+ -> 1 D-Glucose + 1 H+)
+GALt2:1 h_e + 1 gal_e -> 1 h_c + 1 gal_c (1 H+ + 1 D-Galactose -> 1 H+ + 1 D-Galactose)
+GALt2pp:1 h_p + 1 gal_p -> 1 h_c + 1 gal_c (1 H+ + 1 D-Galactose -> 1 H+ + 1 D-Galactose)
+
+
+AdditionalMetabolites:
+akg_e (2-Oxoglutarate)
+arab__D_c (D Arabinose C5H10O5)
+arab__D_p (D Arabinose C5H10O5)
+arab__L_p (L-Arabinose)
+fru_p (D-Fructose)
+gal_e (D-Galactose)
+gal_p (D-Galactose)
+glc__D_p (D-Glucose)
+h_p (H+)
+xyl__D_c (D-Xylose)
+xyl__D_e (D-Xylose)
+
+

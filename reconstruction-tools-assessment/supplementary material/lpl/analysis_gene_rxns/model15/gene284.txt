@@ -1,0 +1,4 @@
+notRecovered:
+ILETRS_1:1 atp_c + 1 ile__L_c + 1 trnaile_c -> 1 amp_c + 1 h_c + 1 iletrna_c + 1 ppi_c (1 M_ATP_ + 1 M_L_Isoleucine_ + 1 M_tRNA_Ile__ -> 1 M_AMP_ + 1 M_H_ + 1 M_L_Isoleucyl_tRNA_Ile__ + 1 M_Diphosphate_)
+
+

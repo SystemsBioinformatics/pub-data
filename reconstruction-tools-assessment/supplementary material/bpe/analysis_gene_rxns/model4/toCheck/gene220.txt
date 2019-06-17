@@ -1,0 +1,13 @@
+notRecovered:
+ACGAMT:1 uacgam_c + 1 udcpp_c -> 1 ump_c + 1 unaga_c (1 UDP-N-acetyl-D-glucosamine + 1 Undecaprenyl phosphate -> 1 UMP + 1 undecaprenyl-diphosphate-N-acetyl-glucosamine)
+
+
+AdditionalNotInModel:
+UPLA4FNT:1 udcpp_c + 1 udpLa4fn_c -> 1 uLa4fn_c + 1 udp_c (1 Undecaprenyl phosphate + 1 Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose -> 1 Undecaprenyl phosphate-4-amino-4-formyl-L-arabinose + 1 UDP C9H11N2O12P2)
+
+
+AdditionalMetabolites:
+uLa4fn_c (Undecaprenyl phosphate-4-amino-4-formyl-L-arabinose)
+udpLa4fn_c (Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose)
+
+

@@ -1,0 +1,32 @@
+AdditionalNotInModel:
+PROabc:1 atp_c + 1 pro__L_e + 1 h2o_c -> 1 pro__L_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Proline + 1 H2O H2O -> 1 L-Proline + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+PROLBabc:1 atp_c + 1 prolb_e + 1 h2o_c -> 1 prolb_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Proline betaine C7H13NO2 + 1 H2O H2O -> 1 Proline betaine C7H13NO2 + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+ECTOINEabc:1 atp_c + 1 ectoine_e + 1 h2o_c -> 1 ectoine_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Ectoine C6H12N2O2 + 1 H2O H2O -> 1 Ectoine C6H12N2O2 + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+CHOLSabc_1:1 atp_c + 1 chols_e + 1 h2o_c -> 1 chols_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Choline sulfate + 1 H2O H2O -> 1 Choline sulfate + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+GBBTNabc:1 atp_c + 1 gbbtn_e + 1 h2o_c -> 1 gbbtn_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Gamma-butyrobetaine + 1 H2O H2O -> 1 Gamma-butyrobetaine + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+CRNabc:1 atp_c + 1 crn_e + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 crn_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Carnitine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Carnitine + 1 H+)
+ARSENBabc:1 atp_c + 1 arsenb_e + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 arsenb_c (1 ATP C10H12N5O13P3 + 1 ARSENOBETAINE C5H11AsO2 + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 ARSENOBETAINE C5H11AsO2)
+CTBTabc:1 atp_c + 1 h2o_c + 1 ctbt_e -> 1 ctbt_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Crotonobetaine -> 1 Crotonobetaine + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+NO3abcpp:1 atp_c + 1 no3_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 no3_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Nitrate + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 Nitrate + 1 H+)
+BCT1_syn:1 atp_c + 1 hco3_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 hco3_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Bicarbonate + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 Bicarbonate + 1 H+)
+
+
+AdditionalMetabolites:
+arsenb_c (ARSENOBETAINE C5H11AsO2)
+arsenb_e (ARSENOBETAINE C5H11AsO2)
+chols_c (Choline sulfate)
+chols_e (Choline sulfate)
+crn_c (L-Carnitine)
+crn_e (L-Carnitine)
+ctbt_c (Crotonobetaine)
+ctbt_e (Crotonobetaine)
+ectoine_c (Ectoine C6H12N2O2)
+ectoine_e (Ectoine C6H12N2O2)
+gbbtn_c (Gamma-butyrobetaine)
+gbbtn_e (Gamma-butyrobetaine)
+hco3_p (Bicarbonate)
+no3_p (Nitrate)
+prolb_c (Proline betaine C7H13NO2)
+prolb_e (Proline betaine C7H13NO2)
+
+

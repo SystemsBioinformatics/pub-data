@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01555:1 C00208_c + 1 C00009_c <=> 1 C00031_c + 1 C00663_c (1 Maltose + 1 Orthophosphate <=> 1 D-Glucose + 1 beta-D-Glucose 1-phosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00031_c (D-Glucose)
+C00208_c (Maltose)
+C00663_c (beta-D-Glucose 1-phosphate)
+
+

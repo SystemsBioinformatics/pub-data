@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+NDHPQRcm:1 nadh_c + 1 h_c + 1 pq_cm -> 1 nad_c + 1 pqh2_cm (1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Plastoquinone -> 1 Nicotinamide adenine dinucleotide + 1 Plastoquinol)
+NDHPQRum:1 nadh_c + 1 pq_um + 1 h_c -> 1 pqh2_um + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Plastoquinone + 1 H+ -> 1 Plastoquinol + 1 Nicotinamide adenine dinucleotide)
+NADH10:1 nadh_c + 1 mqn8_c + 1 h_c -> 1 nad_c + 1 mql8_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Menaquinone 8 + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 Menaquinol 8)
+NADH5:1 nadh_c + 1 q8_c + 1 h_c -> 1 nad_c + 1 q8h2_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+NADH9:1 nadh_c + 1 2dmmq8_c + 1 h_c -> 1 2dmmql8_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2-Demethylmenaquinone 8 + 1 H+ -> 1 2-Demethylmenaquinol 8 + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+pq_cm (Plastoquinone)
+pq_um (Plastoquinone)
+pqh2_cm (Plastoquinol)
+pqh2_um (Plastoquinol)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+

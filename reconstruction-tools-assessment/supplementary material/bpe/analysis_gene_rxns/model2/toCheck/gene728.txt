@@ -1,0 +1,13 @@
+notRecovered:
+TSULR3e:2 gthrd_c + 1 tsul_c -> 1 gthox_c + 1 h2s_c + 1 so3_c (2 Reduced glutathione + 1 Thiosulfate -> 1 Oxidized glutathione + 1 Hydrogen sulfide + 1 Sulfite)
+
+
+AdditionalNotInModel:
+FDH7:1 h_c + 1 co2_c + 1 fdxr_42_c -> 1 fdxo_42_c + 1 for_c (1 H+ + 1 CO2 + 1 Ferredoxin (reduced form 4:2) -> 1 Ferredoxin (oxidized form 4:2) + 1 Formate)
+
+
+AdditionalMetabolites:
+fdxo_42_c (Ferredoxin (oxidized form 4:2))
+fdxr_42_c (Ferredoxin (reduced form 4:2))
+
+

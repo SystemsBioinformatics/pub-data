@@ -1,0 +1,25 @@
+notRecovered:
+CFAS180:1 2cocdacp_c + 1 amet_c -> 1 ahcys_c + 1 cpocdacp_c + 1 h_c (1 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_S_Adenosyl_L_methionine_ -> 1 M_S_Adenosyl_L_homocysteine_ + 1 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RXN1G-2544:1 cis-D19-37-MOH-38-Me-C57-1-ACPs_c + 1 S-ADENOSYLMETHIONINE_c -> 1 cis-19-CP-37-Mex-38-Me-C59-ACPs_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 a cis-delta19-37-methoxy-38-methyl-C57:1-[acp] + 1 S-adenosyl-L-methionine -> 1 a cis-methoxy-C59-meroacyl-[acp] + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN1G-3641:1 cis-D21-39-oxo-40-Me-C59-1-ACPs_c + 1 S-ADENOSYLMETHIONINE_c -> 1 cis-21-CP-39-keto-40-Me-C60-ACPs_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 a cis-delta21-39-oxo-40-methyl-C59:1-[acp] + 1 S-adenosyl-L-methionine -> 1 a cis-keto-C60-meroacyl-[acp] + 1 S-adenosyl-L-homocysteine + 1 H+)
+RXN-7421:1 Oleoyl-lipid_c + 1 S-ADENOSYLMETHIONINE_c -> 1 Lipid-dihydrosterculate_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 a [glycerolipid]-oleate + 1 S-adenosyl-L-methionine -> 1 a [glycerolipid]-dihydrosterculate + 1 S-adenosyl-L-homocysteine + 1 H+)
+2.1.1.79-RXN:1 Phospholipid-Olefinic-Fatty-Acids_c + 1 S-ADENOSYLMETHIONINE_c -> 1 Phospholipid-Cyclopropane-Fatty-Acids_c + 1 ADENOSYL-HOMO-CYS_c + 1 PROTON_c (1 a [phospholipid] olefinic fatty acid + 1 S-adenosyl-L-methionine -> 1 a [phospholipid] cyclopropane fatty acid + 1 S-adenosyl-L-homocysteine + 1 H+)
+
+
+AdditionalMetabolites:
+ADENOSYL-HOMO-CYS_c (S-adenosyl-L-homocysteine)
+Lipid-dihydrosterculate_c (a [glycerolipid]-dihydrosterculate)
+Oleoyl-lipid_c (a [glycerolipid]-oleate)
+PROTON_c (H+)
+Phospholipid-Cyclopropane-Fatty-Acids_c (a [phospholipid] cyclopropane fatty acid)
+Phospholipid-Olefinic-Fatty-Acids_c (a [phospholipid] olefinic fatty acid)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+cis-19-CP-37-Mex-38-Me-C59-ACPs_c (a cis-methoxy-C59-meroacyl-[acp])
+cis-21-CP-39-keto-40-Me-C60-ACPs_c (a cis-keto-C60-meroacyl-[acp])
+cis-D19-37-MOH-38-Me-C57-1-ACPs_c (a cis-delta19-37-methoxy-38-methyl-C57:1-[acp])
+cis-D21-39-oxo-40-Me-C59-1-ACPs_c (a cis-delta21-39-oxo-40-methyl-C59:1-[acp])
+
+

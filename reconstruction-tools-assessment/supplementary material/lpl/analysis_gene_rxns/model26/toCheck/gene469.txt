@@ -1,0 +1,16 @@
+notRecovered:
+G3PD1ir:1 dhap_c + 1 h_c + 1 nadh_c <=> 1 glyc3p_c + 1 nad_c (1 M_Dihydroxyacetone_phosphate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_sn_Glycerol_3_phosphate_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+GLYC3PDEHYDROGBIOSYN-RXN:1 DIHYDROXY-ACETONE-PHOSPHATE_c + 1 NADH-P-OR-NOP_c + 1 PROTON_c -> 1 GLYCEROL-3P_c + 1 NAD-P-OR-NOP_c (1 glycerone phosphate + 1 NADH-P-OR-NOP + 1 H+ -> 1 sn-glycerol 3-phosphate + 1 NAD-P-OR-NOP)
+
+
+AdditionalMetabolites:
+DIHYDROXY-ACETONE-PHOSPHATE_c (glycerone phosphate)
+GLYCEROL-3P_c (sn-glycerol 3-phosphate)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+PROTON_c (H+)
+
+

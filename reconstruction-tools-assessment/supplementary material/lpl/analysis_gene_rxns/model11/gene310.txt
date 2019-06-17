@@ -1,0 +1,16 @@
+notRecovered:
+FTHFCL:1 5fthf_c + 1 atp_c -> 1 adp_c + 1 methf_c + 1 pi_c (1 M_5_Formyltetrahydrofolate_ + 1 M_ATP_ -> 1 M_ADP_ + 1 M_5_10_Methenyltetrahydrofolate_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+5-FORMYL-THF-CYCLO-LIGASE-RXN:1 N5-Formyl-THF-Glu-N_c + 1 ATP_c -> 1 5-10-METHENYL-THF-GLU-N_c + 1 ADP_c + 1 Pi_c (1 a (6S)-5-formyltetrahydrofolate + 1 ATP -> 1 a 5,10-methenyltetrahydrofolate + 1 ADP + 1 phosphate)
+
+
+AdditionalMetabolites:
+5-10-METHENYL-THF-GLU-N_c (a 5,10-methenyltetrahydrofolate)
+ADP_c (ADP)
+ATP_c (ATP)
+N5-Formyl-THF-Glu-N_c (a (6S)-5-formyltetrahydrofolate)
+Pi_c (phosphate)
+
+

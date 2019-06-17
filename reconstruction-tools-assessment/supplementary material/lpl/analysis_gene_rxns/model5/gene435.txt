@@ -1,0 +1,4 @@
+notRecovered:
+GLUt2r:1 glu__L_e + 1 h_e -> 1 glu__L_c + 1 h_c (1 M_L_Glutamate_ + 1 M_H_ -> 1 M_L_Glutamate_ + 1 M_H_)
+
+

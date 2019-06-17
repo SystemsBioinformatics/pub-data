@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R10612:1 C00001_c + 1 C04348_c -> 1 C00010_c + 1 C00149_c (1 H2O + 1 L-Malyl-CoA -> 1 CoA + 1 (S)-Malate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00010_c (CoA)
+C00149_c ((S)-Malate)
+C04348_c (L-Malyl-CoA)
+
+

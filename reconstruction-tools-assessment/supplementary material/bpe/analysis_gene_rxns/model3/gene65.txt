@@ -1,0 +1,5 @@
+notRecovered:
+PGSA140:1 cdpdtdecg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp140_c (1 CDP-1,2-ditetradecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0))
+PGSA141:1 cdpdtdec7eg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp141_c (1 CDP-1,2-ditetradec-7-enoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1))
+
+

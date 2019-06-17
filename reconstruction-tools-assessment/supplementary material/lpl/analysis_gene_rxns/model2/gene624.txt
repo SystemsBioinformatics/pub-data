@@ -1,0 +1,4 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 M_UDPglucose_ <=> 1 M_UDPgalactose_)
+
+

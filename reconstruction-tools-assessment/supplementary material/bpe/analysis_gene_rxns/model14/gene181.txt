@@ -1,0 +1,23 @@
+AdditionalNotInModel:
+rxn00519:1 cpd00032_c + 1 cpd00068_c <=> 1 cpd00011_c + 1 cpd00061_c + 1 cpd00090_c (1 Oxaloacetate_c0 + 1 ITP_c0 <=> 1 CO2_c0 + 1 Phosphoenolpyruvate_c0 + 1 IDP_c0)
+rxn12512:1 cpd00002_c + 1 cpd00084_c + 1 cpd02201_c -> 1 cpd00012_c + 2 cpd00067_c + 1 cpd00018_c + 1 cpd02666_c (1 ATP_c0 + 1 L_Cysteine_c0 + 1 4_phosphopantothenate_c0 -> 1 PPi_c0 + 2 H_plus__c0 + 1 AMP_c0 + 1 R_4_Phosphopantothenoyl_L_cysteine_c0)
+rxn00305:1 cpd00038_c + 1 cpd00032_c -> 1 cpd00011_c + 1 cpd00031_c + 1 cpd00061_c (1 GTP_c0 + 1 Oxaloacetate_c0 -> 1 CO2_c0 + 1 GDP_c0 + 1 Phosphoenolpyruvate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00011_c (CO2_c0)
+cpd00012_c (PPi_c0)
+cpd00018_c (AMP_c0)
+cpd00031_c (GDP_c0)
+cpd00032_c (Oxaloacetate_c0)
+cpd00038_c (GTP_c0)
+cpd00061_c (Phosphoenolpyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00068_c (ITP_c0)
+cpd00084_c (L_Cysteine_c0)
+cpd00090_c (IDP_c0)
+cpd02201_c (4_phosphopantothenate_c0)
+cpd02666_c (R_4_Phosphopantothenoyl_L_cysteine_c0)
+
+

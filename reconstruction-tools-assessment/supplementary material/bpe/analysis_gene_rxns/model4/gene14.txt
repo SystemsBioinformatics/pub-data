@@ -1,0 +1,19 @@
+notRecovered:
+FEALCtonex:1 fealc_e + 1 h_p -> 1 fealc_p + 1 h_c (1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+ -> 1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+)
+ARBTNtonex:1 arbtn_fe3_e + 1 h_p -> 1 arbtn_fe3_p + 1 h_c (1 Aerobactin + 1 H+ -> 1 Aerobactin + 1 H+)
+PHEMEtonex:1 h_p + 1 pheme_e -> 1 h_c + 1 pheme_p (1 H+ + 1 Protoheme -> 1 H+ + 1 Protoheme)
+DESFXBtonex:1 desfxb_e + 1 h_p -> 1 desfxb_p + 1 h_c (1 Desferrixoamine B + 1 H+ -> 1 Desferrixoamine B + 1 H+)
+
+
+AdditionalNotInModel:
+CBItonex:1 cbi_e + 1 h_p -> 1 cbi_p + 1 h_c (1 Cobinamide + 1 H+ -> 1 Cobinamide + 1 H+)
+CBL1tonex:1 cbl1_e + 1 h_p -> 1 cbl1_p + 1 h_c (1 Cob(I)alamin + 1 H+ -> 1 Cob(I)alamin + 1 H+)
+
+
+AdditionalMetabolites:
+cbi_e (Cobinamide)
+cbi_p (Cobinamide)
+cbl1_e (Cob(I)alamin)
+cbl1_p (Cob(I)alamin)
+
+

@@ -1,0 +1,37 @@
+notRecovered:
+DINSK:1 atp_c + 1 din_c -> 1 adp_c + 1 dimp_c (1 M_ATP_ + 1 M_Deoxyinosine_ -> 1 M_ADP_ + 1 M_dIMP_)
+
+
+AdditionalNotInModel:
+rxn00557:1 cpd00068_c + 1 cpd00072_c <=> 1 cpd00067_c + 1 cpd00090_c + 1 cpd00290_c (1 ITP_c0 + 1 D_fructose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 IDP_c0 + 1 D_fructose_1_6_bisphosphate_c0)
+rxn00545:1 cpd00002_c + 1 cpd00072_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00290_c (1 ATP_c0 + 1 D_fructose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_fructose_1_6_bisphosphate_c0)
+rxn02316:1 cpd00062_c + 1 cpd00805_c <=> 1 cpd00067_c + 1 cpd00014_c + 1 cpd02371_c (1 UTP_c0 + 1 D_Tagatose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 UDP_c0 + 1 D_Tagatose_1_6_biphosphate_c0)
+rxn02315:1 cpd00052_c + 1 cpd00805_c <=> 1 cpd00067_c + 1 cpd00096_c + 1 cpd02371_c (1 CTP_c0 + 1 D_Tagatose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 CDP_c0 + 1 D_Tagatose_1_6_biphosphate_c0)
+rxn00556:1 cpd00072_c + 1 cpd00062_c <=> 1 cpd00067_c + 1 cpd00014_c + 1 cpd00290_c (1 D_fructose_6_phosphate_c0 + 1 UTP_c0 <=> 1 H_plus__c0 + 1 UDP_c0 + 1 D_fructose_1_6_bisphosphate_c0)
+rxn02314:1 cpd00002_c + 1 cpd00805_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02371_c (1 ATP_c0 + 1 D_Tagatose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 D_Tagatose_1_6_biphosphate_c0)
+rxn00554:1 cpd00072_c + 1 cpd00052_c <=> 1 cpd00067_c + 1 cpd00096_c + 1 cpd00290_c (1 D_fructose_6_phosphate_c0 + 1 CTP_c0 <=> 1 H_plus__c0 + 1 CDP_c0 + 1 D_fructose_1_6_bisphosphate_c0)
+rxn01593:1 cpd00002_c + 1 cpd00328_c <=> 1 cpd00008_c + 1 cpd00838_c (1 ATP_c0 + 1 Streptomycin_c0 <=> 1 ADP_c0 + 1 Streptomycin_6_phosphate_c0)
+rxn02317:1 cpd00068_c + 1 cpd00805_c <=> 1 cpd00067_c + 1 cpd00090_c + 1 cpd02371_c (1 ITP_c0 + 1 D_Tagatose_6_phosphate_c0 <=> 1 H_plus__c0 + 1 IDP_c0 + 1 D_Tagatose_1_6_biphosphate_c0)
+rxn01343:1 cpd00002_c + 1 cpd00238_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00349_c (1 ATP_c0 + 1 Sedoheptulose7_phosphate_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Sedoheptulose_1_7_bisphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00014_c (UDP_c0)
+cpd00052_c (CTP_c0)
+cpd00062_c (UTP_c0)
+cpd00067_c (H_plus__c0)
+cpd00068_c (ITP_c0)
+cpd00072_c (D_fructose_6_phosphate_c0)
+cpd00090_c (IDP_c0)
+cpd00096_c (CDP_c0)
+cpd00238_c (Sedoheptulose7_phosphate_c0)
+cpd00290_c (D_fructose_1_6_bisphosphate_c0)
+cpd00328_c (Streptomycin_c0)
+cpd00349_c (Sedoheptulose_1_7_bisphosphate_c0)
+cpd00805_c (D_Tagatose_6_phosphate_c0)
+cpd00838_c (Streptomycin_6_phosphate_c0)
+cpd02371_c (D_Tagatose_1_6_biphosphate_c0)
+
+

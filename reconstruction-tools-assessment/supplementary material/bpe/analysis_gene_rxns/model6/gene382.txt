@@ -1,0 +1,14 @@
+notRecovered:
+3PEPTabcpp:1 LalaDgluMdap_p + 1 atp_c + 1 h2o_c -> 1 LalaDgluMdap_c + 1 adp_c + 1 h_c + 1 pi_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate + 1 ATP + 1 H2O -> 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate + 1 ADP + 1 H+ + 1 Phosphate)
+4PEPTabcpp:1 LalaDgluMdapDala_p + 1 atp_c + 1 h2o_c -> 1 LalaDgluMdapDala_c + 1 adp_c + 1 h_c + 1 pi_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 ATP + 1 H2O -> 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 ADP + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+XYLANabc:1 atp_c + 1 h2o_c + 1 xylan4_e -> 1 adp_c + 1 h_c + 1 pi_c + 1 xylan4_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Xylan (4 backbone units, 1 glcur side chain) -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate + 1 Xylan (4 backbone units, 1 glcur side chain))
+
+
+AdditionalMetabolites:
+xylan4_c (Xylan (4 backbone units, 1 glcur side chain))
+xylan4_e (Xylan (4 backbone units, 1 glcur side chain))
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+BDH:1 bhb_c + 1 nad_c <=> 1 acac_c + 1 h_c + 1 nadh_c (1 (R)-3-hydroxybutanoate + 1 Nicotinamide adenine dinucleotide <=> 1 Acetoacetate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+RXN-11977:1 CPD-12955_c + 3 NADPH_c + 1 OXYGEN-MOLECULE_c + 4 PROTON_c -> 1 CARBON-DIOXIDE_c + 1 CPD-12949_c + 3 NADP_c + 5 WATER_c (1 3,5,7,9,11,13,15,17,19-nonaoxoicosanoate + 3 NADPH + 1 oxygen + 4 H+ -> 1 CO2 + 1 UWM6 + 3 NADP+ + 5 H2O)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+CPD-12949_c (UWM6)
+CPD-12955_c (3,5,7,9,11,13,15,17,19-nonaoxoicosanoate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

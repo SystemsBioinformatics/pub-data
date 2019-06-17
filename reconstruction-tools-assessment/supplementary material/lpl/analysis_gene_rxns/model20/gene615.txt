@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+R00430:1 C00022_c + 1 C00044_c <=> 1 C00035_c + 1 C00074_c (1 Pyruvate + 1 GTP <=> 1 GDP + 1 Phosphoenolpyruvate)
+R01138:1 C00022_c + 1 C00131_c <=> 1 C00074_c + 1 C00206_c (1 Pyruvate + 1 dATP <=> 1 Phosphoenolpyruvate + 1 dADP)
+R01858:1 C00022_c + 1 C00286_c <=> 1 C00074_c + 1 C00361_c (1 Pyruvate + 1 dGTP <=> 1 Phosphoenolpyruvate + 1 dGDP)
+R02320:1 C00022_c + 1 C00201_c <=> 1 C00074_c + 1 C00454_c (1 Pyruvate + 1 Nucleoside triphosphate <=> 1 Phosphoenolpyruvate + 1 NDP)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00035_c (GDP)
+C00044_c (GTP)
+C00074_c (Phosphoenolpyruvate)
+C00131_c (dATP)
+C00201_c (Nucleoside triphosphate)
+C00206_c (dADP)
+C00286_c (dGTP)
+C00361_c (dGDP)
+C00454_c (NDP)
+
+

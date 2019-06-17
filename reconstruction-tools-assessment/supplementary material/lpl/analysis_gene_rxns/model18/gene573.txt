@@ -1,0 +1,25 @@
+notRecovered:
+LOXL:1 lac__L_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_L_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R00196:2 C00125_c + 1 C00186_c <=> 1 C00022_c + 2 C00080_c + 2 C00126_c (2 Ferricytochrome c + 1 (S)-Lactate <=> 1 Pyruvate + 2 H+ + 2 Ferrocytochrome c)
+R00319:1 C00007_c + 1 C00186_c -> 1 C00001_c + 1 C00011_c + 1 C00033_c (1 Oxygen + 1 (S)-Lactate -> 1 H2O + 1 CO2 + 1 Acetate)
+R06633:1 C00007_c + 1 C03198_c <=> 1 C00027_c + 1 C03590_c (1 Oxygen + 1 (S)-4-Hydroxymandelate <=> 1 Hydrogen peroxide + 1 4-Hydroxyphenylglyoxylate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00011_c (CO2)
+C00022_c (Pyruvate)
+C00027_c (Hydrogen peroxide)
+C00033_c (Acetate)
+C00080_c (H+)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00186_c ((S)-Lactate)
+C03198_c ((S)-4-Hydroxymandelate)
+C03590_c (4-Hydroxyphenylglyoxylate)
+
+

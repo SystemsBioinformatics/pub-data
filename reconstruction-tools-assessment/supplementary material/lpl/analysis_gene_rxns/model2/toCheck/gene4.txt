@@ -1,0 +1,23 @@
+notRecovered:
+ACGALpts:1 acgala_e + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 M_N_Acetyl_D_galactosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_acetylgalactosamine_6_phosphate_ + 1 M_Pyruvate_)
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 M_Dihydroxyacetone_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Pyruvate_)
+SBTpts:1 pep_c + 1 sbt__D_e -> 1 pyr_c + 1 sbt6p_c (1 M_Phosphoenolpyruvate_ + 1 M_D_Sorbitol_ -> 1 M_Pyruvate_ + 1 M_D_Sorbitol_6_phosphate_)
+GALTpts:1 galt_e + 1 pep_c -> 1 galt1p_c + 1 pyr_c (1 M_Galactitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Galactitol_1_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+ARBTpts:1 pep_c + 1 arbt_e -> 1 pyr_c + 1 arbt6p_c (1 Phosphoenolpyruvate + 1 Arbutin -> 1 Pyruvate + 1 Arbutin 6-phosphate)
+GAMpts:1 pep_c + 1 gam_e -> 1 pyr_c + 1 gam6p_c (1 Phosphoenolpyruvate + 1 D-Glucosamine -> 1 Pyruvate + 1 D-Glucosamine 6-phosphate)
+MALTpts:1 pep_c + 1 malt_e -> 1 pyr_c + 1 malt6p_c (1 Phosphoenolpyruvate + 1 Maltose -> 1 Pyruvate + 1 Maltose 6'-phosphate)
+SALCpts:1 pep_c + 1 salcn_e -> 1 pyr_c + 1 salcn6p_c (1 Phosphoenolpyruvate + 1 Salicin -> 1 Pyruvate + 1 Salicin 6-phosphate)
+
+
+AdditionalMetabolites:
+arbt6p_c (Arbutin 6-phosphate)
+arbt_e (Arbutin)
+gam_e (D-Glucosamine)
+malt6p_c (Maltose 6'-phosphate)
+salcn6p_c (Salicin 6-phosphate)
+salcn_e (Salicin)
+
+

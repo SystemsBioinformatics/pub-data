@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+LEUt2rpp:1 leu__L_p + 1 h_p <=> 1 leu__L_c + 1 h_c (1 L-Leucine + 1 H+ <=> 1 L-Leucine + 1 H+)
+ILEt2rpp:1 ile__L_p + 1 h_p <=> 1 h_c + 1 ile__L_c (1 L-Isoleucine + 1 H+ <=> 1 H+ + 1 L-Isoleucine)
+LEUt4rpp:1 leu__L_p + 1 na1_p <=> 1 leu__L_c + 1 na1_c (1 L-Leucine + 1 Sodium <=> 1 L-Leucine + 1 Sodium)
+VALt2rpp:1 h_p + 1 val__L_p <=> 1 val__L_c + 1 h_c (1 H+ + 1 L-Valine <=> 1 L-Valine + 1 H+)
+
+
+AdditionalMetabolites:
+h_p (H+)
+ile__L_p (L-Isoleucine)
+leu__L_p (L-Leucine)
+na1_p (Sodium)
+val__L_p (L-Valine)
+
+

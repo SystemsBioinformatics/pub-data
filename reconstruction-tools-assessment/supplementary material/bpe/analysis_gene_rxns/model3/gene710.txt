@@ -1,0 +1,2 @@
+AdditionalInModel:
+THZPSN:1 atp_c + 1 cys__L_c + 1 dxyl5p_c + 1 tyr__L_c -> 1 h2o_c + 1 h_c + 1 amp_c + 1 ppi_c + 1 co2_c + 1 ala__L_c + 1 4mpetz_c + 1 4hba_c (1 ATP + 1 L-Cysteine + 1 1-deoxy-D-xylulose 5-phosphate + 1 L-Tyrosine -> 1 H2O + 1 H+ + 1 AMP + 1 Diphosphate + 1 CO2 + 1 L-Alanine + 1 4-Methyl-5-(2-phosphoethyl)-thiazole + 1 4-Hydroxy-benzyl alcohol)

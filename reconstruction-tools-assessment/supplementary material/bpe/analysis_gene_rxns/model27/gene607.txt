@@ -1,0 +1,19 @@
+notRecovered:
+DTDPACGAMDH_BP:1 dtdpacgam_c -> 1 dtdp4d6dacgam_c + 1 h2o_c (1 dTDP-2-N-acetyl-glucosamine -> 1 dTDP-2-N-acetyl-4,6-dideoxy-glucosamine + 1 H2O)
+
+
+AdditionalNotInModel:
+R00418:1 C00043_c <=> 1 C00203_c (1 UDP-N-acetyl-alpha-D-glucosamine <=> 1 UDP-N-acetyl-D-galactosamine)
+R00291:1 C00029_c <=> 1 C00052_c (1 UDP-glucose <=> 1 UDP-alpha-D-galactose)
+R02984:1 C00842_c <=> 1 C02097_c (1 dTDP-glucose <=> 1 dTDP-galactose)
+
+
+AdditionalMetabolites:
+C00029_c (UDP-glucose)
+C00043_c (UDP-N-acetyl-alpha-D-glucosamine)
+C00052_c (UDP-alpha-D-galactose)
+C00203_c (UDP-N-acetyl-D-galactosamine)
+C00842_c (dTDP-glucose)
+C02097_c (dTDP-galactose)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+MHPGLUT:1 mhpglu_c + 1 hcys__L_c -> 1 met__L_c + 1 hpglu_c (1 M_5_Methyltetrahydropteroyltri_L_glutamate_ + 1 M_L_Homocysteine_ -> 1 M_L_Methionine_ + 1 M_Tetrahydropteroyltri_L_glutamate_)
+
+

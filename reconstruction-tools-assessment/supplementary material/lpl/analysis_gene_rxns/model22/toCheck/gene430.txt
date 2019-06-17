@@ -1,0 +1,15 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+R07459:1 C00002_c + 1 C15810_c <=> 1 C00013_c + 1 C15813_c (1 ATP + 1 Sulfur-carrier protein <=> 1 Diphosphate + 1 Adenylyl-[sulfur-carrier protein])
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C15810_c (Sulfur-carrier protein)
+C15813_c (Adenylyl-[sulfur-carrier protein])
+
+

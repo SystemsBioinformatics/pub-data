@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-18481:1 CPD-13420_c + 1 WATER_c -> 1 CPD-11260_c + 1 ILE_c (1 (+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine + 1 H2O -> 1 cis-tuberonic acid + 1 L-isoleucine)
+
+
+AdditionalMetabolites:
+CPD-11260_c (cis-tuberonic acid)
+CPD-13420_c ((+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine)
+ILE_c (L-isoleucine)
+WATER_c (H2O)
+
+

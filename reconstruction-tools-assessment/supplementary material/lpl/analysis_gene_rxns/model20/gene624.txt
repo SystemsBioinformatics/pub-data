@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+R00418:1 C00043_c <=> 1 C00203_c (1 UDP-N-acetyl-alpha-D-glucosamine <=> 1 UDP-N-acetyl-D-galactosamine)
+R02984:1 C00842_c <=> 1 C02097_c (1 dTDP-glucose <=> 1 dTDP-galactose)
+R03397:1 C00003_c + 1 C03117_c <=> 1 C00004_c + 1 C00080_c + 1 C01222_c (1 NAD+ + 1 GDP-6-deoxy-D-mannose <=> 1 NADH + 1 H+ + 1 GDP-4-dehydro-6-deoxy-D-mannose)
+R03399:1 C00006_c + 1 C03117_c <=> 1 C00005_c + 1 C00080_c + 1 C01222_c (1 NADP+ + 1 GDP-6-deoxy-D-mannose <=> 1 NADPH + 1 H+ + 1 GDP-4-dehydro-6-deoxy-D-mannose)
+R10279:1 C03187_c <=> 1 C03319_c (1 dTDP-6-deoxy-beta-L-talose <=> 1 dTDP-L-rhamnose)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00043_c (UDP-N-acetyl-alpha-D-glucosamine)
+C00080_c (H+)
+C00203_c (UDP-N-acetyl-D-galactosamine)
+C00842_c (dTDP-glucose)
+C01222_c (GDP-4-dehydro-6-deoxy-D-mannose)
+C02097_c (dTDP-galactose)
+C03117_c (GDP-6-deoxy-D-mannose)
+C03187_c (dTDP-6-deoxy-beta-L-talose)
+C03319_c (dTDP-L-rhamnose)
+
+

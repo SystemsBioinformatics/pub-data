@@ -1,0 +1,19 @@
+notRecovered:
+DGNSK:1 atp_c + 1 dgsn_c -> 1 adp_c + 1 dgmp_c + 1 h_c (1 M_ATP_ + 1 M_Deoxyguanosine_ -> 1 M_ADP_ + 1 M_dGMP_ + 1 M_H_)
+DINSK:1 atp_c + 1 din_c -> 1 adp_c + 1 dimp_c (1 M_ATP_ + 1 M_Deoxyinosine_ -> 1 M_ADP_ + 1 M_dIMP_)
+
+
+AdditionalNotInModel:
+R00185:1 C00002_c + 1 C00212_c <=> 1 C00008_c + 1 C00020_c (1 ATP + 1 Adenosine <=> 1 ADP + 1 AMP)
+R01666:1 C00002_c + 1 C00881_c -> 1 C00008_c + 1 C00239_c (1 ATP + 1 Deoxycytidine -> 1 ADP + 1 dCMP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00020_c (AMP)
+C00212_c (Adenosine)
+C00239_c (dCMP)
+C00881_c (Deoxycytidine)
+
+

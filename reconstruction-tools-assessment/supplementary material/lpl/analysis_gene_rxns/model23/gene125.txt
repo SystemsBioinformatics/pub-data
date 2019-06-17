@@ -1,0 +1,4 @@
+notRecovered:
+NAPRT:1 h_c + 1 nac_c + 1 prpp_c -> 1 nicrnt_c + 1 ppi_c (1 M_H_ + 1 M_Nicotinate_ + 1 M_5_Phospho_alpha_D_ribose_1_diphosphate_ -> 1 M_Nicotinate_D_ribonucleotide_ + 1 M_Diphosphate_)
+
+

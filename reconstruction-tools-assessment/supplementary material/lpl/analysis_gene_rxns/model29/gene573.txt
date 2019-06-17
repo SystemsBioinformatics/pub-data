@@ -1,0 +1,16 @@
+notRecovered:
+LOXL:1 lac__L_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_L_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R00319:1 C00186_c + 1 C00007_c <=> 1 C00011_c + 1 C00001_c + 1 C00033_c (1 (S)-Lactate + 1 Oxygen <=> 1 CO2 + 1 H2O + 1 Acetate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00011_c (CO2)
+C00033_c (Acetate)
+C00186_c ((S)-Lactate)
+
+

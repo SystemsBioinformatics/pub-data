@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+RXN-15581:1 D-SERINE_c -> 1 2-AMINOACRYLATE_c + 1 WATER_c (1 D-serine -> 1 2-aminoprop-2-enoate + 1 H2O)
+
+
+AdditionalMetabolites:
+2-AMINOACRYLATE_c (2-aminoprop-2-enoate)
+D-SERINE_c (D-serine)
+WATER_c (H2O)
+
+

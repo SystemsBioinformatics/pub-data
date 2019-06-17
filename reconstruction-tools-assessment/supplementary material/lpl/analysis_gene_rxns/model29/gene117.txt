@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R01682:1 C00506_c <=> 1 C00011_c + 1 C00245_c (1 L-Cysteate <=> 1 CO2 + 1 Taurine)
+R02466:1 C00606_c <=> 1 C00519_c + 1 C00011_c (1 3-Sulfino-L-alanine <=> 1 Hypotaurine + 1 CO2)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00245_c (Taurine)
+C00506_c (L-Cysteate)
+C00519_c (Hypotaurine)
+C00606_c (3-Sulfino-L-alanine)
+
+

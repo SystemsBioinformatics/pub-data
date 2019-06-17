@@ -1,0 +1,16 @@
+notRecovered:
+LCTSt:1 h_e + 1 lcts_e <=> 1 h_c + 1 lcts_c (1 M_H_ + 1 M_Lactose_ <=> 1 M_H_ + 1 M_Lactose_)
+MELIBt2:1 h_e + 1 melib_e -> 1 h_c + 1 melib_c (1 M_H_ + 1 M_Melibiose_ -> 1 M_H_ + 1 M_Melibiose_)
+
+
+AdditionalNotInModel:
+MELIBt2pp:1 melib_p + 1 h_p -> 1 melib_c + 1 h_c (1 Melibiose C12H22O11 + 1 H+ -> 1 Melibiose C12H22O11 + 1 H+)
+GALt2:1 h_e + 1 gal_e -> 1 h_c + 1 gal_c (1 H+ + 1 D-Galactose -> 1 H+ + 1 D-Galactose)
+
+
+AdditionalMetabolites:
+gal_e (D-Galactose)
+h_p (H+)
+melib_p (Melibiose C12H22O11)
+
+

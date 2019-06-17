@@ -1,0 +1,18 @@
+notRecovered:
+GLYCTO1:1 glyclt_c + 1 o2_c -> 1 glx_c + 1 h2o2_c (1 Glycolate + 1 O2 -> 1 Glyoxylate + 1 Hydrogen peroxide)
+
+
+AdditionalNotInModel:
+RXN0-7229:1 ETR-Quinones_c + 1 GLYCOLLATE_c -> 1 ETR-Quinols_c + 1 GLYOX_c (1 ETR-Quinones + 1 glycolate -> 1 ETR-Quinols + 1 glyoxylate)
+GLYCOLATEDEHYDRO-RXN:1 Acceptor_c + 1 GLYCOLLATE_c -> 1 Donor-H2_c + 1 GLYOX_c (1 Acceptor + 1 glycolate -> 1 Donor-H2 + 1 glyoxylate)
+
+
+AdditionalMetabolites:
+Acceptor_c (Acceptor)
+Donor-H2_c (Donor-H2)
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+GLYCOLLATE_c (glycolate)
+GLYOX_c (glyoxylate)
+
+

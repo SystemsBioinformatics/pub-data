@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+PPNCL2:1 cys__L_c + 1 ctp_c + 1 4ppan_c -> 1 h_c + 1 ppi_c + 1 cmp_c + 1 4ppcys_c (1 L-Cysteine + 1 CTP + 1 D-4'-Phosphopantothenate -> 1 H+ + 1 Diphosphate + 1 CMP + 1 N-((R)-4-Phosphopantothenoyl)-L-cysteine)
+
+

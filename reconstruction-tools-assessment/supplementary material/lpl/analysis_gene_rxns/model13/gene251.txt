@@ -1,0 +1,4 @@
+notRecovered:
+OCBT_1:1 cbp_c + 1 orn__L_c <=> 1 citr__L_c + 1 h_c + 1 pi_c (1 M_Carbamoyl_phosphate_ + 1 M_L_Ornithine_ <=> 1 M_L_Citrulline_ + 1 M_H_ + 1 M_Phosphate_)
+
+

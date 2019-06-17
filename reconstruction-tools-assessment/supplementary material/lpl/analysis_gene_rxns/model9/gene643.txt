@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+ADPGLC:1 adpglc_c + 1 h2o_c -> 1 amp_c + 2 h_c + 1 g1p_c (1 ADPglucose C16H23N5O15P2 + 1 H2O H2O -> 1 AMP C10H12N5O7P + 2 H+ + 1 D-Glucose 1-phosphate)
+GDPMNP:1 gdpmann_c + 1 h2o_c -> 1 man1p_c + 1 gmp_c + 2 h_c (1 GDP-D-mannose + 1 H2O H2O -> 1 D-Mannose 1-phosphate + 1 GMP C10H12N5O8P + 2 H+)
+
+
+AdditionalMetabolites:
+gdpmann_c (GDP-D-mannose)
+
+
+AdditionalInModel:
+DNTPPA:1 ahdt_c + 1 h2o_c -> 1 ppi_c + 1 h_c + 1 dhpmp_c (1 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate + 1 H2O H2O -> 1 Diphosphate + 1 H+ + 1 Dihydroneopterin monophosphate)

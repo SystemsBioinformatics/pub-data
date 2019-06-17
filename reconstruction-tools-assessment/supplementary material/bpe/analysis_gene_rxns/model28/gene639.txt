@@ -1,0 +1,4 @@
+notRecovered:
+THRS:1 h2o_c + 1 phom_c -> 1 pi_c + 1 thr__L_c (1 H2O + 1 O-Phospho-L-homoserine -> 1 Phosphate + 1 L-Threonine)
+
+

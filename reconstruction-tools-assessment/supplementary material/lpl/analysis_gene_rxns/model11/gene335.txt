@@ -1,0 +1,4 @@
+notRecovered:
+LDH_D:1 lac__D_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 M_D_Lactate_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Pyruvate_)
+
+

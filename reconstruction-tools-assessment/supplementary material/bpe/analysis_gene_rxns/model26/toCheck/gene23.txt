@@ -1,0 +1,39 @@
+notRecovered:
+NTD8pp:1 dgmp_p + 1 h2o_p -> 1 dgsn_p + 1 pi_p (1 dGMP + 1 H2O -> 1 Deoxyguanosine + 1 Phosphate)
+NTD7pp:1 amp_p + 1 h2o_p -> 1 adn_p + 1 pi_p (1 AMP + 1 H2O -> 1 Adenosine + 1 Phosphate)
+NTD9pp:1 gmp_p + 1 h2o_p -> 1 gsn_p + 1 pi_p (1 GMP + 1 H2O -> 1 Guanosine + 1 Phosphate)
+NTD11pp:1 h2o_p + 1 imp_p -> 1 ins_p + 1 pi_p (1 H2O + 1 IMP -> 1 Inosine + 1 Phosphate)
+NTD10pp:1 h2o_p + 1 xmp_p -> 1 pi_p + 1 xtsn_p (1 H2O + 1 Xanthosine 5'-phosphate -> 1 Phosphate + 1 Xanthosine)
+NTD1pp:1 dump_p + 1 h2o_p -> 1 duri_p + 1 pi_p (1 dUMP + 1 H2O -> 1 Deoxyuridine + 1 Phosphate)
+NTD2pp:1 h2o_p + 1 ump_p -> 1 pi_p + 1 uri_p (1 H2O + 1 UMP -> 1 Phosphate + 1 Uridine)
+NTD5pp:1 dtmp_p + 1 h2o_p -> 1 pi_p + 1 thymd_p (1 dTMP + 1 H2O -> 1 Phosphate + 1 Thymidine)
+NTD6pp:1 damp_p + 1 h2o_p -> 1 dad_2_p + 1 pi_p (1 dAMP + 1 H2O -> 1 Deoxyadenosine + 1 Phosphate)
+NTD12pp:1 dimp_p + 1 h2o_p -> 1 din_p + 1 pi_p (1 dIMP + 1 H2O -> 1 Deoxyinosine + 1 Phosphate)
+NTD12:1 dimp_c + 1 h2o_c -> 1 din_c + 1 pi_c (1 dIMP + 1 H2O -> 1 Deoxyinosine + 1 Phosphate)
+NTD3pp:1 dcmp_p + 1 h2o_p -> 1 dcyt_p + 1 pi_p (1 dCMP + 1 H2O -> 1 Deoxycytidine + 1 Phosphate)
+NTD4pp:1 cmp_p + 1 h2o_p -> 1 cytd_p + 1 pi_p (1 CMP + 1 H2O -> 1 Cytidine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R00963:1 C00001_c + 1 C00105_c -> 1 C00009_c + 1 C00299_c (1 H2O + 1 UMP -> 1 Orthophosphate + 1 Uridine)
+R01126:1 C00001_c + 1 C00130_c <=> 1 C00009_c + 1 C00294_c (1 H2O + 1 IMP <=> 1 Orthophosphate + 1 Inosine)
+R02102:1 C00001_c + 1 C00365_c -> 1 C00009_c + 1 C00526_c (1 H2O + 1 dUMP -> 1 Orthophosphate + 1 Deoxyuridine)
+R02323:1 C00001_c + 1 C00455_c -> 1 C00009_c + 1 C03150_c (1 H2O + 1 Nicotinamide D-ribonucleotide -> 1 Orthophosphate + 1 Nicotinamide-beta-riboside)
+R03346:1 C00001_c + 1 C01185_c -> 1 C00009_c + 1 C05841_c (1 H2O + 1 Nicotinate D-ribonucleotide -> 1 Orthophosphate + 1 Nicotinate D-ribonucleoside)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00105_c (UMP)
+C00130_c (IMP)
+C00294_c (Inosine)
+C00299_c (Uridine)
+C00365_c (dUMP)
+C00455_c (Nicotinamide D-ribonucleotide)
+C00526_c (Deoxyuridine)
+C01185_c (Nicotinate D-ribonucleotide)
+C03150_c (Nicotinamide-beta-riboside)
+C05841_c (Nicotinate D-ribonucleoside)
+
+

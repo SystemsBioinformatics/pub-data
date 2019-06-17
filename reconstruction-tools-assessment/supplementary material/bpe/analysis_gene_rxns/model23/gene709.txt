@@ -1,0 +1,16 @@
+notRecovered:
+MTHFR2:2 h_c + 1 mlthf_c + 1 nadh_c -> 1 5mthf_c + 1 nad_c (2 H+ + 1 5,10-Methylenetetrahydrofolate + 1 Nicotinamide adenine dinucleotide - reduced -> 1 5-Methyltetrahydrofolate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+1.5.1.20-RXN:1 METHYLENE-THF-GLU-N_c + 1 NADH_c + 1 PROTON_c -> 1 5-METHYL-THF-GLU-N_c + 1 NAD_c (1 METHYLENE-THF-GLU-N + 1 NADH + 1 H+ -> 1 5-METHYL-THF-GLU-N + 1 NAD+)
+
+
+AdditionalMetabolites:
+5-METHYL-THF-GLU-N_c (5-METHYL-THF-GLU-N)
+METHYLENE-THF-GLU-N_c (METHYLENE-THF-GLU-N)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

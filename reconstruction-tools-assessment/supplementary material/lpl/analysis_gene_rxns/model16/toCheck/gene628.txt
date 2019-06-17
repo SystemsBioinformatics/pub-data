@@ -1,0 +1,18 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+rxn03843:1 cpd00113_c + 1 cpd00350_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd08211_c (1 Isopentenyldiphosphate_c0 + 1 Farnesyldiphosphate_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 trans_trans_cis_Geranylgeranyl_diphosphate_c0)
+rxn09345:8 cpd00113_c + 1 cpd00350_c <=> 8 cpd00012_c + 8 cpd00067_c + 1 cpd02229_c (8 Isopentenyldiphosphate_c0 + 1 Farnesyldiphosphate_c0 <=> 8 PPi_c0 + 8 H_plus__c0 + 1 Bactoprenyl_diphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00113_c (Isopentenyldiphosphate_c0)
+cpd00350_c (Farnesyldiphosphate_c0)
+cpd02229_c (Bactoprenyl_diphosphate_c0)
+cpd08211_c (trans_trans_cis_Geranylgeranyl_diphosphate_c0)
+
+

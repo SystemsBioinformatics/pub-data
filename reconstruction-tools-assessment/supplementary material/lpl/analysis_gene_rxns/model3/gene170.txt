@@ -1,0 +1,22 @@
+notRecovered:
+GLCP:1 glycogen_c + 1 pi_c -> 1 g1p_c (1 M_glycogen_ + 1 M_Phosphate_ -> 1 M_D_Glucose_1_phosphate_)
+
+
+AdditionalNotInModel:
+MLTG1:1 h2o_c + 1 malttr_c -> 1 glc__D_c + 1 malt_c (1 H2O + 1 Maltotriose -> 1 D-Glucose + 1 Maltose)
+MLTG2:1 h2o_c + 1 maltttr_c -> 1 glc__D_c + 1 malttr_c (1 H2O + 1 Maltotetraose -> 1 D-Glucose + 1 Maltotriose)
+MLTG3:1 h2o_c + 1 maltpt_c -> 1 glc__D_c + 1 maltttr_c (1 H2O + 1 Maltopentaose -> 1 D-Glucose + 1 Maltotetraose)
+MLTG4:1 h2o_c + 1 malthx_c -> 1 glc__D_c + 1 maltpt_c (1 H2O + 1 Maltohexaose -> 1 D-Glucose + 1 Maltopentaose)
+MLTG5:1 h2o_c + 1 malthp_c -> 1 glc__D_c + 1 malthx_c (1 H2O + 1 Maltoheptaose -> 1 D-Glucose + 1 Maltohexaose)
+
+
+AdditionalMetabolites:
+malthp_c (Maltoheptaose)
+malthx_c (Maltohexaose)
+maltpt_c (Maltopentaose)
+malttr_c (Maltotriose)
+maltttr_c (Maltotetraose)
+
+
+AdditionalInModel:
+GALS3:1 h2o_c + 1 melib_c -> 1 glc__D_c + 1 gal_c (1 H2O + 1 Melibiose -> 1 D-Glucose + 1 D-Galactose)

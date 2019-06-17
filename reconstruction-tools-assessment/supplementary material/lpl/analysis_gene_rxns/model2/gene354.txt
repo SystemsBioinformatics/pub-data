@@ -1,0 +1,2 @@
+AdditionalInModel:
+ICH:1 fprica_c -> 1 h2o_c + 1 imp_c (1 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide -> 1 H2O + 1 IMP)

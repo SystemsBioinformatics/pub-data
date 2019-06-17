@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn02376:1 cpd00213_c + 1 cpd03189_c <=> 1 cpd00056_c + 1 cpd00860_c (1 Lipoamide_c0 + 1 3_Carboxy_1_hydroxypropyl_ThPP_c0 <=> 1 TPP_c0 + 1 S_Succinyldihydrolipoamide_c0)
+rxn00441:1 cpd00067_c + 1 cpd00056_c + 1 cpd00024_c -> 1 cpd00011_c + 1 cpd03189_c (1 H_plus__c0 + 1 TPP_c0 + 1 2_Oxoglutarate_c0 -> 1 CO2_c0 + 1 3_Carboxy_1_hydroxypropyl_ThPP_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00024_c (2_Oxoglutarate_c0)
+cpd00056_c (TPP_c0)
+cpd00067_c (H_plus__c0)
+cpd00213_c (Lipoamide_c0)
+cpd00860_c (S_Succinyldihydrolipoamide_c0)
+cpd03189_c (3_Carboxy_1_hydroxypropyl_ThPP_c0)
+
+

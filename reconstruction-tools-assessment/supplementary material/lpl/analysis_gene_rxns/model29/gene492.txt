@@ -1,0 +1,20 @@
+notRecovered:
+DRBK:1 atp_c + 1 drib_c -> 1 2dr5p_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M_Deoxyribose_ -> 1 M_2_Deoxy_D_ribose_5_phosphate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R02750:1 C00673_c + 1 C03043_c + 1 C00008_c + 1 C00001_c + 1 C00007_c <=> 1 C01801_c + 1 C00027_c + 1 C01297_c + 1 C00002_c (1 2-Deoxy-D-ribose 5-phosphate + 1 (R)-6-Hydroxynicotine + 1 ADP + 1 H2O + 1 Oxygen <=> 1 Deoxyribose + 1 Hydrogen peroxide + 1 6-Hydroxypseudooxynicotine + 1 ATP)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00007_c (Oxygen)
+C00008_c (ADP)
+C00027_c (Hydrogen peroxide)
+C00673_c (2-Deoxy-D-ribose 5-phosphate)
+C01297_c (6-Hydroxypseudooxynicotine)
+C01801_c (Deoxyribose)
+C03043_c ((R)-6-Hydroxynicotine)
+
+

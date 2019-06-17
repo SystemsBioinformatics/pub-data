@@ -1,0 +1,2 @@
+AdditionalInModel:
+NAPRT:1 h_c + 1 prpp_c + 1 nac_c -> 1 ppi_c + 1 nicrnt_c (1 H+ + 1 5-Phospho-alpha-D-ribose 1-diphosphate + 1 Nicotinate -> 1 Diphosphate + 1 Nicotinate D-ribonucleotide)

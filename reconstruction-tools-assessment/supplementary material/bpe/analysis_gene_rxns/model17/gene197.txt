@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R00694:1 C00026_c + 1 C00079_c <=> 1 C00025_c + 1 C00166_c (1 2-Oxoglutarate + 1 L-Phenylalanine <=> 1 L-Glutamate + 1 Phenylpyruvate)
+R00734:1 C00026_c + 1 C00082_c <=> 1 C00025_c + 1 C01179_c (1 2-Oxoglutarate + 1 L-Tyrosine <=> 1 L-Glutamate + 1 3-(4-Hydroxyphenyl)pyruvate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00079_c (L-Phenylalanine)
+C00082_c (L-Tyrosine)
+C00166_c (Phenylpyruvate)
+C01179_c (3-(4-Hydroxyphenyl)pyruvate)
+
+

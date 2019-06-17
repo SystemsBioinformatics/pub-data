@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+CHOLD:1 nad_c + 1 chol_c -> 1 nadh_c + 1 betald_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Choline C5H14NO -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Betaine aldehyde + 1 H+)
+BTCOARx:1 nadh_c + 1 h_c + 1 btcoa_c <=> 1 nad_c + 1 coa_c + 1 btal_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Butanoyl-CoA <=> 1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 Butanal C4H8O)
+ALCD4:1 nad_c + 1 btoh_c <=> 1 nadh_c + 1 btal_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Butanol <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Butanal C4H8O + 1 H+)
+
+
+AdditionalMetabolites:
+betald_c (Betaine aldehyde)
+btal_c (Butanal C4H8O)
+btcoa_c (Butanoyl-CoA)
+btoh_c (Butanol)
+
+
+AdditionalInModel:
+ALCD19:1 nadh_c + 1 glyald_c + 1 h_c <=> 1 nad_c + 1 glyc_c (1 Nicotinamide adenine dinucleotide - reduced + 1 D-Glyceraldehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 Glycerol)

@@ -1,0 +1,15 @@
+notRecovered:
+GK2:1 datp_c + 1 gmp_c <=> 1 dadp_c + 1 gdp_c (1 M_dATP_ + 1 M_GMP_ <=> 1 M_dADP_ + 1 M_GDP_)
+
+
+AdditionalNotInModel:
+GMKALT-RXN:1 ATP_c + 1 DGMP_c -> 1 ADP_c + 1 DGDP_c (1 ATP + 1 dGMP -> 1 ADP + 1 dGDP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+DGDP_c (dGDP)
+DGMP_c (dGMP)
+
+

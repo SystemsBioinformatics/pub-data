@@ -1,0 +1,4 @@
+notRecovered:
+ADK2:1 amp_c + 1 pppi_c <=> 1 adp_c + 1 ppi_c (1 M_AMP_ + 1 M_Inorganic_triphosphate_ <=> 1 M_ADP_ + 1 M_Diphosphate_)
+
+

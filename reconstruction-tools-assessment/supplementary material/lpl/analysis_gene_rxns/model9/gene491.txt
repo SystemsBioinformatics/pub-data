@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+MUCCY_kt:1 CCbuttc_c + 1 h_c -> 1 4cml_c (1 Cis,cis-Butadiene-1,2,4-tricarboxylate + 1 H+ -> 1 4-Carboxymuconolactone)
+
+
+AdditionalMetabolites:
+CCbuttc_c (Cis,cis-Butadiene-1,2,4-tricarboxylate)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+FUCUNDT_BP:1 dtdp2nac4ametfuc_c + 1 udcpp_c -> 1 dtmp_c + 1 undp2nac4ametfuc_c (1 dTDP-2-N-acetyl-4-aminomethyl-fucose + 1 Undecaprenyl phosphate -> 1 dTMP + 1 undecaprenyl-diphosphate-2-N-acetyl-4-aminomethyl-fucose)
+
+

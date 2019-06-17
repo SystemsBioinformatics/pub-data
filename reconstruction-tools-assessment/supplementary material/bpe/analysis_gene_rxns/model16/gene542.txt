@@ -1,0 +1,15 @@
+notRecovered:
+PTRCTA:1 akg_c + 1 ptrc_c -> 1 4abutn_c + 1 glu__L_c (1 2-Oxoglutarate + 1 Putrescine -> 1 4-Aminobutanal + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+R04475:1 C00026_c + 1 C04421_c <=> 1 C00025_c + 1 C04462_c (1 2-Oxoglutarate + 1 N-Succinyl-LL-2,6-diaminoheptanedioate <=> 1 L-Glutamate + 1 N-Succinyl-2-L-amino-6-oxoheptanedioate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C04421_c (N-Succinyl-LL-2,6-diaminoheptanedioate)
+C04462_c (N-Succinyl-2-L-amino-6-oxoheptanedioate)
+
+

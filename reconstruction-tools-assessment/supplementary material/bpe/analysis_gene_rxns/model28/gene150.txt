@@ -1,0 +1,19 @@
+notRecovered:
+ADCS:1 chor_c + 1 gln__L_c -> 1 4adcho_c + 1 glu__L_c (1 chorismate + 1 L-Glutamine -> 1 4-amino-4-deoxychorismate + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+R00985:1 C00251_c + 1 C00014_c <=> 1 C00108_c + 1 C00022_c + 1 C00001_c (1 Chorismate + 1 Ammonia <=> 1 Anthranilate + 1 Pyruvate + 1 H2O)
+R00986:1 C00251_c + 1 C00064_c <=> 1 C00108_c + 1 C00025_c + 1 C00022_c (1 Chorismate + 1 L-Glutamine <=> 1 Anthranilate + 1 L-Glutamate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C00108_c (Anthranilate)
+C00251_c (Chorismate)
+
+

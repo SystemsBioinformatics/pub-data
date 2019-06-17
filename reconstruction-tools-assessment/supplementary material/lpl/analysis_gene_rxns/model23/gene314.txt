@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+ACP-S-ACETYLTRANSFER-RXN:1 ACETYL-COA_c + 1 ACP_c <=> 1 ACETYL-ACP_c + 1 CO-A_c (1 acetyl-CoA + 1 ACP <=> 1 ACETYL-ACP + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+ACETYL-ACP_c (ACETYL-ACP)
+ACETYL-COA_c (acetyl-CoA)
+CO-A_c (coenzyme A)
+
+

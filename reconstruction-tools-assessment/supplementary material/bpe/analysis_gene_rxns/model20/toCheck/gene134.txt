@@ -1,0 +1,24 @@
+notRecovered:
+AGPAT141:1 1tdec7eg3p_c + 1 tdeACP_c -> 1 ACP_c + 1 pa141_c (1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1) -> 1 acyl carrier protein + 1 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate)
+AGPAT120:1 1ddecg3p_c + 1 ddcaACP_c -> 1 ACP_c + 1 pa120_c (1 1-dodecanoyl-sn-glycerol 3-phosphate + 1 Dodecanoyl-ACP (n-C12:0ACP) -> 1 acyl carrier protein + 1 1,2-didodecanoyl-sn-glycerol 3-phosphate)
+AGPAT181:1 1odec11eg3p_c + 1 octeACP_c -> 1 ACP_c + 1 pa181_c (1 1-octadec-11-enoyl-sn-glycerol 3-phosphate + 1 cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) -> 1 acyl carrier protein + 1 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate)
+AGPAT180:1 1odecg3p_c + 1 ocdcaACP_c -> 1 ACP_c + 1 pa180_c (1 1-octadecanoyl-sn-glycerol 3-phosphate + 1 Octadecanoyl-ACP (n-C18:0ACP) -> 1 acyl carrier protein + 1 1,2-dioctadecanoyl-sn-glycerol 3-phosphate)
+AGPAT161:1 1hdec9eg3p_c + 1 hdeACP_c -> 1 ACP_c + 1 pa161_c (1 1-hexadec-9-enoyl-sn-glycerol 3-phosphate + 1 cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) -> 1 acyl carrier protein + 1 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate)
+AGPAT160:1 1hdecg3p_c + 1 palmACP_c -> 1 ACP_c + 1 pa160_c (1 1-hexadecanoyl-sn-glycerol 3-phosphate + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 acyl carrier protein + 1 1,2-dihexadecanoyl-sn-glycerol 3-phosphate)
+AGPAT140:1 1tdecg3p_c + 1 myrsACP_c -> 1 ACP_c + 1 pa140_c (1 1-tetradecanoyl-sn-glycerol 3-phosphate + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 acyl carrier protein + 1 1,2-ditetradecanoyl-sn-glycerol 3-phosphate)
+
+
+AdditionalNotInModel:
+R02241:1 C00010_c + 1 C00416_c <=> 1 C00040_c + 1 C00681_c (1 CoA + 1 Phosphatidate <=> 1 Acyl-CoA + 1 1-Acyl-sn-glycerol 3-phosphate)
+R09381:1 C00173_c + 1 C00681_c <=> 1 C00229_c + 1 C00416_c (1 Acyl-[acyl-carrier protein] + 1 1-Acyl-sn-glycerol 3-phosphate <=> 1 Acyl-carrier protein + 1 Phosphatidate)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00040_c (Acyl-CoA)
+C00173_c (Acyl-[acyl-carrier protein])
+C00229_c (Acyl-carrier protein)
+C00416_c (Phosphatidate)
+C00681_c (1-Acyl-sn-glycerol 3-phosphate)
+
+

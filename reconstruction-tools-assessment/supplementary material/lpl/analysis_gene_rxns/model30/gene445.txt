@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R06134:1 C00241_c + 1 C00001_c <=> 1 C00014_c + 1 C00060_c (1 Amide + 1 H2O <=> 1 Ammonia + 1 Carboxylate)
+R01579:1 C00819_c + 1 C00001_c <=> 1 C00014_c + 1 C00217_c (1 D-Glutamine + 1 H2O <=> 1 Ammonia + 1 D-Glutamate)
+R00256:1 C00064_c + 1 C00001_c <=> 1 C00014_c + 1 C00025_c (1 L-Glutamine + 1 H2O <=> 1 Ammonia + 1 L-Glutamate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00025_c (L-Glutamate)
+C00060_c (Carboxylate)
+C00064_c (L-Glutamine)
+C00217_c (D-Glutamate)
+C00241_c (Amide)
+C00819_c (D-Glutamine)
+
+

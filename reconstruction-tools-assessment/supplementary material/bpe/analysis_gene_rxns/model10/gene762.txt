@@ -1,0 +1,4 @@
+notRecovered:
+CSPMDDH:1 aspsa_c + 1 h_c + 1 nadph_c + 1 ptrc_c -> 1 cspmd_c + 1 h2o_c + 1 nadp_c (1 L-Aspartate 4-semialdehyde + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Putrescine -> 1 Carboxyspermidine + 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

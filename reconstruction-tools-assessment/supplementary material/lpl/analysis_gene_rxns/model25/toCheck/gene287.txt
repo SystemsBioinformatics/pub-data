@@ -1,0 +1,19 @@
+notRecovered:
+MDH:1 mal__L_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 oaa_c (1 M_L_Malate_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Oxaloacetate_)
+
+
+AdditionalNotInModel:
+RXN-13927:1 L-2-hydroxyacids_c + 1 NAD_c <=> 1 2-Oxo-carboxylates_c + 1 NADH_c + 1 PROTON_c (1 L-2-hydroxyacids + 1 NAD+ <=> 1 2-Oxo-carboxylates + 1 NADH + 1 H+)
+R230-RXN:1 CPD-367_c + 1 NAD_c <=> 1 CPD-380_c + 1 NADH_c + 1 PROTON_c (1 (2R)-3-sulfolactate + 1 NAD+ <=> 1 3-sulfopyruvate + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+2-Oxo-carboxylates_c (2-Oxo-carboxylates)
+CPD-367_c ((2R)-3-sulfolactate)
+CPD-380_c (3-sulfopyruvate)
+L-2-hydroxyacids_c (L-2-hydroxyacids)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

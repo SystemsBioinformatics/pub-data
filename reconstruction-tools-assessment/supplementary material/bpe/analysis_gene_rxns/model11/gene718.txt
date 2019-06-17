@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+ORNCARBAMTRANSFER-RXN:1 L-ORNITHINE_c + 1 CARBAMOYL-P_c -> 1 L-CITRULLINE_c + 1 Pi_c + 1 PROTON_c (1 L-ornithine + 1 carbamoyl phosphate -> 1 L-citrulline + 1 phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+CARBAMOYL-P_c (carbamoyl phosphate)
+L-CITRULLINE_c (L-citrulline)
+L-ORNITHINE_c (L-ornithine)
+PROTON_c (H+)
+Pi_c (phosphate)
+
+

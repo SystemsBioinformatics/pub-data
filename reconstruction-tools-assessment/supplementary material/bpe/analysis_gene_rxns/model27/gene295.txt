@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R02668:1 C03227_c + 1 C00001_c <=> 1 C00041_c + 1 C00632_c (1 3-Hydroxy-L-kynurenine + 1 H2O <=> 1 L-Alanine + 1 3-Hydroxyanthranilate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00041_c (L-Alanine)
+C00632_c (3-Hydroxyanthranilate)
+C03227_c (3-Hydroxy-L-kynurenine)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+ADPRDP:1 adprib_c + 1 h2o_c -> 1 amp_c + 2 h_c + 1 r5p_c (1 M_ADPribose_ + 1 M_H2O_ -> 1 M_AMP_ + 2 M_H_ + 1 M_alpha_D_Ribose_5_phosphate_)
+
+

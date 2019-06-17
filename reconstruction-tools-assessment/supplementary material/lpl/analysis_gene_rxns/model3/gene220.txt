@@ -1,0 +1,13 @@
+notRecovered:
+ARAB_Lt:1 arab__L_e <=> 1 arab__L_c (1 M_L_Arabinose_ <=> 1 M_L_Arabinose_)
+
+
+AdditionalNotInModel:
+XYLt2:1 h_e + 1 xyl__D_e -> 1 h_c + 1 xyl__D_c (1 H+ + 1 D-Xylose -> 1 H+ + 1 D-Xylose)
+
+
+AdditionalMetabolites:
+xyl__D_c (D-Xylose)
+xyl__D_e (D-Xylose)
+
+

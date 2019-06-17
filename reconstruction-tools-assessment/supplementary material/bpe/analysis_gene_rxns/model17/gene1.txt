@@ -1,0 +1,14 @@
+notRecovered:
+PHBS:100 3hbcoa__R_c + 1 h2o_c -> 100 coa_c + 1 h_c + 1 phb_c (100 (R)-3-hydroxybutanoyl-CoA + 1 H2O -> 100 Coenzyme A + 1 H+ + 1 poly-beta-hydroxybutyrate)
+
+
+AdditionalNotInModel:
+R04254:1 undefined_138_c <=> 1 C06143_c + 1 undefined_116_c (1 n C03561 <=> 1 Poly-beta-hydroxybutyrate + 1 n C00010)
+
+
+AdditionalMetabolites:
+C06143_c (Poly-beta-hydroxybutyrate)
+undefined_116_c (n C00010)
+undefined_138_c (n C03561)
+
+

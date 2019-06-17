@@ -1,0 +1,18 @@
+notRecovered:
+PFL:1 coa_c + 1 pyr_c <=> 1 accoa_c + 1 for_c (1 M_Coenzyme_A_ + 1 M_Pyruvate_ <=> 1 M_Acetyl_CoA_ + 1 M_Formate_)
+
+
+AdditionalNotInModel:
+R04710:1 C00019_c + 1 C05196_c + 1 C05197_c <=> 1 C05198_c + 1 C00073_c + 1 C05199_c + 1 C05312_c (1 S-Adenosyl-L-methionine + 1 Dihydroflavodoxin + 1 Protein glycine <=> 1 5''-Deoxyadenosine + 1 L-Methionine + 1 Flavodoxin semiquinone + 1 Protein glycin-2-yl radical)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00073_c (L-Methionine)
+C05196_c (Dihydroflavodoxin)
+C05197_c (Protein glycine)
+C05198_c (5''-Deoxyadenosine)
+C05199_c (Flavodoxin semiquinone)
+C05312_c (Protein glycin-2-yl radical)
+
+

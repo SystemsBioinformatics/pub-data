@@ -1,0 +1,26 @@
+notRecovered:
+F6PA:1 f6p_c <=> 1 dha_c + 1 g3p_c (1 M_D_Fructose_6_phosphate_ <=> 1 M_Dihydroxyacetone_ + 1 M_Glyceraldehyde_3_phosphate_)
+
+
+AdditionalNotInModel:
+rxn14301:1 cpd00210_c + 1 cpd00051_c <=> 1 cpd00064_c + 1 cpd01345_c (1 Taurine_c0 + 1 L_Arginine_c0 <=> 1 Ornithine_c0 + 1 Taurocyamine_c0)
+rxn00404:1 cpd00033_c + 1 cpd00051_c <=> 1 cpd00064_c + 1 cpd00451_c (1 Glycine_c0 + 1 L_Arginine_c0 <=> 1 Ornithine_c0 + 1 Glycocyamine_c0)
+rxn01333:1 cpd00102_c + 1 cpd00238_c <=> 1 cpd00072_c + 1 cpd00236_c (1 Glyceraldehyde3_phosphate_c0 + 1 Sedoheptulose7_phosphate_c0 <=> 1 D_fructose_6_phosphate_c0 + 1 D_Erythrose4_phosphate_c0)
+rxn01461:1 cpd00051_c + 1 cpd00281_c <=> 1 cpd00064_c + 1 cpd00762_c (1 L_Arginine_c0 + 1 GABA_c0 <=> 1 Ornithine_c0 + 1 4_Guanidinobutanoate_c0)
+
+
+AdditionalMetabolites:
+cpd00033_c (Glycine_c0)
+cpd00051_c (L_Arginine_c0)
+cpd00064_c (Ornithine_c0)
+cpd00072_c (D_fructose_6_phosphate_c0)
+cpd00102_c (Glyceraldehyde3_phosphate_c0)
+cpd00210_c (Taurine_c0)
+cpd00236_c (D_Erythrose4_phosphate_c0)
+cpd00238_c (Sedoheptulose7_phosphate_c0)
+cpd00281_c (GABA_c0)
+cpd00451_c (Glycocyamine_c0)
+cpd00762_c (4_Guanidinobutanoate_c0)
+cpd01345_c (Taurocyamine_c0)
+
+

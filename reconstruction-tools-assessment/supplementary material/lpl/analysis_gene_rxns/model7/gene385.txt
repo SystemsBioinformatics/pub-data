@@ -1,0 +1,4 @@
+notRecovered:
+TARTD:1 tartr__L_c -> 1 h2o_c + 1 oaa_c (1 M_L_tartarate_ -> 1 M_H2O_ + 1 M_Oxaloacetate_)
+
+

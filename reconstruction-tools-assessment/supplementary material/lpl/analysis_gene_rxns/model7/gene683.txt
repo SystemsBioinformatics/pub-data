@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+SHSL1:1 suchms_c + 1 cys__L_c -> 1 succ_c + 1 cyst__L_c + 1 h_c (1 O-Succinyl-L-homoserine + 1 L-Cysteine -> 1 Succinate + 1 L-Cystathionine + 1 H+)
+
+
+AdditionalMetabolites:
+suchms_c (O-Succinyl-L-homoserine)
+
+

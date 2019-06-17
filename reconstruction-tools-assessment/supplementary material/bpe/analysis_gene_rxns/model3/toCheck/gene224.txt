@@ -1,0 +1,13 @@
+notRecovered:
+GLYt4pp:1 gly_p + 1 na1_p <=> 1 gly_c + 1 na1_c (1 Glycine + 1 Sodium <=> 1 Glycine + 1 Sodium)
+ALAt4pp:1 ala__L_p + 1 na1_p <=> 1 ala__L_c + 1 na1_c (1 L-Alanine + 1 Sodium <=> 1 L-Alanine + 1 Sodium)
+
+
+AdditionalNotInModel:
+ALAt2r:1 h_e + 1 ala__L_e <=> 1 h_c + 1 ala__L_c (1 H+ + 1 L-Alanine <=> 1 H+ + 1 L-Alanine)
+ALAt4:1 na1_e + 1 ala__L_e -> 1 na1_c + 1 ala__L_c (1 Sodium + 1 L-Alanine -> 1 Sodium + 1 L-Alanine)
+DALAt2r:1 h_e + 1 ala__D_e <=> 1 h_c + 1 ala__D_c (1 H+ + 1 D-Alanine <=> 1 H+ + 1 D-Alanine)
+DSERt2:1 h_e + 1 ser__D_e <=> 1 h_c + 1 ser__D_c (1 H+ + 1 D-Serine <=> 1 H+ + 1 D-Serine)
+GLYt2r:1 h_e + 1 gly_e <=> 1 h_c + 1 gly_c (1 H+ + 1 Glycine <=> 1 H+ + 1 Glycine)
+
+

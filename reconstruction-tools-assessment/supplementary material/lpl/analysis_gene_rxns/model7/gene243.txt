@@ -1,0 +1,18 @@
+notRecovered:
+UAGPT5:1 uacgam_c + 1 uagmdalac_c -> 1 h_c + 1 uaagmdalac_c + 1 udp_c (1 M_UDP_N_acetyl_D_glucosamine_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UDP_)
+
+
+AdditionalNotInModel:
+UGT2_LLA:1 udpg_c + 0.01 m12dg_LLA_c -> 1 h_c + 0.01 d12dg_LLA_c + 1 udp_c (1 UDPglucose + 0.01 Monoglucosyl 1 2 diacylglycerol -> 1 H+ + 0.01 Diglucosyl 1 2 diacylglycerol + 1 UDP C9H11N2O12P2)
+UGT1_LLA:1 udpg_c + 0.01 12dgr_LLA_c -> 0.01 m12dg_LLA_c + 1 h_c + 1 udp_c (1 UDPglucose + 0.01 1 2 diacylglycerol  lactis specific  -> 0.01 Monoglucosyl 1 2 diacylglycerol + 1 H+ + 1 UDP C9H11N2O12P2)
+UAGPT1:1 uacgam_c + 1 uaAgla_c -> 1 h_c + 1 uaaAgla_c + 1 udp_c (1 UDP-N-acetyl-D-glucosamine + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine -> 1 H+ + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 UDP C9H11N2O12P2)
+
+
+AdditionalMetabolites:
+12dgr_LLA_c (1 2 diacylglycerol  lactis specific)
+d12dg_LLA_c (Diglucosyl 1 2 diacylglycerol)
+m12dg_LLA_c (Monoglucosyl 1 2 diacylglycerol)
+uaAgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uaaAgla_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+
+

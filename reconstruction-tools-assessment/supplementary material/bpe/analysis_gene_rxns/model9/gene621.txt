@@ -1,0 +1,4 @@
+notRecovered:
+GLYCTO1:1 glyclt_c + 1 o2_c -> 1 glx_c + 1 h2o2_c (1 Glycolate + 1 O2 -> 1 Glyoxylate + 1 Hydrogen peroxide)
+
+

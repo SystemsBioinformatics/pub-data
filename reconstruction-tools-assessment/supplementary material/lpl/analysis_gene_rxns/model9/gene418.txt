@@ -1,0 +1,2 @@
+AdditionalInModel:
+ASNTRS_1:1 atp_c + 1 trnaasn_c + 1 asn__L_c -> 1 amp_c + 1 ppi_c + 1 h_c + 1 asntrna_c (1 ATP C10H12N5O13P3 + 1 TRNA Asn  C10H17O10PR2 + 1 L-Asparagine -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 H+ + 1 L-Asparaginyl-tRNA(Asn))

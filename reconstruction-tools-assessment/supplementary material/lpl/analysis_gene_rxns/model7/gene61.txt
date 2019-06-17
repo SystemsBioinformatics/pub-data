@@ -1,0 +1,6 @@
+notRecovered:
+SDPDS:1 h2o_c + 1 sl26da_c -> 1 26dap_LL_c + 1 succ_c (1 M_H2O_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ -> 1 M_LL_2_6_Diaminoheptanedioate_ + 1 M_Succinate_)
+
+
+AdditionalInModel:
+ACODA_1:1 h2o_c + 1 acorn_c -> 1 ac_c + 1 orn__L_c (1 H2O H2O + 1 N2-Acetyl-L-ornithine -> 1 Acetate + 1 L Ornithine C5H13N2O2)

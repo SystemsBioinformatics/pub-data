@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+CITRYLY-RXN:1 Citrate-Lyase-Citryl-Form_c -> 1 CITRATE-LYASE_c + 1 OXALACETIC_ACID_c + 1 PROTON_c (1 a citryl-holo [citrate lyase acyl-carrier protein] -> 1 an acetyl-holo [citrate lyase acyl-carrier protein] + 1 oxaloacetate + 1 H+)
+CITTRANS-RXN:1 CIT_c + 1 CITRATE-LYASE_c + 1 PROTON_c -> 1 Citrate-Lyase-Citryl-Form_c + 1 ACET_c (1 citrate + 1 an acetyl-holo [citrate lyase acyl-carrier protein] + 1 H+ -> 1 a citryl-holo [citrate lyase acyl-carrier protein] + 1 acetate)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+CITRATE-LYASE_c (an acetyl-holo [citrate lyase acyl-carrier protein])
+CIT_c (citrate)
+Citrate-Lyase-Citryl-Form_c (a citryl-holo [citrate lyase acyl-carrier protein])
+OXALACETIC_ACID_c (oxaloacetate)
+PROTON_c (H+)
+
+

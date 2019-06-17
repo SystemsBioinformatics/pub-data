@@ -1,0 +1,6 @@
+notRecovered:
+ORNDC:1 h_c + 1 orn_c -> 1 co2_c + 1 ptrc_c (1 H+ + 1 Ornithine -> 1 CO2 + 1 Putrescine)
+
+
+AdditionalInModel:
+LYSDC:1 h_c + 1 lys__L_c -> 1 co2_c + 1 15dap_c (1 H+ + 1 L-Lysine -> 1 CO2 + 1 1,5-Diaminopentane)

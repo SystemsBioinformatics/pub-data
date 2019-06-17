@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-10083:1 CPD-10825_c + 1 WATER_c -> 1 CPD-10826_c + 1 PROTON_c (1 4-methyl-3-oxoadipate-enol-lactone + 1 H2O -> 1 4-methyl-3-oxoadipate + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-10825_c (4-methyl-3-oxoadipate-enol-lactone)
+CPD-10826_c (4-methyl-3-oxoadipate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

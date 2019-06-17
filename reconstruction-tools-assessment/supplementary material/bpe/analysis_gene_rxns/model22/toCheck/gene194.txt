@@ -1,0 +1,17 @@
+notRecovered:
+LDH_L:1 lac__L_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 L-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+MCLORi:1 h_c + 1 mercppyr_c + 1 nadh_c <=> 1 mercplac_c + 1 nad_c (1 H+ + 1 Mercaptopyruvate + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 Mercaptolactate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+RXN-7632:1 34-DIHYDROXYPHENYLPYRUVATE_c + 1 NADPH_c + 1 PROTON_c -> 1 CPD-6982_c + 1 NADP_c (1 3,4-dihydroxyphenylpyruvate + 1 NADPH + 1 H+ -> 1 (R)-3- (3,4-dihydroxyphenyl)lactate + 1 NADP+)
+
+
+AdditionalMetabolites:
+34-DIHYDROXYPHENYLPYRUVATE_c (3,4-dihydroxyphenylpyruvate)
+CPD-6982_c ((R)-3- (3,4-dihydroxyphenyl)lactate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

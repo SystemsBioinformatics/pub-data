@@ -1,0 +1,4 @@
+notRecovered:
+CDPMEK:1 4c2me_c + 1 atp_c -> 1 2p4c2me_c + 1 adp_c + 1 h_c (1 M_4__cytidine_5__diphospho__2_C_methyl_D_erythritol_ + 1 M_ATP_ -> 1 M_2_phospho_4__cytidine_5__diphospho__2_C_methyl_D_erythritol_ + 1 M_ADP_ + 1 M_H_)
+
+

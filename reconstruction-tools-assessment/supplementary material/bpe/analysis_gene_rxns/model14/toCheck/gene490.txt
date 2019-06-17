@@ -1,0 +1,16 @@
+notRecovered:
+LDH_D:1 lac__D_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 D-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+rxn01101:1 cpd00003_c + 1 cpd00169_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd02069_c (1 NAD_c0 + 1 3_Phosphoglycerate_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 3_Phosphonooxypyruvate_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00067_c (H_plus__c0)
+cpd00169_c (3_Phosphoglycerate_c0)
+cpd02069_c (3_Phosphonooxypyruvate_c0)
+
+

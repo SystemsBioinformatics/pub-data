@@ -1,0 +1,2 @@
+AdditionalInModel:
+CYSTRS_1:1 atp_c + 1 cys__L_c + 1 trnacys_c -> 1 cystrna_c + 1 amp_c + 1 ppi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Cysteine + 1 TRNA(Cys) -> 1 L-Cysteinyl-tRNA(Cys) + 1 AMP C10H12N5O7P + 1 Diphosphate + 1 H+)

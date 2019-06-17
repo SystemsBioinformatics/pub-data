@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-15005:1 LysW-L-glutamate_c + 1 ATP_c <=> 1 LysW-L-glutamate-5-phosphate_c + 1 ADP_c (1 a [2-aminoadipate carrier protein]-L-glutamate + 1 ATP <=> 1 a [2-aminoadipate carrier protein]-L-glutamate 5-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+LysW-L-glutamate-5-phosphate_c (a [2-aminoadipate carrier protein]-L-glutamate 5-phosphate)
+LysW-L-glutamate_c (a [2-aminoadipate carrier protein]-L-glutamate)
+
+

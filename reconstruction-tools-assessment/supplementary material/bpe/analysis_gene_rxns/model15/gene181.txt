@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R04230:1 C00002_c + 1 C00097_c + 1 C03492_c <=> 1 C00013_c + 1 C00020_c + 1 C04352_c (1 ATP + 1 L-Cysteine + 1 D-4'-Phosphopantothenate <=> 1 Diphosphate + 1 AMP + 1 (R)-4'-Phosphopantothenoyl-L-cysteine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00097_c (L-Cysteine)
+C03492_c (D-4'-Phosphopantothenate)
+C04352_c ((R)-4'-Phosphopantothenoyl-L-cysteine)
+
+

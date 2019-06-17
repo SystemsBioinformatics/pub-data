@@ -1,0 +1,4 @@
+notRecovered:
+NNATr:1 atp_c + 1 h_c + 1 nicrnt_c -> 1 dnad_c + 1 ppi_c (1 M_ATP_ + 1 M_H_ + 1 M_Nicotinate_D_ribonucleotide_ -> 1 M_Deamino_NAD_ + 1 M_Diphosphate_)
+
+

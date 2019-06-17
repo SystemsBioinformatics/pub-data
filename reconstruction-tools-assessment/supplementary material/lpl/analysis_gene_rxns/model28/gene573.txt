@@ -1,0 +1,4 @@
+notRecovered:
+LOXL:1 lac__L_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_L_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+

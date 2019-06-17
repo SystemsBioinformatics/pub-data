@@ -1,0 +1,4 @@
+notRecovered:
+EPPP:1 h2o_c + 1 ppt_c -> 2 h_c + 1 pi_c (1 M_H2O_ + 1 M_Polyphosphate_ -> 2 M_H_ + 1 M_Phosphate_)
+
+

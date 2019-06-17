@@ -1,0 +1,29 @@
+notRecovered:
+FDH4pp_1:1 for_p + 2 h_c + 1 q8_c -> 1 co2_c + 1 h_p + 1 q8h2_c (1 Formate + 2 H+ + 1 Ubiquinone-8 -> 1 CO2 + 1 H+ + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00791:1 C00001_c + 1 C00088_c + 2 C00139_c <=> 2 C00138_c + 1 C00244_c (1 H2O + 1 Nitrite + 2 Oxidized ferredoxin <=> 2 Reduced ferredoxin + 1 Nitrate)
+R00798:1 C00001_c + 1 C00028_c + 1 C00088_c <=> 1 C00030_c + 1 C00244_c (1 H2O + 1 Acceptor + 1 Nitrite <=> 1 Reduced acceptor + 1 Nitrate)
+R01106:1 C00001_c + 1 C00088_c + 2 C00125_c <=> 2 C00080_c + 2 C00126_c + 1 C00244_c (1 H2O + 1 Nitrite + 2 Ferricytochrome c <=> 2 H+ + 2 Ferrocytochrome c + 1 Nitrate)
+R10149:1 C00320_c + 1 C05819_c <=> 1 C00283_c + 1 C00828_c + 1 C11481_c (1 Thiosulfate + 1 Menaquinol <=> 1 Hydrogen sulfide + 1 Menaquinone + 1 HSO3-)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00080_c (H+)
+C00088_c (Nitrite)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00244_c (Nitrate)
+C00283_c (Hydrogen sulfide)
+C00320_c (Thiosulfate)
+C00828_c (Menaquinone)
+C05819_c (Menaquinol)
+C11481_c (HSO3-)
+
+

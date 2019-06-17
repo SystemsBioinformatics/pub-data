@@ -1,0 +1,31 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+R02550:1 C00001_c + 1 C00139_c + 1 C00556_c <=> 1 C00007_c + 1 C00138_c + 1 C01455_c (1 H2O + 1 Oxidized ferredoxin + 1 Benzyl alcohol <=> 1 Oxygen + 1 Reduced ferredoxin + 1 Toluene)
+R03562:1 C00005_c + 1 C00007_c + 1 C00080_c + 1 C01455_c <=> 1 C00001_c + 1 C00006_c + 1 C01467_c (1 NADPH + 1 Oxygen + 1 H+ + 1 Toluene <=> 1 H2O + 1 NADP+ + 1 3-Cresol)
+R05666:1 C01455_c <=> 1 C01468_c (1 Toluene <=> 1 4-Cresol)
+R09513:1 C00004_c + 1 C00007_c + 1 C00080_c + 1 C11145_c -> 1 C00001_c + 1 C00003_c + 1 C00067_c + 1 C00094_c (1 NADH + 1 Oxygen + 1 H+ + 1 Methanesulfonic acid -> 1 H2O + 1 NAD+ + 1 Formaldehyde + 1 Sulfite)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00007_c (Oxygen)
+C00067_c (Formaldehyde)
+C00080_c (H+)
+C00094_c (Sulfite)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00556_c (Benzyl alcohol)
+C01455_c (Toluene)
+C01467_c (3-Cresol)
+C01468_c (4-Cresol)
+C11145_c (Methanesulfonic acid)
+
+

@@ -1,0 +1,27 @@
+notRecovered:
+CYSDESULF:1 cys__L_c + 1 o2_c -> 1 ala__L_c + 1 so2_c (1 L-Cysteine + 1 O2 -> 1 L-Alanine + 1 sulfur dioxide)
+THZPSN:1 atp_c + 1 cys__L_c + 1 dxyl5p_c + 1 tyr__L_c -> 1 4hba_c + 1 4mpetz_c + 1 ala__L_c + 1 amp_c + 1 co2_c + 1 h2o_c + 1 h_c + 1 ppi_c (1 ATP + 1 L-Cysteine + 1 1-deoxy-D-xylulose 5-phosphate + 1 L-Tyrosine -> 1 4-Hydroxy-benzyl alcohol + 1 4-Methyl-5-(2-phosphoethyl)-thiazole + 1 L-Alanine + 1 AMP + 1 CO2 + 1 H2O + 1 H+ + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+RXN-14382:1 Sulfur-Carrier-Proteins-ThiI_c + 1 L-Cysteine-Desulfurase-persulfide_c -> 1 Sulfurylated-ThiI_c + 1 Cysteine-Desulfurase-L-cysteine_c (1 a [ThiI sulfur-carrier protein]-L-cysteine + 1 an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine -> 1 a [ThiI sulfur-carrier protein]-S-sulfanyl-L-cysteine + 1 an [L-cysteine desulfurase]-L-cysteine)
+RXN0-308:1 Cysteine-Desulfurase-L-cysteine_c + 1 CYS_c -> 1 L-Cysteine-Desulfurase-persulfide_c + 1 L-ALPHA-ALANINE_c (1 an [L-cysteine desulfurase]-L-cysteine + 1 L-cysteine -> 1 an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine + 1 L-alanine)
+RXN-9787:1 Sulfur-Carrier-Proteins-ThiI_c + 1 CYS_c -> 1 Sulfurylated-ThiI_c + 1 L-ALPHA-ALANINE_c (1 a [ThiI sulfur-carrier protein]-L-cysteine + 1 L-cysteine -> 1 a [ThiI sulfur-carrier protein]-S-sulfanyl-L-cysteine + 1 L-alanine)
+RXN-12587:1 L-Cysteine-Desulfurase-persulfide_c + 1 Unsulfurated-Sulfur-Acceptors_c <=> 1 Cysteine-Desulfurase-L-cysteine_c + 1 Sulfurated-Sulfur-Acceptors_c (1 an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine + 1 an unsulfurated [sulfur carrier] <=> 1 an [L-cysteine desulfurase]-L-cysteine + 1 a sulfurated [sulfur carrier])
+RXN-12588:1 Unsulfurated-Sulfur-Acceptors_c + 1 CYS_c -> 1 Sulfurated-Sulfur-Acceptors_c + 1 L-ALPHA-ALANINE_c (1 an unsulfurated [sulfur carrier] + 1 L-cysteine -> 1 a sulfurated [sulfur carrier] + 1 L-alanine)
+RXN-15881:1 L-Cysteine-Desulfurases_c + 1 CYS_c -> 1 Persulfurated-L-cysteine-desulfurases_c + 1 L-ALPHA-ALANINE_c (1 an [L-cysteine desulfurase] + 1 L-cysteine -> 1 an S-sulfanyl-[L-cysteine desulfurase] + 1 L-alanine)
+
+
+AdditionalMetabolites:
+CYS_c (L-cysteine)
+Cysteine-Desulfurase-L-cysteine_c (an [L-cysteine desulfurase]-L-cysteine)
+L-ALPHA-ALANINE_c (L-alanine)
+L-Cysteine-Desulfurase-persulfide_c (an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine)
+L-Cysteine-Desulfurases_c (an [L-cysteine desulfurase])
+Persulfurated-L-cysteine-desulfurases_c (an S-sulfanyl-[L-cysteine desulfurase])
+Sulfur-Carrier-Proteins-ThiI_c (a [ThiI sulfur-carrier protein]-L-cysteine)
+Sulfurated-Sulfur-Acceptors_c (a sulfurated [sulfur carrier])
+Sulfurylated-ThiI_c (a [ThiI sulfur-carrier protein]-S-sulfanyl-L-cysteine)
+Unsulfurated-Sulfur-Acceptors_c (an unsulfurated [sulfur carrier])
+
+

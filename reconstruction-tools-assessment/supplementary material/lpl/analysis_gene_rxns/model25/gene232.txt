@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+TAGAKIN-RXN:1 ATP_c + 1 TAGATOSE-6-PHOSPHATE_c -> 1 ADP_c + 1 PROTON_c + 1 TAGATOSE-1-6-DIPHOSPHATE_c (1 ATP + 1 D-tagatofuranose 6-phosphate -> 1 ADP + 1 H+ + 1 D-tagatofuranose 1,6-bisphosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+TAGATOSE-1-6-DIPHOSPHATE_c (D-tagatofuranose 1,6-bisphosphate)
+TAGATOSE-6-PHOSPHATE_c (D-tagatofuranose 6-phosphate)
+
+

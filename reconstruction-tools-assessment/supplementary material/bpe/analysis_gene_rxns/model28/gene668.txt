@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R10994:1 C21015_c + 1 C00002_c + 1 C00037_c <=> 1 C21016_c + 1 C00009_c + 1 C00008_c (1 gamma-L-Glutamyl-L-2-aminobutyrate + 1 ATP + 1 Glycine <=> 1 Ophthalmate + 1 Orthophosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00037_c (Glycine)
+C21015_c (gamma-L-Glutamyl-L-2-aminobutyrate)
+C21016_c (Ophthalmate)
+
+

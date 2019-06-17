@@ -1,0 +1,4 @@
+notRecovered:
+PMPK:1 4ampm_c + 1 atp_c -> 1 2mahmp_c + 1 adp_c (1 4-Amino-2-methyl-5-phosphomethylpyrimidine + 1 ATP -> 1 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + 1 ADP)
+
+

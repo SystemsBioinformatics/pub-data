@@ -1,0 +1,24 @@
+notRecovered:
+UGMDDS2_LPL:1 alalac_c + 1 atp_c + 1 ugmd_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 ugmdalac_c (1 M_D_Alanyl_D_lactate_ + 1 M_ATP_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_gamma_glutamyl_meso_2_6_diaminopimelate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_)
+
+
+AdditionalNotInModel:
+UGLDDS2_1:1 atp_c + 1 alaala_c + 1 uGgl_c + 1 fdxrd_c -> 1 fdxo_2_2_c + 1 adp_c + 1 pi_c + 1 uGgla_c (1 ATP C10H12N5O13P3 + 1 D-Alanyl-D-alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine + 1 Reduced ferredoxin -> 1 Oxidized ferredoxin + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+UGMDDS2:1 atp_c + 1 alaala_c + 1 uggmd_c -> 1 adp_c + 1 pi_c + 1 uggmda_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D-Alanyl-D-alanine + 1 UDP-N-glycolylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 UDP-N-glycolylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 H+)
+UGLDDS1:1 atp_c + 1 alaala_c + 1 uAgl_c -> 1 uAgla_c + 1 adp_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 D-Alanyl-D-alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine -> 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 ADP C10H12N5O10P2 + 1 Phosphate)
+UGMDDS:1 atp_c + 1 alaala_c + 1 ugmd_c -> 1 ugmda_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D-Alanyl-D-alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate -> 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+UGLDDS2:1 atp_c + 1 alaala_c + 1 uGgl_c -> 1 adp_c + 1 pi_c + 1 uGgla_c (1 ATP C10H12N5O13P3 + 1 D-Alanyl-D-alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+
+
+AdditionalMetabolites:
+alaala_c (D-Alanyl-D-alanine)
+fdxo_2_2_c (Oxidized ferredoxin)
+fdxrd_c (Reduced ferredoxin)
+uAgla_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uGgl_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine)
+uGgla_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+uggmd_c (UDP-N-glycolylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate)
+uggmda_c (UDP-N-glycolylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+ugmda_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+
+

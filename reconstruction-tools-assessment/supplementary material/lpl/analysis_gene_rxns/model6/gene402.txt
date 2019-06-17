@@ -1,0 +1,2 @@
+AdditionalInModel:
+PGMT:1 g1p_c <=> 1 g6p_c (1 D-Glucose 1-phosphate <=> 1 D-Glucose 6-phosphate)

@@ -1,0 +1,15 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 5-Methyltetrahydrofolate + 1 L-Homocysteine -> 1 H+ + 1 L-Methionine + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+HOMOCYSMETB12-RXN:1 5-METHYL-THF-GLU-N_c + 1 HOMO-CYS_c -> 1 MET_c + 1 THF-GLU-N_c (1 5-METHYL-THF-GLU-N + 1 L-homocysteine -> 1 L-methionine + 1 THF-GLU-N)
+
+
+AdditionalMetabolites:
+5-METHYL-THF-GLU-N_c (5-METHYL-THF-GLU-N)
+HOMO-CYS_c (L-homocysteine)
+MET_c (L-methionine)
+THF-GLU-N_c (THF-GLU-N)
+
+

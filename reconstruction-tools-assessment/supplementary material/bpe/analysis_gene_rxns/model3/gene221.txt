@@ -1,0 +1,4 @@
+notRecovered:
+DAGK161:1 12dgr161_c + 1 atp_c -> 1 adp_c + 1 h_c + 1 pa161_c (1 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1) + 1 ATP -> 1 ADP + 1 H+ + 1 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate)
+
+

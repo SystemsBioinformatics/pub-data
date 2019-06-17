@@ -1,0 +1,2 @@
+AdditionalInModel:
+TREpts:1 pep_c + 1 tre_e -> 1 pyr_c + 1 tre6p_c (1 Phosphoenolpyruvate + 1 Trehalose -> 1 Pyruvate + 1 Alpha,alpha'-Trehalose 6-phosphate)

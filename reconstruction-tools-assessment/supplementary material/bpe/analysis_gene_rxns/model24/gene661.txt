@@ -1,0 +1,20 @@
+notRecovered:
+ACCOAPT:1 2maacoa_c + 1 coa_c + 2 h2o_c -> 1 accoa_c + 1 ppcoa_c (1 2-methylacetoacetyl-coenzyme A + 1 Coenzyme A + 2 H2O -> 1 Acetyl-CoA + 1 Propanoyl-CoA)
+
+
+AdditionalNotInModel:
+ACETYL-COA-ACETYLTRANSFER-RXN:2 ACETYL-COA_c <=> 1 ACETOACETYL-COA_c + 1 CO-A_c (2 acetyl-CoA <=> 1 acetoacetyl-CoA + 1 coenzyme A)
+RXN-12561:1 ACETYL-COA_c + 1 PROPIONYL-COA_c <=> 1 CO-A_c + 1 CPD-13534_c (1 acetyl-CoA + 1 propanoyl-CoA <=> 1 coenzyme A + 1 beta-ketovaleryl-CoA)
+RXN-12565:1 ACETYL-COA_c + 1 BUTYRYL-COA_c -> 1 CO-A_c + 1 K-HEXANOYL-COA_c (1 acetyl-CoA + 1 butanoyl-CoA -> 1 coenzyme A + 1 3-oxohexanoyl-CoA)
+
+
+AdditionalMetabolites:
+ACETOACETYL-COA_c (acetoacetyl-CoA)
+ACETYL-COA_c (acetyl-CoA)
+BUTYRYL-COA_c (butanoyl-CoA)
+CO-A_c (coenzyme A)
+CPD-13534_c (beta-ketovaleryl-CoA)
+K-HEXANOYL-COA_c (3-oxohexanoyl-CoA)
+PROPIONYL-COA_c (propanoyl-CoA)
+
+

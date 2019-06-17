@@ -1,0 +1,30 @@
+AdditionalNotInModel:
+rxn08934:1 cpd00001_c + 1 cpd15495_c <=> 1 cpd00027_c + 1 cpd01399_c (1 H2O_c0 + 1 Maltopentaose_c0 <=> 1 D_Glucose_c0 + 1 Maltotetraose_c0)
+rxn01259:1 cpd00001_c + 1 cpd00217_c -> 2 cpd00027_c (1 H2O_c0 + 1 Brachiose_c0 -> 2 D_Glucose_c0)
+rxn05746:1 cpd00001_c + 1 cpd01262_c <=> 1 cpd00179_c + 1 cpd00027_c (1 H2O_c0 + 1 Amylotriose_c0 <=> 1 Maltose_c0 + 1 D_Glucose_c0)
+rxn09989:5 cpd00001_c + 1 cpd11594_c -> 6 cpd00027_c (5 H2O_c0 + 1 Dextrin_c0 -> 6 D_Glucose_c0)
+rxn08935:1 cpd00001_c + 1 cpd01329_c <=> 1 cpd00027_c + 1 cpd15495_c (1 H2O_c0 + 1 Maltohexaose_c0 <=> 1 D_Glucose_c0 + 1 Maltopentaose_c0)
+rxn00575:1 cpd00001_c + 1 cpd00076_c -> 1 cpd00027_c + 1 cpd00082_c (1 H2O_c0 + 1 Sucrose_c0 -> 1 D_Glucose_c0 + 1 D_Fructose_c0)
+rxn08933:1 cpd00001_c + 1 cpd01399_c <=> 1 cpd00027_c + 1 cpd01262_c (1 H2O_c0 + 1 Maltotetraose_c0 <=> 1 D_Glucose_c0 + 1 Amylotriose_c0)
+rxn05060:1 cpd00001_c + 1 cpd04126_c <=> 1 cpd00081_c + 1 cpd01642_c (1 H2O_c0 + 1 2_Hydroxybiphenyl_2_sulfinate_c0 <=> 1 Sulfite_c0 + 1 2_Biphenylol_c0)
+rxn08936:1 cpd00001_c + 1 cpd15494_c <=> 1 cpd00027_c + 1 cpd01329_c (1 H2O_c0 + 1 Maltoheptaose_c0 <=> 1 D_Glucose_c0 + 1 Maltohexaose_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00027_c (D_Glucose_c0)
+cpd00076_c (Sucrose_c0)
+cpd00081_c (Sulfite_c0)
+cpd00082_c (D_Fructose_c0)
+cpd00179_c (Maltose_c0)
+cpd00217_c (Brachiose_c0)
+cpd01262_c (Amylotriose_c0)
+cpd01329_c (Maltohexaose_c0)
+cpd01399_c (Maltotetraose_c0)
+cpd01642_c (2_Biphenylol_c0)
+cpd04126_c (2_Hydroxybiphenyl_2_sulfinate_c0)
+cpd11594_c (Dextrin_c0)
+cpd15494_c (Maltoheptaose_c0)
+cpd15495_c (Maltopentaose_c0)
+
+

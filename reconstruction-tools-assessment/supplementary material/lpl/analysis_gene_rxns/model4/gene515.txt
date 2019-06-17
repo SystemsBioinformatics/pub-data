@@ -1,0 +1,2 @@
+AdditionalInModel:
+UAAGLS1_1:1 atp_c + 1 lys__L_c + 1 uamag_c -> 1 adp_c + 2 h_c + 1 pi_c + 1 uAgl_c (1 ATP C10H12N5O13P3 + 1 L-Lysine + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate -> 1 ADP C10H12N5O10P2 + 2 H+ + 1 Phosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine)

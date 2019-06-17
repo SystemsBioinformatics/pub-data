@@ -1,0 +1,16 @@
+notRecovered:
+GALM:1 gal_c <=> 1 a_gal__D_c (1 M_D_Galactose_ <=> 1 M_alpha_D_galactose_)
+
+
+AdditionalNotInModel:
+rxn02321:1 cpd00808_c <=> 1 cpd02100_c (1 L_ribulose_5_phosphate_c0 <=> 1 L_Xylulose_5_phosphate_c0)
+rxn01171:1 cpd00027_c <=> 1 cpd00190_c (1 D_Glucose_c0 <=> 1 beta_D_Glucose_c0)
+
+
+AdditionalMetabolites:
+cpd00027_c (D_Glucose_c0)
+cpd00190_c (beta_D_Glucose_c0)
+cpd00808_c (L_ribulose_5_phosphate_c0)
+cpd02100_c (L_Xylulose_5_phosphate_c0)
+
+

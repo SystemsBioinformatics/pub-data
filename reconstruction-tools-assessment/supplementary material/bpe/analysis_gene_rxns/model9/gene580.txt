@@ -1,0 +1,16 @@
+notRecovered:
+NADDP:1 h2o_c + 1 nad_c -> 1 amp_c + 2 h_c + 1 nmn_c (1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 AMP + 2 H+ + 1 NMN)
+
+
+AdditionalNotInModel:
+RXN-17920:1 DNA-Ligase-L-lysine_c + 1 NAD_c -> 1 DNA-Ligase-L-lysine-adenylate_c + 1 NICOTINAMIDE_NUCLEOTIDE_c + 2 PROTON_c (1 a [DNA ligase]-L-lysine + 1 NAD+ -> 1 a [DNA ligase]-N6-(5'-adenylyl)-L-lysine + 1 beta-nicotinamide D-ribonucleotide + 2 H+)
+
+
+AdditionalMetabolites:
+DNA-Ligase-L-lysine-adenylate_c (a [DNA ligase]-N6-(5'-adenylyl)-L-lysine)
+DNA-Ligase-L-lysine_c (a [DNA ligase]-L-lysine)
+NAD_c (NAD+)
+NICOTINAMIDE_NUCLEOTIDE_c (beta-nicotinamide D-ribonucleotide)
+PROTON_c (H+)
+
+

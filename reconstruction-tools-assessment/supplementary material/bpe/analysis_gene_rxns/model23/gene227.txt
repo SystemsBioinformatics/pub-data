@@ -1,0 +1,5 @@
+notRecovered:
+BUTt2rpp:1 but_p + 1 h_p <=> 1 but_c + 1 h_c (1 Butyrate (n-C4:0) + 1 H+ <=> 1 Butyrate (n-C4:0) + 1 H+)
+ACACt2pp:1 acac_p + 1 h_p <=> 1 acac_c + 1 h_c (1 Acetoacetate + 1 H+ <=> 1 Acetoacetate + 1 H+)
+
+

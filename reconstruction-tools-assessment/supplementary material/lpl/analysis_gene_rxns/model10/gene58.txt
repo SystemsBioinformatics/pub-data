@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+RXN-15122:1 THR_c -> 1 CPD-15056_c + 1 PROTON_c + 1 WATER_c (1 L-threonine -> 1 (2Z)-2-aminobut-2-enoate + 1 H+ + 1 H2O)
+THREDEHYD-RXN:1 THR_c -> 1 2-OXOBUTANOATE_c + 1 AMMONIUM_c (1 L-threonine -> 1 2-oxobutanoate + 1 ammonium)
+RXN-15125:1 SER_c -> 1 2-AMINOACRYLATE_c + 1 WATER_c (1 L-serine -> 1 2-aminoprop-2-enoate + 1 H2O)
+
+
+AdditionalMetabolites:
+2-AMINOACRYLATE_c (2-aminoprop-2-enoate)
+2-OXOBUTANOATE_c (2-oxobutanoate)
+AMMONIUM_c (ammonium)
+CPD-15056_c ((2Z)-2-aminobut-2-enoate)
+PROTON_c (H+)
+SER_c (L-serine)
+THR_c (L-threonine)
+WATER_c (H2O)
+
+

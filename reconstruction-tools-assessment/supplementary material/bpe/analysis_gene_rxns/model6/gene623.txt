@@ -1,0 +1,4 @@
+notRecovered:
+23DHBDC:1 23dhb_c + 1 h_c -> 1 catechol_c + 1 co2_c (1 2,3-Dihydroxybenzoate + 1 H+ -> 1 Catechol + 1 CO2)
+
+

@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+AKGt2r:1 h_e + 1 akg_e <=> 1 h_c + 1 akg_c (1 H+ + 1 2-Oxoglutarate <=> 1 H+ + 1 2-Oxoglutarate)
+
+

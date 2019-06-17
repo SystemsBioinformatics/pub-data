@@ -1,0 +1,15 @@
+notRecovered:
+AEPPT:1 2aeppn_c + 1 pyr_c -> 1 ala__L_c + 1 Pald_c (1 M__2_Aminoethyl_phosphonate_ + 1 M_Pyruvate_ -> 1 M_L_Alanine_ + 1 M_Phosphonoacetaldehyde_)
+
+
+AdditionalNotInModel:
+NALN6:1 2a3pp_c + 1 nal2a6o_c -> 1 3pop_c + 1 n6all26d_c (1 2-Amino-3-phosphonopropanoate + 1 N-Acetyl-L-2-amino-6-oxopimelate -> 1 3-Phosphonopyruvate + 1 N6-Acetyl-LL-2,6-diaminoheptanedioate)
+
+
+AdditionalMetabolites:
+2a3pp_c (2-Amino-3-phosphonopropanoate)
+3pop_c (3-Phosphonopyruvate)
+n6all26d_c (N6-Acetyl-LL-2,6-diaminoheptanedioate)
+nal2a6o_c (N-Acetyl-L-2-amino-6-oxopimelate)
+
+

@@ -1,0 +1,8 @@
+notRecovered:
+GNNUC:1 gsn_c + 1 h2o_c -> 1 gua_c + 1 rib__D_c (1 M_Guanosine_ + 1 M_H2O_ -> 1 M_Guanine_ + 1 M_D_Ribose_)
+
+
+AdditionalNotInModel:
+CYTDH:1 h2o_c + 1 cytd_c -> 1 rib__D_c + 1 csn_c (1 H2O + 1 Cytidine -> 1 D-Ribose + 1 Cytosine)
+
+

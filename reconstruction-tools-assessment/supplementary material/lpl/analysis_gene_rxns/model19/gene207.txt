@@ -1,0 +1,12 @@
+notRecovered:
+NDPK9:1 atp_c + 1 idp_c <=> 1 adp_c + 1 itp_c (1 M_ATP_ + 1 M_IDP_ <=> 1 M_ADP_ + 1 M_ITP_)
+NDPK8:1 atp_c + 1 dadp_c <=> 1 adp_c + 1 datp_c (1 M_ATP_ + 1 M_dADP_ <=> 1 M_ADP_ + 1 M_dATP_)
+NDPK7:1 atp_c + 1 dcdp_c <=> 1 adp_c + 1 dctp_c (1 M_ATP_ + 1 M_dCDP_ <=> 1 M_ADP_ + 1 M_dCTP_)
+NDPK6:1 atp_c + 1 dudp_c <=> 1 adp_c + 1 dutp_c (1 M_ATP_ + 1 M_dUDP_ <=> 1 M_ADP_ + 1 M_dUTP_)
+NDPK5:1 atp_c + 1 dgdp_c <=> 1 adp_c + 1 dgtp_c (1 M_ATP_ + 1 M_dGDP_ <=> 1 M_ADP_ + 1 M_dGTP_)
+NDPK4:1 atp_c + 1 dtdp_c <=> 1 adp_c + 1 dttp_c (1 M_ATP_ + 1 M_dTDP_ <=> 1 M_ADP_ + 1 M_dTTP_)
+NDPK3:1 atp_c + 1 cdp_c <=> 1 adp_c + 1 ctp_c (1 M_ATP_ + 1 M_CDP_ <=> 1 M_ADP_ + 1 M_CTP_)
+NDPK2:1 atp_c + 1 udp_c <=> 1 adp_c + 1 utp_c (1 M_ATP_ + 1 M_UDP_ <=> 1 M_ADP_ + 1 M_UTP_)
+NDPK1:1 atp_c + 1 gdp_c <=> 1 adp_c + 1 gtp_c (1 M_ATP_ + 1 M_GDP_ <=> 1 M_ADP_ + 1 M_GTP_)
+
+

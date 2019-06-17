@@ -1,0 +1,13 @@
+notRecovered:
+ALATA_L:1 akg_c + 1 ala__L_c <=> 1 glu__L_c + 1 pyr_c (1 2-Oxoglutarate + 1 L-Alanine <=> 1 L-Glutamate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+APTA1i:1 acamoxm_c + 1 glu__L_c -> 1 26dapime_c + 1 akg_c (1 N Acetyl L 2 amino 6 oxopimelate C9H11NO6 + 1 L-Glutamate -> 1 N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5 + 1 2-Oxoglutarate)
+
+
+AdditionalMetabolites:
+26dapime_c (N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5)
+acamoxm_c (N Acetyl L 2 amino 6 oxopimelate C9H11NO6)
+
+

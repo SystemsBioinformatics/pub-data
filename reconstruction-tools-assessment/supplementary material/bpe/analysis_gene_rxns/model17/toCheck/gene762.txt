@@ -1,0 +1,18 @@
+notRecovered:
+CSPMDDH:1 aspsa_c + 1 h_c + 1 nadph_c + 1 ptrc_c -> 1 cspmd_c + 1 h2o_c + 1 nadp_c (1 L-Aspartate 4-semialdehyde + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Putrescine -> 1 Carboxyspermidine + 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+R00715:1 C00001_c + 1 C00003_c + 1 C00449_c <=> 1 C00004_c + 1 C00026_c + 1 C00047_c + 1 C00080_c (1 H2O + 1 NAD+ + 1 N6-(L-1,3-Dicarboxypropyl)-L-lysine <=> 1 NADH + 1 2-Oxoglutarate + 1 L-Lysine + 1 H+)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00026_c (2-Oxoglutarate)
+C00047_c (L-Lysine)
+C00080_c (H+)
+C00449_c (N6-(L-1,3-Dicarboxypropyl)-L-lysine)
+
+

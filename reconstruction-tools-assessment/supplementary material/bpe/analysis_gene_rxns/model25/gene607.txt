@@ -1,0 +1,14 @@
+notRecovered:
+DTDPACGAMDH_BP:1 dtdpacgam_c -> 1 dtdp4d6dacgam_c + 1 h2o_c (1 dTDP-2-N-acetyl-glucosamine -> 1 dTDP-2-N-acetyl-4,6-dideoxy-glucosamine + 1 H2O)
+
+
+AdditionalNotInModel:
+RXN-13252:1 UDP-N-ACETYL-D-GLUCOSAMINE_c -> 1 CPD-13847_c + 1 WATER_c (1 UDP-N-acetyl-alpha-D-glucosamine -> 1 UDP-2-acetamido-2,6-dideoxy-alpha-D-xylo-hex4-ulose + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-13847_c (UDP-2-acetamido-2,6-dideoxy-alpha-D-xylo-hex4-ulose)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+WATER_c (H2O)
+
+

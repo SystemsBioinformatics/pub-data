@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn02379:1 cpd00862_c <=> 1 cpd02340_c (1 alpha_D_Hexose_1_phosphate_c0 <=> 1 alpha_D_Hexose_6_phosphate_c0)
+rxn00704:1 cpd00089_c <=> 1 cpd00079_c (1 Glucose_1_phosphate_c0 <=> 1 D_glucose_6_phosphate_c0)
+rxn00778:1 cpd00475_c <=> 1 cpd00101_c (1 Ribose_1_phosphate_c0 <=> 1 ribose_5_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00079_c (D_glucose_6_phosphate_c0)
+cpd00089_c (Glucose_1_phosphate_c0)
+cpd00101_c (ribose_5_phosphate_c0)
+cpd00475_c (Ribose_1_phosphate_c0)
+cpd00862_c (alpha_D_Hexose_1_phosphate_c0)
+cpd02340_c (alpha_D_Hexose_6_phosphate_c0)
+
+

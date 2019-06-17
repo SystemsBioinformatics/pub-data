@@ -1,0 +1,2 @@
+AdditionalInModel:
+PGM_1:1 3pg_c <=> 1 2pg_c (1 3-Phospho-D-glycerate <=> 1 D-Glycerate 2-phosphate)

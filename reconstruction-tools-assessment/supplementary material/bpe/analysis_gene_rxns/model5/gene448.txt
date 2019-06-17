@@ -1,0 +1,4 @@
+notRecovered:
+SUCOAS:1 atp_c + 1 coa_c + 1 succ_c <=> 1 adp_c + 1 pi_c + 1 succoa_c (1 ATP + 1 Coenzyme A + 1 Succinate <=> 1 ADP + 1 Phosphate + 1 Succinyl-CoA)
+
+

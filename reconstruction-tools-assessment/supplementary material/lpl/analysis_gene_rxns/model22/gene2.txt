@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R10147:1 C00022_c + 1 C00441_c <=> 1 C00001_c + 1 C20258_c (1 Pyruvate + 1 L-Aspartate 4-semialdehyde <=> 1 H2O + 1 (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00022_c (Pyruvate)
+C00441_c (L-Aspartate 4-semialdehyde)
+C20258_c ((2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+

@@ -1,0 +1,20 @@
+notRecovered:
+DHDPRy:1 23dhdp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 thdp_c (1 2,3-Dihydrodipicolinate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Nicotinamide adenine dinucleotide phosphate + 1 2,3,4,5-Tetrahydrodipicolinate)
+
+
+AdditionalNotInModel:
+R04198:1 C00001_c + 1 C00003_c + 1 C03972_c <=> 1 C00004_c + 1 C00080_c + 1 C20258_c (1 H2O + 1 NAD+ + 1 2,3,4,5-Tetrahydrodipicolinate <=> 1 NADH + 1 H+ + 1 (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+R04199:1 C00001_c + 1 C00006_c + 1 C03972_c <=> 1 C00005_c + 1 C00080_c + 1 C20258_c (1 H2O + 1 NADP+ + 1 2,3,4,5-Tetrahydrodipicolinate <=> 1 NADPH + 1 H+ + 1 (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C03972_c (2,3,4,5-Tetrahydrodipicolinate)
+C20258_c ((2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+

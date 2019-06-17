@@ -1,0 +1,4 @@
+notRecovered:
+RBLK2:1 atp_c + 1 rbt_c -> 1 adp_c + 1 h_c + 1 rbt5p_c (1 M_ATP_ + 1 M_Ribitol_ -> 1 M_ADP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_)
+
+

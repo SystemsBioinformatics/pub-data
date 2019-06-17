@@ -1,0 +1,4 @@
+notRecovered:
+CFAS180:1 2cocdacp_c + 1 amet_c -> 1 ahcys_c + 1 cpocdacp_c + 1 h_c (1 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_S_Adenosyl_L_methionine_ -> 1 M_S_Adenosyl_L_homocysteine_ + 1 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 1 M_H_)
+
+

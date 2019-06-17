@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R05578:1 C00002_c + 1 C00025_c + 1 C01641_c <=> 1 C00013_c + 1 C00020_c + 1 C02987_c (1 ATP + 1 L-Glutamate + 1 tRNA(Glu) <=> 1 Diphosphate + 1 AMP + 1 L-Glutamyl-tRNA(Glu))
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00025_c (L-Glutamate)
+C01641_c (tRNA(Glu))
+C02987_c (L-Glutamyl-tRNA(Glu))
+
+

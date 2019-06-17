@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+MI4PP:1 h2o_c + 1 mi4p__D_c -> 1 pi_c + 1 inost_c (1 H2O H2O + 1 1D-myo-Inositol 4-phosphate -> 1 Phosphate + 1 Myo-Inositol)
+MI3PP:1 h2o_c + 1 mi3p__D_c -> 1 pi_c + 1 inost_c (1 H2O H2O + 1 1D-myo-Inositol 3-phosphate -> 1 Phosphate + 1 Myo-Inositol)
+
+
+AdditionalMetabolites:
+mi3p__D_c (1D-myo-Inositol 3-phosphate)
+mi4p__D_c (1D-myo-Inositol 4-phosphate)
+
+

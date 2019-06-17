@@ -1,0 +1,15 @@
+notRecovered:
+CFAS180:1 2cocdacp_c + 1 amet_c -> 1 ahcys_c + 1 cpocdacp_c + 1 h_c (1 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_S_Adenosyl_L_methionine_ -> 1 M_S_Adenosyl_L_homocysteine_ + 1 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R03411:1 C01229_c + 1 C00019_c <=> 1 C04340_c + 1 C00021_c (1 Phospholipid olefinic fatty acid + 1 S-Adenosyl-L-methionine <=> 1 Phospholipid cyclopropane fatty acid + 1 S-Adenosyl-L-homocysteine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C01229_c (Phospholipid olefinic fatty acid)
+C04340_c (Phospholipid cyclopropane fatty acid)
+
+

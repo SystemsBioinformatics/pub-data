@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00242:1 cpd00001_c + 1 cpd00905_c -> 1 cpd00012_c + 1 cpd00031_c (1 H2O_c0 + 1 Guanosine_3_5_bisdiphosphate_c0 -> 1 PPi_c0 + 1 GDP_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00012_c (PPi_c0)
+cpd00031_c (GDP_c0)
+cpd00905_c (Guanosine_3_5_bisdiphosphate_c0)
+
+

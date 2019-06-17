@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+UGAGDS:1 26dap__M_c + 1 atp_c + 1 ugmag_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 uggmd_c (1 Meso-2,6-Diaminoheptanedioate + 1 ATP C10H12N5O13P3 + 1 UDP-N-glycolylmuramoyl-L-alanyl-D-glutamate -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate + 1 UDP-N-glycolylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate)
+
+
+AdditionalMetabolites:
+uggmd_c (UDP-N-glycolylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate)
+ugmag_c (UDP-N-glycolylmuramoyl-L-alanyl-D-glutamate)
+
+

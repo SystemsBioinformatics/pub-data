@@ -1,0 +1,27 @@
+notRecovered:
+AACPS9:1 ACP_c + 1 atp_c + 1 octa_c -> 1 amp_c + 1 ocACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 octanoate (n-C8:0) -> 1 AMP + 1 Octanoyl-ACP (n-C8:0ACP) + 1 Diphosphate)
+AACPS8:1 ACP_c + 1 atp_c + 1 dca_c -> 1 amp_c + 1 dcaACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Decanoate (n-C10:0) -> 1 AMP + 1 Decanoyl-ACP (n-C10:0ACP) + 1 Diphosphate)
+AACPS7:1 ACP_c + 1 atp_c + 1 ddca_c -> 1 amp_c + 1 ddcaACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Dodecanoate (n-C12:0) -> 1 AMP + 1 Dodecanoyl-ACP (n-C12:0ACP) + 1 Diphosphate)
+AACPS6:1 ACP_c + 1 atp_c + 1 ocdca_c -> 1 amp_c + 1 ocdcaACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 octadecanoate (n-C18:0) -> 1 AMP + 1 Octadecanoyl-ACP (n-C18:0ACP) + 1 Diphosphate)
+AACPS5:1 ACP_c + 1 atp_c + 1 ocdcea_c -> 1 amp_c + 1 octeACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 octadecenoate (n-C18:1) -> 1 AMP + 1 cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) + 1 Diphosphate)
+AACPS4:1 ACP_c + 1 atp_c + 1 hdcea_c -> 1 amp_c + 1 hdeACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Hexadecenoate (n-C16:1) -> 1 AMP + 1 cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) + 1 Diphosphate)
+AACPS3:1 ACP_c + 1 atp_c + 1 hdca_c -> 1 amp_c + 1 palmACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Hexadecanoate (n-C16:0) -> 1 AMP + 1 Palmitoyl-ACP (n-C16:0ACP) + 1 Diphosphate)
+AACPS2:1 ACP_c + 1 atp_c + 1 ttdcea_c -> 1 amp_c + 1 ppi_c + 1 tdeACP_c (1 acyl carrier protein + 1 ATP + 1 tetradecenoate (n-C14:1) -> 1 AMP + 1 Diphosphate + 1 cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1))
+AACPS1:1 ACP_c + 1 atp_c + 1 ttdca_c -> 1 amp_c + 1 myrsACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 tetradecanoate (n-C14:0) -> 1 AMP + 1 Myristoyl-ACP (n-C14:0ACP) + 1 Diphosphate)
+MCOATA:1 ACP_c + 1 malcoa_c <=> 1 coa_c + 1 malACP_c (1 acyl carrier protein + 1 Malonyl-CoA <=> 1 Coenzyme A + 1 Malonyl-[acyl-carrier protein])
+ACOATA:1 ACP_c + 1 accoa_c <=> 1 acACP_c + 1 coa_c (1 acyl carrier protein + 1 Acetyl-CoA <=> 1 Acetyl-ACP + 1 Coenzyme A)
+UAGAAT:1 3hmrsACP_c + 1 uacgam_c <=> 1 ACP_c + 1 u3aga_c (1 (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] + 1 UDP-N-acetyl-D-glucosamine <=> 1 acyl carrier protein + 1 UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine)
+
+
+AdditionalNotInModel:
+RXN-17155:1 CPD-18550_c + 1 Aryl-Carrier-Proteins_c -> 1 QXC-ACP_c + 1 AMP_c + 1 PROTON_c (1 quinoxaline-2-carboxyl adenylate + 1 an aryl-carrier protein -> 1 a quinoxaline-2-carboxyl-[aryl-carrier protein] + 1 AMP + 1 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+Aryl-Carrier-Proteins_c (an aryl-carrier protein)
+CPD-18550_c (quinoxaline-2-carboxyl adenylate)
+PROTON_c (H+)
+QXC-ACP_c (a quinoxaline-2-carboxyl-[aryl-carrier protein])
+
+

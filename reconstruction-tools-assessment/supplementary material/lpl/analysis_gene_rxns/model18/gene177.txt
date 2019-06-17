@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R02971:1 C00002_c + 1 C00831_c -> 1 C00008_c + 1 C01134_c (1 ATP + 1 Pantetheine -> 1 ADP + 1 Pantetheine 4'-phosphate)
+R04391:1 C00002_c + 1 C04079_c -> 1 C00008_c + 1 C04352_c (1 ATP + 1 N-((R)-Pantothenoyl)-L-cysteine -> 1 ADP + 1 (R)-4'-Phosphopantothenoyl-L-cysteine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00831_c (Pantetheine)
+C01134_c (Pantetheine 4'-phosphate)
+C04079_c (N-((R)-Pantothenoyl)-L-cysteine)
+C04352_c ((R)-4'-Phosphopantothenoyl-L-cysteine)
+
+

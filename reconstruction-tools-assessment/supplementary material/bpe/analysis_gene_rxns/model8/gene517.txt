@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+SULFOCYS-RXN:1 S2O3_c + 1 ACETYLSERINE_c <=> 1 SULFO-CYSTEINE_c + 1 ACET_c + 1 PROTON_c (1 thiosulfate + 1 O-acetyl-L-serine <=> 1 S-sulfo-L-cysteine + 1 acetate + 1 H+)
+RXN-12726:1 CPD-678_c + 1 ACETYLSERINE_c <=> 1 L-SELENOCYSTEINE_c + 1 ACET_c + 1 PROTON_c (1 hydrogen selenide + 1 O-acetyl-L-serine <=> 1 L-selenocysteine + 1 acetate + 1 H+)
+
+
+AdditionalMetabolites:
+ACETYLSERINE_c (O-acetyl-L-serine)
+ACET_c (acetate)
+CPD-678_c (hydrogen selenide)
+L-SELENOCYSTEINE_c (L-selenocysteine)
+PROTON_c (H+)
+S2O3_c (thiosulfate)
+SULFO-CYSTEINE_c (S-sulfo-L-cysteine)
+
+

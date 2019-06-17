@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+RXN-8631:1 FRU1P_c <=> 1 GLYCERALD_c + 1 DIHYDROXY-ACETONE-PHOSPHATE_c (1 beta-D-fructofuranose 1-phosphate <=> 1 D-glyceraldehyde + 1 glycerone phosphate)
+
+
+AdditionalMetabolites:
+DIHYDROXY-ACETONE-PHOSPHATE_c (glycerone phosphate)
+FRU1P_c (beta-D-fructofuranose 1-phosphate)
+GLYCERALD_c (D-glyceraldehyde)
+
+

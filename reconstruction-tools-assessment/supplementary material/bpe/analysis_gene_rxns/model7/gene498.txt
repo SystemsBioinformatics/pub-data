@@ -1,0 +1,2 @@
+AdditionalInModel:
+ADCS:1 gln__L_c + 1 chor_c -> 1 4adcho_c + 1 glu__L_c (1 L-Glutamine + 1 Chorismate -> 1 4-amino-4-deoxychorismate + 1 L-Glutamate)

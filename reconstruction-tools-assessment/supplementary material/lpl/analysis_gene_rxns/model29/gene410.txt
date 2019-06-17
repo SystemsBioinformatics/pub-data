@@ -1,0 +1,4 @@
+notRecovered:
+PPA:1 h2o_c + 1 ppi_c -> 1 h_c + 2 pi_c (1 M_H2O_ + 1 M_Diphosphate_ -> 1 M_H_ + 2 M_Phosphate_)
+
+

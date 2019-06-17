@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn00113:2 cpd00002_c + 1 cpd00001_c + 1 cpd00011_c + 1 cpd00013_c <=> 3 cpd00067_c + 2 cpd00008_c + 1 cpd00009_c + 1 cpd00146_c (2 ATP_c0 + 1 H2O_c0 + 1 CO2_c0 + 1 NH3_c0 <=> 3 H_plus__c0 + 2 ADP_c0 + 1 Phosphate_c0 + 1 Carbamoylphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00011_c (CO2_c0)
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd00146_c (Carbamoylphosphate_c0)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00658:1 cpd00001_c + 1 cpd00788_c <=> 1 cpd00029_c + 1 cpd00085_c (1 H2O_c0 + 1 N_Acetyl_beta_alanine_c0 <=> 1 Acetate_c0 + 1 beta_Alanine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00029_c (Acetate_c0)
+cpd00085_c (beta_Alanine_c0)
+cpd00788_c (N_Acetyl_beta_alanine_c0)
+
+

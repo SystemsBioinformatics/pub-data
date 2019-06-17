@@ -1,0 +1,15 @@
+notRecovered:
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 2-Oxoglutarate + 1 L-Tryptophan <=> 1 L-Glutamate + 1 Indolepyruvate)
+
+
+AdditionalNotInModel:
+R01939:1 C00026_c + 1 C00956_c <=> 1 C00025_c + 1 C00322_c (1 2-Oxoglutarate + 1 L-2-Aminoadipate <=> 1 L-Glutamate + 1 2-Oxoadipate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00322_c (2-Oxoadipate)
+C00956_c (L-2-Aminoadipate)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+ASPR:1 asp__D_c <=> 1 asp__L_c (1 M_D_Aspartate_ <=> 1 M_L_Aspartate_)
+
+

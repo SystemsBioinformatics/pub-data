@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+SHSL2r:1 h2s_c + 1 suchms_c <=> 1 succ_c + 1 hcys__L_c + 1 h_c (1 Hydrogen sulfide + 1 O-Succinyl-L-homoserine <=> 1 Succinate + 1 L-Homocysteine + 1 H+)
+
+
+AdditionalMetabolites:
+suchms_c (O-Succinyl-L-homoserine)
+
+
+AdditionalInModel:
+CYSTL:1 h2o_c + 1 cyst__L_c -> 1 pyr_c + 1 nh4_c + 1 hcys__L_c (1 H2O H2O + 1 L-Cystathionine -> 1 Pyruvate + 1 Ammonium + 1 L-Homocysteine)
+HSERTA:1 accoa_c + 1 hom__L_c <=> 1 achms_c + 1 coa_c (1 Acetyl-CoA + 1 L-Homoserine <=> 1 O Acetyl L homoserine C6H11NO4 + 1 Coenzyme A)

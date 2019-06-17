@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00295:1 cpd00037_c <=> 1 cpd00175_c (1 UDP_N_acetylglucosamine_c0 <=> 1 UDP_N_acetyl_D_galactosamine_c0)
+rxn02737:1 cpd01482_c <=> 1 cpd01623_c (1 UDP_glucosamine_c0 <=> 1 UDP_galactosamine_c0)
+
+
+AdditionalMetabolites:
+cpd00037_c (UDP_N_acetylglucosamine_c0)
+cpd00175_c (UDP_N_acetyl_D_galactosamine_c0)
+cpd01482_c (UDP_glucosamine_c0)
+cpd01623_c (UDP_galactosamine_c0)
+
+

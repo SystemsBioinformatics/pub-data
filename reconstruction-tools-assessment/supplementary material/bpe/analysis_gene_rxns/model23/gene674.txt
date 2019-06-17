@@ -1,0 +1,4 @@
+notRecovered:
+UDPGLCNACADH_BP:1 nad_c + 1 uacgama_c <=> 1 h_c + 1 nadh_c + 1 u3kacgama_c (1 Nicotinamide adenine dinucleotide + 1 UDP-N-acetylglucosaminuronate <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 UDP-3-keto-N-acetylglucosaminuronate)
+
+

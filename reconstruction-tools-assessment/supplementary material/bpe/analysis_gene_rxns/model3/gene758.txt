@@ -1,0 +1,4 @@
+notRecovered:
+ARGTRS:1 arg__L_c + 1 atp_c + 1 trnaarg_c -> 1 amp_c + 1 argtrna_c + 1 ppi_c (1 L-Arginine + 1 ATP + 1 tRNA(Arg) -> 1 AMP + 1 L-Arginyl-tRNA(Arg) + 1 Diphosphate)
+
+

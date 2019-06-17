@@ -1,0 +1,15 @@
+notRecovered:
+ACONTb:1 acon_C_c + 1 h2o_c -> 1 icit_c (1 cis-Aconitate + 1 H2O -> 1 Isocitrate)
+ACONTa:1 cit_c -> 1 acon_C_c + 1 h2o_c (1 Citrate -> 1 cis-Aconitate + 1 H2O)
+
+
+AdditionalNotInModel:
+rxn02832:1 cpd03451_c -> 1 cpd00001_c + 1 cpd01772_c (1 SHCHC_c0 -> 1 H2O_c0 + 1 Succinylbenzoate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd01772_c (Succinylbenzoate_c0)
+cpd03451_c (SHCHC_c0)
+
+

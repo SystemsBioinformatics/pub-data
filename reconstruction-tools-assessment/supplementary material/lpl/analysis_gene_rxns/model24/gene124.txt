@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+HISTPRATPHYD-RXN:1 PHOSPHORIBOSYL-ATP_c + 1 WATER_c -> 1 PHOSPHORIBOSYL-AMP_c + 1 PPI_c + 2 PROTON_c (1 1-(5-phospho-beta-D-ribosyl)-ATP + 1 H2O -> 1 1-(5-phospho-beta-D-ribosyl)-AMP + 1 diphosphate + 2 H+)
+
+
+AdditionalMetabolites:
+PHOSPHORIBOSYL-AMP_c (1-(5-phospho-beta-D-ribosyl)-AMP)
+PHOSPHORIBOSYL-ATP_c (1-(5-phospho-beta-D-ribosyl)-ATP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

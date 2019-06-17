@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+LDH2:1 nad_c + 1 2hbut_c <=> 1 2obut_c + 1 nadh_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 2 Hydroxybutyrate C4H7O3 <=> 1 2-Oxobutanoate + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)
+
+
+AdditionalMetabolites:
+2hbut_c (2 Hydroxybutyrate C4H7O3)
+
+

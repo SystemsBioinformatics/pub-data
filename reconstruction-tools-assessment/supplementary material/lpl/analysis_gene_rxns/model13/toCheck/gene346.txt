@@ -1,0 +1,20 @@
+notRecovered:
+DB4PS:1 ru5p__D_c -> 1 db4p_c + 1 for_c + 1 h_c (1 M_D_Ribulose_5_phosphate_ -> 1 M_3_4_dihydroxy_2_butanone_4_phosphate_ + 1 M_Formate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+GTP-CYCLOHYDRO-II-RXN:1 GTP_c + 3 WATER_c -> 1 DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR_c + 1 FORMATE_c + 2 PROTON_c + 1 PPI_c (1 GTP + 3 H2O -> 1 2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 1 formate + 2 H+ + 1 diphosphate)
+DIOHBUTANONEPSYN-RXN:1 RIBULOSE-5P_c <=> 1 DIHYDROXY-BUTANONE-P_c + 1 FORMATE_c + 1 PROTON_c (1 D-ribulose 5-phosphate <=> 1 1-deoxy-L-glycero-tetrulose 4-phosphate + 1 formate + 1 H+)
+
+
+AdditionalMetabolites:
+DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR_c (2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one)
+DIHYDROXY-BUTANONE-P_c (1-deoxy-L-glycero-tetrulose 4-phosphate)
+FORMATE_c (formate)
+GTP_c (GTP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+RIBULOSE-5P_c (D-ribulose 5-phosphate)
+WATER_c (H2O)
+
+

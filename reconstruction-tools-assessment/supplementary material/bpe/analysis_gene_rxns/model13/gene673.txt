@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01301:1 cpd00003_c + 1 cpd00227_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00346_c (1 NAD_c0 + 1 L_Homoserine_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 L_Aspartate4_semialdehyde_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00067_c (H_plus__c0)
+cpd00227_c (L_Homoserine_c0)
+cpd00346_c (L_Aspartate4_semialdehyde_c0)
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+TKT1:1 r5p_c + 1 xu5p__D_c <=> 1 g3p_c + 1 s7p_c (1 M_alpha_D_Ribose_5_phosphate_ + 1 M_D_Xylulose_5_phosphate_ <=> 1 M_Glyceraldehyde_3_phosphate_ + 1 M_Sedoheptulose_7_phosphate_)
+TKT2:1 e4p_c + 1 xu5p__D_c <=> 1 f6p_c + 1 g3p_c (1 M_D_Erythrose_4_phosphate_ + 1 M_D_Xylulose_5_phosphate_ <=> 1 M_D_Fructose_6_phosphate_ + 1 M_Glyceraldehyde_3_phosphate_)
+
+

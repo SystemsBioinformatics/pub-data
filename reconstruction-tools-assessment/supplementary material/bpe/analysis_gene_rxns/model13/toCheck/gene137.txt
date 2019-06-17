@@ -1,0 +1,49 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+FACOAE141:1 h2o_c + 1 tdecoa_c -> 1 coa_c + 1 h_c + 1 ttdcea_c (1 H2O + 1 Tetradecenoyl-CoA (n-C14:1CoA) -> 1 Coenzyme A + 1 H+ + 1 tetradecenoate (n-C14:1))
+FACOAE140:1 h2o_c + 1 tdcoa_c -> 1 coa_c + 1 h_c + 1 ttdca_c (1 H2O + 1 Tetradecanoyl-CoA (n-C14:0CoA) -> 1 Coenzyme A + 1 H+ + 1 tetradecanoate (n-C14:0))
+FACOAE120:1 ddcacoa_c + 1 h2o_c -> 1 coa_c + 1 ddca_c + 1 h_c (1 Dodecanoyl-CoA (n-C12:0CoA) + 1 H2O -> 1 Coenzyme A + 1 Dodecanoate (n-C12:0) + 1 H+)
+FACOAE60:1 h2o_c + 1 hxcoa_c -> 1 coa_c + 1 h_c + 1 hxa_c (1 H2O + 1 Hexanoyl-CoA (n-C6:0CoA) -> 1 Coenzyme A + 1 H+ + 1 Hexanoate (n-C6:0))
+FACOAE180:1 h2o_c + 1 stcoa_c -> 1 coa_c + 1 h_c + 1 ocdca_c (1 H2O + 1 Stearoyl-CoA (n-C18:0CoA) -> 1 Coenzyme A + 1 H+ + 1 octadecanoate (n-C18:0))
+FACOAE181:1 h2o_c + 1 odecoa_c -> 1 coa_c + 1 h_c + 1 ocdcea_c (1 H2O + 1 Octadecenoyl-CoA (n-C18:1CoA) -> 1 Coenzyme A + 1 H+ + 1 octadecenoate (n-C18:1))
+FACOAE80:1 h2o_c + 1 occoa_c -> 1 coa_c + 1 h_c + 1 octa_c (1 H2O + 1 Octanoyl-CoA (n-C8:0CoA) -> 1 Coenzyme A + 1 H+ + 1 octanoate (n-C8:0))
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+FACOAE100:1 dcacoa_c + 1 h2o_c -> 1 coa_c + 1 dca_c + 1 h_c (1 Decanoyl-CoA (n-C10:0CoA) + 1 H2O -> 1 Coenzyme A + 1 Decanoate (n-C10:0) + 1 H+)
+FACOAE161:1 h2o_c + 1 hdcoa_c -> 1 coa_c + 1 h_c + 1 hdcea_c (1 H2O + 1 Hexadecenoyl-CoA (n-C16:1CoA) -> 1 Coenzyme A + 1 H+ + 1 Hexadecenoate (n-C16:1))
+FACOAE160:1 h2o_c + 1 pmtcoa_c -> 1 coa_c + 1 h_c + 1 hdca_c (1 H2O + 1 Palmitoyl-CoA (n-C16:0CoA) -> 1 Coenzyme A + 1 H+ + 1 Hexadecanoate (n-C16:0))
+
+
+AdditionalNotInModel:
+rxn03245:1 cpd03118_c <=> 1 cpd00001_c + 1 cpd03129_c (1 S_Hydroxydecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Decenoyl_CoA_c0)
+rxn02911:1 cpd03116_c <=> 1 cpd00001_c + 1 cpd02060_c (1 S_3_Hydroxydodecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Dodecenoyl_CoA_c0)
+rxn03440:1 cpd03588_c <=> 1 cpd00001_c + 1 cpd03589_c (1 L_erythro_3_Methylmalyl_CoA_c0 <=> 1 H2O_c0 + 1 Mesaconyl_CoA_c0)
+rxn03240:1 cpd03113_c <=> 1 cpd00001_c + 1 cpd03126_c (1 S_3_Hydroxyhexadecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Hexadecenoyl_CoA_c0)
+rxn02181:1 cpd03375_c <=> 1 cpd00001_c + 1 cpd00663_c (1 3_Hydroxypropanoyl_CoA_c0 <=> 1 H2O_c0 + 1 Acrylyl_CoA_c0)
+rxn02949:1 cpd00001_c + 1 cpd02187_c <=> 1 cpd03572_c (1 H2O_c0 + 1 Methacrylyl_CoA_c0 <=> 1 S_3_Hydroxyisobutyryl_CoA_c0)
+rxn02934:1 cpd02691_c <=> 1 cpd00001_c + 1 cpd02125_c (1 2_methyl_3_hydroxy_butyryl_CoA_c0 <=> 1 H2O_c0 + 1 Tiglyl_CoA_c0)
+rxn03247:1 cpd03120_c <=> 1 cpd00001_c + 1 cpd03130_c (1 S_Hydroxyoctanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Octenoyl_CoA_c0)
+rxn03241:1 cpd03115_c <=> 1 cpd00001_c + 1 cpd03127_c (1 S_3_Hydroxytetradecanoyl_CoA_c0 <=> 1 H2O_c0 + 1 2E_Tetradecenoyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00663_c (Acrylyl_CoA_c0)
+cpd02060_c (2E_Dodecenoyl_CoA_c0)
+cpd02125_c (Tiglyl_CoA_c0)
+cpd02187_c (Methacrylyl_CoA_c0)
+cpd02691_c (2_methyl_3_hydroxy_butyryl_CoA_c0)
+cpd03113_c (S_3_Hydroxyhexadecanoyl_CoA_c0)
+cpd03115_c (S_3_Hydroxytetradecanoyl_CoA_c0)
+cpd03116_c (S_3_Hydroxydodecanoyl_CoA_c0)
+cpd03118_c (S_Hydroxydecanoyl_CoA_c0)
+cpd03120_c (S_Hydroxyoctanoyl_CoA_c0)
+cpd03126_c (2E_Hexadecenoyl_CoA_c0)
+cpd03127_c (2E_Tetradecenoyl_CoA_c0)
+cpd03129_c (2E_Decenoyl_CoA_c0)
+cpd03130_c (2E_Octenoyl_CoA_c0)
+cpd03375_c (3_Hydroxypropanoyl_CoA_c0)
+cpd03572_c (S_3_Hydroxyisobutyryl_CoA_c0)
+cpd03588_c (L_erythro_3_Methylmalyl_CoA_c0)
+cpd03589_c (Mesaconyl_CoA_c0)
+
+

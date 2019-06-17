@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+CYSTS:1 hcys__L_c + 1 ser__L_c -> 1 h2o_c + 1 cyst__L_c (1 L-Homocysteine + 1 L-Serine -> 1 H2O H2O + 1 L-Cystathionine)
+
+

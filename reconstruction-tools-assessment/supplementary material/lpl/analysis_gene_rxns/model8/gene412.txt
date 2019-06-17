@@ -1,0 +1,7 @@
+notRecovered:
+L_LACt2r:1 h_e + 1 lac__L_e <=> 1 h_c + 1 lac__L_c (1 M_H_ + 1 M_L_Lactate_ <=> 1 M_H_ + 1 M_L_Lactate_)
+
+
+AdditionalInModel:
+L_LACt2r:1 h_e + 1 lac__L_e <=> 1 lac__L_c + 1 h_c (1 H+ + 1 L-Lactate <=> 1 L-Lactate + 1 H+)
+GLYCLTt2r:1 h_e + 1 glyclt_e <=> 1 glyclt_c + 1 h_c (1 H+ + 1 Glycolate C2H3O3 <=> 1 Glycolate C2H3O3 + 1 H+)

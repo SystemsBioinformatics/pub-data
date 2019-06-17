@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+PTALEU:1 ivcoa_c + 1 pi_c -> 1 coa_c + 1 iv_p_c (1 Isovaleryl-CoA + 1 Phosphate -> 1 Coenzyme A + 1 Isovaleryl phosphate)
+PTAILE:1 2mbcoa_c + 1 pi_c -> 1 2mb_p_c + 1 coa_c (1 2-Methylbutanoyl-CoA + 1 Phosphate -> 1 2 methylbutanoyl p + 1 Coenzyme A)
+PTAVAL:1 ibcoa_c + 1 pi_c -> 1 coa_c + 1 ib_p_c (1 Isobutyryl-CoA + 1 Phosphate -> 1 Coenzyme A + 1 Isobutyryl phosphate)
+
+
+AdditionalMetabolites:
+2mb_p_c (2 methylbutanoyl p)
+2mbcoa_c (2-Methylbutanoyl-CoA)
+ib_p_c (Isobutyryl phosphate)
+ibcoa_c (Isobutyryl-CoA)
+iv_p_c (Isovaleryl phosphate)
+ivcoa_c (Isovaleryl-CoA)
+
+

@@ -1,0 +1,30 @@
+notRecovered:
+URIH:1 h2o_c + 1 uri_c -> 1 rib__D_c + 1 ura_c (1 M_H2O_ + 1 M_Uridine_ -> 1 M_D_Ribose_ + 1 M_Uracil_)
+
+
+AdditionalNotInModel:
+R01770:1 C00294_c + 1 C00001_c <=> 1 C00262_c + 1 C00121_c (1 Inosine + 1 H2O <=> 1 Hypoxanthine + 1 D-Ribose)
+R02341:1 C15586_c + 1 C00001_c <=> 1 C15587_c + 1 C00121_c (1 N-D-Ribosylpurine + 1 H2O <=> 1 Purine + 1 D-Ribose)
+R01677:1 C00387_c + 1 C00001_c <=> 1 C00242_c + 1 C00121_c (1 Guanosine + 1 H2O <=> 1 Guanine + 1 D-Ribose)
+R02143:1 C01762_c + 1 C00001_c <=> 1 C00121_c + 1 C00385_c (1 Xanthosine + 1 H2O <=> 1 D-Ribose + 1 Xanthine)
+R01245:1 C00001_c + 1 C00212_c <=> 1 C00147_c + 1 C00121_c (1 H2O + 1 Adenosine <=> 1 Adenine + 1 D-Ribose)
+R01273:1 C03150_c + 1 C00001_c <=> 1 C00121_c + 1 C00153_c (1 Nicotinamide-beta-riboside + 1 H2O <=> 1 D-Ribose + 1 Nicotinamide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00121_c (D-Ribose)
+C00147_c (Adenine)
+C00153_c (Nicotinamide)
+C00212_c (Adenosine)
+C00242_c (Guanine)
+C00262_c (Hypoxanthine)
+C00294_c (Inosine)
+C00385_c (Xanthine)
+C00387_c (Guanosine)
+C01762_c (Xanthosine)
+C03150_c (Nicotinamide-beta-riboside)
+C15586_c (N-D-Ribosylpurine)
+C15587_c (Purine)
+
+

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00908:1 C00026_c + 1 C00099_c <=> 1 C00222_c + 1 C00025_c (1 2-Oxoglutarate + 1 beta-Alanine <=> 1 3-Oxopropanoate + 1 L-Glutamate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00099_c (beta-Alanine)
+C00222_c (3-Oxopropanoate)
+
+

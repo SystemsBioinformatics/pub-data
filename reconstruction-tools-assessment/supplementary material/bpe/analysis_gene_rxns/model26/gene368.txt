@@ -1,0 +1,15 @@
+notRecovered:
+LPADSS_BP:1 lipidX_BP_c + 1 u23ga_c -> 1 h_c + 1 lipidAds_BP_c + 1 udp_c (1 2-(3-hydroxytetradecanoyl),3-(3-hydroxydecanoyl)-beta-D-glucosaminyl 1-phosphate + 1 UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine -> 1 H+ + 1 Lipid A Disaccharide (B. pertussis specific) + 1 UDP)
+
+
+AdditionalNotInModel:
+R04606:1 C04652_c + 1 C04824_c <=> 1 C00015_c + 1 C04932_c (1 UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine + 1 Lipid X <=> 1 UDP + 1 Lipid A disaccharide)
+
+
+AdditionalMetabolites:
+C00015_c (UDP)
+C04652_c (UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine)
+C04824_c (Lipid X)
+C04932_c (Lipid A disaccharide)
+
+

@@ -1,0 +1,14 @@
+notRecovered:
+TAURabcpp:1 atp_c + 1 h2o_c + 1 taur_p -> 1 adp_c + 1 h_c + 1 pi_c + 1 taur_c (1 ATP + 1 H2O + 1 Taurine -> 1 ADP + 1 H+ + 1 Phosphate + 1 Taurine)
+
+
+AdditionalNotInModel:
+TAURabc:1 atp_c + 1 h2o_c + 1 taur_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 taur_c (1 ATP + 1 H2O + 1 Taurine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Taurine)
+UPLA4NT:1 udcpp_c + 1 udpLa4n_c -> 1 udp_c + 1 uLa4n_c (1 Undecaprenyl phosphate + 1 Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose -> 1 UDP + 1 Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose)
+
+
+AdditionalMetabolites:
+uLa4n_c (Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose)
+udpLa4n_c (Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose)
+
+

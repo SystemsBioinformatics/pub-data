@@ -1,0 +1,15 @@
+notRecovered:
+HEPT2_BP:1 adphep_LD_c + 1 hlipa_BP_c -> 1 adp_c + 1 h_c + 1 hhlipa_BP_c (1 ADP-L-glycero-D-manno-heptose + 1 heptosyl-KDO-lipidA (B. pertussis specific) -> 1 ADP + 1 H+ + 1 heptosyl-heptosyl-KDO-lipidA (B. pertussis specific))
+
+
+AdditionalNotInModel:
+rxn08711:1 cpd03831_c + 1 cpd15485_c <=> 1 cpd00008_c + 1 cpd15484_c (1 ADP_L_glycero_D_manno_heptose_c0 + 1 heptosyl_kdo2_lipidA_c0 <=> 1 ADP_c0 + 1 heptosyl_heptosyl_kdo2_lipidA_c0)
+
+
+AdditionalMetabolites:
+cpd00008_c (ADP_c0)
+cpd03831_c (ADP_L_glycero_D_manno_heptose_c0)
+cpd15484_c (heptosyl_heptosyl_kdo2_lipidA_c0)
+cpd15485_c (heptosyl_kdo2_lipidA_c0)
+
+

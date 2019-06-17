@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04378:1 C00013_c + 1 C04677_c <=> 1 C00119_c + 1 C04051_c (1 Diphosphate + 1 1-(5''-Phosphoribosyl)-5-amino-4-imidazolecarboxamide <=> 1 5-Phospho-alpha-D-ribose 1-diphosphate + 1 5-Amino-4-imidazolecarboxyamide)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00119_c (5-Phospho-alpha-D-ribose 1-diphosphate)
+C04051_c (5-Amino-4-imidazolecarboxyamide)
+C04677_c (1-(5''-Phosphoribosyl)-5-amino-4-imidazolecarboxamide)
+
+

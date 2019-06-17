@@ -1,0 +1,14 @@
+notRecovered:
+LacR:1 lac__L_c <=> 1 lac__D_c (1 M_L_Lactate_ <=> 1 M_D_Lactate_)
+
+
+AdditionalNotInModel:
+R04209:1 C04751_c <=> 1 C03373_c + 1 C00011_c (1 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate <=> 1 Aminoimidazole ribotide + 1 CO2)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C03373_c (Aminoimidazole ribotide)
+C04751_c (1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate)
+
+

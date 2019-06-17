@@ -1,0 +1,23 @@
+notRecovered:
+CHLabcpp:1 atp_c + 1 chol_p + 1 h2o_c -> 1 adp_c + 1 chol_c + 1 h_c + 1 pi_c (1 ATP + 1 Choline + 1 H2O -> 1 ADP + 1 Choline + 1 H+ + 1 Phosphate)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 h_c + 1 his__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 H+ + 1 L-Histidine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+CRNabcpp:1 atp_c + 1 crn_p + 1 h2o_c -> 1 adp_c + 1 crn_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 L-Carnitine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 L-Carnitine + 1 H+ + 1 Phosphate)
+CRNDabcpp:1 atp_c + 1 crn__D_p + 1 h2o_c -> 1 adp_c + 1 crn__D_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 D-Carnitine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 D-Carnitine + 1 H+ + 1 Phosphate)
+CTBTabcpp:1 atp_c + 1 ctbt_p + 1 h2o_c -> 1 adp_c + 1 ctbt_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Crotonobetaine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Crotonobetaine + 1 H+ + 1 Phosphate)
+GLYBabcpp:1 atp_c + 1 glyb_p + 1 h2o_c -> 1 adp_c + 1 glyb_c + 1 h_c + 1 pi_c (1 ATP C10H12N5O13P3 + 1 Glycine betaine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Glycine betaine + 1 H+ + 1 Phosphate)
+
+
+AdditionalMetabolites:
+crn__D_c (D-Carnitine)
+crn__D_p (D-Carnitine)
+crn_c (L-Carnitine)
+crn_p (L-Carnitine)
+ctbt_c (Crotonobetaine)
+ctbt_p (Crotonobetaine)
+glyb_c (Glycine betaine)
+glyb_p (Glycine betaine)
+
+

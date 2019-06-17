@@ -1,0 +1,15 @@
+notRecovered:
+SUCDi:1 q8_c + 1 succ_c -> 1 fum_c + 1 q8h2_c (1 Ubiquinone-8 + 1 Succinate -> 1 Fumarate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN:1 SUC_c + 1 Ubiquinones_c -> 1 FUM_c + 1 Ubiquinols_c (1 succinate + 1 Ubiquinones -> 1 fumarate + 1 Ubiquinols)
+
+
+AdditionalMetabolites:
+FUM_c (fumarate)
+SUC_c (succinate)
+Ubiquinols_c (Ubiquinols)
+Ubiquinones_c (Ubiquinones)
+
+

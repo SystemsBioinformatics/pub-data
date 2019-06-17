@@ -1,0 +1,2 @@
+AdditionalInModel:
+CMLDC:1 4cml_c -> 1 co2_c + 1 h_c + 1 5odhf2a_c (1 4-Carboxymuconolactone -> 1 CO2 CO2 + 1 H+ + 1 5-Oxo-4,5-dihydrofuran-2-acetate)

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn07879:1 cpd02849_c <=> 1 cpd00029_c + 1 cpd15170_c (1 3_Hydroxy_3_4_methylpent_3_en_1_ylglutaryl_CoA_c0 <=> 1 Acetate_c0 + 1 7_Methyl_3_oxo_6_octenoyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00029_c (Acetate_c0)
+cpd02849_c (3_Hydroxy_3_4_methylpent_3_en_1_ylglutaryl_CoA_c0)
+cpd15170_c (7_Methyl_3_oxo_6_octenoyl_CoA_c0)
+
+

@@ -1,0 +1,24 @@
+notRecovered:
+CHLabc:1 atp_c + 1 chol_e + 1 h2o_c -> 1 adp_c + 1 chol_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Choline_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_Choline_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+rxn05193:1 cpd00002_c + 1 cpd00001_c + 1 cpd08306_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd08306_c (1 ATP_c0 + 1 H2O_c0 + 1 Butyro_betaine_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Butyro_betaine_c0)
+rxn05504:1 cpd00002_c + 1 cpd00001_c + 1 cpd11597_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd11597_c (1 ATP_c0 + 1 H2O_c0 + 1 ARSENOBETAINE_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 ARSENOBETAINE_c0)
+rxn05192:1 cpd00002_c + 1 cpd00001_c + 1 cpd08305_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd08305_c (1 ATP_c0 + 1 H2O_c0 + 1 crotonobetaine_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 crotonobetaine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd08305_c (crotonobetaine_c0)
+cpd08305_e (crotonobetaine_e0)
+cpd08306_c (Butyro_betaine_c0)
+cpd08306_e (Butyro_betaine_e0)
+cpd11597_c (ARSENOBETAINE_c0)
+cpd11597_e (ARSENOBETAINE_e0)
+
+

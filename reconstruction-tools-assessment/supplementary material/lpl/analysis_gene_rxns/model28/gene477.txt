@@ -1,0 +1,15 @@
+notRecovered:
+GK2:1 datp_c + 1 gmp_c <=> 1 dadp_c + 1 gdp_c (1 M_dATP_ + 1 M_GMP_ <=> 1 M_dADP_ + 1 M_GDP_)
+
+
+AdditionalNotInModel:
+R02090:1 C00002_c + 1 C00362_c <=> 1 C00008_c + 1 C00361_c (1 ATP + 1 dGMP <=> 1 ADP + 1 dGDP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00361_c (dGDP)
+C00362_c (dGMP)
+
+

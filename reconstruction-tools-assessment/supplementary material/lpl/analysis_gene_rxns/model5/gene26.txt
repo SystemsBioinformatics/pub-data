@@ -1,0 +1,4 @@
+notRecovered:
+ACGALpts:1 acgala_e + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 M_N_Acetyl_D_galactosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_acetylgalactosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+

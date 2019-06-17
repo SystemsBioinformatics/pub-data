@@ -1,0 +1,4 @@
+notRecovered:
+G1SAT:1 glu1sa_c <=> 1 5aop_c (1 L-Glutamate 1-semialdehyde <=> 1 5-Amino-4-oxopentanoate)
+
+

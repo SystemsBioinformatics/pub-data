@@ -1,0 +1,35 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Pyruvate_ -> 1 M_Acetyl_CoA_ + 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+R08550:1 C00003_c + 1 C16832_c <=> 1 C00080_c + 1 C00004_c + 1 C16237_c (1 NAD+ + 1 Protein N6-(dihydrolipoyl)lysine <=> 1 H+ + 1 NADH + 1 Protein N6-(lipoyl)lysine)
+R07618:1 C00003_c + 1 C15973_c <=> 1 C15972_c + 1 C00080_c + 1 C00004_c (1 NAD+ + 1 Enzyme N6-(dihydrolipoyl)lysine <=> 1 Enzyme N6-(lipoyl)lysine + 1 H+ + 1 NADH)
+R01698:1 C00579_c + 1 C00003_c <=> 1 C00248_c + 1 C00080_c + 1 C00004_c (1 Dihydrolipoamide + 1 NAD+ <=> 1 Lipoamide + 1 H+ + 1 NADH)
+R03815:1 C02972_c + 1 C00003_c <=> 1 C02051_c + 1 C00080_c + 1 C00004_c (1 Dihydrolipoylprotein + 1 NAD+ <=> 1 Lipoylprotein + 1 H+ + 1 NADH)
+R08549:1 C00026_c + 1 C00010_c + 1 C00003_c <=> 1 C00011_c + 1 C00091_c + 1 C00080_c + 1 C00004_c (1 2-Oxoglutarate + 1 CoA + 1 NAD+ <=> 1 CO2 + 1 Succinyl-CoA + 1 H+ + 1 NADH)
+R01221:1 C00003_c + 1 C00101_c + 1 C00037_c <=> 1 C00011_c + 1 C00143_c + 1 C00014_c + 1 C00080_c + 1 C00004_c (1 NAD+ + 1 Tetrahydrofolate + 1 Glycine <=> 1 CO2 + 1 5,10-Methylenetetrahydrofolate + 1 Ammonia + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00010_c (CoA)
+C00011_c (CO2)
+C00014_c (Ammonia)
+C00026_c (2-Oxoglutarate)
+C00037_c (Glycine)
+C00080_c (H+)
+C00091_c (Succinyl-CoA)
+C00101_c (Tetrahydrofolate)
+C00143_c (5,10-Methylenetetrahydrofolate)
+C00248_c (Lipoamide)
+C00579_c (Dihydrolipoamide)
+C02051_c (Lipoylprotein)
+C02972_c (Dihydrolipoylprotein)
+C15972_c (Enzyme N6-(lipoyl)lysine)
+C15973_c (Enzyme N6-(dihydrolipoyl)lysine)
+C16237_c (Protein N6-(lipoyl)lysine)
+C16832_c (Protein N6-(dihydrolipoyl)lysine)
+
+

@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+R02401:1 C00001_c + 1 C00003_c + 1 C03273_c <=> 1 C00004_c + 1 C00080_c + 1 C00489_c (1 H2O + 1 NAD+ + 1 5-Oxopentanoate <=> 1 NADH + 1 H+ + 1 Glutarate)
+R02565:1 C00001_c + 1 C00003_c + 1 C00576_c <=> 1 C00004_c + 2 C00080_c + 1 C00719_c (1 H2O + 1 NAD+ + 1 Betaine aldehyde <=> 1 NADH + 2 H+ + 1 Betaine)
+R02566:1 C00001_c + 1 C00006_c + 1 C00576_c <=> 1 C00005_c + 2 C00080_c + 1 C00719_c (1 H2O + 1 NADP+ + 1 Betaine aldehyde <=> 1 NADPH + 2 H+ + 1 Betaine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00489_c (Glutarate)
+C00576_c (Betaine aldehyde)
+C00719_c (Betaine)
+C03273_c (5-Oxopentanoate)
+
+

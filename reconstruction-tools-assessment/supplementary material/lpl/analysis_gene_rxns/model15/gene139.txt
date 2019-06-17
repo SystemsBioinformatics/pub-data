@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+rxn01863:1 cpd00443_c + 2 cpd00067_c + 1 cpd00004_c + 1 cpd00007_c <=> 1 cpd00001_c + 1 cpd00003_c + 1 cpd00011_c + 1 cpd01584_c (1 ABEE_c0 + 2 H_plus__c0 + 1 NADH_c0 + 1 O2_c0 <=> 1 H2O_c0 + 1 NAD_c0 + 1 CO2_c0 + 1 p_Aminophenol_c0)
+rxn02363:1 cpd00067_c + 1 cpd00004_c + 1 cpd00007_c + 1 cpd03320_c -> 1 cpd00001_c + 1 cpd00003_c + 1 cpd00854_c (1 H_plus__c0 + 1 NADH_c0 + 1 O2_c0 + 1 3_Hydroxyphenylacetate_c0 -> 1 H2O_c0 + 1 NAD_c0 + 1 Homoprotocatechuate_c0)
+rxn01864:1 cpd00443_c + 2 cpd00067_c + 1 cpd00005_c + 1 cpd00007_c <=> 1 cpd00001_c + 1 cpd00011_c + 1 cpd00006_c + 1 cpd01584_c (1 ABEE_c0 + 2 H_plus__c0 + 1 NADPH_c0 + 1 O2_c0 <=> 1 H2O_c0 + 1 CO2_c0 + 1 NADP_c0 + 1 p_Aminophenol_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00007_c (O2_c0)
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd00443_c (ABEE_c0)
+cpd00854_c (Homoprotocatechuate_c0)
+cpd01584_c (p_Aminophenol_c0)
+cpd03320_c (3_Hydroxyphenylacetate_c0)
+
+

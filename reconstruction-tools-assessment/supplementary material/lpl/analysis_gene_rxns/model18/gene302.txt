@@ -1,0 +1,4 @@
+notRecovered:
+DASYN_LPL:1 ctp_c + 1 h_c + 0.01 pa_LPL_c <=> 0.01 cdpdag_LPL_c + 1 ppi_c (1 M_CTP_ + 1 M_H_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__ <=> 0.01 M_CDPdiacylglycerol__LPL_specific__ + 1 M_Diphosphate_)
+
+

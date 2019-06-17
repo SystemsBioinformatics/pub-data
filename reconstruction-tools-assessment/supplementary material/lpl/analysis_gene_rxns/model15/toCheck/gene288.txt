@@ -1,0 +1,15 @@
+notRecovered:
+LYSt2r:1 h_e + 1 lys__L_e -> 1 h_c + 1 lys__L_c (1 M_H_ + 1 M_L_Lysine_ -> 1 M_H_ + 1 M_L_Lysine_)
+
+
+AdditionalNotInModel:
+rxn09674:1 cpd00067_e + 1 cpd00039_e <=> 1 cpd00067_c + 1 cpd00039_c (1 H_plus__e0 + 1 L_Lysine_e0 <=> 1 H_plus__c0 + 1 L_Lysine_c0)
+
+
+AdditionalMetabolites:
+cpd00039_c (L_Lysine_c0)
+cpd00039_e (L_Lysine_e0)
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+
+

@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+R00396:1 C00001_c + 1 C00003_c + 1 C00041_c <=> 1 C00004_c + 1 C00014_c + 1 C00022_c + 1 C00080_c (1 H2O + 1 NAD+ + 1 L-Alanine <=> 1 NADH + 1 Ammonia + 1 Pyruvate + 1 H+)
+R01246:1 C00004_c + 1 C00080_c + 1 C03564_c -> 1 C00003_c + 1 C00148_c (1 NADH + 1 H+ + 1 1-Pyrroline-2-carboxylate -> 1 NAD+ + 1 L-Proline)
+R01249:1 C00005_c + 1 C00080_c + 1 C03564_c -> 1 C00006_c + 1 C00148_c (1 NADPH + 1 H+ + 1 1-Pyrroline-2-carboxylate -> 1 NADP+ + 1 L-Proline)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00041_c (L-Alanine)
+C00080_c (H+)
+C00148_c (L-Proline)
+C03564_c (1-Pyrroline-2-carboxylate)
+
+

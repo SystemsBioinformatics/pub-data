@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+R00124: <=> 1 C00008_c + 1 C00002_c ( <=> 1 ADP + 1 ATP)
+R00331:1 C00454_c + 1 C00002_c <=> 1 C00201_c + 1 C00008_c (1 NDP + 1 ATP <=> 1 Nucleoside triphosphate + 1 ADP)
+R03530:1 C01344_c + 1 C00002_c <=> 1 C01345_c + 1 C00008_c (1 dIDP + 1 ATP <=> 1 dITP + 1 ADP)
+R00139:1 C11038_c + 1 C00002_c <=> 1 C11039_c + 1 C00008_c (1 2''-Deoxy-5-hydroxymethylcytidine-5''-diphosphate + 1 ATP <=> 1 2''-Deoxy-5-hydroxymethylcytidine-5''-triphosphate + 1 ADP)
+R11894:1 C21748_c + 1 C00002_c <=> 1 C21749_c + 1 C00008_c (1 5-Fluorouridine diphosphate + 1 ATP <=> 1 5-Fluorouridine triphosphate + 1 ADP)
+R11895:1 C21750_c + 1 C00002_c <=> 1 C21751_c + 1 C00008_c (1 5-Fluorodeoxyuridine diphosphate + 1 ATP <=> 1 5-Fluorodeoxyuridine triphosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00201_c (Nucleoside triphosphate)
+C00454_c (NDP)
+C01344_c (dIDP)
+C01345_c (dITP)
+C11038_c (2''-Deoxy-5-hydroxymethylcytidine-5''-diphosphate)
+C11039_c (2''-Deoxy-5-hydroxymethylcytidine-5''-triphosphate)
+C21748_c (5-Fluorouridine diphosphate)
+C21749_c (5-Fluorouridine triphosphate)
+C21750_c (5-Fluorodeoxyuridine diphosphate)
+C21751_c (5-Fluorodeoxyuridine triphosphate)
+
+

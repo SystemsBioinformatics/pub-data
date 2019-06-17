@@ -1,0 +1,23 @@
+notRecovered:
+FRUpts2pp:1 fru_p + 1 pep_c -> 1 f6p_c + 1 pyr_c (1 D-Fructose + 1 Phosphoenolpyruvate -> 1 D-Fructose 6-phosphate + 1 Pyruvate)
+ACMUMptspp:1 acmum_p + 1 pep_c -> 1 acmum6p_c + 1 pyr_c (1 N-Acetylmuramate + 1 Phosphoenolpyruvate -> 1 N-acetylmuramate 6-phosphate + 1 Pyruvate)
+GLCptspp:1 glc__D_p + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 D-Glucose + 1 Phosphoenolpyruvate -> 1 D-Glucose 6-phosphate + 1 Pyruvate)
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 Dihydroxyacetone + 1 Phosphoenolpyruvate -> 1 Dihydroxyacetone phosphate + 1 Pyruvate)
+GAMptspp:1 gam_p + 1 pep_c -> 1 gam6p_c + 1 pyr_c (1 D-Glucosamine + 1 Phosphoenolpyruvate -> 1 D-Glucosamine 6-phosphate + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+RXN-17355:1 PTS-I-pi-phospho-L-histidines_c + 1 Hpr-Histidine_c -> 1 PTS-I-Histidines_c + 1 Hpr-pi-phospho-L-histidines_c (1 a [PTS enzyme I]-Npi-phospho-L-histidine + 1 an [HPr]-L-histidine -> 1 a [PTS enzyme I]-L-histidine + 1 an [HPr protein]-Npi-phospho-L-histidine)
+RXN-17354:1 PTS-I-Histidines_c + 1 PHOSPHO-ENOL-PYRUVATE_c -> 1 PTS-I-pi-phospho-L-histidines_c + 1 PYRUVATE_c (1 a [PTS enzyme I]-L-histidine + 1 phosphoenolpyruvate -> 1 a [PTS enzyme I]-Npi-phospho-L-histidine + 1 pyruvate)
+2.7.3.9-RXN:1 PHOSPHO-ENOL-PYRUVATE_c + 1 Hpr-Histidine_c -> 1 Hpr-pi-phospho-L-histidines_c + 1 PYRUVATE_c (1 phosphoenolpyruvate + 1 an [HPr]-L-histidine -> 1 an [HPr protein]-Npi-phospho-L-histidine + 1 pyruvate)
+
+
+AdditionalMetabolites:
+Hpr-Histidine_c (an [HPr]-L-histidine)
+Hpr-pi-phospho-L-histidines_c (an [HPr protein]-Npi-phospho-L-histidine)
+PHOSPHO-ENOL-PYRUVATE_c (phosphoenolpyruvate)
+PTS-I-Histidines_c (a [PTS enzyme I]-L-histidine)
+PTS-I-pi-phospho-L-histidines_c (a [PTS enzyme I]-Npi-phospho-L-histidine)
+PYRUVATE_c (pyruvate)
+
+

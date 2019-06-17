@@ -1,0 +1,15 @@
+notRecovered:
+ACCOAPT:1 2maacoa_c + 1 coa_c + 2 h2o_c -> 1 accoa_c + 1 ppcoa_c (1 2-methylacetoacetyl-coenzyme A + 1 Coenzyme A + 2 H2O -> 1 Acetyl-CoA + 1 Propanoyl-CoA)
+
+
+AdditionalNotInModel:
+ACACT5r_1:1 accoa_c + 1 dccoa_c <=> 1 3oddcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Decanoyl CoA C31H50N7O17P3S <=> 1 3-Oxododecanoyl-CoA + 1 Coenzyme A)
+ACACT6r_1:1 accoa_c + 1 ddcoa_c <=> 1 3otdcoa_c + 1 coa_c (1 Acetyl-CoA + 1 Dodecanoyl CoA  n C120CoA  C33H54N7O17P3S <=> 1 3-Oxotetradecanoyl-CoA + 1 Coenzyme A)
+MACCOAT:1 2maacoa_c + 1 coa_c <=> 1 accoa_c + 1 ppcoa_c (1 2-Methyl-3-acetoacetyl-CoA + 1 Coenzyme A <=> 1 Acetyl-CoA + 1 Propanoyl-CoA)
+
+
+AdditionalMetabolites:
+dccoa_c (Decanoyl CoA C31H50N7O17P3S)
+ddcoa_c (Dodecanoyl CoA  n C120CoA  C33H54N7O17P3S)
+
+

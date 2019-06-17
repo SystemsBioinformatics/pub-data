@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R01830:1 C00118_c + 1 C05345_c <=> 1 C00231_c + 1 C00279_c (1 D-Glyceraldehyde 3-phosphate + 1 beta-D-Fructose 6-phosphate <=> 1 D-Xylulose 5-phosphate + 1 D-Erythrose 4-phosphate)
+R06590:1 C00117_c + 1 C12214_c <=> 1 C05382_c + 1 C12215_c (1 D-Ribose 5-phosphate + 1 Aminofructose 6-phosphate <=> 1 Sedoheptulose 7-phosphate + 1 Iminoerythrose 4-phosphate)
+
+
+AdditionalMetabolites:
+C00117_c (D-Ribose 5-phosphate)
+C00118_c (D-Glyceraldehyde 3-phosphate)
+C00231_c (D-Xylulose 5-phosphate)
+C00279_c (D-Erythrose 4-phosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+C05382_c (Sedoheptulose 7-phosphate)
+C12214_c (Aminofructose 6-phosphate)
+C12215_c (Iminoerythrose 4-phosphate)
+
+

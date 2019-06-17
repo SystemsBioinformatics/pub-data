@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+THIORDXi:1 trdrd_c + 1 h2o2_c -> 1 trdox_c + 2 h2o_c (1 Reduced thioredoxin + 1 Hydrogen peroxide -> 1 Oxidized thioredoxin + 2 H2O H2O)
+GTHPe:2 gthrd_e + 1 h2o2_e <=> 1 gthox_e + 2 h2o_e (2 Reduced glutathione + 1 Hydrogen peroxide <=> 1 Oxidized glutathione + 2 H2O H2O)
+
+
+AdditionalMetabolites:
+gthox_e (Oxidized glutathione)
+gthrd_e (Reduced glutathione)
+h2o2_e (Hydrogen peroxide)
+
+
+AdditionalInModel:
+GTHPi_copy1:2 gthrd_c + 1 h2o2_c -> 1 gthox_c + 2 h2o_c (2 Reduced glutathione + 1 Hydrogen peroxide -> 1 Oxidized glutathione + 2 H2O H2O)
+GTHPi_copy2:2 gthrd_c + 1 h2o2_c -> 1 gthox_c + 2 h2o_c (2 Reduced glutathione + 1 Hydrogen peroxide -> 1 Oxidized glutathione + 2 H2O H2O)

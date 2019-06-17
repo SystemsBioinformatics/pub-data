@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn01362:1 cpd00103_c + 1 cpd00247_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00810_c (1 PRPP_c0 + 1 Orotate_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 Orotidylic_acid_c0)
+rxn11759:1 cpd00103_c + 1 cpd04810_c <=> 1 cpd00012_c + 1 cpd16438_c (1 PRPP_c0 + 1 5_FU_c0 <=> 1 PPi_c0 + 1 5_Fluorouridine_monophosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00103_c (PRPP_c0)
+cpd00247_c (Orotate_c0)
+cpd00810_c (Orotidylic_acid_c0)
+cpd04810_c (5_FU_c0)
+cpd16438_c (5_Fluorouridine_monophosphate_c0)
+
+

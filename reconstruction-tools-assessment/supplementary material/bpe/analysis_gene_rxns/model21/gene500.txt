@@ -1,0 +1,4 @@
+notRecovered:
+ACPS1:1 apoACP_c + 1 coa_c -> 1 ACP_c + 1 h_c + 1 pap_c (1 apoprotein [acyl carrier protein] + 1 Coenzyme A -> 1 acyl carrier protein + 1 H+ + 1 Adenosine 3',5'-bisphosphate)
+
+

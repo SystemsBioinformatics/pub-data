@@ -1,0 +1,5 @@
+notRecovered:
+UAGDP:1 acgam1p_c + 1 h_c + 1 utp_c -> 1 ppi_c + 1 uacgam_c (1 M_N_Acetyl_D_glucosamine_1_phosphate_ + 1 M_H_ + 1 M_UTP_ -> 1 M_Diphosphate_ + 1 M_UDP_N_acetyl_D_glucosamine_)
+G1PACT:1 accoa_c + 1 gam1p_c -> 1 acgam1p_c + 1 coa_c + 1 h_c (1 M_Acetyl_CoA_ + 1 M_D_Glucosamine_1_phosphate_ -> 1 M_N_Acetyl_D_glucosamine_1_phosphate_ + 1 M_Coenzyme_A_ + 1 M_H_)
+
+

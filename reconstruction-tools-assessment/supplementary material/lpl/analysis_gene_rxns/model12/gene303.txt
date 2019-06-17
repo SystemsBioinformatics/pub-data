@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN0-2381:1 INDOLE-3-GLYCEROL-P_c -> 1 INDOLE_c + 1 GAP_c (1 (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate -> 1 indole + 1 D-glyceraldehyde 3-phosphate)
+RXN0-2382:1 INDOLE_c + 1 SER_c -> 1 TRP_c + 1 WATER_c (1 indole + 1 L-serine -> 1 L-tryptophan + 1 H2O)
+
+
+AdditionalMetabolites:
+GAP_c (D-glyceraldehyde 3-phosphate)
+INDOLE-3-GLYCEROL-P_c ((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)
+INDOLE_c (indole)
+SER_c (L-serine)
+TRP_c (L-tryptophan)
+WATER_c (H2O)
+
+

@@ -1,0 +1,37 @@
+notRecovered:
+ALDD20x:1 h2o_c + 1 id3acald_c + 1 nad_c -> 2 h_c + 1 ind3ac_c + 1 nadh_c (1 H2O + 1 Indole-3-acetaldehyde + 1 Nicotinamide adenine dinucleotide -> 2 H+ + 1 Indole-3-acetate + 1 Nicotinamide adenine dinucleotide - reduced)
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+R00264:1 C00001_c + 1 C00006_c + 1 C00433_c <=> 1 C00005_c + 1 C00026_c + 1 C00080_c (1 H2O + 1 NADP+ + 1 2,5-Dioxopentanoate <=> 1 NADPH + 1 2-Oxoglutarate + 1 H+)
+R00713:1 C00001_c + 1 C00003_c + 1 C00232_c <=> 1 C00004_c + 1 C00042_c + 1 C00080_c (1 H2O + 1 NAD+ + 1 Succinate semialdehyde <=> 1 NADH + 1 Succinate + 1 H+)
+R00714:1 C00001_c + 1 C00006_c + 1 C00232_c <=> 1 C00005_c + 1 C00042_c + 1 C00080_c (1 H2O + 1 NADP+ + 1 Succinate semialdehyde <=> 1 NADPH + 1 Succinate + 1 H+)
+R02401:1 C00001_c + 1 C00003_c + 1 C03273_c <=> 1 C00004_c + 1 C00080_c + 1 C00489_c (1 H2O + 1 NAD+ + 1 5-Oxopentanoate <=> 1 NADH + 1 H+ + 1 Glutarate)
+R02536:1 C00001_c + 1 C00003_c + 1 C00601_c <=> 1 C00004_c + 1 C00080_c + 1 C07086_c (1 H2O + 1 NAD+ + 1 Phenylacetaldehyde <=> 1 NADH + 1 H+ + 1 Phenylacetic acid)
+R02565:1 C00001_c + 1 C00003_c + 1 C00576_c <=> 1 C00004_c + 2 C00080_c + 1 C00719_c (1 H2O + 1 NAD+ + 1 Betaine aldehyde <=> 1 NADH + 2 H+ + 1 Betaine)
+R02566:1 C00001_c + 1 C00006_c + 1 C00576_c <=> 1 C00005_c + 2 C00080_c + 1 C00719_c (1 H2O + 1 NADP+ + 1 Betaine aldehyde <=> 1 NADPH + 2 H+ + 1 Betaine)
+R04418:1 C00001_c + 1 C00003_c + 1 C04642_c <=> 1 C00004_c + 1 C00080_c + 1 C04186_c (1 H2O + 1 NAD+ + 1 2-Hydroxy-5-carboxymethylmuconate semialdehyde <=> 1 NADH + 1 H+ + 1 5-Carboxymethyl-2-hydroxymuconate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00026_c (2-Oxoglutarate)
+C00042_c (Succinate)
+C00080_c (H+)
+C00232_c (Succinate semialdehyde)
+C00433_c (2,5-Dioxopentanoate)
+C00489_c (Glutarate)
+C00576_c (Betaine aldehyde)
+C00601_c (Phenylacetaldehyde)
+C00719_c (Betaine)
+C03273_c (5-Oxopentanoate)
+C04186_c (5-Carboxymethyl-2-hydroxymuconate)
+C04642_c (2-Hydroxy-5-carboxymethylmuconate semialdehyde)
+C07086_c (Phenylacetic acid)
+
+

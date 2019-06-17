@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+rxn00883:1 cpd00001_c + 1 cpd02484_c -> 1 cpd00009_c + 1 cpd00121_c (1 H2O_c0 + 1 Inositol_3_phosphate_c0 -> 1 Phosphate_c0 + 1 L_Inositol_c0)
+rxn00882:1 cpd00001_c + 1 cpd02230_c -> 1 cpd00009_c + 1 cpd00121_c (1 H2O_c0 + 1 Inositol_4_phosphate_c0 -> 1 Phosphate_c0 + 1 L_Inositol_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00121_c (L_Inositol_c0)
+cpd02230_c (Inositol_4_phosphate_c0)
+cpd02484_c (Inositol_3_phosphate_c0)
+
+

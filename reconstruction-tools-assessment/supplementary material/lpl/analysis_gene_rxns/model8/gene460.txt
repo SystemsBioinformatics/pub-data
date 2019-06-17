@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+4HTHRS:1 h2o_c + 1 phthr_c -> 1 pi_c + 1 4hthr_c (1 H2O H2O + 1 O-Phospho-4-hydroxy-L-threonine -> 1 Phosphate + 1 4-Hydroxy-L-threonine)
+
+
+AdditionalMetabolites:
+4hthr_c (4-Hydroxy-L-threonine)
+phthr_c (O-Phospho-4-hydroxy-L-threonine)
+
+

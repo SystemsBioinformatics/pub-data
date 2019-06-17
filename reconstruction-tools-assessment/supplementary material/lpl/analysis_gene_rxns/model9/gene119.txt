@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+URACPAH:1 uracp_c + 1 h2o_c -> 1 cbm_c + 1 h_c + 1 poaac_c (1 Ureidoacrylate peracid + 1 H2O H2O -> 1 Carbamate + 1 H+ + 1 Peroxyaminoacrylate)
+PYRZAM:1 malm_c + 1 h2o_c -> 1 male_c + 1 nh4_c (1 Maleamate + 1 H2O H2O -> 1 Maleate + 1 Ammonium)
+ICHORT:1 ichor_c + 1 h2o_c -> 1 pyr_c + 1 23ddhb_c (1 Isochorismate + 1 H2O H2O -> 1 Pyruvate + 1 2,3-Dihydro-2,3-dihydroxybenzoate)
+
+
+AdditionalMetabolites:
+23ddhb_c (2,3-Dihydro-2,3-dihydroxybenzoate)
+cbm_c (Carbamate)
+ichor_c (Isochorismate)
+male_c (Maleate)
+malm_c (Maleamate)
+poaac_c (Peroxyaminoacrylate)
+uracp_c (Ureidoacrylate peracid)
+
+

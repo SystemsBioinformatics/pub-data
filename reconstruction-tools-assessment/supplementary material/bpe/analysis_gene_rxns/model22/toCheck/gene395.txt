@@ -1,0 +1,15 @@
+notRecovered:
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 2-Oxoglutarate + 1 L-Tryptophan <=> 1 L-Glutamate + 1 Indolepyruvate)
+
+
+AdditionalNotInModel:
+2-AMINOADIPATE-AMINOTRANSFERASE-RXN:1 2-KETOGLUTARATE_c + 1 CPD-468_c <=> 1 2K-ADIPATE_c + 1 GLT_c (1 2-oxoglutarate + 1 L-2-aminoadipate <=> 1 2-oxoadipate + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+2K-ADIPATE_c (2-oxoadipate)
+CPD-468_c (L-2-aminoadipate)
+GLT_c (L-glutamate)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R03191:1 C00003_c + 1 C01050_c <=> 1 C00004_c + 1 C00080_c + 1 C04631_c (1 NAD+ + 1 UDP-N-acetylmuramate <=> 1 NADH + 1 H+ + 1 UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C01050_c (UDP-N-acetylmuramate)
+C04631_c (UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine)
+
+

@@ -1,0 +1,31 @@
+notRecovered:
+NPPDO:2 n2ppn_c + 1 o2_c -> 2 acetone_c + 2 h_c + 2 no2_c (2 M_2_Nitropropane_ + 1 M_O2_ -> 2 M_Acetone_ + 2 M_H_ + 2 M_Nitrite_)
+
+
+AdditionalNotInModel:
+EAR141x:1 h_c + 1 nadh_c + 1 t3c7mrseACP_c -> 1 nad_c + 1 tdeACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-3-cis-7-myristoleoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide + 1 Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1))
+EAR161x:1 h_c + 1 nadh_c + 1 t3c9palmeACP_c -> 1 hdeACP_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein] -> 1 Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) + 1 Nicotinamide adenine dinucleotide)
+EAR121x:1 h_c + 1 nadh_c + 1 t3c5ddeceACP_c -> 1 cddec5eACP_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-3-cis-5-dodecenoyl-[acyl-carrier protein] -> 1 Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1) + 1 Nicotinamide adenine dinucleotide)
+EAR181x:1 h_c + 1 nadh_c + 1 t3c11vaceACP_c -> 1 nad_c + 1 octeACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-3-cis-11-vacceoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide + 1 Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1))
+
+
+AdditionalMetabolites:
+cddec5eACP_c (Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1))
+hdeACP_c (Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1))
+octeACP_c (Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1))
+t3c11vaceACP_c (Trans-3-cis-11-vacceoyl-[acyl-carrier protein])
+t3c5ddeceACP_c (Trans-3-cis-5-dodecenoyl-[acyl-carrier protein])
+t3c7mrseACP_c (Trans-3-cis-7-myristoleoyl-[acyl-carrier protein])
+t3c9palmeACP_c (Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein])
+tdeACP_c (Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1))
+
+
+AdditionalInModel:
+EAR100x:1 h_c + 1 nadh_c + 1 tdec2eACP_c -> 1 dcaACP_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-Dec-2-enoyl-[acyl-carrier protein] -> 1 Decanoyl-ACP (n-C10:0ACP) + 1 Nicotinamide adenine dinucleotide)
+EAR160x:1 h_c + 1 nadh_c + 1 tpalm2eACP_c -> 1 nad_c + 1 palmACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-Hexadec-2-enoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide + 1 Palmitoyl-ACP (n-C16:0ACP))
+EAR60x:1 h_c + 1 nadh_c + 1 thex2eACP_c -> 1 hexACP_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-Hex-2-enoyl-[acyl-carrier protein] -> 1 Hexanoyl-ACP (n-C6:0ACP) + 1 Nicotinamide adenine dinucleotide)
+EAR80x:1 h_c + 1 nadh_c + 1 toct2eACP_c -> 1 nad_c + 1 ocACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-Oct-2-enoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide + 1 Octanoyl-ACP (n-C8:0ACP))
+EAR180x:1 h_c + 1 nadh_c + 1 toctd2eACP_c -> 1 nad_c + 1 ocdcaACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-octadec-2-enoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide + 1 Octadecanoyl-ACP (n-C18:0ACP))
+EAR120x:1 h_c + 1 nadh_c + 1 tddec2eACP_c -> 1 ddcaACP_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-Dodec-2-enoyl-[acyl-carrier protein] -> 1 Dodecanoyl-ACP (n-C12:0ACP) + 1 Nicotinamide adenine dinucleotide)
+EAR140x:1 h_c + 1 nadh_c + 1 tmrs2eACP_c -> 1 myrsACP_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Trans-Tetradec-2-enoyl-[acyl-carrier protein] -> 1 Myristoyl-ACP (n-C14:0ACP) + 1 Nicotinamide adenine dinucleotide)
+EAR40x:1 but2eACP_c + 1 h_c + 1 nadh_c -> 1 butACP_c + 1 nad_c (1 But-2-enoyl-[acyl-carrier protein] + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Butyryl-ACP (n-C4:0ACP) + 1 Nicotinamide adenine dinucleotide)

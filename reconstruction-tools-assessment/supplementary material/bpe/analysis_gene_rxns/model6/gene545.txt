@@ -1,0 +1,16 @@
+notRecovered:
+DPR:1 2dhp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 pant__R_c (1 2-Dehydropantoate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-Pantoate)
+
+
+AdditionalNotInModel:
+2H3MBDH:1 3mob_c + 1 h_c + 1 nadh_c <=> 1 2h3mb_c + 1 nad_c (1 3-Methyl-2-oxobutanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 2 hydroxy 3 methyl butanoate + 1 Nicotinamide adenine dinucleotide)
+2H3MPDH:1 3mop_c + 1 h_c + 1 nadh_c <=> 1 2h3mp_c + 1 nad_c (1 (S)-3-Methyl-2-oxopentanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 2 hydroxy 3 methyl pentanoate + 1 Nicotinamide adenine dinucleotide)
+2HXICDH:1 4mop_c + 1 h_c + 1 nadh_c <=> 1 2hxic__L_c + 1 nad_c (1 4-Methyl-2-oxopentanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced <=> 1 L 2 hydroxyisocaproate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+2h3mb_c (2 hydroxy 3 methyl butanoate)
+2h3mp_c (2 hydroxy 3 methyl pentanoate)
+2hxic__L_c (L 2 hydroxyisocaproate)
+
+

@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R00093:1 C00003_c + 2 C00025_c <=> 1 C00004_c + 1 C00026_c + 1 C00064_c + 1 C00080_c (1 NAD+ + 2 L-Glutamate <=> 1 NADH + 1 2-Oxoglutarate + 1 L-Glutamine + 1 H+)
+R00248:1 C00001_c + 1 C00006_c + 1 C00025_c <=> 1 C00005_c + 1 C00014_c + 1 C00026_c + 1 C00080_c (1 H2O + 1 NADP+ + 1 L-Glutamate <=> 1 NADPH + 1 Ammonia + 1 2-Oxoglutarate + 1 H+)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00014_c (Ammonia)
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00064_c (L-Glutamine)
+C00080_c (H+)
+
+

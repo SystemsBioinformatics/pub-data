@@ -1,0 +1,40 @@
+notRecovered:
+NTD8pp:1 dgmp_p + 1 h2o_p -> 1 dgsn_p + 1 pi_p (1 dGMP + 1 H2O -> 1 Deoxyguanosine + 1 Phosphate)
+NTD7pp:1 amp_p + 1 h2o_p -> 1 adn_p + 1 pi_p (1 AMP + 1 H2O -> 1 Adenosine + 1 Phosphate)
+NTD8:1 dgmp_c + 1 h2o_c -> 1 dgsn_c + 1 pi_c (1 dGMP + 1 H2O -> 1 Deoxyguanosine + 1 Phosphate)
+NTD9pp:1 gmp_p + 1 h2o_p -> 1 gsn_p + 1 pi_p (1 GMP + 1 H2O -> 1 Guanosine + 1 Phosphate)
+NTD3:1 dcmp_c + 1 h2o_c -> 1 dcyt_c + 1 pi_c (1 dCMP + 1 H2O -> 1 Deoxycytidine + 1 Phosphate)
+NTD5:1 dtmp_c + 1 h2o_c -> 1 pi_c + 1 thymd_c (1 dTMP + 1 H2O -> 1 Phosphate + 1 Thymidine)
+NTD6:1 damp_c + 1 h2o_c -> 1 dad_2_c + 1 pi_c (1 dAMP + 1 H2O -> 1 Deoxyadenosine + 1 Phosphate)
+NTD11pp:1 h2o_p + 1 imp_p -> 1 ins_p + 1 pi_p (1 H2O + 1 IMP -> 1 Inosine + 1 Phosphate)
+NTD10pp:1 h2o_p + 1 xmp_p -> 1 pi_p + 1 xtsn_p (1 H2O + 1 Xanthosine 5'-phosphate -> 1 Phosphate + 1 Xanthosine)
+NTD1pp:1 dump_p + 1 h2o_p -> 1 duri_p + 1 pi_p (1 dUMP + 1 H2O -> 1 Deoxyuridine + 1 Phosphate)
+NTD2pp:1 h2o_p + 1 ump_p -> 1 pi_p + 1 uri_p (1 H2O + 1 UMP -> 1 Phosphate + 1 Uridine)
+NTD5pp:1 dtmp_p + 1 h2o_p -> 1 pi_p + 1 thymd_p (1 dTMP + 1 H2O -> 1 Phosphate + 1 Thymidine)
+NTD6pp:1 damp_p + 1 h2o_p -> 1 dad_2_p + 1 pi_p (1 dAMP + 1 H2O -> 1 Deoxyadenosine + 1 Phosphate)
+NTD12pp:1 dimp_p + 1 h2o_p -> 1 din_p + 1 pi_p (1 dIMP + 1 H2O -> 1 Deoxyinosine + 1 Phosphate)
+NTD12:1 dimp_c + 1 h2o_c -> 1 din_c + 1 pi_c (1 dIMP + 1 H2O -> 1 Deoxyinosine + 1 Phosphate)
+NTD3pp:1 dcmp_p + 1 h2o_p -> 1 dcyt_p + 1 pi_p (1 dCMP + 1 H2O -> 1 Deoxycytidine + 1 Phosphate)
+NTD4pp:1 cmp_p + 1 h2o_p -> 1 cytd_p + 1 pi_p (1 CMP + 1 H2O -> 1 Cytidine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+RXN-14025:1 UMP_c + 1 WATER_c -> 1 URIDINE_c + 1 Pi_c (1 UMP + 1 H2O -> 1 uridine + 1 phosphate)
+RXN-7607:1 IMP_c + 1 WATER_c -> 1 INOSINE_c + 1 Pi_c (1 IMP + 1 H2O -> 1 inosine + 1 phosphate)
+RXN-5841:1 NICOTINAMIDE_NUCLEOTIDE_c + 1 WATER_c -> 1 NICOTINAMIDE_RIBOSE_c + 1 Pi_c (1 beta-nicotinamide D-ribonucleotide + 1 H2O -> 1 1-(beta-D ribofuranosyl)nicotinamide + 1 phosphate)
+RXN-14227:1 NICOTINATE_NUCLEOTIDE_c + 1 WATER_c -> 1 CPD-8259_c + 1 Pi_c (1 beta-nicotinate D-ribonucleotide + 1 H2O -> 1 beta-D-ribosylnicotinate + 1 phosphate)
+
+
+AdditionalMetabolites:
+CPD-8259_c (beta-D-ribosylnicotinate)
+IMP_c (IMP)
+INOSINE_c (inosine)
+NICOTINAMIDE_NUCLEOTIDE_c (beta-nicotinamide D-ribonucleotide)
+NICOTINAMIDE_RIBOSE_c (1-(beta-D ribofuranosyl)nicotinamide)
+NICOTINATE_NUCLEOTIDE_c (beta-nicotinate D-ribonucleotide)
+Pi_c (phosphate)
+UMP_c (UMP)
+URIDINE_c (uridine)
+WATER_c (H2O)
+
+

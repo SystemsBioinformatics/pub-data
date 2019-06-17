@@ -1,0 +1,5 @@
+notRecovered:
+UNK3:1 glu__L_c + 1 2kmb_c <=> 1 akg_c + 1 met__L_c (1 L-Glutamate + 1 2-keto-4-methylthiobutanoate <=> 1 2-Oxoglutarate + 1 L-Methionine)
+HISTA:1 akg_c + 1 his__L_c <=> 1 glu__L_c + 1 impyr_c (1 2-Oxoglutarate + 1 L-Histidine <=> 1 L-Glutamate + 1 Imidazole pyruvate)
+
+

@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+CHOLSabc:1 atp_c + 1 chols_p + 1 h2o_c -> 1 chols_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Choline sulfate + 1 H2O H2O -> 1 Choline sulfate + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+PROabcpp:1 atp_c + 1 pro__L_p + 1 h2o_c -> 1 pro__L_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Proline + 1 H2O H2O -> 1 L-Proline + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+GLYBabcpp:1 atp_c + 1 glyb_p + 1 h2o_c -> 1 glyb_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Glycine betaine + 1 H2O H2O -> 1 Glycine betaine + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+PROabc:1 atp_c + 1 pro__L_e + 1 h2o_c -> 1 pro__L_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Proline + 1 H2O H2O -> 1 L-Proline + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+CRNabcpp:1 atp_c + 1 crn_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 crn_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Carnitine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Carnitine + 1 H+)
+CRNabc:1 atp_c + 1 crn_e + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 crn_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Carnitine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Carnitine + 1 H+)
+CHLabcpp:1 atp_c + 1 chol_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 chol_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Choline C5H14NO + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 Choline C5H14NO + 1 H+)
+
+
+AdditionalMetabolites:
+chol_p (Choline C5H14NO)
+chols_c (Choline sulfate)
+chols_p (Choline sulfate)
+crn_c (L-Carnitine)
+crn_e (L-Carnitine)
+crn_p (L-Carnitine)
+glyb_p (Glycine betaine)
+pro__L_p (L-Proline)
+
+

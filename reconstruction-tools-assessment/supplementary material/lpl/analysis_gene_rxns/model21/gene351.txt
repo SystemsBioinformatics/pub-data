@@ -1,0 +1,23 @@
+notRecovered:
+MALT:1 h2o_c + 1 malt_c -> 2 glc__D_c (1 M_H2O_ + 1 M_Maltose_ -> 2 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+R00801:1 C00001_c + 1 C00089_c <=> 1 C00031_c + 1 C00095_c (1 H2O + 1 Sucrose <=> 1 D-Glucose + 1 D-Fructose)
+R00837:1 C00001_c + 1 C00689_c -> 1 C00031_c + 1 C00092_c (1 H2O + 1 alpha,alpha'-Trehalose 6-phosphate -> 1 D-Glucose + 1 D-Glucose 6-phosphate)
+R01718:1 C00001_c + 1 C00252_c -> 1 C00031_c + 1 C00267_c (1 H2O + 1 Isomaltose -> 1 D-Glucose + 1 alpha-D-Glucose)
+R06113:1 C00001_c + 1 G09795_c <=> 1 C00031_c + 1 C00092_c (1 H2O + 1 Trehalose 6-phosphate <=> 1 D-Glucose + 1 D-Glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00089_c (Sucrose)
+C00092_c (D-Glucose 6-phosphate)
+C00095_c (D-Fructose)
+C00252_c (Isomaltose)
+C00267_c (alpha-D-Glucose)
+C00689_c (alpha,alpha'-Trehalose 6-phosphate)
+G09795_c (Trehalose 6-phosphate)
+
+

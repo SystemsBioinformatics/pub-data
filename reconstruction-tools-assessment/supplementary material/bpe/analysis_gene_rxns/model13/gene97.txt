@@ -1,0 +1,6 @@
+notRecovered:
+PPA2:1 h2o_c + 1 pppi_c -> 1 h_c + 1 pi_c + 1 ppi_c (1 H2O + 1 Inorganic triphosphate -> 1 H+ + 1 Phosphate + 1 Diphosphate)
+GTPDPDP:1 gdptp_c + 1 h2o_c <=> 1 h_c + 1 pi_c + 1 ppgpp_c (1 Guanosine 3'-diphosphate 5'-triphosphate + 1 H2O <=> 1 H+ + 1 Phosphate + 1 Guanosine 3',5'-bis(diphosphate))
+PPA:1 h2o_c + 1 ppi_c -> 1 h_c + 2 pi_c (1 H2O + 1 Diphosphate -> 1 H+ + 2 Phosphate)
+
+

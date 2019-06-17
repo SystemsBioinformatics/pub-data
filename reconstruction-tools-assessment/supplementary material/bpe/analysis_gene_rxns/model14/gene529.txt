@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+rxn10126:1 cpd15560_c + 1 cpd00982_c -> 1 cpd00067_c + 1 cpd15561_c + 1 cpd00015_c (1 Ubiquinone_8_c0 + 1 FADH2_c0 -> 1 H_plus__c0 + 1 Ubiquinol_8_c0 + 1 FAD_c0)
+rxn08527:1 cpd00106_c + 1 cpd15499_c <=> 1 cpd00036_c + 1 cpd15500_c (1 Fumarate_c0 + 1 Menaquinol_8_c0 <=> 1 Succinate_c0 + 1 Menaquinone_8_c0)
+rxn08528:1 cpd00106_c + 1 cpd15353_c <=> 1 cpd00036_c + 1 cpd15352_c (1 Fumarate_c0 + 1 2_Demethylmenaquinol_8_c0 <=> 1 Succinate_c0 + 1 2_Demethylmenaquinone_8_c0)
+
+
+AdditionalMetabolites:
+cpd00015_c (FAD_c0)
+cpd00036_c (Succinate_c0)
+cpd00067_c (H_plus__c0)
+cpd00106_c (Fumarate_c0)
+cpd00982_c (FADH2_c0)
+cpd15352_c (2_Demethylmenaquinone_8_c0)
+cpd15353_c (2_Demethylmenaquinol_8_c0)
+cpd15499_c (Menaquinol_8_c0)
+cpd15500_c (Menaquinone_8_c0)
+cpd15560_c (Ubiquinone_8_c0)
+cpd15561_c (Ubiquinol_8_c0)
+
+

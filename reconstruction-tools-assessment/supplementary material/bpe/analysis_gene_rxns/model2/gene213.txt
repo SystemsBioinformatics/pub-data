@@ -1,0 +1,6 @@
+notRecovered:
+AGt3:1 ag_c + 1 h_e -> 1 ag_e + 1 h_c (1 silver + 1 H+ -> 1 silver + 1 H+)
+CUt3:1 cu_c + 1 h_e -> 1 cu_e + 1 h_c (1 Cu+ + 1 H+ -> 1 Cu+ + 1 H+)
+CYSt3pp:1 cys__L_c + 1 h_p -> 1 cys__L_p + 1 h_c (1 L-Cysteine + 1 H+ -> 1 L-Cysteine + 1 H+)
+
+

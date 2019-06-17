@@ -1,0 +1,16 @@
+notRecovered:
+NADH4:1 h_c + 1 mqn7_c + 1 nadh_c -> 1 mql7_c + 1 nad_c (1 M_H_ + 1 M_Menaquinone_7_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Menaquinol_7_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+RXN-17007:1 CPD-6947_c + 1 NADPH_c + 1 PROTON_c -> 1 CPD-12830_c + 1 NADP_c (1 demethylphylloquinone + 1 NADPH + 1 H+ -> 1 demethylphylloquinol + 1 NADP+)
+
+
+AdditionalMetabolites:
+CPD-12830_c (demethylphylloquinol)
+CPD-6947_c (demethylphylloquinone)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

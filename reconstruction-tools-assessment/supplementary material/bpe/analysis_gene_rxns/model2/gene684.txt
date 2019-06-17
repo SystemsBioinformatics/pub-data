@@ -1,0 +1,2 @@
+AdditionalInModel:
+ARGSL:1 argsuc_c <=> 1 fum_c + 1 arg__L_c (1 N(omega)-(L-Arginino)succinate <=> 1 Fumarate + 1 L-Arginine)

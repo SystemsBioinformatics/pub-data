@@ -1,0 +1,15 @@
+notRecovered:
+SDPTA:1 akg_c + 1 sl26da_c <=> 1 glu__L_c + 1 sl2a6o_c (1 M_2_Oxoglutarate_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ <=> 1 M_L_Glutamate_ + 1 M_N_Succinyl_2_L_amino_6_oxoheptanedioate_)
+
+
+AdditionalNotInModel:
+rxn05108:1 cpd00023_c + 1 cpd00869_c <=> 1 cpd00024_c + 1 cpd00060_c (1 L_Glutamate_c0 + 1 4_methylthio_2_oxobutyrate_c0 <=> 1 2_Oxoglutarate_c0 + 1 L_Methionine_c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00024_c (2_Oxoglutarate_c0)
+cpd00060_c (L_Methionine_c0)
+cpd00869_c (4_methylthio_2_oxobutyrate_c0)
+
+

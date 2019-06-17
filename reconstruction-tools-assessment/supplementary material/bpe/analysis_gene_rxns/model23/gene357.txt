@@ -1,0 +1,4 @@
+notRecovered:
+ORNDC:1 h_c + 1 orn_c -> 1 co2_c + 1 ptrc_c (1 H+ + 1 Ornithine -> 1 CO2 + 1 Putrescine)
+
+

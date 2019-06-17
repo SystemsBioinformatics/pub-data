@@ -1,0 +1,16 @@
+notRecovered:
+METabcpp:1 atp_c + 1 h2o_c + 1 met__L_p -> 1 adp_c + 1 h_c + 1 met__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 H+ + 1 L-Methionine + 1 Phosphate)
+METDabcpp:1 atp_c + 1 h2o_c + 1 met__D_p -> 1 adp_c + 1 h_c + 1 met__D_c + 1 pi_c (1 ATP + 1 H2O + 1 D-Methionine -> 1 ADP + 1 H+ + 1 D-Methionine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R10185:1 C00002_c + 1 C20396_c -> 1 C00147_c + 1 C20422_c (1 ATP + 1 Methylphosphonate -> 1 Adenine + 1 alpha-D-Ribose 1-methylphosphonate 5-triphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00147_c (Adenine)
+C20396_c (Methylphosphonate)
+C20422_c (alpha-D-Ribose 1-methylphosphonate 5-triphosphate)
+
+

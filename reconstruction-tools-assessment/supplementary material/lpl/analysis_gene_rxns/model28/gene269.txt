@@ -1,0 +1,4 @@
+notRecovered:
+APATi:1 accoa_c + 1 h2o_c + 1 thdp_c <=> 1 acamoxm_c + 1 coa_c (1 M_Acetyl_CoA_ + 1 M_H2O_ + 1 M_2_3_4_5_Tetrahydrodipicolinate_ <=> 1 M_N_Acetyl_L_2_amino_6_oxopimelate_ + 1 M_Coenzyme_A_)
+
+

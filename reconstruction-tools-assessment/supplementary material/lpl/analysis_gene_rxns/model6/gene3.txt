@@ -1,0 +1,14 @@
+notRecovered:
+ALDD2x:1 acald_c + 1 h2o_c + 1 nad_c -> 1 ac_c + 2 h_c + 1 nadh_c (1 M_Acetaldehyde_ + 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_Acetate_ + 2 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+GLYALDDr:1 glyald_c + 1 h2o_c + 1 nad_c -> 1 glyc__R_c + 2 h_c + 1 nadh_c (1 M_D_Glyceraldehyde_ + 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M__R__Glycerate_ + 2 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+COALDDH:1 conialdh_c + 1 h2o_c + 1 nad_c -> 1 fer_c + 2 h_c + 1 nadh_c (1 Coniferyl aldehyde + 1 H2O H2O + 1 Nicotinamide adenine dinucleotide -> 1 Ferulate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalMetabolites:
+conialdh_c (Coniferyl aldehyde)
+fer_c (Ferulate)
+
+

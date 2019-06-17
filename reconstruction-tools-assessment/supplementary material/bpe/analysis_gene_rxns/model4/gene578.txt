@@ -1,0 +1,4 @@
+notRecovered:
+OPHHX:1 2oph_c + 0.5 o2_c -> 1 2ohph_c (1 2-Octaprenylphenol + 0.5 O2 -> 1 2-Octaprenyl-6-hydroxyphenol)
+
+

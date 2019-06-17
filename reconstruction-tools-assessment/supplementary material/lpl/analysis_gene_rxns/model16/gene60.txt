@@ -1,0 +1,25 @@
+notRecovered:
+SDPDS:1 h2o_c + 1 sl26da_c -> 1 26dap_LL_c + 1 succ_c (1 M_H2O_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ -> 1 M_LL_2_6_Diaminoheptanedioate_ + 1 M_Succinate_)
+
+
+AdditionalNotInModel:
+rxn00795:1 cpd00001_c + 1 cpd03293_c <=> 1 cpd00039_c + 1 cpd00104_c (1 H2O_c0 + 1 Biocytin_c0 <=> 1 L_Lysine_c0 + 1 BIOT_c0)
+rxn00469:1 cpd00001_c + 1 cpd00342_c <=> 1 cpd00064_c + 1 cpd00029_c (1 H2O_c0 + 1 N_Acetylornithine_c0 <=> 1 Ornithine_c0 + 1 Acetate_c0)
+rxn07056:1 cpd00001_c + 1 cpd11636_c <=> 1 cpd00049_c + 1 cpd00013_c (1 H2O_c0 + 1 Amide_c0 <=> 1 Carboxylic_acid_c0 + 1 NH3_c0)
+rxn00794:1 cpd00001_c + 1 cpd01301_c <=> 1 cpd00013_c + 1 cpd00104_c (1 H2O_c0 + 1 Biotin_amide_c0 <=> 1 NH3_c0 + 1 BIOT_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00029_c (Acetate_c0)
+cpd00039_c (L_Lysine_c0)
+cpd00049_c (Carboxylic_acid_c0)
+cpd00064_c (Ornithine_c0)
+cpd00104_c (BIOT_c0)
+cpd00342_c (N_Acetylornithine_c0)
+cpd01301_c (Biotin_amide_c0)
+cpd03293_c (Biocytin_c0)
+cpd11636_c (Amide_c0)
+
+

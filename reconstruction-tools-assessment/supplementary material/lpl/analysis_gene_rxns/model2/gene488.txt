@@ -1,0 +1,4 @@
+notRecovered:
+LEUTRS_1:1 atp_c + 1 leu__L_c + 1 trnaleu_c -> 1 amp_c + 1 h_c + 1 leutrna_c + 1 ppi_c (1 M_ATP_ + 1 M_L_Leucine_ + 1 M_tRNA_Leu__ -> 1 M_AMP_ + 1 M_H_ + 1 M_L_Leucyl_tRNA_Leu__ + 1 M_Diphosphate_)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+ALAR:1 ala__L_c <=> 1 ala__D_c (1 M_L_Alanine_ <=> 1 M_D_Alanine_)
+
+

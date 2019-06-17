@@ -1,0 +1,4 @@
+notRecovered:
+HSK:1 atp_c + 1 hom__L_c -> 1 adp_c + 1 h_c + 1 phom_c (1 M_ATP_ + 1 M_L_Homoserine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_O_Phospho_L_homoserine_)
+
+

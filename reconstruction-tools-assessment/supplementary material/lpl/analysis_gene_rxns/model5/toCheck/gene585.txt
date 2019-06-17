@@ -1,0 +1,8 @@
+notRecovered:
+CYSS:1 acser_c + 1 h2s_c -> 1 ac_c + 1 cys__L_c + 1 h_c (1 M_O_Acetyl_L_serine_ + 1 M_Hydrogen_sulfide_ -> 1 M_Acetate_ + 1 M_L_Cysteine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+CYSTS:1 hcys__L_c + 1 ser__L_c -> 1 cyst__L_c + 1 h2o_c (1 L-Homocysteine + 1 L-Serine -> 1 L-Cystathionine + 1 H2O H2O)
+
+

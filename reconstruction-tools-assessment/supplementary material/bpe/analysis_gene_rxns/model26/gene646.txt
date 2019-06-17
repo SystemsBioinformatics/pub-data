@@ -1,0 +1,5 @@
+notRecovered:
+NODOx:1 nadh_c + 2 no_c + 2 o2_c -> 1 h_c + 1 nad_c + 2 no3_c (1 Nicotinamide adenine dinucleotide - reduced + 2 Nitric oxide + 2 O2 -> 1 H+ + 1 Nicotinamide adenine dinucleotide + 2 Nitrate)
+NODOy:1 nadph_c + 2 no_c + 2 o2_c -> 1 h_c + 1 nadp_c + 2 no3_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 2 Nitric oxide + 2 O2 -> 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate + 2 Nitrate)
+
+

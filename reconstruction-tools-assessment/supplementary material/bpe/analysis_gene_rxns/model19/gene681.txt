@@ -1,0 +1,4 @@
+notRecovered:
+SO3OX:1 h2o_p + 1 o2_p + 1 so3_p -> 1 h2o2_p + 1 so4_p (1 H2O + 1 O2 + 1 Sulfite -> 1 Hydrogen peroxide + 1 Sulfate)
+
+

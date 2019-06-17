@@ -1,0 +1,17 @@
+notRecovered:
+MOCOS_LPL:1 mpt_c <=> 1 moco_c (1 M_molybdopterin_ <=> 1 M_Molybdenum_cofactor_)
+
+
+AdditionalNotInModel:
+RXN-8348:1 CPD-3_c + 1 CPD-8122_c + 1 PROTON_c -> 1 AMP_c + 1 CPD-8123_c + 1 WATER_c (1 molybdate + 1 molybdopterin adenine dinucleotide + 1 H+ -> 1 AMP + 1 MoO2-molybdopterin cofactor + 1 H2O)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+CPD-3_c (molybdate)
+CPD-8122_c (molybdopterin adenine dinucleotide)
+CPD-8123_c (MoO2-molybdopterin cofactor)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

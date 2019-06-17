@@ -1,0 +1,17 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 Acetyl-CoA + 1 ATP + 1 Bicarbonate -> 1 ADP + 1 H+ + 1 Malonyl-CoA + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R04385:1 C00288_c + 1 C00002_c + 1 C06250_c <=> 1 C04419_c + 1 C00008_c + 1 C00009_c (1 HCO3- + 1 ATP + 1 Holo-[carboxylase] <=> 1 Carboxybiotin-carboxyl-carrier protein + 1 ADP + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00288_c (HCO3-)
+C04419_c (Carboxybiotin-carboxyl-carrier protein)
+C06250_c (Holo-[carboxylase])
+
+

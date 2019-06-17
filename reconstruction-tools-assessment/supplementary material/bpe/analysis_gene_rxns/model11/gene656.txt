@@ -1,0 +1,4 @@
+notRecovered:
+PNTOt4pp:1 na1_p + 1 pnto__R_p -> 1 na1_c + 1 pnto__R_c (1 Sodium + 1 (R)-Pantothenate -> 1 Sodium + 1 (R)-Pantothenate)
+
+

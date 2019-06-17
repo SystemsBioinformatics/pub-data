@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GLXO3r:1 o2_c + 1 glx_c + 1 h2o_c <=> 1 oxa_c + 1 h_c + 1 h2o2_c (1 O2 O2 + 1 Glyoxylate + 1 H2O H2O <=> 1 Oxalate + 1 H+ + 1 Hydrogen peroxide)
+
+
+AdditionalMetabolites:
+glx_c (Glyoxylate)
+
+

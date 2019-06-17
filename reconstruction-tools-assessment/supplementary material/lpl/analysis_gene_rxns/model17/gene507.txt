@@ -1,0 +1,21 @@
+notRecovered:
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 acald_c + 1 h_c + 1 nadh_c (1 M_Ethanol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_Acetaldehyde_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+ALCD19:1 glyald_c + 1 h_c + 1 nadh_c <=> 1 glyc_c + 1 nad_c (1 M_D_Glyceraldehyde_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_Glycerol_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+R00604:1 C00001_c + 1 C00003_c + 1 C00067_c <=> 1 C00004_c + 1 C00058_c + 1 C00080_c (1 H2O + 1 NAD+ + 1 Formaldehyde <=> 1 NADH + 1 Formate + 1 H+)
+R10703:1 C00003_c + 1 C01845_c <=> 1 C00004_c + 1 C00080_c + 1 C00207_c (1 NAD+ + 1 Propan-2-ol <=> 1 NADH + 1 H+ + 1 Acetone)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00058_c (Formate)
+C00067_c (Formaldehyde)
+C00080_c (H+)
+C00207_c (Acetone)
+C01845_c (Propan-2-ol)
+
+

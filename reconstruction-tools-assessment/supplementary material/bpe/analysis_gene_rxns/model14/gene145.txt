@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn03923:1 cpd00009_c + 1 cpd00460_c <=> 1 cpd00196_c + 1 cpd00081_c (1 Phosphate_c0 + 1 Sulfoacetaldehyde_c0 <=> 1 Acetylphosphate_c0 + 1 Sulfite_c0)
+
+
+AdditionalMetabolites:
+cpd00009_c (Phosphate_c0)
+cpd00081_c (Sulfite_c0)
+cpd00196_c (Acetylphosphate_c0)
+cpd00460_c (Sulfoacetaldehyde_c0)
+
+

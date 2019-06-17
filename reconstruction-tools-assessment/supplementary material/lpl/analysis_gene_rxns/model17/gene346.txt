@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R00425:3 C00001_c + 1 C00044_c <=> 1 C00013_c + 1 C00058_c + 1 C01304_c (3 H2O + 1 GTP <=> 1 Diphosphate + 1 Formate + 1 2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C00044_c (GTP)
+C00058_c (Formate)
+C01304_c (2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+PKETX:1 pi_c + 1 xu5p__D_c <=> 1 actp_c + 1 g3p_c + 1 h2o_c (1 M_Phosphate_ + 1 M_D_Xylulose_5_phosphate_ <=> 1 M_Acetyl_phosphate_ + 1 M_Glyceraldehyde_3_phosphate_ + 1 M_H2O_)
+
+

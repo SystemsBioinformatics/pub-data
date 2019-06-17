@@ -1,0 +1,27 @@
+notRecovered:
+MANpts:1 man_e + 1 pep_c -> 1 man6p_c + 1 pyr_c (1 M_D_Mannose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannose_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-167:1 Hpr-pi-phospho-L-histidines_c + 1 N-acetyl-D-glucosamine_c -> 1 Hpr-Histidine_c + 1 N-ACETYL-D-GLUCOSAMINE-6-P_c (1 Hpr-pi-phospho-L-histidines + 1 N-acetyl-D-glucosamine -> 1 Hpr-Histidine + 1 N-ACETYL-D-GLUCOSAMINE-6-P)
+TRANS-RXN0-540:1 2-DEOXY-D-GLUCOSE_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 2-DEOXY-D-GLUCOSE-6-PHOSPHATE_c + 1 Hpr-Histidine_c (1 2-deoxy-D-glucose + 1 Hpr-pi-phospho-L-histidines -> 1 2-deoxy-D-glucose 6-phosphate + 1 Hpr-Histidine)
+TRANS-RXN-167A:1 GLUCOSAMINE_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 D-GLUCOSAMINE-6-P_c + 1 Hpr-Histidine_c (1 GLUCOSAMINE + 1 Hpr-pi-phospho-L-histidines -> 1 D-GLUCOSAMINE-6-P + 1 Hpr-Histidine)
+TRANS-RXN-157:1 Glucopyranose_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 D-glucopyranose-6-phosphate_c + 1 Hpr-Histidine_c (1 Glucopyranose + 1 Hpr-pi-phospho-L-histidines -> 1 D-glucopyranose-6-phosphate + 1 Hpr-Histidine)
+TRANS-RXN-165:1 D-mannopyranose_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 CPD-15979_c + 1 Hpr-Histidine_c (1 D-mannopyranose + 1 Hpr-pi-phospho-L-histidines -> 1 CPD-15979 + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+2-DEOXY-D-GLUCOSE-6-PHOSPHATE_c (2-deoxy-D-glucose 6-phosphate)
+2-DEOXY-D-GLUCOSE_c (2-deoxy-D-glucose)
+CPD-15979_c (CPD-15979)
+D-GLUCOSAMINE-6-P_c (D-GLUCOSAMINE-6-P)
+D-glucopyranose-6-phosphate_c (D-glucopyranose-6-phosphate)
+D-mannopyranose_c (D-mannopyranose)
+GLUCOSAMINE_c (GLUCOSAMINE)
+Glucopyranose_c (Glucopyranose)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+N-ACETYL-D-GLUCOSAMINE-6-P_c (N-ACETYL-D-GLUCOSAMINE-6-P)
+N-acetyl-D-glucosamine_c (N-acetyl-D-glucosamine)
+
+

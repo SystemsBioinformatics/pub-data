@@ -1,0 +1,4 @@
+notRecovered:
+DDGLK:1 2ddglcn_c + 1 atp_c -> 1 2ddg6p_c + 1 adp_c + 1 h_c (1 M_2_Dehydro_3_deoxy_D_gluconate_ + 1 M_ATP_ -> 1 M_2_Dehydro_3_deoxy_D_gluconate_6_phosphate_ + 1 M_ADP_ + 1 M_H_)
+
+

@@ -1,0 +1,5 @@
+AdditionalNotInModel:
+SUCD1:1 succ_c + 1 fad_c <=> 1 fadh2_c + 1 fum_c (1 Succinate + 1 Flavin adenine dinucleotide oxidized <=> 1 Flavin adenine dinucleotide reduced + 1 Fumarate)
+SUCD4:1 fadh2_c + 1 q8_c -> 1 fad_c + 1 q8h2_c (1 Flavin adenine dinucleotide reduced + 1 Ubiquinone-8 -> 1 Flavin adenine dinucleotide oxidized + 1 Ubiquinol-8)
+
+

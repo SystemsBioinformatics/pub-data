@@ -1,0 +1,4 @@
+notRecovered:
+ACODA_1:1 acorn_c + 1 h2o_c -> 1 ac_c + 1 orn__L_c (1 M_N2_Acetyl_L_ornithine_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_L_Ornithine_)
+
+

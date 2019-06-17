@@ -1,0 +1,22 @@
+notRecovered:
+METB1:1 achms_c + 1 cys__L_c -> 1 ac_c + 1 cyst__L_c + 1 h_c (1 M_O_Acetyl_L_homoserine_ + 1 M_L_Cysteine_ -> 1 M_Acetate_ + 1 M_L_Cystathionine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RXN-18602:1 O-SUCCINYL-L-HOMOSERINE_c + 1 CPD-7671_c <=> 1 SUC_c + 1 MET_c + 1 PROTON_c (1 O-succinyl-L-homoserine + 1 methanethiol <=> 1 succinate + 1 L-methionine + 1 H+)
+RXN-9384:1 O-SUCCINYL-L-HOMOSERINE_c + 1 HS_c <=> 1 SUC_c + 1 HOMO-CYS_c + 1 PROTON_c (1 O-succinyl-L-homoserine + 1 hydrogen sulfide <=> 1 succinate + 1 L-homocysteine + 1 H+)
+O-SUCCHOMOSERLYASE-RXN:1 O-SUCCINYL-L-HOMOSERINE_c + 1 CYS_c <=> 1 SUC_c + 1 L-CYSTATHIONINE_c + 1 PROTON_c (1 O-succinyl-L-homoserine + 1 L-cysteine <=> 1 succinate + 1 L-cystathionine + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-7671_c (methanethiol)
+CYS_c (L-cysteine)
+HOMO-CYS_c (L-homocysteine)
+HS_c (hydrogen sulfide)
+L-CYSTATHIONINE_c (L-cystathionine)
+MET_c (L-methionine)
+O-SUCCINYL-L-HOMOSERINE_c (O-succinyl-L-homoserine)
+PROTON_c (H+)
+SUC_c (succinate)
+
+

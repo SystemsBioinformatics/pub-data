@@ -1,0 +1,15 @@
+notRecovered:
+HSERTA:1 accoa_c + 1 hom__L_c <=> 1 achms_c + 1 coa_c (1 M_Acetyl_CoA_ + 1 M_L_Homoserine_ <=> 1 M_O_Acetyl_L_homoserine_ + 1 M_Coenzyme_A_)
+
+
+AdditionalNotInModel:
+HOMSUCTRAN-RXN:1 SUC-COA_c + 1 HOMO-SER_c -> 1 O-SUCCINYL-L-HOMOSERINE_c + 1 CO-A_c (1 succinyl-CoA + 1 L-homoserine -> 1 O-succinyl-L-homoserine + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+CO-A_c (coenzyme A)
+HOMO-SER_c (L-homoserine)
+O-SUCCINYL-L-HOMOSERINE_c (O-succinyl-L-homoserine)
+SUC-COA_c (succinyl-CoA)
+
+

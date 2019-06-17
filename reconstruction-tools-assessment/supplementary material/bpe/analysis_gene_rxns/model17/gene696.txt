@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00371:1 C00024_c + 1 C00037_c <=> 1 C00010_c + 1 C03508_c (1 Acetyl-CoA + 1 Glycine <=> 1 CoA + 1 L-2-Amino-3-oxobutanoic acid)
+R10124:1 C00041_c + 1 C19845_c <=> 1 C00011_c + 1 C00229_c + 1 C01092_c (1 L-Alanine + 1 Pimeloyl-[acyl-carrier protein] <=> 1 CO2 + 1 Acyl-carrier protein + 1 8-Amino-7-oxononanoate)
+
+
+AdditionalMetabolites:
+C00010_c (CoA)
+C00011_c (CO2)
+C00024_c (Acetyl-CoA)
+C00037_c (Glycine)
+C00041_c (L-Alanine)
+C00229_c (Acyl-carrier protein)
+C01092_c (8-Amino-7-oxononanoate)
+C03508_c (L-2-Amino-3-oxobutanoic acid)
+C19845_c (Pimeloyl-[acyl-carrier protein])
+
+

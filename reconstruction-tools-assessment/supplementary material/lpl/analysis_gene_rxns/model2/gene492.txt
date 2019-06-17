@@ -1,0 +1,4 @@
+notRecovered:
+RBK:1 atp_c + 1 rib__D_c -> 1 adp_c + 1 h_c + 1 r5p_c (1 M_ATP_ + 1 M_D_Ribose_ -> 1 M_ADP_ + 1 M_H_ + 1 M_alpha_D_Ribose_5_phosphate_)
+
+

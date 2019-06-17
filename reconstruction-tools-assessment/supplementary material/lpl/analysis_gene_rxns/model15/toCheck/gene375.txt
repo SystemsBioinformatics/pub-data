@@ -1,0 +1,20 @@
+notRecovered:
+UDCPKr:1 atp_c + 1 udcp_c -> 1 adp_c + 1 h_c + 1 udcpp_c (1 M_ATP_ + 1 M_Undecaprenol_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Undecaprenyl_phosphate_)
+
+
+AdditionalNotInModel:
+rxn03901:1 cpd00001_c + 1 cpd02229_c -> 2 cpd00067_c + 1 cpd00009_c + 1 cpd00286_c (1 H2O_c0 + 1 Bactoprenyl_diphosphate_c0 -> 2 H_plus__c0 + 1 Phosphate_c0 + 1 Undecaprenylphosphate_c0)
+rxn01519:1 cpd00001_c + 1 cpd00358_c -> 1 cpd00012_c + 2 cpd00067_c + 1 cpd00299_c (1 H2O_c0 + 1 dUTP_c0 -> 1 PPi_c0 + 2 H_plus__c0 + 1 dUMP_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00286_c (Undecaprenylphosphate_c0)
+cpd00299_c (dUMP_c0)
+cpd00358_c (dUTP_c0)
+cpd02229_c (Bactoprenyl_diphosphate_c0)
+
+

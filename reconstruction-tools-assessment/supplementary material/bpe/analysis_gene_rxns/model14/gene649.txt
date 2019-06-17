@@ -1,0 +1,4 @@
+notRecovered:
+PACCOAL:1 atp_c + 1 coa_c + 1 pac_c -> 1 amp_c + 1 phaccoa_c + 1 ppi_c (1 ATP + 1 Coenzyme A + 1 Phenylacetic acid -> 1 AMP + 1 Phenylacetyl-CoA + 1 Diphosphate)
+
+

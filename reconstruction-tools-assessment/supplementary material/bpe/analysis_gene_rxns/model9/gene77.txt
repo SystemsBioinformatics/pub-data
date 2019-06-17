@@ -1,0 +1,17 @@
+notRecovered:
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN:1 SUCC-S-ALD_c + 1 NAD_c + 1 WATER_c -> 1 NADH_c + 1 SUC_c + 2 PROTON_c (1 succinate semialdehyde + 1 NAD+ + 1 H2O -> 1 NADH + 1 succinate + 2 H+)
+
+
+AdditionalMetabolites:
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+SUCC-S-ALD_c (succinate semialdehyde)
+SUC_c (succinate)
+WATER_c (H2O)
+
+

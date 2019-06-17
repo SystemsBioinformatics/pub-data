@@ -1,0 +1,4 @@
+notRecovered:
+PTRCTA:1 akg_c + 1 ptrc_c -> 1 4abutn_c + 1 glu__L_c (1 2-Oxoglutarate + 1 Putrescine -> 1 4-Aminobutanal + 1 L-Glutamate)
+
+

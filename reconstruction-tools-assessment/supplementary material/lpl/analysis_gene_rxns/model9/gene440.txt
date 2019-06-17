@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+GDPDPK:1 atp_c + 1 gdp_c -> 1 amp_c + 1 ppgpp_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 GDP C10H12N5O11P2 -> 1 AMP C10H12N5O7P + 1 Guanosine 3',5'-bis(diphosphate) + 1 H+)
+GTPH1:1 gtp_c + 2 h2o_c -> 1 gmp_c + 2 pi_c + 2 h_c (1 GTP C10H12N5O14P3 + 2 H2O H2O -> 1 GMP C10H12N5O8P + 2 Phosphate + 2 H+)
+PPGPPDP:1 ppgpp_c + 1 h2o_c -> 1 ppi_c + 1 gdp_c (1 Guanosine 3',5'-bis(diphosphate) + 1 H2O H2O -> 1 Diphosphate + 1 GDP C10H12N5O11P2)
+GDPTPDP:1 gdptp_c + 1 h2o_c -> 1 ppi_c + 1 gtp_c (1 Guanosine 3'-diphosphate 5'-triphosphate + 1 H2O H2O -> 1 Diphosphate + 1 GTP C10H12N5O14P3)
+
+
+AdditionalMetabolites:
+ppgpp_c (Guanosine 3',5'-bis(diphosphate))
+
+

@@ -1,0 +1,23 @@
+notRecovered:
+ADA:1 adn_c + 1 h2o_c + 1 h_c -> 1 ins_c + 1 nh4_c (1 M_Adenosine_ + 1 M_H2O_ + 1 M_H_ -> 1 M_Inosine_ + 1 M_Ammonium_)
+CSND:1 csn_c + 1 h2o_c + 1 h_c -> 1 nh4_c + 1 ura_c (1 M_Cytosine_ + 1 M_H2O_ + 1 M_H_ -> 1 M_Ammonium_ + 1 M_Uracil_)
+
+
+AdditionalNotInModel:
+DCMP-DEAMINASE-RXN:1 DCMP_c + 1 WATER_c + 1 PROTON_c -> 1 DUMP_c + 1 AMMONIUM_c (1 dCMP + 1 H2O + 1 H+ -> 1 dUMP + 1 ammonium)
+CYTIDEAM-RXN:1 DEOXYCYTIDINE_c + 1 WATER_c + 1 PROTON_c <=> 1 DEOXYURIDINE_c + 1 AMMONIUM_c (1 2'-deoxycytidine + 1 H2O + 1 H+ <=> 1 2'-deoxyuridine + 1 ammonium)
+CYTIDEAM2-RXN:1 CYTIDINE_c + 1 WATER_c + 1 PROTON_c -> 1 URIDINE_c + 1 AMMONIUM_c (1 cytidine + 1 H2O + 1 H+ -> 1 uridine + 1 ammonium)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+CYTIDINE_c (cytidine)
+DCMP_c (dCMP)
+DEOXYCYTIDINE_c (2'-deoxycytidine)
+DEOXYURIDINE_c (2'-deoxyuridine)
+DUMP_c (dUMP)
+PROTON_c (H+)
+URIDINE_c (uridine)
+WATER_c (H2O)
+
+

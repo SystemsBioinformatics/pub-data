@@ -1,0 +1,9 @@
+notRecovered:
+COBALT2tpp:1 cobalt2_p -> 1 cobalt2_c (1 Co2+ -> 1 Co2+)
+CD2tpp:1 cd2_p -> 1 cd2_c (1 Cadmium -> 1 Cadmium)
+CU2tpp:1 cu2_p -> 1 cu2_c (1 Cu2+ -> 1 Cu2+)
+FE2tpp:1 fe2_p -> 1 fe2_c (1 Fe2+ -> 1 Fe2+)
+ZN2tpp:1 zn2_p -> 1 zn2_c (1 Zinc -> 1 Zinc)
+MN2tpp:1 mn2_p -> 1 mn2_c (1 Mn2+ -> 1 Mn2+)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+RXN-9789:1 ATP_c + 1 PROTON_c + 1 Thi-S_c -> 1 Adenylated-ThiS-Proteins_c + 1 PPI_c (1 ATP + 1 H+ + 1 Thi-S -> 1 Adenylated-ThiS-Proteins + 1 diphosphate)
+
+
+AdditionalMetabolites:
+ATP_c (ATP)
+Adenylated-ThiS-Proteins_c (Adenylated-ThiS-Proteins)
+PPI_c (diphosphate)
+PROTON_c (H+)
+Thi-S_c (Thi-S)
+
+

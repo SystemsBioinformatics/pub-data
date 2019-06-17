@@ -1,0 +1,19 @@
+notRecovered:
+LDH_D:1 lac__D_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 D-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+2DGLCNRx:1 h_c + 1 nadh_c + 1 2dhglcn_c -> 1 nad_c + 1 glcn_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 2-Dehydro-D-gluconate -> 1 Nicotinamide adenine dinucleotide + 1 D-Gluconate)
+2DGLCNRy:1 h_c + 1 nadph_c + 1 2dhglcn_c -> 1 nadp_c + 1 glcn_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-Dehydro-D-gluconate -> 1 Nicotinamide adenine dinucleotide phosphate + 1 D-Gluconate)
+
+
+AdditionalMetabolites:
+2dhglcn_c (2-Dehydro-D-gluconate)
+glcn_c (D-Gluconate)
+
+
+AdditionalInModel:
+GLYCLTDx:1 h_c + 1 nadh_c + 1 glx_c -> 1 nad_c + 1 glyclt_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Glyoxylate -> 1 Nicotinamide adenine dinucleotide + 1 Glycolate)
+GLYCLTDy:1 h_c + 1 nadph_c + 1 glx_c -> 1 nadp_c + 1 glyclt_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Glyoxylate -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Glycolate)
+HPYRRx:1 h_c + 1 nadh_c + 1 hpyr_c -> 1 nad_c + 1 glyc__R_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Hydroxypyruvate -> 1 Nicotinamide adenine dinucleotide + 1 (R)-Glycerate)
+HPYRRy:1 h_c + 1 nadph_c + 1 hpyr_c -> 1 nadp_c + 1 glyc__R_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Hydroxypyruvate -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-Glycerate)

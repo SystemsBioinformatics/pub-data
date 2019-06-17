@@ -1,0 +1,4 @@
+notRecovered:
+PHBHD:99 h2o_c + 1 phb_c -> 100 bhb_c + 99 h_c (99 H2O + 1 poly-beta-hydroxybutyrate -> 100 (R)-3-hydroxybutanoate + 99 H+)
+
+

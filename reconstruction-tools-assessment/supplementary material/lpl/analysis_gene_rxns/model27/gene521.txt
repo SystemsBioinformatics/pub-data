@@ -1,0 +1,13 @@
+notRecovered:
+YUMPS:1 r5p_c + 1 ura_c <=> 1 h2o_c + 1 psd5p_c (1 M_alpha_D_Ribose_5_phosphate_ + 1 M_Uracil_ <=> 1 M_H2O_ + 1 M_Pseudouridine_5__phosphate_)
+
+
+AdditionalNotInModel:
+RXN-11839:1 tRNA-uridine55_c -> 1 tRNA-pseudouridine55_c (1 tRNA-uridine55 -> 1 tRNA-pseudouridine55)
+
+
+AdditionalMetabolites:
+tRNA-pseudouridine55_c (tRNA-pseudouridine55)
+tRNA-uridine55_c (tRNA-uridine55)
+
+

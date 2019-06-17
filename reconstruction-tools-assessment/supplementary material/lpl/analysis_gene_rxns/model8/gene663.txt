@@ -1,0 +1,12 @@
+notRecovered:
+CELBpts:1 cellb_e + 1 pep_c -> 1 6pgg_c + 1 pyr_c (1 M_cellobiose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+LACpts:1 lcts_e + 1 pep_c -> 1 lac6p_c + 1 pyr_c (1 Lactose C12H22O11 + 1 Phosphoenolpyruvate -> 1 Lactose-6-phosphate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+lac6p_c (Lactose-6-phosphate)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+ALALAC:1 ala__D_c + 1 atp_c + 1 lac__D_c <=> 1 adp_c + 1 alalac_c + 1 pi_c (1 M_D_Alanine_ + 1 M_ATP_ + 1 M_D_Lactate_ <=> 1 M_ADP_ + 1 M_D_Alanyl_D_lactate_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R01150:1 C00002_c + 2 C00133_c <=> 1 C00008_c + 1 C00009_c + 1 C00993_c (1 ATP + 2 D-Alanine <=> 1 ADP + 1 Orthophosphate + 1 D-Alanyl-D-alanine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00133_c (D-Alanine)
+C00993_c (D-Alanyl-D-alanine)
+
+

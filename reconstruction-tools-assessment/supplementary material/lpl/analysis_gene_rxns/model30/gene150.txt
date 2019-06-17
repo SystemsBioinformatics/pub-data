@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R09951:1 C19891_c + 1 C00003_c <=> 1 C20251_c + 1 C00080_c + 1 C00004_c (1 1D-chiro-Inositol + 1 NAD+ <=> 1 1-Keto-D-chiro-inositol + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C19891_c (1D-chiro-Inositol)
+C20251_c (1-Keto-D-chiro-inositol)
+
+

@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+TECA3S:1 acgam_c + 25 cdpglyc_c + 1 uacmam_c + 25 udpg_c -> 25 cmp_c + 1 gtca3_c + 51 h_c + 26 udp_c (1 N-Acetyl-D-glucosamine + 25 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine + 25 UDPglucose -> 25 CMP C9H12N3O8P + 1 Glycerol teichoic acid (n=25), unlinked, glucose substituted + 51 H+ + 26 UDP C9H11N2O12P2)
+TECA4S:30 h2o_c + 30 udpacgal_c + 30 udpg_c -> 60 h_c + 1 tcam_c + 30 udp_c + 30 ump_c (30 H2O H2O + 30 UDP-N-acetyl-D-galactosamine + 30 UDPglucose -> 60 H+ + 1 Minor teichoic acid (acetylgalactosamine glucose phosphate, n=30) + 30 UDP C9H11N2O12P2 + 30 UMP C9H11N2O9P)
+GMHEPAT:1 atp_c + 1 gmhep1p_c + 1 h_c -> 1 adphep_DD_c + 1 ppi_c (1 ATP C10H12N5O13P3 + 1 D-Glycero-D-manno-heptose 1-phosphate + 1 H+ -> 1 ADP-D-glycero-D-manno-heptose + 1 Diphosphate)
+GMHEPK:1 atp_c + 1 gmhep7p_c -> 1 adp_c + 1 gmhep17bp_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D-Glycero-D-manno-heptose 7-phosphate -> 1 ADP C10H12N5O10P2 + 1 D-Glycero-D-manno-heptose 1,7-bisphosphate + 1 H+)
+TECA2S:1 acgam_c + 25 ala__D_c + 25 atp_c + 25 cdpglyc_c + 1 uacmam_c -> 25 amp_c + 25 cmp_c + 1 gtca2_c + 26 h_c + 25 ppi_c + 1 udp_c (1 N-Acetyl-D-glucosamine + 25 D-Alanine + 25 ATP C10H12N5O13P3 + 25 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine -> 25 AMP C10H12N5O7P + 25 CMP C9H12N3O8P + 1 Glycerol teichoic acid (n=25), unlinked, D-ala substituted + 26 H+ + 25 Diphosphate + 1 UDP C9H11N2O12P2)
+TECA1S:1 acgam_c + 25 cdpglyc_c + 1 uacmam_c -> 25 cmp_c + 1 gtca1_c + 26 h_c + 1 udp_c (1 N-Acetyl-D-glucosamine + 25 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine -> 25 CMP C9H12N3O8P + 1 Glycerol teichoic acid (n=25), unlinked, unsubstituted + 26 H+ + 1 UDP C9H11N2O12P2)
+
+
+AdditionalMetabolites:
+acgam_c (N-Acetyl-D-glucosamine)
+adphep_DD_c (ADP-D-glycero-D-manno-heptose)
+gmhep17bp_c (D-Glycero-D-manno-heptose 1,7-bisphosphate)
+gmhep1p_c (D-Glycero-D-manno-heptose 1-phosphate)
+gmhep7p_c (D-Glycero-D-manno-heptose 7-phosphate)
+gtca1_c (Glycerol teichoic acid (n=25), unlinked, unsubstituted)
+gtca2_c (Glycerol teichoic acid (n=25), unlinked, D-ala substituted)
+gtca3_c (Glycerol teichoic acid (n=25), unlinked, glucose substituted)
+tcam_c (Minor teichoic acid (acetylgalactosamine glucose phosphate, n=30))
+udpacgal_c (UDP-N-acetyl-D-galactosamine)
+
+

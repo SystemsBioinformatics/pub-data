@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+RXN-10053:1 METHYL-GLYOXAL_c + 1 FRUCTOSE-16-DIPHOSPHATE_c <=> 1 GAP_c + 1 CPD-10791_c (1 methylglyoxal + 1 beta-D-fructose 1,6-bisphosphate <=> 1 D-glyceraldehyde 3-phosphate + 1 6-deoxy-5-ketofructose 1-phosphate)
+RXN-8631:1 FRU1P_c <=> 1 DIHYDROXY-ACETONE-PHOSPHATE_c + 1 GLYCERALD_c (1 beta-D-fructofuranose 1-phosphate <=> 1 glycerone phosphate + 1 D-glyceraldehyde)
+
+
+AdditionalMetabolites:
+CPD-10791_c (6-deoxy-5-ketofructose 1-phosphate)
+DIHYDROXY-ACETONE-PHOSPHATE_c (glycerone phosphate)
+FRU1P_c (beta-D-fructofuranose 1-phosphate)
+FRUCTOSE-16-DIPHOSPHATE_c (beta-D-fructose 1,6-bisphosphate)
+GAP_c (D-glyceraldehyde 3-phosphate)
+GLYCERALD_c (D-glyceraldehyde)
+METHYL-GLYOXAL_c (methylglyoxal)
+
+

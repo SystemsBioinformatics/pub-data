@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00837:1 C00001_c + 1 C00689_c -> 1 C00031_c + 1 C00092_c (1 H2O + 1 alpha,alpha'-Trehalose 6-phosphate -> 1 D-Glucose + 1 D-Glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00092_c (D-Glucose 6-phosphate)
+C00689_c (alpha,alpha'-Trehalose 6-phosphate)
+
+

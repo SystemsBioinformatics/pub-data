@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R03066:1 C00568_c + 1 C01300_c <=> 1 C00921_c + 1 C00001_c (1 4-Aminobenzoate + 1 6-(Hydroxymethyl)-7,8-dihydropterin <=> 1 Dihydropteroate + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00568_c (4-Aminobenzoate)
+C00921_c (Dihydropteroate)
+C01300_c (6-(Hydroxymethyl)-7,8-dihydropterin)
+
+

@@ -1,0 +1,21 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+
+AdditionalNotInModel:
+RXN0-3381:1 CR+6_c + 2 NADH-P-OR-NOP_c + 1 OXYGEN-MOLECULE_c -> 1 CR+3_c + 2 NAD-P-OR-NOP_c + 2 PROTON_c + 1 SUPER-OXIDE_c (1 Cr6+ + 2 NADH-P-OR-NOP + 1 oxygen -> 1 Cr3+ + 2 NAD-P-OR-NOP + 2 H+ + 1 superoxide)
+NQOR-RXN:1 ETR-Quinones_c + 1 NADH-P-OR-NOP_c + 1 PROTON_c -> 1 ETR-Quinols_c + 1 NAD-P-OR-NOP_c (1 ETR-Quinones + 1 NADH-P-OR-NOP + 1 H+ -> 1 ETR-Quinols + 1 NAD-P-OR-NOP)
+
+
+AdditionalMetabolites:
+CR+3_c (Cr3+)
+CR+6_c (Cr6+)
+ETR-Quinols_c (ETR-Quinols)
+ETR-Quinones_c (ETR-Quinones)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+SUPER-OXIDE_c (superoxide)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-8668:1 Protein-L-methionine-S-S-oxides_c + 1 Red-Thioredoxin_c -> 1 Ox-Thioredoxin_c + 1 Protein-L-methionine_c + 1 WATER_c (1 Protein-L-methionine-S-S-oxides + 1 Red-Thioredoxin -> 1 Ox-Thioredoxin + 1 Protein-L-methionine + 1 H2O)
+
+
+AdditionalMetabolites:
+Ox-Thioredoxin_c (Ox-Thioredoxin)
+Protein-L-methionine-S-S-oxides_c (Protein-L-methionine-S-S-oxides)
+Protein-L-methionine_c (Protein-L-methionine)
+Red-Thioredoxin_c (Red-Thioredoxin)
+WATER_c (H2O)
+
+

@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+PIt2r:1 h_e + 1 pi_e <=> 1 pi_c + 1 h_c (1 H+ + 1 Phosphate <=> 1 Phosphate + 1 H+)
+
+

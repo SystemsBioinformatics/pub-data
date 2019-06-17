@@ -1,0 +1,14 @@
+notRecovered:
+ORNDC:1 h_c + 1 orn_c -> 1 co2_c + 1 ptrc_c (1 H+ + 1 Ornithine -> 1 CO2 + 1 Putrescine)
+
+
+AdditionalNotInModel:
+R00462:1 C00047_c <=> 1 C00011_c + 1 C01672_c (1 L-Lysine <=> 1 CO2 + 1 Cadaverine)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00047_c (L-Lysine)
+C01672_c (Cadaverine)
+
+

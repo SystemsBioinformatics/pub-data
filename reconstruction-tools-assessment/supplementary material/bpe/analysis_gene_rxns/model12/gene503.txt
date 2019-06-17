@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+OXALODECARB-RXN:1 OXALACETIC_ACID_c + 1 PROTON_c -> 1 CARBON-DIOXIDE_c + 1 PYRUVATE_c (1 oxaloacetate + 1 H+ -> 1 CO2 + 1 pyruvate)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+OXALACETIC_ACID_c (oxaloacetate)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+
+

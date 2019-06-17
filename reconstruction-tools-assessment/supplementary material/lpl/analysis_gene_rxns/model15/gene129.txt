@@ -1,0 +1,19 @@
+notRecovered:
+PHETA1:1 akg_c + 1 phe__L_c <=> 1 glu__L_c + 1 phpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Phenylalanine_ <=> 1 M_L_Glutamate_ + 1 M_Phenylpyruvate_)
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Tryptophan_ <=> 1 M_L_Glutamate_ + 1 M_Indolepyruvate_)
+
+
+AdditionalNotInModel:
+rxn02339:1 cpd00024_c + 1 cpd01974_c <=> 1 cpd00023_c + 1 cpd00830_c (1 2_Oxoglutarate_c0 + 1 4_Hydroxy_L_glutamate_c0 <=> 1 L_Glutamate_c0 + 1 4_Hydroxy_2_oxoglutarate_c0)
+rxn00260:1 cpd00041_c + 1 cpd00024_c <=> 1 cpd00023_c + 1 cpd00032_c (1 L_Aspartate_c0 + 1 2_Oxoglutarate_c0 <=> 1 L_Glutamate_c0 + 1 Oxaloacetate_c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00024_c (2_Oxoglutarate_c0)
+cpd00032_c (Oxaloacetate_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd00830_c (4_Hydroxy_2_oxoglutarate_c0)
+cpd01974_c (4_Hydroxy_L_glutamate_c0)
+
+

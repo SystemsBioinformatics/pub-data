@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+ME2:1 mal__L_c + 1 nadp_c -> 1 nadph_c + 1 co2_c + 1 pyr_c (1 L-Malate + 1 Nicotinamide adenine dinucleotide phosphate -> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 CO2 CO2 + 1 Pyruvate)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+SSALy:1 h2o_c + 1 nadp_c + 1 sucsal_c -> 2 h_c + 1 nadph_c + 1 succ_c (1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Succinic semialdehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Succinate)
+
+
+AdditionalNotInModel:
+BZDH:1 h2o_c + 1 nad_c + 1 bzal_c -> 2 h_c + 1 nadh_c + 1 bz_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Benzaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Benzoate)
+VNDH_2:1 h2o_c + 1 nad_c + 1 4hbald_c -> 2 h_c + 1 nadh_c + 1 4hbz_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 4-Hydroxybenzaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 4-Hydroxybenzoate)
+
+
+AdditionalMetabolites:
+4hbald_c (4-Hydroxybenzaldehyde)
+bz_c (Benzoate)
+bzal_c (Benzaldehyde)
+
+

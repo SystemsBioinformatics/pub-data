@@ -1,0 +1,4 @@
+notRecovered:
+SUCDi:1 q8_c + 1 succ_c -> 1 fum_c + 1 q8h2_c (1 Ubiquinone-8 + 1 Succinate -> 1 Fumarate + 1 Ubiquinol-8)
+
+

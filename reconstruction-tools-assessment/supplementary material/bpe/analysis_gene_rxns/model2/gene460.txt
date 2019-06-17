@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+DHORD5:1 mqn8_c + 1 dhor__S_c -> 1 mql8_c + 1 orot_c (1 Menaquinone 8 + 1 (S)-Dihydroorotate -> 1 Menaquinol 8 + 1 Orotate)
+DHORDi:1 o2_c + 1 dhor__S_c -> 1 h2o2_c + 1 orot_c (1 O2 + 1 (S)-Dihydroorotate -> 1 Hydrogen peroxide + 1 Orotate)
+
+
+AdditionalMetabolites:
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

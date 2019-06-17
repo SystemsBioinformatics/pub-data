@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R05607:1 C01096_c + 1 C00003_c <=> 1 C05345_c + 1 C00080_c + 1 C00004_c (1 Sorbitol 6-phosphate + 1 NAD+ <=> 1 beta-D-Fructose 6-phosphate + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C01096_c (Sorbitol 6-phosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+
+

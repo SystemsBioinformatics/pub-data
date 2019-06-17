@@ -1,0 +1,4 @@
+notRecovered:
+ACGS:1 accoa_c + 1 glu__L_c -> 1 acglu_c + 1 coa_c + 1 h_c (1 Acetyl-CoA + 1 L-Glutamate -> 1 N-Acetyl-L-glutamate + 1 Coenzyme A + 1 H+)
+
+

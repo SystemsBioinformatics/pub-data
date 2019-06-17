@@ -1,0 +1,4 @@
+notRecovered:
+UAGAAT_BP:1 3hdecACP_c + 1 uacgam_c <=> 1 ACP_c + 1 u3aga_BP_c (1 (R)-3-Hydroxydecanoyl-[acyl-carrier protein] + 1 UDP-N-acetyl-D-glucosamine <=> 1 acyl carrier protein + 1 UDP-3-O-(3-hydroxydecanoyl)-N-acetylglucosamine)
+
+

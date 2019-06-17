@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R00217:1 C00036_c <=> 1 C00022_c + 1 C00011_c (1 Oxaloacetate <=> 1 Pyruvate + 1 CO2)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00022_c (Pyruvate)
+C00036_c (Oxaloacetate)
+
+

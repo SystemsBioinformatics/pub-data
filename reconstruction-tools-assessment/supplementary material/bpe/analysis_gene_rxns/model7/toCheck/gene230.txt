@@ -1,0 +1,32 @@
+notRecovered:
+AACPS9:1 ACP_c + 1 atp_c + 1 octa_c -> 1 amp_c + 1 ocACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 octanoate (n-C8:0) -> 1 AMP + 1 Octanoyl-ACP (n-C8:0ACP) + 1 Diphosphate)
+AACPS8:1 ACP_c + 1 atp_c + 1 dca_c -> 1 amp_c + 1 dcaACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Decanoate (n-C10:0) -> 1 AMP + 1 Decanoyl-ACP (n-C10:0ACP) + 1 Diphosphate)
+AACPS7:1 ACP_c + 1 atp_c + 1 ddca_c -> 1 amp_c + 1 ddcaACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Dodecanoate (n-C12:0) -> 1 AMP + 1 Dodecanoyl-ACP (n-C12:0ACP) + 1 Diphosphate)
+AACPS6:1 ACP_c + 1 atp_c + 1 ocdca_c -> 1 amp_c + 1 ocdcaACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 octadecanoate (n-C18:0) -> 1 AMP + 1 Octadecanoyl-ACP (n-C18:0ACP) + 1 Diphosphate)
+AACPS5:1 ACP_c + 1 atp_c + 1 ocdcea_c -> 1 amp_c + 1 octeACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 octadecenoate (n-C18:1) -> 1 AMP + 1 cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) + 1 Diphosphate)
+AACPS4:1 ACP_c + 1 atp_c + 1 hdcea_c -> 1 amp_c + 1 hdeACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Hexadecenoate (n-C16:1) -> 1 AMP + 1 cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) + 1 Diphosphate)
+AACPS3:1 ACP_c + 1 atp_c + 1 hdca_c -> 1 amp_c + 1 palmACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 Hexadecanoate (n-C16:0) -> 1 AMP + 1 Palmitoyl-ACP (n-C16:0ACP) + 1 Diphosphate)
+AACPS2:1 ACP_c + 1 atp_c + 1 ttdcea_c -> 1 amp_c + 1 ppi_c + 1 tdeACP_c (1 acyl carrier protein + 1 ATP + 1 tetradecenoate (n-C14:1) -> 1 AMP + 1 Diphosphate + 1 cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1))
+AACPS1:1 ACP_c + 1 atp_c + 1 ttdca_c -> 1 amp_c + 1 myrsACP_c + 1 ppi_c (1 acyl carrier protein + 1 ATP + 1 tetradecanoate (n-C14:0) -> 1 AMP + 1 Myristoyl-ACP (n-C14:0ACP) + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+ACPPAT180:1 ocdcaACP_c + 1 h_c + 1 pi_c -> 1 ACP_c + 1 ocdcap_c (1 Octadecanoyl-ACP (n-C18:0ACP) + 1 H+ + 1 Phosphate -> 1 Acyl carrier protein + 1 Octadecanoyl-phosphate (n-C18:0))
+ACPPAT140:1 h_c + 1 pi_c + 1 myrsACP_c -> 1 ttdcap_c + 1 ACP_c (1 H+ + 1 Phosphate + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 Tetradecanoyl-phosphate (n-C14:0) + 1 Acyl carrier protein)
+ACPPAT161:1 hdeACP_c + 1 h_c + 1 pi_c -> 1 ACP_c + 1 hdceap_c (1 Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) + 1 H+ + 1 Phosphate -> 1 Acyl carrier protein + 1 Hexadecanoyl-phosphate (n-C16:1))
+ACPPAT141:1 h_c + 1 pi_c + 1 tdeACP_c -> 1 ACP_c + 1 ttdceap_c (1 H+ + 1 Phosphate + 1 Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1) -> 1 Acyl carrier protein + 1 Tetradecanoyl-phosphate (n-C14:1))
+ACPPAT160:1 h_c + 1 pi_c + 1 palmACP_c -> 1 ACP_c + 1 hdcap_c (1 H+ + 1 Phosphate + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 Acyl carrier protein + 1 Hexadecanoyl-phosphate (n-C16:0))
+ACPPAT181:1 octeACP_c + 1 h_c + 1 pi_c -> 1 ACP_c + 1 ocdceap_c (1 Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) + 1 H+ + 1 Phosphate -> 1 Acyl carrier protein + 1 Octadecanoyl-phosphate (n-C18:1))
+ACPPAT120:1 ddcaACP_c + 1 h_c + 1 pi_c -> 1 ACP_c + 1 ddcap_c (1 Dodecanoyl-ACP (n-C12:0ACP) + 1 H+ + 1 Phosphate -> 1 Acyl carrier protein + 1 Dodecanoly-phosphate (n-C12:0))
+
+
+AdditionalMetabolites:
+ddcap_c (Dodecanoly-phosphate (n-C12:0))
+hdcap_c (Hexadecanoyl-phosphate (n-C16:0))
+hdceap_c (Hexadecanoyl-phosphate (n-C16:1))
+ocdcap_c (Octadecanoyl-phosphate (n-C18:0))
+ocdceap_c (Octadecanoyl-phosphate (n-C18:1))
+ttdcap_c (Tetradecanoyl-phosphate (n-C14:0))
+ttdceap_c (Tetradecanoyl-phosphate (n-C14:1))
+
+

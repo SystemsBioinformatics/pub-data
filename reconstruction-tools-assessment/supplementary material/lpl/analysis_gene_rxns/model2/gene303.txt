@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+TRPS2:1 ser__L_c + 1 indole_c -> 1 h2o_c + 1 trp__L_c (1 L-Serine + 1 Indole -> 1 H2O + 1 L-Tryptophan)
+TRPS3:1 3ig3p_c -> 1 g3p_c + 1 indole_c (1 C'-(3-Indolyl)-glycerol 3-phosphate -> 1 Glyceraldehyde 3-phosphate + 1 Indole)
+
+
+AdditionalMetabolites:
+indole_c (Indole)
+
+

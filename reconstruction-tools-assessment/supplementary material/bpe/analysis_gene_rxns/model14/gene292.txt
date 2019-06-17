@@ -1,0 +1,18 @@
+notRecovered:
+ANS:1 chor_c + 1 gln__L_c -> 1 anth_c + 1 glu__L_c + 1 h_c + 1 pyr_c (1 chorismate + 1 L-Glutamine -> 1 Anthranilate + 1 L-Glutamate + 1 H+ + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+rxn00790:1 cpd00001_c + 1 cpd00053_c + 1 cpd00103_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00023_c + 1 cpd01982_c (1 H2O_c0 + 1 L_Glutamine_c0 + 1 PRPP_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 L_Glutamate_c0 + 1 5_Phosphoribosylamine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00012_c (PPi_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00053_c (L_Glutamine_c0)
+cpd00067_c (H_plus__c0)
+cpd00103_c (PRPP_c0)
+cpd01982_c (5_Phosphoribosylamine_c0)
+
+

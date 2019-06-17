@@ -1,0 +1,13 @@
+notRecovered:
+ARAI:1 arab__L_c <=> 1 rbl__L_c (1 M_L_Arabinose_ <=> 1 M_L_Ribulose_)
+
+
+AdditionalNotInModel:
+ARABISOM-RXN:1 L-arabinopyranose_c <=> 1 L-RIBULOSE_c (1 L-arabinopyranose <=> 1 L-ribulose)
+
+
+AdditionalMetabolites:
+L-RIBULOSE_c (L-ribulose)
+L-arabinopyranose_c (L-arabinopyranose)
+
+

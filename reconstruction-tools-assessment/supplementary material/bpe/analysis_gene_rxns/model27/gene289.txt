@@ -1,0 +1,24 @@
+notRecovered:
+SERD_D:1 ser__D_c -> 1 nh4_c + 1 pyr_c (1 D-Serine -> 1 Ammonium + 1 Pyruvate)
+THRD_L:1 thr__L_c -> 1 2obut_c + 1 nh4_c (1 L-Threonine -> 1 2-Oxobutanoate + 1 Ammonium)
+
+
+AdditionalNotInModel:
+R00590:1 C00065_c <=> 1 C02218_c + 1 C00001_c (1 L-Serine <=> 1 Dehydroalanine + 1 H2O)
+R11099:1 C00001_c + 1 C20904_c <=> 1 C00022_c + 1 C00014_c (1 H2O + 1 2-Iminopropanoate <=> 1 Pyruvate + 1 Ammonia)
+R11100:1 C02218_c <=> 1 C20904_c (1 Dehydroalanine <=> 1 2-Iminopropanoate)
+R00220:1 C00065_c <=> 1 C00022_c + 1 C00014_c (1 L-Serine <=> 1 Pyruvate + 1 Ammonia)
+R06131:1 C05167_c <=> 1 C00161_c + 1 C00014_c (1 alpha-Amino acid <=> 1 2-Oxo acid + 1 Ammonia)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00065_c (L-Serine)
+C00161_c (2-Oxo acid)
+C02218_c (Dehydroalanine)
+C05167_c (alpha-Amino acid)
+C20904_c (2-Iminopropanoate)
+
+

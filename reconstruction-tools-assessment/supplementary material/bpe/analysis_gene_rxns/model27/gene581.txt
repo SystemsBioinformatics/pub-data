@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R06253:1 C05766_c + 1 G00110_c + 1 C00270_c <=> 4 C00011_c + 1 C05768_c + 1 G00111_c + 1 C00001_c (1 Uroporphyrinogen I + 1 GM1 + 1 N-Acetylneuraminate <=> 4 CO2 + 1 Coproporphyrinogen I + 1 GD1a + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00270_c (N-Acetylneuraminate)
+C05766_c (Uroporphyrinogen I)
+C05768_c (Coproporphyrinogen I)
+G00110_c (GM1)
+G00111_c (GD1a)
+
+

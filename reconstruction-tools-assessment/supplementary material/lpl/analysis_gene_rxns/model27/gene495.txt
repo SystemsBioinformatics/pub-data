@@ -1,0 +1,4 @@
+notRecovered:
+PPCK:1 atp_c + 1 oaa_c -> 1 adp_c + 1 co2_c + 1 pep_c (1 M_ATP_ + 1 M_Oxaloacetate_ -> 1 M_ADP_ + 1 M_CO2_ + 1 M_Phosphoenolpyruvate_)
+
+

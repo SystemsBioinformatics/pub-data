@@ -1,0 +1,18 @@
+notRecovered:
+GLYBabc:1 atp_c + 1 glyb_e + 1 h2o_c -> 1 adp_c + 1 glyb_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_Glycine_betaine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_Glycine_betaine_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+rxn05184:1 cpd00002_c + 1 cpd00001_c + 1 cpd00681_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00681_c (1 ATP_c0 + 1 H2O_c0 + 1 Choline_sulfate_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Choline_sulfate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00681_c (Choline_sulfate_c0)
+cpd00681_e (Choline_sulfate_e0)
+
+

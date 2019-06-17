@@ -1,0 +1,34 @@
+notRecovered:
+3HAD180:1 3hoctaACP_c -> 1 toctd2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_ -> 1 M_trans_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD60:1 3hhexACP_c -> 1 thex2eACP_c + 1 h2o_c (1 M__R__3_Hydroxyhexanoyl_acp_ -> 1 M_trans_Hex_2_enoyl_acp_ + 1 M_H2O_)
+3HAD140:1 3hmrsACP_c -> 1 tmrs2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxytetradecanoyl_acyl_carrier_protein_ -> 1 M_trans_Tetradec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD80:1 3hoctACP_c -> 1 toct2eACP_c + 1 h2o_c (1 M__R__3_Hydroxyoctanoyl_acyl_carrier_protein_ -> 1 M_trans_Oct_2_enoyl_acp_ + 1 M_H2O_)
+3HAD100:1 3hdecACP_c -> 1 tdec2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxydecanoyl_acyl_carrier_protein_ -> 1 M_trans_Dec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD40:1 3haACP_c -> 1 but2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxybutanoyl_acyl_carrier_protein_ -> 1 M_But_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD160:1 3hpalmACP_c -> 1 tpalm2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxypalmitoyl_acyl_carrier_protein_ -> 1 M_trans_Hexadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+
+
+AdditionalNotInModel:
+RXN-16617:1 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs_c <=> 1 Cis-D3-cis-D5-tetradeca-dienoyl-ACPs_c + 1 WATER_c (1 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs <=> 1 Cis-D3-cis-D5-tetradeca-dienoyl-ACPs + 1 H2O)
+RXN-16631:1 3R-11Z-3-hydroxy-icos-11-enoyl-ACPs_c -> 1 2E-11Z-icosa-2-11-dienoyl-ACPs_c + 1 WATER_c (1 3R-11Z-3-hydroxy-icos-11-enoyl-ACPs -> 1 2E-11Z-icosa-2-11-dienoyl-ACPs + 1 H2O)
+RXN-16614:1 Dodec-2-enoyl-ACPs_c -> 1 3Z-dodec-3-enoyl-ACPs_c (1 Dodec-2-enoyl-ACPs -> 1 3Z-dodec-3-enoyl-ACPs)
+RXN-16619:1 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs_c -> 1 2E-5Z-tetradeca-2-5-dienoyl-ACPs_c + 1 WATER_c (1 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs -> 1 2E-5Z-tetradeca-2-5-dienoyl-ACPs + 1 H2O)
+RXN-16623:1 3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs_c -> 1 2E-7Z-hexadeca-2-7-dienoyl-ACPs_c + 1 WATER_c (1 3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs -> 1 2E-7Z-hexadeca-2-7-dienoyl-ACPs + 1 H2O)
+RXN-16627:1 3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs_c -> 1 2E-9Z-octadeca-2-9-dienoyl-ACPs_c + 1 WATER_c (1 3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs -> 1 2E-9Z-octadeca-2-9-dienoyl-ACPs + 1 H2O)
+
+
+AdditionalMetabolites:
+2E-11Z-icosa-2-11-dienoyl-ACPs_c (2E-11Z-icosa-2-11-dienoyl-ACPs)
+2E-5Z-tetradeca-2-5-dienoyl-ACPs_c (2E-5Z-tetradeca-2-5-dienoyl-ACPs)
+2E-7Z-hexadeca-2-7-dienoyl-ACPs_c (2E-7Z-hexadeca-2-7-dienoyl-ACPs)
+2E-9Z-octadeca-2-9-dienoyl-ACPs_c (2E-9Z-octadeca-2-9-dienoyl-ACPs)
+3R-11Z-3-hydroxy-icos-11-enoyl-ACPs_c (3R-11Z-3-hydroxy-icos-11-enoyl-ACPs)
+3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs_c (3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs)
+3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs_c (3R-7Z-3-hydroxy-hexadec-7-enoyl-ACPs)
+3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs_c (3R-9Z-3-hydroxy-octadec-9-enoyl-ACPs)
+3Z-dodec-3-enoyl-ACPs_c (3Z-dodec-3-enoyl-ACPs)
+Cis-D3-cis-D5-tetradeca-dienoyl-ACPs_c (Cis-D3-cis-D5-tetradeca-dienoyl-ACPs)
+Dodec-2-enoyl-ACPs_c (Dodec-2-enoyl-ACPs)
+WATER_c (H2O)
+
+

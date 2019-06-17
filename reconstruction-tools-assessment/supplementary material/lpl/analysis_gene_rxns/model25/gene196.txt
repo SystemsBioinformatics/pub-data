@@ -1,0 +1,18 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 M_Acetyl_CoA_ + 1 M_ATP_ + 1 M_Bicarbonate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Malonyl_CoA_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+PYRUVATE-CARBOXYLASE-RXN:1 ATP_c + 1 HCO3_c + 1 PYRUVATE_c -> 1 ADP_c + 1 OXALACETIC_ACID_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 hydrogencarbonate + 1 pyruvate -> 1 ADP + 1 oxaloacetate + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+HCO3_c (hydrogencarbonate)
+OXALACETIC_ACID_c (oxaloacetate)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+Pi_c (phosphate)
+
+

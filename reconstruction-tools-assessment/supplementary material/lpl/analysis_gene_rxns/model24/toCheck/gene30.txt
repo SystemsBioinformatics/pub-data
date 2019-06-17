@@ -1,0 +1,22 @@
+notRecovered:
+DNTPPA_1:1 ahdt_c + 1 h2o_c -> 1 dhpmp_c + 1 ppi_c (1 M_2_Amino_4_hydroxy_6__erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_ + 1 M_H2O_ -> 1 M_Dihydroneopterin_monophosphate_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+RXN0-1602:1 DITP_c + 1 WATER_c -> 1 DIMP_c + 1 PPI_c + 1 PROTON_c (1 dITP + 1 H2O -> 1 dIMP + 1 diphosphate + 1 H+)
+RXN0-6382:1 ITP_c + 1 WATER_c -> 1 IMP_c + 1 PPI_c + 1 PROTON_c (1 ITP + 1 H2O -> 1 IMP + 1 diphosphate + 1 H+)
+RXN0-1603:1 WATER_c + 1 XTP_c -> 1 PPI_c + 1 PROTON_c + 1 XANTHOSINE-5-PHOSPHATE_c (1 H2O + 1 XTP -> 1 diphosphate + 1 H+ + 1 XMP)
+
+
+AdditionalMetabolites:
+DIMP_c (dIMP)
+DITP_c (dITP)
+IMP_c (IMP)
+ITP_c (ITP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+XANTHOSINE-5-PHOSPHATE_c (XMP)
+XTP_c (XTP)
+
+

@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+GTPH1:2 h2o_c + 1 gtp_c -> 2 pi_c + 1 gmp_c + 2 h_c (2 H2O H2O + 1 GTP C10H12N5O14P3 -> 2 Phosphate + 1 GMP C10H12N5O8P + 2 H+)
+
+

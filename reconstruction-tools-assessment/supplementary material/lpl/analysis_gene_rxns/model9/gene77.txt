@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GLCATr:1 glc__D_c + 1 accoa_c <=> 1 acglc__D_c + 1 coa_c (1 D-Glucose + 1 Acetyl-CoA <=> 1 6-Acetyl-D-glucose + 1 Coenzyme A)
+
+
+AdditionalMetabolites:
+acglc__D_c (6-Acetyl-D-glucose)
+
+

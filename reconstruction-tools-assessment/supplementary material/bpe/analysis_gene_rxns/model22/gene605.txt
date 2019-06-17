@@ -1,0 +1,4 @@
+notRecovered:
+CHRPL:1 chor_c -> 1 4hbz_c + 1 pyr_c (1 chorismate -> 1 4-Hydroxybenzoate + 1 Pyruvate)
+
+

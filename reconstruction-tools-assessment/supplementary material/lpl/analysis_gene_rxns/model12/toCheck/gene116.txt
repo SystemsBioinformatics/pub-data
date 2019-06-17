@@ -1,0 +1,19 @@
+notRecovered:
+RBLK2:1 atp_c + 1 rbt_c -> 1 adp_c + 1 h_c + 1 rbt5p_c (1 M_ATP_ + 1 M_Ribitol_ -> 1 M_ADP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_)
+
+
+AdditionalNotInModel:
+D-RIBULOKIN-RXN:1 ATP_c + 1 D-RIBULOSE_c <=> 1 ADP_c + 1 RIBULOSE-5P_c + 1 PROTON_c (1 ATP + 1 D-ribulose <=> 1 ADP + 1 D-ribulose 5-phosphate + 1 H+)
+RIBULOKIN-RXN:1 Ribuloses_c + 1 ATP_c <=> 1 Ribulose-phosphates_c + 1 ADP_c + 1 PROTON_c (1 ribulose + 1 ATP <=> 1 L(or D)-ribulose 5-phosphate + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+D-RIBULOSE_c (D-ribulose)
+PROTON_c (H+)
+RIBULOSE-5P_c (D-ribulose 5-phosphate)
+Ribulose-phosphates_c (L(or D)-ribulose 5-phosphate)
+Ribuloses_c (ribulose)
+
+

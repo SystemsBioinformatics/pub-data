@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+R00742:1 C00002_c + 1 C00024_c + 1 C00288_c <=> 1 C00008_c + 1 C00009_c + 1 C00083_c (1 ATP + 1 Acetyl-CoA + 1 HCO3- <=> 1 ADP + 1 Orthophosphate + 1 Malonyl-CoA)
+R01859:1 C00002_c + 1 C00100_c + 1 C00288_c <=> 1 C00008_c + 1 C00009_c + 1 C00683_c (1 ATP + 1 Propanoyl-CoA + 1 HCO3- <=> 1 ADP + 1 Orthophosphate + 1 (S)-Methylmalonyl-CoA)
+R03494:1 C00002_c + 1 C00288_c + 1 C01920_c -> 1 C00008_c + 1 C00009_c + 1 C01291_c (1 ATP + 1 HCO3- + 1 Geranoyl-CoA -> 1 ADP + 1 Orthophosphate + 1 3-(4-Methylpent-3-en-1-yl)pent-2-enedioyl-CoA)
+R04385:1 C00002_c + 1 C00288_c + 1 C06250_c <=> 1 C00008_c + 1 C00009_c + 1 C04419_c (1 ATP + 1 HCO3- + 1 Holo-[carboxylase] <=> 1 ADP + 1 Orthophosphate + 1 Carboxybiotin-carboxyl-carrier protein)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00024_c (Acetyl-CoA)
+C00083_c (Malonyl-CoA)
+C00100_c (Propanoyl-CoA)
+C00288_c (HCO3-)
+C00683_c ((S)-Methylmalonyl-CoA)
+C01291_c (3-(4-Methylpent-3-en-1-yl)pent-2-enedioyl-CoA)
+C01920_c (Geranoyl-CoA)
+C04419_c (Carboxybiotin-carboxyl-carrier protein)
+C06250_c (Holo-[carboxylase])
+
+

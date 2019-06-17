@@ -1,0 +1,15 @@
+notRecovered:
+GLUt4pp:1 glu__L_p + 1 na1_p <=> 1 glu__L_c + 1 na1_c (1 L-Glutamate + 1 Sodium <=> 1 L-Glutamate + 1 Sodium)
+
+
+AdditionalNotInModel:
+rxn05298:1 cpd00023_e + 1 cpd00971_e <=> 1 cpd00023_c + 1 cpd00971_c (1 L_Glutamate_e0 + 1 Na_plus__e0 <=> 1 L_Glutamate_c0 + 1 Na_plus__c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00023_e (L_Glutamate_e0)
+cpd00971_c (Na_plus__c0)
+cpd00971_e (Na_plus__e0)
+
+

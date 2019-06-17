@@ -1,0 +1,4 @@
+notRecovered:
+PPBNGS:2 5aop_c -> 2 h2o_c + 1 h_c + 1 ppbng_c (2 5-Amino-4-oxopentanoate -> 2 H2O + 1 H+ + 1 Porphobilinogen)
+
+

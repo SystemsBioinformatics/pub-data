@@ -1,0 +1,4 @@
+notRecovered:
+DHPS2:1 4abz_c + 1 6hmhptpp_c -> 1 dhpt_c + 1 ppi_c (1 4-Aminobenzoate + 1 6-hydroxymethyl-dihydropterin pyrophosphate -> 1 Dihydropteroate + 1 Diphosphate)
+
+

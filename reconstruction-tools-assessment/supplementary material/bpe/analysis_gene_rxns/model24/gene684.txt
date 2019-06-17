@@ -1,0 +1,4 @@
+notRecovered:
+ARGSS:1 asp__L_c + 1 atp_c + 1 citr__L_c -> 1 amp_c + 1 argsuc_c + 1 h_c + 1 ppi_c (1 L-Aspartate + 1 ATP + 1 L-Citrulline -> 1 AMP + 1 N(omega)-(L-Arginino)succinate + 1 H+ + 1 Diphosphate)
+
+

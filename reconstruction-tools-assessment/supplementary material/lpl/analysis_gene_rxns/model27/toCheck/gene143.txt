@@ -1,0 +1,14 @@
+notRecovered:
+AGAT_LPL:0.12 2chdeacp_c + 0.32 2cocdacp_c + 0.01 agly3p_LPL_c + 0.25 cpocdacp_c + 0.26 palmACP_c + 0.02 ocdcaACP_c + 0.03 myrsACP_c -> 1 ACP_c + 0.01 pa_LPL_c (0.12 M_cis_Hexadec_2_enoyl_acyl_carrier_protein_ + 0.32 M_cis_Octadec_2_enoyl_acyl_carrier_protein_ + 0.01 M_1_Acyl_sn_glycerol_3_phosphate__Lb_plantarum_specific__ + 0.25 M_cyclopropanoyl_octadecanoyl_acyl_carrier_protein_ + 0.26 M_Hexadecanoyl_acyl_carrier_protein_ + 0.02 M_Octadecanoyl_acyl_carrier_protein_ + 0.03 M_Tetradecanoyl_acyl_carrier_protein_ -> 1 M_Acyl_carrier_Protein_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__)
+
+
+AdditionalNotInModel:
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN:1 ACYL-ACP_c + 1 ACYL-SN-GLYCEROL-3P_c -> 1 ACP_c + 1 L-PHOSPHATIDATE_c (1 ACYL-ACP + 1 ACYL-SN-GLYCEROL-3P -> 1 ACP + 1 L-PHOSPHATIDATE)
+
+
+AdditionalMetabolites:
+ACYL-ACP_c (ACYL-ACP)
+ACYL-SN-GLYCEROL-3P_c (ACYL-SN-GLYCEROL-3P)
+L-PHOSPHATIDATE_c (L-PHOSPHATIDATE)
+
+

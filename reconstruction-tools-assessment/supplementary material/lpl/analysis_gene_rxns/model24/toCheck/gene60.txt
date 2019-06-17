@@ -1,0 +1,15 @@
+notRecovered:
+SDPDS:1 h2o_c + 1 sl26da_c -> 1 26dap_LL_c + 1 succ_c (1 M_H2O_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ -> 1 M_LL_2_6_Diaminoheptanedioate_ + 1 M_Succinate_)
+
+
+AdditionalNotInModel:
+ACETYLORNDEACET-RXN:1 N-ALPHA-ACETYLORNITHINE_c + 1 WATER_c <=> 1 ACET_c + 1 L-ORNITHINE_c (1 N-acetyl-L-ornithine + 1 H2O <=> 1 acetate + 1 L-ornithine)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+L-ORNITHINE_c (L-ornithine)
+N-ALPHA-ACETYLORNITHINE_c (N-acetyl-L-ornithine)
+WATER_c (H2O)
+
+

@@ -1,0 +1,2 @@
+AdditionalInModel:
+HEXt2rpp:1 h_p + 1 hxa_p <=> 1 h_c + 1 hxa_c (1 H+ + 1 Hexanoate (n-C6:0) <=> 1 H+ + 1 Hexanoate (n-C6:0))

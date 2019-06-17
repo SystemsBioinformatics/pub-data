@@ -1,0 +1,12 @@
+notRecovered:
+GALTpts:1 galt_e + 1 pep_c -> 1 galt1p_c + 1 pyr_c (1 M_Galactitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Galactitol_1_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+GALTptspp:1 galt_p + 1 pep_c -> 1 galt1p_c + 1 pyr_c (1 Galactitol + 1 Phosphoenolpyruvate -> 1 Galactitol 1-phosphate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+galt_p (Galactitol)
+
+

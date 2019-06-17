@@ -1,0 +1,4 @@
+notRecovered:
+NADHPO:1 h2o2_c + 1 h_c + 1 nadh_c -> 2 h2o_c + 1 nad_c (1 M_Hydrogen_peroxide_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 2 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+

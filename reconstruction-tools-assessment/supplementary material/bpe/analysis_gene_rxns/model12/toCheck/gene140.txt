@@ -1,0 +1,15 @@
+notRecovered:
+SPODMpp:2 h_p + 2 o2s_p -> 1 h2o2_p + 1 o2_p (2 H+ + 2 Superoxide anion -> 1 Hydrogen peroxide + 1 O2)
+
+
+AdditionalNotInModel:
+SUPEROX-DISMUT-RXN:2 SUPER-OXIDE_c + 2 PROTON_c -> 1 HYDROGEN-PEROXIDE_c + 1 OXYGEN-MOLECULE_c (2 superoxide + 2 H+ -> 1 hydrogen peroxide + 1 oxygen)
+
+
+AdditionalMetabolites:
+HYDROGEN-PEROXIDE_c (hydrogen peroxide)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+SUPER-OXIDE_c (superoxide)
+
+

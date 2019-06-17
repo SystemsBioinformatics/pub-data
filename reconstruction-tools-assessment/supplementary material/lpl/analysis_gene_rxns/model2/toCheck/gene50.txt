@@ -1,0 +1,12 @@
+notRecovered:
+AALDH:1 h_c + 1 nadh_c + 1 pacald_c <=> 1 nad_c + 1 pea_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Phenylacetaldehyde_ <=> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Phenylethyl_alcohol_)
+
+
+AdditionalNotInModel:
+BZALDH:1 nad_c + 1 bzalc_c <=> 1 h_c + 1 nadh_c + 1 bzal_c (1 Nicotinamide adenine dinucleotide + 1 Benzyl alcohol <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Benzaldehyde)
+
+
+AdditionalMetabolites:
+bzalc_c (Benzyl alcohol)
+
+

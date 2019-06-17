@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+rxn02362:1 cpd00002_c + 1 cpd00853_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd03699_c (1 ATP_c0 + 1 DPG_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 cDPG_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00853_c (DPG_c0)
+cpd03699_c (cDPG_c0)
+
+

@@ -1,0 +1,21 @@
+notRecovered:
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-157:1 Glucopyranose_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 D-glucopyranose-6-phosphate_c + 1 Hpr-Histidine_c (1 Glucopyranose + 1 Hpr-pi-phospho-L-histidines -> 1 D-glucopyranose-6-phosphate + 1 Hpr-Histidine)
+TRANS-RXN-168:1 Hpr-pi-phospho-L-histidines_c + 1 TREHALOSE_c -> 1 Hpr-Histidine_c + 1 TREHALOSE-6P_c (1 Hpr-pi-phospho-L-histidines + 1 alpha,alpha-trehalose -> 1 Hpr-Histidine + 1 alpha,alpha-trehalose 6-phosphate)
+RXN0-17:1 Hpr-pi-phospho-L-histidines_c + 1 NACMUR_c -> 1 CPD0-881_c + 1 Hpr-Histidine_c (1 Hpr-pi-phospho-L-histidines + 1 N-acetylmuramate -> 1 N-acetyl-beta-muramate 6-phosphate + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+CPD0-881_c (N-acetyl-beta-muramate 6-phosphate)
+D-glucopyranose-6-phosphate_c (D-glucopyranose-6-phosphate)
+Glucopyranose_c (Glucopyranose)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+NACMUR_c (N-acetylmuramate)
+TREHALOSE-6P_c (alpha,alpha-trehalose 6-phosphate)
+TREHALOSE_c (alpha,alpha-trehalose)
+
+

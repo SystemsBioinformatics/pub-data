@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01990:1 C00001_c + 1 C01035_c <=> 1 C00086_c + 1 C00334_c (1 H2O + 1 4-Guanidinobutanoate <=> 1 Urea + 1 4-Aminobutanoate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00086_c (Urea)
+C00334_c (4-Aminobutanoate)
+C01035_c (4-Guanidinobutanoate)
+
+

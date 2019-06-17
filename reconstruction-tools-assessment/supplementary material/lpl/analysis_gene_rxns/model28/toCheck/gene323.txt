@@ -1,0 +1,15 @@
+notRecovered:
+TMDK2:1 gtp_c + 1 thymd_c -> 1 dtmp_c + 1 gdp_c + 1 h_c (1 M_GTP_ + 1 M_Thymidine_ -> 1 M_dTMP_ + 1 M_GDP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R08233:1 C00002_c + 1 C11736_c -> 1 C00008_c + 1 C04242_c (1 ATP + 1 5-Fluorodeoxyuridine -> 1 ADP + 1 5-Fluorodeoxyuridine monophosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C04242_c (5-Fluorodeoxyuridine monophosphate)
+C11736_c (5-Fluorodeoxyuridine)
+
+

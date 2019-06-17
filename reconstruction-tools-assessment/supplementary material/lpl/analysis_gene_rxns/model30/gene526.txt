@@ -1,0 +1,14 @@
+notRecovered:
+CRPT_25:25 cdprbtl_c + 1 unagamagp_c -> 25 cmp_c + 25 h_c + 1 unRTA_c (25 M_CDPribitol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_ -> 25 M_CMP_ + 25 M_H_ + 1 M_undecaprenyl_teichoic_acid_with_ribitol_)
+
+
+AdditionalNotInModel:
+R04042:1 C00513_c <=> 1 C00055_c + 1 C02768_c (1 CDP-glycerol <=> 1 CMP + 1 (Glycerophosphate)n)
+
+
+AdditionalMetabolites:
+C00055_c (CMP)
+C00513_c (CDP-glycerol)
+C02768_c ((Glycerophosphate)n)
+
+

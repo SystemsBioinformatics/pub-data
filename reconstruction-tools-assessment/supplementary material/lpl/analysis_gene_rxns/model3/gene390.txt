@@ -1,0 +1,6 @@
+notRecovered:
+AMANK:1 acmana_c + 1 atp_c -> 1 acmanap_c + 1 adp_c + 1 h_c (1 M_N_Acetyl_D_mannosamine_ + 1 M_ATP_ -> 1 M_N_Acetyl_D_mannosamine_6_phosphate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalInModel:
+HEX1:1 atp_c + 1 glc__D_c -> 1 adp_c + 1 h_c + 1 g6p_c (1 ATP + 1 D-Glucose -> 1 ADP + 1 H+ + 1 D-Glucose 6-phosphate)

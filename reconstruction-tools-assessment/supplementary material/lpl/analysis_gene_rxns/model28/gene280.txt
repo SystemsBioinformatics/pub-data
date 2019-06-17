@@ -1,0 +1,16 @@
+notRecovered:
+MOCOS_LPL:1 mpt_c <=> 1 moco_c (1 M_molybdopterin_ <=> 1 M_Molybdenum_cofactor_)
+
+
+AdditionalNotInModel:
+R09735:1 C06232_c + 1 C19848_c <=> 1 C00001_c + 1 C00020_c + 1 C18237_c (1 Molybdate + 1 Adenylated molybdopterin <=> 1 H2O + 1 AMP + 1 Molybdoenzyme molybdenum cofactor)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00020_c (AMP)
+C06232_c (Molybdate)
+C18237_c (Molybdoenzyme molybdenum cofactor)
+C19848_c (Adenylated molybdopterin)
+
+

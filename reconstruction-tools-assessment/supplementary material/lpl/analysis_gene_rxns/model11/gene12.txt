@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+PRPPSYN-RXN-CPD-15895/ATP//PRPP/AMP/PROTON.31.:1 CPD-15895_c + 1 ATP_c -> 1 PRPP_c + 1 PROTON_c + 1 AMP_c (1 aldehydo-D-ribose 5-phosphate + 1 ATP -> 1 5-phospho-alpha-D-ribose 1-diphosphate + 1 H+ + 1 AMP)
+PRPPSYN-RXN-CPD-15318/ATP//PRPP/AMP/PROTON.31.:1 CPD-15318_c + 1 ATP_c -> 1 PRPP_c + 1 PROTON_c + 1 AMP_c (1 alpha-D-ribose 5-phosphate + 1 ATP -> 1 5-phospho-alpha-D-ribose 1-diphosphate + 1 H+ + 1 AMP)
+PRPPSYN-RXN:1 RIBOSE-5P_c + 1 ATP_c -> 1 PRPP_c + 1 PROTON_c + 1 AMP_c (1 D-ribose 5-phosphate + 1 ATP -> 1 5-phospho-alpha-D-ribose 1-diphosphate + 1 H+ + 1 AMP)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+CPD-15318_c (alpha-D-ribose 5-phosphate)
+CPD-15895_c (aldehydo-D-ribose 5-phosphate)
+PROTON_c (H+)
+PRPP_c (5-phospho-alpha-D-ribose 1-diphosphate)
+RIBOSE-5P_c (D-ribose 5-phosphate)
+
+

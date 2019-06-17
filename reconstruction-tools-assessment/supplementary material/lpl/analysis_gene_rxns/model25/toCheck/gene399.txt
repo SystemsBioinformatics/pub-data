@@ -1,0 +1,15 @@
+notRecovered:
+ADPDS:1 al26da_c + 1 h2o_c + 1 h_c -> 1 26dap_LL_c + 1 ac_c (1 M_N6_Acetyl_LL_2_6_diaminoheptanedioate_ + 1 M_H2O_ + 1 M_H_ -> 1 M_LL_2_6_Diaminoheptanedioate_ + 1 M_Acetate_)
+
+
+AdditionalNotInModel:
+RXN-18481:1 CPD-13420_c + 1 WATER_c -> 1 CPD-11260_c + 1 ILE_c (1 (+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine + 1 H2O -> 1 cis-tuberonic acid + 1 L-isoleucine)
+
+
+AdditionalMetabolites:
+CPD-11260_c (cis-tuberonic acid)
+CPD-13420_c ((+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine)
+ILE_c (L-isoleucine)
+WATER_c (H2O)
+
+

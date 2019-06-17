@@ -1,0 +1,17 @@
+notRecovered:
+HMGCOAR:1 coa_c + 1 mev__R_c + 2 nadp_c <=> 2 h_c + 1 hmgcoa_c + 2 nadph_c (1 M_Coenzyme_A_ + 1 M__R__Mevalonate_ + 2 M_Nicotinamide_adenine_dinucleotide_phosphate_ <=> 2 M_H_ + 1 M_Hydroxymethylglutaryl_CoA_ + 2 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_)
+
+
+AdditionalNotInModel:
+rxn01500:1 cpd00010_c + 2 cpd00003_c + 1 cpd00332_c <=> 2 cpd00067_c + 2 cpd00004_c + 1 cpd00292_c (1 CoA_c0 + 2 NAD_c0 + 1 Mevalonic_acid_c0 <=> 2 H_plus__c0 + 2 NADH_c0 + 1 HMG_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00010_c (CoA_c0)
+cpd00067_c (H_plus__c0)
+cpd00292_c (HMG_CoA_c0)
+cpd00332_c (Mevalonic_acid_c0)
+
+

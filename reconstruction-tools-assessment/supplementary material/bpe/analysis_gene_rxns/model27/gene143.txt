@@ -1,0 +1,4 @@
+notRecovered:
+MCITD:1 2mcit_c -> 1 2mcacn_c + 1 h2o_c (1 2-Methylcitrate -> 1 cis-2-Methylaconitate + 1 H2O)
+
+

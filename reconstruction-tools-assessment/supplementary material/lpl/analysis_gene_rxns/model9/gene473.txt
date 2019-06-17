@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+GMAND:1 gdpmann_c -> 1 gdpddman_c + 1 h2o_c (1 GDP-D-mannose -> 1 GDP-4-dehydro-6-deoxy-D-mannose + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+gdpddman_c (GDP-4-dehydro-6-deoxy-D-mannose)
+gdpmann_c (GDP-D-mannose)
+
+

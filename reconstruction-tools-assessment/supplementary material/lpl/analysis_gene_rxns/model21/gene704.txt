@@ -1,0 +1,28 @@
+notRecovered:
+NOX2:2 h_c + 2 nadh_c + 1 o2_c -> 2 h2o_c + 2 nad_c (2 M_H_ + 2 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_O2_ -> 2 M_H2O_ + 2 M_Nicotinamide_adenine_dinucleotide_)
+NOX:1 h_c + 1 nadh_c + 1 o2_c -> 1 h2o2_c + 1 nad_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+R00787:2 C00001_c + 3 C00003_c + 1 C00014_c -> 3 C00004_c + 3 C00080_c + 1 C00088_c (2 H2O + 3 NAD+ + 1 Ammonia -> 3 NADH + 3 H+ + 1 Nitrite)
+R02000:1 C00003_c + 1 C00080_c + 2 C00340_c <=> 1 C00004_c + 2 C00435_c (1 NAD+ + 1 H+ + 2 Reduced rubredoxin <=> 1 NADH + 2 Oxidized rubredoxin)
+R06782:1 C00004_c + 1 C00007_c + 1 C00080_c + 1 C05629_c <=> 1 C00003_c + 1 C11588_c (1 NADH + 1 Oxygen + 1 H+ + 1 Phenylpropanoate <=> 1 NAD+ + 1 cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol)
+R06783:1 C00004_c + 1 C00007_c + 1 C00080_c + 1 C00423_c <=> 1 C00003_c + 1 C12622_c (1 NADH + 1 Oxygen + 1 H+ + 1 trans-Cinnamate <=> 1 NAD+ + 1 cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00007_c (Oxygen)
+C00014_c (Ammonia)
+C00080_c (H+)
+C00088_c (Nitrite)
+C00340_c (Reduced rubredoxin)
+C00423_c (trans-Cinnamate)
+C00435_c (Oxidized rubredoxin)
+C05629_c (Phenylpropanoate)
+C11588_c (cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol)
+C12622_c (cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol)
+
+

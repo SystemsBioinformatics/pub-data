@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+GLUTAMATE-DEHYDROGENASE-RXN:1 NAD_c + 1 GLT_c + 1 WATER_c -> 1 AMMONIUM_c + 1 NADH_c + 1 PROTON_c + 1 2-KETOGLUTARATE_c (1 NAD+ + 1 L-glutamate + 1 H2O -> 1 ammonium + 1 NADH + 1 H+ + 1 2-oxoglutarate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+AMMONIUM_c (ammonium)
+GLT_c (L-glutamate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

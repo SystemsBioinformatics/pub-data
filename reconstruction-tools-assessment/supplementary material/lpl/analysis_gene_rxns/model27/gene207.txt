@@ -1,0 +1,15 @@
+notRecovered:
+NDPK9:1 atp_c + 1 idp_c <=> 1 adp_c + 1 itp_c (1 M_ATP_ + 1 M_IDP_ <=> 1 M_ADP_ + 1 M_ITP_)
+
+
+AdditionalNotInModel:
+NUCLEOSIDE-DIP-KIN-RXN:1 ATP_c + 1 Nucleoside-Diphosphates_c -> 1 ADP_c + 1 Nucleoside-Triphosphates_c (1 ATP + 1 Nucleoside-Diphosphates -> 1 ADP + 1 Nucleoside-Triphosphates)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+Nucleoside-Diphosphates_c (Nucleoside-Diphosphates)
+Nucleoside-Triphosphates_c (Nucleoside-Triphosphates)
+
+

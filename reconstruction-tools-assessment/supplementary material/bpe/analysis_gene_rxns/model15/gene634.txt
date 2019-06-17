@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00602:1 C00027_c + 1 C00132_c <=> 2 C00001_c + 1 C00067_c (1 Hydrogen peroxide + 1 Methanol <=> 2 H2O + 1 Formaldehyde)
+R02670:4 C00007_c + 2 C00632_c -> 2 C00027_c + 2 C00080_c + 2 C00704_c + 1 C05640_c (4 Oxygen + 2 3-Hydroxyanthranilate -> 2 Hydrogen peroxide + 2 H+ + 2 O2.- + 1 Cinnavalininate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00027_c (Hydrogen peroxide)
+C00067_c (Formaldehyde)
+C00080_c (H+)
+C00132_c (Methanol)
+C00632_c (3-Hydroxyanthranilate)
+C00704_c (O2.-)
+C05640_c (Cinnavalininate)
+
+

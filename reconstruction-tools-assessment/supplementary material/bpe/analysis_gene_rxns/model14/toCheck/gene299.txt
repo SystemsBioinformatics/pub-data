@@ -1,0 +1,22 @@
+notRecovered:
+ACHBS:1 2obut_c + 1 h_c + 1 pyr_c -> 1 2ahbut_c + 1 co2_c (1 2-Oxobutanoate + 1 H+ + 1 Pyruvate -> 1 (S)-2-Aceto-2-hydroxybutanoate + 1 CO2)
+ACLS:1 h_c + 2 pyr_c -> 1 alac__S_c + 1 co2_c (1 H+ + 2 Pyruvate -> 1 (S)-2-Acetolactate + 1 CO2)
+
+
+AdditionalNotInModel:
+rxn00011:1 cpd00067_c + 1 cpd00056_c + 1 cpd00020_c -> 1 cpd03049_c + 1 cpd00011_c (1 H_plus__c0 + 1 TPP_c0 + 1 Pyruvate_c0 -> 1 2_Hydroxyethyl_ThPP_c0 + 1 CO2_c0)
+rxn02185:1 cpd00056_c + 1 cpd00668_c <=> 1 cpd03049_c + 1 cpd00020_c (1 TPP_c0 + 1 ALCTT_c0 <=> 1 2_Hydroxyethyl_ThPP_c0 + 1 Pyruvate_c0)
+rxn03194:1 cpd03049_c + 1 cpd00094_c <=> 1 cpd00056_c + 1 cpd00498_c (1 2_Hydroxyethyl_ThPP_c0 + 1 2_Oxobutyrate_c0 <=> 1 TPP_c0 + 1 2_Aceto_2_hydroxybutanoate_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00056_c (TPP_c0)
+cpd00067_c (H_plus__c0)
+cpd00094_c (2_Oxobutyrate_c0)
+cpd00498_c (2_Aceto_2_hydroxybutanoate_c0)
+cpd00668_c (ALCTT_c0)
+cpd03049_c (2_Hydroxyethyl_ThPP_c0)
+
+

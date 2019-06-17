@@ -1,0 +1,4 @@
+notRecovered:
+13PPDH:1 3hppnl_c + 1 h_c + 1 nadh_c <=> 1 13ppd_c + 1 nad_c (1 M_3_Hydroxypropanal_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_Propane_1_3_diol_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+

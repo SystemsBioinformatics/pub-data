@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn02229:1 cpd00081_c + 1 cpd00706_c <=> 1 cpd00020_c + 1 cpd00268_c (1 Sulfite_c0 + 1 Mercaptopyruvate_c0 <=> 1 Pyruvate_c0 + 1 H2S2O3_c0)
+rxn02230:1 cpd00706_c + 1 cpd00150_c <=> 1 cpd00067_c + 1 cpd00020_c + 1 cpd01211_c (1 Mercaptopyruvate_c0 + 1 HCN_c0 <=> 1 H_plus__c0 + 1 Pyruvate_c0 + 1 Thiocyanate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00081_c (Sulfite_c0)
+cpd00150_c (HCN_c0)
+cpd00268_c (H2S2O3_c0)
+cpd00706_c (Mercaptopyruvate_c0)
+cpd01211_c (Thiocyanate_c0)
+
+

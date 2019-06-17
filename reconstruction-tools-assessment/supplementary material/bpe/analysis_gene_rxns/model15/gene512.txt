@@ -1,0 +1,5 @@
+notRecovered:
+CU1Opp:4 cu_p + 4 h_p + 1 o2_p -> 4 cu2_p + 2 h2o_p (4 Cu+ + 4 H+ + 1 O2 -> 4 Cu2+ + 2 H2O)
+FEROpp:4 fe2_p + 4 h_p + 1 o2_p -> 4 fe3_p + 2 h2o_p (4 Fe2+ + 4 H+ + 1 O2 -> 4 Fe3+ + 2 H2O)
+
+

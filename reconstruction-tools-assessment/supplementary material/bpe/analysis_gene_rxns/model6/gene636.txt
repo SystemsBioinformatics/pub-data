@@ -1,0 +1,4 @@
+notRecovered:
+HMGL:1 hmgcoa_c -> 1 acac_c + 1 accoa_c (1 (S)-3-hydroxy-3-methylglutaryl-coenzyme A -> 1 Acetoacetate + 1 Acetyl-CoA)
+
+

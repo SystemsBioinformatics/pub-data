@@ -1,0 +1,15 @@
+notRecovered:
+SBTpts:1 pep_c + 1 sbt__D_e -> 1 pyr_c + 1 sbt6p_c (1 M_Phosphoenolpyruvate_ + 1 M_D_Sorbitol_ -> 1 M_Pyruvate_ + 1 M_D_Sorbitol_6_phosphate_)
+
+
+AdditionalNotInModel:
+R05820:1 C00794_c + 1 C04261_c -> 1 C00615_c + 1 C01096_c (1 D-Sorbitol + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 Sorbitol 6-phosphate)
+
+
+AdditionalMetabolites:
+C00615_c (Protein histidine)
+C00794_c (D-Sorbitol)
+C01096_c (Sorbitol 6-phosphate)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+
+

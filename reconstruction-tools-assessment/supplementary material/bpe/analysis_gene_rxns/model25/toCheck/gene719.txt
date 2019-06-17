@@ -1,0 +1,18 @@
+notRecovered:
+ALCA:1 fadh2_c + 1 o2_c + 1 ptrc_c -> 1 fad_c + 1 h2o_c + 1 hptrc_c (1 Flavin adenine dinucleotide reduced + 1 O2 + 1 Putrescine -> 1 Flavin adenine dinucleotide oxidized + 1 H2O + 1 N4-hydroxyputrescine)
+
+
+AdditionalNotInModel:
+RXN-11006:1 Donor-H2_c + 1 OXYGEN-MOLECULE_c + 1 PUTRESCINE_c -> 1 Acceptor_c + 1 CPD-11963_c + 1 PROTON_c + 1 WATER_c (1 Donor-H2 + 1 oxygen + 1 putrescine -> 1 Acceptor + 1 N-hydroxyputrescine + 1 H+ + 1 H2O)
+
+
+AdditionalMetabolites:
+Acceptor_c (Acceptor)
+CPD-11963_c (N-hydroxyputrescine)
+Donor-H2_c (Donor-H2)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+PUTRESCINE_c (putrescine)
+WATER_c (H2O)
+
+

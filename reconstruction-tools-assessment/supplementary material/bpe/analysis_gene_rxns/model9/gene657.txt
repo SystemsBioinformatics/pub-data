@@ -1,0 +1,4 @@
+notRecovered:
+ALCB:1 hptrc_c + 1 succoa_c -> 1 coa_c + 1 shptrc_c (1 N4-hydroxyputrescine + 1 Succinyl-CoA -> 1 Coenzyme A + 1 N4-succinyl-N4-hydroxyputrescine)
+
+

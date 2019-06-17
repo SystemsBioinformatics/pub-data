@@ -1,0 +1,17 @@
+notRecovered:
+UAGDP:1 acgam1p_c + 1 h_c + 1 utp_c -> 1 ppi_c + 1 uacgam_c (1 M_N_Acetyl_D_glucosamine_1_phosphate_ + 1 M_H_ + 1 M_UTP_ -> 1 M_Diphosphate_ + 1 M_UDP_N_acetyl_D_glucosamine_)
+G1PACT:1 accoa_c + 1 gam1p_c -> 1 acgam1p_c + 1 coa_c + 1 h_c (1 M_Acetyl_CoA_ + 1 M_D_Glucosamine_1_phosphate_ -> 1 M_N_Acetyl_D_glucosamine_1_phosphate_ + 1 M_Coenzyme_A_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+NAG1P-URIDYLTRANS-RXN:1 N-ACETYL-D-GLUCOSAMINE-1-P_c + 1 UTP_c + 1 PROTON_c <=> 1 UDP-N-ACETYL-D-GLUCOSAMINE_c + 1 PPI_c (1 N-acetyl-alpha-D-glucosamine 1-phosphate + 1 UTP + 1 H+ <=> 1 UDP-N-acetyl-alpha-D-glucosamine + 1 diphosphate)
+
+
+AdditionalMetabolites:
+N-ACETYL-D-GLUCOSAMINE-1-P_c (N-acetyl-alpha-D-glucosamine 1-phosphate)
+PPI_c (diphosphate)
+PROTON_c (H+)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+UTP_c (UTP)
+
+

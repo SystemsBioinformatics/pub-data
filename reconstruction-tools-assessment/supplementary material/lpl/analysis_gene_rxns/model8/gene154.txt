@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+GLYALDt:1 glyald_e <=> 1 glyald_c (1 D-Glyceraldehyde <=> 1 D-Glyceraldehyde)
+UREAt:1 urea_e <=> 1 urea_c (1 Urea CH4N2O <=> 1 Urea CH4N2O)
+
+
+AdditionalMetabolites:
+glyald_e (D-Glyceraldehyde)
+urea_c (Urea CH4N2O)
+urea_e (Urea CH4N2O)
+
+

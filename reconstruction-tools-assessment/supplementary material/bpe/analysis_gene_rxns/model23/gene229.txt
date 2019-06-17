@@ -1,0 +1,15 @@
+notRecovered:
+APATr:1 ala_B_c + 1 pyr_c <=> 1 ala__L_c + 1 msa_c (1 beta-Alanine + 1 Pyruvate <=> 1 L-Alanine + 1 Malonate-semialdehyde)
+
+
+AdditionalNotInModel:
+RXN-8:1 PUTRESCINE_c + 1 PYRUVATE_c <=> 1 4-AMINO-BUTYRALDEHYDE_c + 1 L-ALPHA-ALANINE_c (1 putrescine + 1 pyruvate <=> 1 4-aminobutanal + 1 L-alanine)
+
+
+AdditionalMetabolites:
+4-AMINO-BUTYRALDEHYDE_c (4-aminobutanal)
+L-ALPHA-ALANINE_c (L-alanine)
+PUTRESCINE_c (putrescine)
+PYRUVATE_c (pyruvate)
+
+

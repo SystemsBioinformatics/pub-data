@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R02786:1 C00002_c + 1 C00047_c + 1 C00692_c <=> 1 C00008_c + 1 C00009_c + 1 C05892_c (1 ATP + 1 L-Lysine + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate <=> 1 ADP + 1 Orthophosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine)
+R04617:1 C00002_c + 1 C00993_c + 1 C04877_c -> 1 C00008_c + 1 C00009_c + 1 C04882_c (1 ATP + 1 D-Alanyl-D-alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate -> 1 ADP + 1 Orthophosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00047_c (L-Lysine)
+C00692_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate)
+C00993_c (D-Alanyl-D-alanine)
+C04877_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate)
+C04882_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine)
+C05892_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine)
+
+

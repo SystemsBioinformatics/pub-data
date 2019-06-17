@@ -1,0 +1,14 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 UDPglucose <=> 1 UDPgalactose)
+
+
+AdditionalNotInModel:
+DTDPGLUCDEHYDRAT-RXN:1 DTDP-D-GLUCOSE_c -> 1 DTDP-DEOH-DEOXY-GLUCOSE_c + 1 WATER_c (1 dTDP-alpha-D-glucose -> 1 dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose + 1 H2O)
+
+
+AdditionalMetabolites:
+DTDP-D-GLUCOSE_c (dTDP-alpha-D-glucose)
+DTDP-DEOH-DEOXY-GLUCOSE_c (dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose)
+WATER_c (H2O)
+
+

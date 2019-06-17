@@ -1,0 +1,15 @@
+notRecovered:
+LOXL:1 lac__L_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_L_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+RXN-969:1 GLYCOLLATE_c + 1 OXYGEN-MOLECULE_c -> 1 GLYOX_c + 1 HYDROGEN-PEROXIDE_c (1 glycolate + 1 oxygen -> 1 glyoxylate + 1 hydrogen peroxide)
+
+
+AdditionalMetabolites:
+GLYCOLLATE_c (glycolate)
+GLYOX_c (glyoxylate)
+HYDROGEN-PEROXIDE_c (hydrogen peroxide)
+OXYGEN-MOLECULE_c (oxygen)
+
+

@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R09951:1 C00003_c + 1 C19891_c <=> 1 C00004_c + 1 C00080_c + 1 C20251_c (1 NAD+ + 1 1D-chiro-Inositol <=> 1 NADH + 1 H+ + 1 1-Keto-D-chiro-inositol)
+R09953:1 C00003_c + 1 C06153_c <=> 1 C00004_c + 1 C00080_c + 1 C00691_c (1 NAD+ + 1 scyllo-Inositol <=> 1 NADH + 1 H+ + 1 2,4,6/3,5-Pentahydroxycyclohexanone)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00691_c (2,4,6/3,5-Pentahydroxycyclohexanone)
+C06153_c (scyllo-Inositol)
+C19891_c (1D-chiro-Inositol)
+C20251_c (1-Keto-D-chiro-inositol)
+
+

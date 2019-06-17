@@ -1,0 +1,4 @@
+notRecovered:
+AKGDH:1 akg_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 succoa_c (1 2-Oxoglutarate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 Succinyl-CoA)
+
+

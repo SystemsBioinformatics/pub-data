@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R09009:1 C00935_c <=> 1 C18094_c (1 UDP-L-arabinose <=> 1 UDP-L-arabinofuranose)
+
+
+AdditionalMetabolites:
+C00935_c (UDP-L-arabinose)
+C18094_c (UDP-L-arabinofuranose)
+
+

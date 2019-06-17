@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-7919:1 2-hydroxyacyl-glutathiones_c + 1 WATER_c -> 1 2-Hydroxy-carboxylates_c + 1 GLUTATHIONE_c + 1 PROTON_c (1 S-(2-hydroxyacyl)glutathione + 1 H2O -> 1 a 2-hydroxy carboxylate + 1 glutathione + 1 H+)
+
+
+AdditionalMetabolites:
+2-Hydroxy-carboxylates_c (a 2-hydroxy carboxylate)
+2-hydroxyacyl-glutathiones_c (S-(2-hydroxyacyl)glutathione)
+GLUTATHIONE_c (glutathione)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

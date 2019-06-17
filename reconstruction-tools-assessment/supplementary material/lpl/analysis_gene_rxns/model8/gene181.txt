@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+IACGAMS:1 acgam_c + 1 mi1p__D_c -> 1 iacgam_c + 1 pi_c (1 N-Acetyl-D-glucosamine + 1 1D-myo-Inositol 1-phosphate -> 1 1D-myo-inositol 2-Acetamido-2-deoxy-D-glucopyranoside + 1 Phosphate)
+
+
+AdditionalMetabolites:
+acgam_c (N-Acetyl-D-glucosamine)
+iacgam_c (1D-myo-inositol 2-Acetamido-2-deoxy-D-glucopyranoside)
+
+

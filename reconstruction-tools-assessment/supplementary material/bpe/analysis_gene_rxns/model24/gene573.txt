@@ -1,0 +1,17 @@
+notRecovered:
+GLUSy:1 akg_c + 1 gln__L_c + 1 h_c + 1 nadph_c -> 2 glu__L_c + 1 nadp_c (1 2-Oxoglutarate + 1 L-Glutamine + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 2 L-Glutamate + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+GLUTAMATE-SYNTHASE-NADH-RXN:1 2-KETOGLUTARATE_c + 1 GLN_c + 1 NADH_c + 1 PROTON_c -> 2 GLT_c + 1 NAD_c (1 2-oxoglutarate + 1 L-glutamine + 1 NADH + 1 H+ -> 2 L-glutamate + 1 NAD+)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

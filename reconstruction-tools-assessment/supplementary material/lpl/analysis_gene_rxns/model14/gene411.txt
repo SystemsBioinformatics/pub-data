@@ -1,0 +1,5 @@
+notRecovered:
+PPCDC:1 4ppcys_c + 1 h_c -> 1 co2_c + 1 pan4p_c (1 M_N___R__4_Phosphopantothenoyl__L_cysteine_ + 1 M_H_ -> 1 M_CO2_ + 1 M_Pantetheine_4__phosphate_)
+PPNCL:1 4ppan_c + 1 ctp_c + 1 cys__L_c -> 1 4ppcys_c + 1 cdp_c + 1 h_c + 1 pi_c (1 M_D_4__Phosphopantothenate_ + 1 M_CTP_ + 1 M_L_Cysteine_ -> 1 M_N___R__4_Phosphopantothenoyl__L_cysteine_ + 1 M_CDP_ + 1 M_H_ + 1 M_Phosphate_)
+
+

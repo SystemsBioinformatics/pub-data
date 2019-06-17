@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R08231:1 C00119_c + 1 C07649_c <=> 1 C00013_c + 1 C16634_c (1 5-Phospho-alpha-D-ribose 1-diphosphate + 1 5-FU <=> 1 Diphosphate + 1 5-Fluorouridine monophosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00119_c (5-Phospho-alpha-D-ribose 1-diphosphate)
+C07649_c (5-FU)
+C16634_c (5-Fluorouridine monophosphate)
+
+

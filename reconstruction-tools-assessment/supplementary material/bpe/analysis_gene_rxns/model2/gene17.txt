@@ -1,0 +1,7 @@
+notRecovered:
+ALCtpp:1 alcaligin_c + 1 h_p -> 1 alcaligin_p + 1 h_c (1 alcaligin + 1 H+ -> 1 alcaligin + 1 H+)
+
+
+AdditionalInModel:
+Kt3pp:1 h_p + 1 k_c -> 1 h_c + 1 k_p (1 H+ + 1 Potassium -> 1 H+ + 1 Potassium)
+NAt3pp:1 h_p + 1 na1_c -> 1 h_c + 1 na1_p (1 H+ + 1 Sodium -> 1 H+ + 1 Sodium)

@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+DGUNC:2 gtp_c -> 2 ppi_c + 1 cdigmp_c (2 GTP -> 2 Diphosphate + 1 Cyclic diguanosine monophosphate)
+
+
+AdditionalMetabolites:
+cdigmp_c (Cyclic diguanosine monophosphate)
+
+

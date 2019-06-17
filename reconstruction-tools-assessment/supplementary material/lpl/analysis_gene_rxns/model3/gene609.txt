@@ -1,0 +1,4 @@
+notRecovered:
+DHDPS:1 aspsa_c + 1 pyr_c -> 1 23dhdp_c + 2 h2o_c + 1 h_c (1 M_L_Aspartate_4_semialdehyde_ + 1 M_Pyruvate_ -> 1 M_2_3_Dihydrodipicolinate_ + 2 M_H2O_ + 1 M_H_)
+
+

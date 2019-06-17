@@ -1,0 +1,4 @@
+notRecovered:
+ENO:1 2pg_c <=> 1 h2o_c + 1 pep_c (1 D-Glycerate 2-phosphate <=> 1 H2O + 1 Phosphoenolpyruvate)
+
+

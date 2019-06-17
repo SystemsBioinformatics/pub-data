@@ -1,0 +1,4 @@
+notRecovered:
+ARAI:1 arab__L_c <=> 1 rbl__L_c (1 M_L_Arabinose_ <=> 1 M_L_Ribulose_)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+CITTRANS-RXN:1 CIT_c + 1 CITRATE-LYASE_c + 1 PROTON_c -> 1 ACET_c + 1 Citrate-Lyase-Citryl-Form_c (1 citrate + 1 CITRATE-LYASE + 1 H+ -> 1 acetate + 1 Citrate-Lyase-Citryl-Form)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+CITRATE-LYASE_c (CITRATE-LYASE)
+CIT_c (citrate)
+Citrate-Lyase-Citryl-Form_c (Citrate-Lyase-Citryl-Form)
+PROTON_c (H+)
+
+

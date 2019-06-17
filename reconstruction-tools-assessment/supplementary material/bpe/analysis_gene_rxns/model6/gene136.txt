@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+DSBAO2:1 dsbard_p + 1 mqn8_c -> 1 dsbaox_p + 1 mql8_c (1 Periplasmic protein disulfide isomerase I (reduced) + 1 Menaquinone 8 -> 1 Periplasmic protein disulfide isomerase I (oxidized) + 1 Menaquinol 8)
+
+
+AdditionalMetabolites:
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+PHEMEabcpp2:1 atp_c + 1 h2o_c + 1 pheme_p -> 1 adp_c + 1 h_c + 1 pheme_c + 1 pi_c (1 ATP + 1 H2O + 1 Protoheme -> 1 ADP + 1 H+ + 1 Protoheme + 1 Phosphate)
+ADOCBLabcpp:1 adocbl_p + 1 atp_c + 1 h2o_c -> 1 adocbl_c + 1 adp_c + 1 h_c + 1 pi_c (1 Adenosylcobalamin + 1 ATP + 1 H2O -> 1 Adenosylcobalamin + 1 ADP + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+TRANS-RXN-296:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+ABC-5-RXN:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

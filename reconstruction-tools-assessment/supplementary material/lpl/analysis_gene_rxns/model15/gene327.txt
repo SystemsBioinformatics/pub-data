@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn01292:1 cpd00224_c <=> 1 cpd00397_c (1 L_Arabinose_c0 <=> 1 L_Ribulose_c0)
+
+
+AdditionalMetabolites:
+cpd00224_c (L_Arabinose_c0)
+cpd00397_c (L_Ribulose_c0)
+
+

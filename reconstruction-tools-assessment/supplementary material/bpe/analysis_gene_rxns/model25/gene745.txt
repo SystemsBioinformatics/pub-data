@@ -1,0 +1,17 @@
+notRecovered:
+IPPS:1 3mob_c + 1 accoa_c + 1 h2o_c -> 1 3c3hmp_c + 1 coa_c + 1 h_c (1 3-Methyl-2-oxobutanoate + 1 Acetyl-CoA + 1 H2O -> 1 3-Carboxy-3-hydroxy-4-methylpentanoate + 1 Coenzyme A + 1 H+)
+
+
+AdditionalNotInModel:
+RXN-16493:1 ACETYL-COA_c + 1 P-HYDROXY-PHENYLPYRUVATE_c + 1 WATER_c -> 1 CO-A_c + 1 CPD-17726_c + 1 PROTON_c (1 acetyl-CoA + 1 4-hydroxyphenylpyruvate + 1 H2O -> 1 coenzyme A + 1 2-(4-hydroxybenzyl)-malate + 1 H+)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+CO-A_c (coenzyme A)
+CPD-17726_c (2-(4-hydroxybenzyl)-malate)
+P-HYDROXY-PHENYLPYRUVATE_c (4-hydroxyphenylpyruvate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

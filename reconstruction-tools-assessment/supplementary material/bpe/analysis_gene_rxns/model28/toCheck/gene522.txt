@@ -1,0 +1,16 @@
+notRecovered:
+CHLabcpp:1 atp_c + 1 chol_p + 1 h2o_c -> 1 adp_c + 1 chol_c + 1 h_c + 1 pi_c (1 ATP + 1 Choline + 1 H2O -> 1 ADP + 1 Choline + 1 H+ + 1 Phosphate)
+PROabcpp:1 atp_c + 1 h2o_c + 1 pro__L_p -> 1 adp_c + 1 h_c + 1 pi_c + 1 pro__L_c (1 ATP + 1 H2O + 1 L-Proline -> 1 ADP + 1 H+ + 1 Phosphate + 1 L-Proline)
+
+
+AdditionalNotInModel:
+R03372:1 C01204_c + 1 C00001_c <=> 1 C04579_c + 1 C00009_c (1 Phytic acid + 1 H2O <=> 1 Inositol 1,2,3,5,6-pentakisphosphate + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C01204_c (Phytic acid)
+C04579_c (Inositol 1,2,3,5,6-pentakisphosphate)
+
+

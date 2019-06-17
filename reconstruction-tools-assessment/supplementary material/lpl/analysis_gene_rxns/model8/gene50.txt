@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+ALDD1:1 h2o_c + 1 nad_c + 1 fald_c -> 1 nadh_c + 1 for_c + 2 h_c (1 H2O H2O + 1 Nicotinamide adenine dinucleotide + 1 Formaldehyde -> 1 Nicotinamide adenine dinucleotide - reduced + 1 Formate + 2 H+)
+PYRDC:1 pyr_c + 1 h_c -> 1 co2_c + 1 acald_c (1 Pyruvate + 1 H+ -> 1 CO2 CO2 + 1 Acetaldehyde)
+
+
+AdditionalMetabolites:
+fald_c (Formaldehyde)
+
+
+AdditionalInModel:
+ALCD2x:1 nad_c + 1 etoh_c <=> 1 nadh_c + 1 acald_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Ethanol <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 Acetaldehyde + 1 H+)

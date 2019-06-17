@@ -1,0 +1,15 @@
+notRecovered:
+GLTAL:0.01 LTA_LPL_c + 25 udpg_c -> 0.01 LTAglc_LPL_c + 25 h_c + 25 udp_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_UDPglucose_ -> 0.01 M_Lipoteichoic_acid__n25_with_glucose_residues__LPL_specific__ + 25 M_H_ + 25 M_UDP_)
+
+
+AdditionalNotInModel:
+R04041:1 C00029_c + 1 C02768_c <=> 1 C04508_c + 1 C00015_c (1 UDP-glucose + 1 (Glycerophosphate)n <=> 1 alpha-D-Glucosylpoly(glycerol phosphate) + 1 UDP)
+
+
+AdditionalMetabolites:
+C00015_c (UDP)
+C00029_c (UDP-glucose)
+C02768_c ((Glycerophosphate)n)
+C04508_c (alpha-D-Glucosylpoly(glycerol phosphate))
+
+

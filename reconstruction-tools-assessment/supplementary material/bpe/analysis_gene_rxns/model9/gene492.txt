@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+GMP-SYN-NH3-RXN:1 XANTHOSINE-5-PHOSPHATE_c + 1 ATP_c + 1 AMMONIUM_c -> 1 GMP_c + 1 AMP_c + 1 PPI_c + 2 PROTON_c (1 XMP + 1 ATP + 1 ammonium -> 1 GMP + 1 AMP + 1 diphosphate + 2 H+)
+GLUTAMIN-RXN:1 GLN_c + 1 WATER_c -> 1 GLT_c + 1 AMMONIUM_c (1 L-glutamine + 1 H2O -> 1 L-glutamate + 1 ammonium)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+AMP_c (AMP)
+ATP_c (ATP)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+GMP_c (GMP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+XANTHOSINE-5-PHOSPHATE_c (XMP)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+RMI:1 rmn_c <=> 1 rml_c (1 M_L_Rhamnose_ <=> 1 M_L_Rhamnulose_)
+
+
+AdditionalNotInModel:
+LYXISOM-RXN:1 L-LYXOSE_c <=> 1 L-XYLULOSE_c (1 beta-L-lyxopyranose <=> 1 L-xylulose)
+RHAMNISOM-RXN:1 CPD0-1112_c <=> 1 CPD-16566_c (1 beta-L-rhamnopyranose <=> 1 keto-L-rhamnulose)
+
+
+AdditionalMetabolites:
+CPD-16566_c (keto-L-rhamnulose)
+CPD0-1112_c (beta-L-rhamnopyranose)
+L-LYXOSE_c (beta-L-lyxopyranose)
+L-XYLULOSE_c (L-xylulose)
+
+

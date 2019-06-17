@@ -1,0 +1,15 @@
+notRecovered:
+HCYSMT:1 amet_c + 1 hcys__L_c -> 1 ahcys_c + 1 h_c + 1 met__L_c (1 M_S_Adenosyl_L_methionine_ + 1 M_L_Homocysteine_ -> 1 M_S_Adenosyl_L_homocysteine_ + 1 M_H_ + 1 M_L_Methionine_)
+
+
+AdditionalNotInModel:
+MMUM-RXN:1 CPD-397_c + 1 HOMO-CYS_c -> 2 MET_c + 1 PROTON_c (1 S-methyl-L-methionine + 1 L-homocysteine -> 2 L-methionine + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-397_c (S-methyl-L-methionine)
+HOMO-CYS_c (L-homocysteine)
+MET_c (L-methionine)
+PROTON_c (H+)
+
+

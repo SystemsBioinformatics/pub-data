@@ -1,0 +1,17 @@
+notRecovered:
+HEMEOS:1 frdp_c + 1 h2o_c + 1 pheme_c -> 1 hemeO_c + 1 ppi_c (1 Farnesyl diphosphate + 1 H2O + 1 Protoheme -> 1 Heme O + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+rxn08707:1 cpd00001_c + 1 cpd00350_c + 1 cpd00028_c <=> 1 cpd00012_c + 1 cpd00067_c + 1 cpd11313_c (1 H2O_c0 + 1 Farnesyldiphosphate_c0 + 1 Heme_c0 <=> 1 PPi_c0 + 1 H_plus__c0 + 1 hemeO_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00012_c (PPi_c0)
+cpd00028_c (Heme_c0)
+cpd00067_c (H_plus__c0)
+cpd00350_c (Farnesyldiphosphate_c0)
+cpd11313_c (hemeO_c0)
+
+

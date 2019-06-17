@@ -1,0 +1,20 @@
+notRecovered:
+METabcpp:1 atp_c + 1 h2o_c + 1 met__L_p -> 1 adp_c + 1 h_c + 1 met__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Methionine -> 1 ADP + 1 H+ + 1 L-Methionine + 1 Phosphate)
+METDabcpp:1 atp_c + 1 h2o_c + 1 met__D_p -> 1 adp_c + 1 h_c + 1 met__D_c + 1 pi_c (1 ATP + 1 H2O + 1 D-Methionine -> 1 ADP + 1 H+ + 1 D-Methionine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+TRANS-RXN0-511:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+TRANS-RXN0-202:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+RXN0-4522:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+TRANS-RXN0-510:1 ATP_c + 1 WATER_c -> 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 ATP + 1 H2O -> 1 ADP + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

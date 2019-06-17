@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+ANS2:1 chor_c + 1 nh4_c -> 1 anth_c + 1 h2o_c + 1 h_c + 1 pyr_c (1 Chorismate + 1 Ammonium -> 1 Anthranilate + 1 H2O H2O + 1 H+ + 1 Pyruvate)
+
+

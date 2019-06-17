@@ -1,0 +1,10 @@
+notRecovered:
+ASPt4pp:1 asp__L_p + 1 na1_p <=> 1 asp__L_c + 1 na1_c (1 L-Aspartate + 1 Sodium <=> 1 L-Aspartate + 1 Sodium)
+GLUt4pp2:1 glu__L_p + 3 na1_p -> 1 glu__L_c + 3 na1_c (1 L-Glutamate + 3 Sodium -> 1 L-Glutamate + 3 Sodium)
+SULt4pp:1 na1_p + 1 so4_p <=> 1 na1_c + 1 so4_c (1 Sodium + 1 Sulfate <=> 1 Sodium + 1 Sulfate)
+
+
+AdditionalNotInModel:
+TARTRt7pp:1 succ_c + 1 tartr__L_p <=> 1 succ_p + 1 tartr__L_c (1 Succinate + 1 L-tartrate <=> 1 Succinate + 1 L-tartrate)
+
+

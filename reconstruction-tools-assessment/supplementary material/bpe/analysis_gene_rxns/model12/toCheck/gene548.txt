@@ -1,0 +1,15 @@
+notRecovered:
+AKGDH:1 akg_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 succoa_c (1 2-Oxoglutarate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 Succinyl-CoA)
+
+
+AdditionalNotInModel:
+RXN0-1147:1 SUC-COA_c + 1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c <=> 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c + 1 CO-A_c (1 succinyl-CoA + 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine <=> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine + 1 coenzyme A)
+
+
+AdditionalMetabolites:
+CO-A_c (coenzyme A)
+Oxo-glutarate-dehydro-suc-DH-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine)
+Oxo-glutarate-dehydrogenase-DH-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine)
+SUC-COA_c (succinyl-CoA)
+
+

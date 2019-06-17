@@ -1,0 +1,6 @@
+notRecovered:
+RBFSb:2 dmlz_c -> 1 4r5au_c + 1 ribflv_c (2 6,7-Dimethyl-8-(1-D-ribityl)lumazine -> 1 4-(1-D-Ribitylamino)-5-aminouracil + 1 Riboflavin)
+
+
+AdditionalInModel:
+RBFSa:1 4r5au_c + 1 db4p_c -> 1 dmlz_c + 2 h2o_c + 1 pi_c (1 4-(1-D-Ribitylamino)-5-aminouracil + 1 3,4-dihydroxy-2-butanone 4-phosphate -> 1 6,7-Dimethyl-8-(1-D-ribityl)lumazine + 2 H2O H2O + 1 Phosphate)

@@ -1,0 +1,5 @@
+notRecovered:
+DASYN141:1 ctp_c + 1 h_c + 1 pa141_c -> 1 cdpdtdec7eg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-ditetradec-7-enoylglycerol + 1 Diphosphate)
+DASYN140:1 ctp_c + 1 h_c + 1 pa140_c -> 1 cdpdtdecg_c + 1 ppi_c (1 CTP + 1 H+ + 1 1,2-ditetradecanoyl-sn-glycerol 3-phosphate -> 1 CDP-1,2-ditetradecanoylglycerol + 1 Diphosphate)
+
+

@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+ANS2:1 nh4_c + 1 chor_c -> 1 h2o_c + 1 pyr_c + 1 anth_c + 1 h_c (1 Ammonium + 1 Chorismate -> 1 H2O H2O + 1 Pyruvate + 1 Anthranilate + 1 H+)
+
+
+AdditionalInModel:
+ADCS:1 gln__L_c + 1 chor_c -> 1 4adcho_c + 1 glu__L_c (1 L-Glutamine + 1 Chorismate -> 1 4-amino-4-deoxychorismate + 1 L-Glutamate)

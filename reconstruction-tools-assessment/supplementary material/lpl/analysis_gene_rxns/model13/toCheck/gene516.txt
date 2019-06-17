@@ -1,0 +1,28 @@
+notRecovered:
+YUMPS:1 r5p_c + 1 ura_c <=> 1 h2o_c + 1 psd5p_c (1 M_alpha_D_Ribose_5_phosphate_ + 1 M_Uracil_ <=> 1 M_H2O_ + 1 M_Pseudouridine_5__phosphate_)
+
+
+AdditionalNotInModel:
+RXN-11842:1 Uridine32-in-tRNA_c <=> 1 tRNA-pseudouridine32_c (1 a uridine32 in tRNA <=> 1 a pseudouridine32 in tRNA)
+RXN-11834:1 23S-rRNA-uridine2457_c <=> 1 23S-rRNA-pseudouridine2457_c (1 uridine2457 in 23S rRNA <=> 1 a pseudouridine2457 in 23S rRNA)
+RXN-11836:1 23S-rRNA-uridine2605_c <=> 1 23S-rRNA-pseudouridine2605_c (1 uridine2605 in 23S rRNA <=> 1 a pseudouridine2605 in 23S rRNA)
+RXN-11838:1 23S-rRNA-uridine955-2504-2580_c <=> 1 23S-rRNA-pseudouridine955-2504-2580_c (1 uridine955/2504/2580 in 23S rRNA <=> 1 a pseudouridine955/2504/2580 in 23S rRNA)
+RXN-11835:1 23S-rRNA-uridine2604_c <=> 1 23S-rRNA-pseudouridine2604_c (1 a uridine2604 in 23S rRNA <=> 1 a pseudouridine2604 in 23S rRNA)
+RXN-11837:1 23S-rRNA-uridine1911-1915-1917_c <=> 1 23S-rRNA-pseudouridine1911-1915-1917_c (1 a 23S rRNA uridine1911/1915/1917 <=> 1 a pseudouridine1911/1915/1917 in 23S rRNA)
+
+
+AdditionalMetabolites:
+23S-rRNA-pseudouridine1911-1915-1917_c (a pseudouridine1911/1915/1917 in 23S rRNA)
+23S-rRNA-pseudouridine2457_c (a pseudouridine2457 in 23S rRNA)
+23S-rRNA-pseudouridine2604_c (a pseudouridine2604 in 23S rRNA)
+23S-rRNA-pseudouridine2605_c (a pseudouridine2605 in 23S rRNA)
+23S-rRNA-pseudouridine955-2504-2580_c (a pseudouridine955/2504/2580 in 23S rRNA)
+23S-rRNA-uridine1911-1915-1917_c (a 23S rRNA uridine1911/1915/1917)
+23S-rRNA-uridine2457_c (uridine2457 in 23S rRNA)
+23S-rRNA-uridine2604_c (a uridine2604 in 23S rRNA)
+23S-rRNA-uridine2605_c (uridine2605 in 23S rRNA)
+23S-rRNA-uridine955-2504-2580_c (uridine955/2504/2580 in 23S rRNA)
+Uridine32-in-tRNA_c (a uridine32 in tRNA)
+tRNA-pseudouridine32_c (a pseudouridine32 in tRNA)
+
+

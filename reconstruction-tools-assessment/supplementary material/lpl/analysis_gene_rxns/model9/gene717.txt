@@ -1,0 +1,2 @@
+AdditionalInModel:
+RMPA:1 rml1p_c <=> 1 dhap_c + 1 lald__L_c (1 L-Rhamnulose 1-phosphate <=> 1 Dihydroxyacetone phosphate + 1 L-Lactaldehyde)

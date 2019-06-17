@@ -1,0 +1,2 @@
+AdditionalInModel:
+GALUi:1 h_c + 1 utp_c + 1 g1p_c -> 1 ppi_c + 1 udpg_c (1 H+ + 1 UTP C9H11N2O15P3 + 1 D-Glucose 1-phosphate -> 1 Diphosphate + 1 UDPglucose)

@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R02412:1 C00002_c + 1 C00493_c <=> 1 C00008_c + 1 C03175_c (1 ATP + 1 Shikimate <=> 1 ADP + 1 Shikimate 3-phosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00493_c (Shikimate)
+C03175_c (Shikimate 3-phosphate)
+
+

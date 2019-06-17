@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn04757:1 cpd05521_c <=> 1 cpd05513_c (1 Violaxanthin_c0 <=> 1 Neoxanthin_c0)
+rxn04760:1 cpd09433_c <=> 1 cpd09434_c (1 9_cis_Neoxanthin_c0 <=> 1 9_cis_Violaxanthin_c0)
+
+
+AdditionalMetabolites:
+cpd05513_c (Neoxanthin_c0)
+cpd05521_c (Violaxanthin_c0)
+cpd09433_c (9_cis_Neoxanthin_c0)
+cpd09434_c (9_cis_Violaxanthin_c0)
+
+

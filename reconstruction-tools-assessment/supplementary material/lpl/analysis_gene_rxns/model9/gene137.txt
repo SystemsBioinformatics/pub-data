@@ -1,0 +1,24 @@
+AdditionalNotInModel:
+ILEabcpp:1 atp_c + 1 ile__L_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 ile__L_c (1 ATP C10H12N5O13P3 + 1 L-Isoleucine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 L-Isoleucine)
+PROabcpp:1 atp_c + 1 pro__L_p + 1 h2o_c -> 1 pro__L_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Proline + 1 H2O H2O -> 1 L-Proline + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+ALAabc:1 atp_c + 1 h2o_c + 1 ala__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 ala__L_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 L-Alanine -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 L-Alanine)
+THRabcpp:1 atp_c + 1 thr__L_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 thr__L_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Threonine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Threonine + 1 H+)
+SERabcpp:1 atp_c + 1 ser__L_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 ser__L_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Serine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Serine + 1 H+)
+VALabcpp:1 atp_c + 1 val__L_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 val__L_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Valine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Valine + 1 H+)
+THRabc:1 atp_c + 1 thr__L_e + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 thr__L_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Threonine + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 L-Threonine + 1 H+)
+GLYabcpp:1 atp_c + 1 h2o_c + 1 gly_p <=> 1 adp_c + 1 pi_c + 1 gly_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Glycine <=> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 Glycine + 1 H+)
+LEUabcpp:1 atp_c + 1 leu__L_p + 1 h2o_c -> 1 leu__L_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 L-Leucine + 1 H2O H2O -> 1 L-Leucine + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+ALAabcpp:1 ala__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 ala__L_c (1 L-Alanine + 1 ATP C10H12N5O13P3 + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 L-Alanine)
+
+
+AdditionalMetabolites:
+ala__L_p (L-Alanine)
+gly_p (Glycine)
+ile__L_p (L-Isoleucine)
+leu__L_p (L-Leucine)
+pro__L_p (L-Proline)
+ser__L_p (L-Serine)
+thr__L_p (L-Threonine)
+val__L_p (L-Valine)
+
+

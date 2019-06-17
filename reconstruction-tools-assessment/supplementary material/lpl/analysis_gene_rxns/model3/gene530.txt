@@ -1,0 +1,4 @@
+notRecovered:
+PYROX_1:1 h_c + 1 o2_c + 1 pi_c + 1 pyr_c -> 1 actp_c + 1 co2_c + 1 h2o2_c (1 M_H_ + 1 M_O2_ + 1 M_Phosphate_ + 1 M_Pyruvate_ -> 1 M_Acetyl_phosphate_ + 1 M_CO2_ + 1 M_Hydrogen_peroxide_)
+
+

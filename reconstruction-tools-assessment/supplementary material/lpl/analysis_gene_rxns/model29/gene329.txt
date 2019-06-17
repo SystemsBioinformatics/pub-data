@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R01000:1 C05984_c + 1 C00003_c <=> 1 C00109_c + 1 C00080_c + 1 C00004_c (1 2-Hydroxybutanoic acid + 1 NAD+ <=> 1 2-Oxobutanoate + 1 H+ + 1 NADH)
+R03104:1 C05823_c + 1 C00003_c <=> 1 C00957_c + 1 C00080_c + 1 C00004_c (1 3-Mercaptolactate + 1 NAD+ <=> 1 Mercaptopyruvate + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00109_c (2-Oxobutanoate)
+C00957_c (Mercaptopyruvate)
+C05823_c (3-Mercaptolactate)
+C05984_c (2-Hydroxybutanoic acid)
+
+

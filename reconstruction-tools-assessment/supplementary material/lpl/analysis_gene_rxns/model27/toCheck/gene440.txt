@@ -1,0 +1,22 @@
+notRecovered:
+GTPDPK:1 atp_c + 1 gtp_c -> 1 amp_c + 1 gdptp_c + 1 h_c (1 M_ATP_ + 1 M_GTP_ -> 1 M_AMP_ + 1 M_Guanosine_3__diphosphate_5__triphosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+GDPPYPHOSKIN-RXN:1 ATP_c + 1 GDP_c -> 1 AMP_c + 1 GUANOSINE-5DP-3DP_c (1 ATP + 1 GDP -> 1 AMP + 1 ppGpp)
+RXN0-6427:1 GDP-TP_c + 1 WATER_c -> 1 GTP_c + 1 PPI_c + 1 PROTON_c (1 pppGpp + 1 H2O -> 1 GTP + 1 diphosphate + 1 H+)
+PPGPPSYN-RXN:1 GUANOSINE-5DP-3DP_c + 1 WATER_c -> 1 GDP_c + 1 PPI_c + 1 PROTON_c (1 ppGpp + 1 H2O -> 1 GDP + 1 diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+GDP-TP_c (pppGpp)
+GDP_c (GDP)
+GTP_c (GTP)
+GUANOSINE-5DP-3DP_c (ppGpp)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

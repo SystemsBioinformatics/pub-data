@@ -1,0 +1,2 @@
+AdditionalInModel:
+ASPTA:1 akg_c + 1 asp__L_c <=> 1 glu__L_c + 1 oaa_c (1 2-Oxoglutarate + 1 L-Aspartate <=> 1 L-Glutamate + 1 Oxaloacetate)

@@ -1,0 +1,4 @@
+notRecovered:
+IPDDI:1 ipdp_c <=> 1 dmpp_c (1 M_Isopentenyl_diphosphate_ <=> 1 M_Dimethylallyl_diphosphate_)
+
+

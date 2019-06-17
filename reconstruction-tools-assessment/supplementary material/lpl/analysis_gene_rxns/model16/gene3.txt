@@ -1,0 +1,28 @@
+AdditionalNotInModel:
+rxn05735:1 cpd00001_c + 1 cpd00003_c + 1 cpd04122_c -> 2 cpd00067_c + 1 cpd00033_c + 1 cpd00004_c (1 H2O_c0 + 1 NAD_c0 + 1 Aminoacetaldehyde_c0 -> 2 H_plus__c0 + 1 Glycine_c0 + 1 NADH_c0)
+rxn05734:1 cpd00001_c + 1 cpd00003_c + 1 cpd00040_c <=> 2 cpd00067_c + 1 cpd00004_c + 1 cpd00180_c (1 H2O_c0 + 1 NAD_c0 + 1 Glyoxalate_c0 <=> 2 H_plus__c0 + 1 NADH_c0 + 1 Oxalate_c0)
+rxn02853:1 cpd00001_c + 1 cpd00003_c + 1 cpd03052_c -> 2 cpd00067_c + 1 cpd00004_c + 1 cpd01831_c (1 H2O_c0 + 1 NAD_c0 + 1 Imidazole_acetaldehyde_c0 -> 2 H_plus__c0 + 1 NADH_c0 + 1 4_Imidazoleacetate_c0)
+rxn01459:1 cpd00001_c + 1 cpd00006_c + 1 cpd00434_c -> 2 cpd00067_c + 1 cpd00005_c + 1 cpd00281_c (1 H2O_c0 + 1 NADP_c0 + 1 4_Aminobutanal_c0 -> 2 H_plus__c0 + 1 NADPH_c0 + 1 GABA_c0)
+rxn01851:1 cpd00001_c + 1 cpd00003_c + 1 cpd00434_c -> 2 cpd00067_c + 1 cpd00004_c + 1 cpd00281_c (1 H2O_c0 + 1 NAD_c0 + 1 4_Aminobutanal_c0 -> 2 H_plus__c0 + 1 NADH_c0 + 1 GABA_c0)
+rxn00653:2 cpd00067_c + 1 cpd00004_c + 1 cpd00085_c <=> 1 cpd00001_c + 1 cpd00003_c + 1 cpd01504_c (2 H_plus__c0 + 1 NADH_c0 + 1 beta_Alanine_c0 <=> 1 H2O_c0 + 1 NAD_c0 + 1 3_Aminopropanal_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00033_c (Glycine_c0)
+cpd00040_c (Glyoxalate_c0)
+cpd00067_c (H_plus__c0)
+cpd00085_c (beta_Alanine_c0)
+cpd00180_c (Oxalate_c0)
+cpd00281_c (GABA_c0)
+cpd00434_c (4_Aminobutanal_c0)
+cpd01504_c (3_Aminopropanal_c0)
+cpd01831_c (4_Imidazoleacetate_c0)
+cpd03052_c (Imidazole_acetaldehyde_c0)
+cpd04122_c (Aminoacetaldehyde_c0)
+
+

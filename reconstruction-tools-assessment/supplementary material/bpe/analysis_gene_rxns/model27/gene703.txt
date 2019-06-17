@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R02300:1 C03479_c <=> 1 C00001_c + 1 C00445_c (1 Folinic acid <=> 1 H2O + 1 5,10-Methenyltetrahydrofolate)
+R04125:1 C01242_c + 1 C00101_c <=> 1 C00014_c + 1 C02972_c + 1 C00143_c (1 S-Aminomethyldihydrolipoylprotein + 1 Tetrahydrofolate <=> 1 Ammonia + 1 Dihydrolipoylprotein + 1 5,10-Methylenetetrahydrofolate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00101_c (Tetrahydrofolate)
+C00143_c (5,10-Methylenetetrahydrofolate)
+C00445_c (5,10-Methenyltetrahydrofolate)
+C01242_c (S-Aminomethyldihydrolipoylprotein)
+C02972_c (Dihydrolipoylprotein)
+C03479_c (Folinic acid)
+
+

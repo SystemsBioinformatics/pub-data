@@ -1,0 +1,13 @@
+notRecovered:
+LDH_D:1 lac__D_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 pyr_c (1 D-Lactate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyruvate)
+
+
+AdditionalNotInModel:
+PGLCNDH:1 6p2dhglcn_c + 1 nadph_c <=> 1 6pgc_c + 2 h_c + 1 nadp_c (1 6-Phospho-2-dehydro-D-gluconate + 1 Nicotinamide adenine dinucleotide phosphate - reduced <=> 1 6-Phospho-D-gluconate + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+6p2dhglcn_c (6-Phospho-2-dehydro-D-gluconate)
+6pgc_c (6-Phospho-D-gluconate)
+
+

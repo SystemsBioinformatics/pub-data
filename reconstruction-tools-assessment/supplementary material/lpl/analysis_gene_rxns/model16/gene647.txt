@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01754:1 cpd00002_c + 1 cpd00392_c <=> 1 cpd00008_c + 1 cpd02203_c (1 ATP_c0 + 1 Phycite_c0 <=> 1 ADP_c0 + 1 D_Erythritol_4_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00392_c (Phycite_c0)
+cpd02203_c (D_Erythritol_4_phosphate_c0)
+
+

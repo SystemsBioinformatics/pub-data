@@ -1,0 +1,7 @@
+notRecovered:
+RNDR4:1 trdrd_c + 1 udp_c -> 1 dudp_c + 1 h2o_c + 1 trdox_c (1 Reduced thioredoxin + 1 UDP -> 1 dUDP + 1 H2O + 1 Oxidized thioredoxin)
+RNDR3:1 cdp_c + 1 trdrd_c -> 1 dcdp_c + 1 h2o_c + 1 trdox_c (1 CDP + 1 Reduced thioredoxin -> 1 dCDP + 1 H2O + 1 Oxidized thioredoxin)
+RNDR1:1 adp_c + 1 trdrd_c -> 1 dadp_c + 1 h2o_c + 1 trdox_c (1 ADP + 1 Reduced thioredoxin -> 1 dADP + 1 H2O + 1 Oxidized thioredoxin)
+RNDR2:1 gdp_c + 1 trdrd_c -> 1 dgdp_c + 1 h2o_c + 1 trdox_c (1 GDP + 1 Reduced thioredoxin -> 1 dGDP + 1 H2O + 1 Oxidized thioredoxin)
+
+

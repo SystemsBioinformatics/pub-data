@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R03270:1 C05125_c + 1 C15972_c <=> 1 C00068_c + 1 C16255_c (1 2-(alpha-Hydroxyethyl)thiamine diphosphate + 1 Enzyme N6-(lipoyl)lysine <=> 1 Thiamin diphosphate + 1 [Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine)
+R01699:1 C00022_c + 1 C15972_c <=> 1 C16255_c + 1 C00011_c (1 Pyruvate + 1 Enzyme N6-(lipoyl)lysine <=> 1 [Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine + 1 CO2)
+R00014:1 C00068_c + 1 C00022_c <=> 1 C05125_c + 1 C00011_c (1 Thiamin diphosphate + 1 Pyruvate <=> 1 2-(alpha-Hydroxyethyl)thiamine diphosphate + 1 CO2)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00022_c (Pyruvate)
+C00068_c (Thiamin diphosphate)
+C05125_c (2-(alpha-Hydroxyethyl)thiamine diphosphate)
+C15972_c (Enzyme N6-(lipoyl)lysine)
+C16255_c ([Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine)
+
+

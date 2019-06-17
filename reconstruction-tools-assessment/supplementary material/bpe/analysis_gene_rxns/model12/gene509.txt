@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN0-5055:1 carboxybiotin-L-lysine-in-BCCP-dimers_c + 1 ACETYL-COA_c -> 1 biotin-L-lysine-in-BCCP-dimers_c + 1 MALONYL-COA_c (1 a [carboxyl-carrier protein dimer]-N6-carboxybiotinyl-L-lysine + 1 acetyl-CoA -> 1 a [biotin carboxyl-carrier-protein dimer]-N6-biotinyl-L-lysine + 1 malonyl-CoA)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+MALONYL-COA_c (malonyl-CoA)
+biotin-L-lysine-in-BCCP-dimers_c (a [biotin carboxyl-carrier-protein dimer]-N6-biotinyl-L-lysine)
+carboxybiotin-L-lysine-in-BCCP-dimers_c (a [carboxyl-carrier protein dimer]-N6-carboxybiotinyl-L-lysine)
+
+

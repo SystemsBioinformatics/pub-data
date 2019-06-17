@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+5DOAN:1 dad_5_c + 1 h2o_c -> 1 5drib_c + 1 ade_c (1 5'-Deoxyadenosine + 1 H2O H2O -> 1 5'-deoxyribose + 1 Adenine)
+
+
+AdditionalMetabolites:
+5drib_c (5'-deoxyribose)
+dad_5_c (5'-Deoxyadenosine)
+
+
+AdditionalInModel:
+PUNP1:1 pi_c + 1 adn_c <=> 1 r1p_c + 1 ade_c (1 Phosphate + 1 Adenosine <=> 1 Alpha-D-Ribose 1-phosphate + 1 Adenine)

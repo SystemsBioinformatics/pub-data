@@ -1,0 +1,16 @@
+notRecovered:
+ORNDC:1 h_c + 1 orn_c -> 1 co2_c + 1 ptrc_c (1 H+ + 1 Ornithine -> 1 CO2 + 1 Putrescine)
+ARGDC:1 arg__L_c + 1 h_c -> 1 agm_c + 1 co2_c (1 L-Arginine + 1 H+ -> 1 Agmatine + 1 CO2)
+
+
+AdditionalNotInModel:
+LYSDECARBOX-RXN:1 LYS_c + 1 PROTON_c -> 1 CADAVERINE_c + 1 CARBON-DIOXIDE_c (1 L-lysine + 1 H+ -> 1 cadaverine + 1 CO2)
+
+
+AdditionalMetabolites:
+CADAVERINE_c (cadaverine)
+CARBON-DIOXIDE_c (CO2)
+LYS_c (L-lysine)
+PROTON_c (H+)
+
+

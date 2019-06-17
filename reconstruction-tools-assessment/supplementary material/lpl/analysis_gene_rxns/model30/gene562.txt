@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R08198:1 C02630_c + 1 C00003_c <=> 1 C00026_c + 1 C00080_c + 1 C00004_c (1 2-Hydroxyglutarate + 1 NAD+ <=> 1 2-Oxoglutarate + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00026_c (2-Oxoglutarate)
+C00080_c (H+)
+C02630_c (2-Hydroxyglutarate)
+
+

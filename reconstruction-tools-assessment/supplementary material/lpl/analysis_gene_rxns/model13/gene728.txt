@@ -1,0 +1,4 @@
+notRecovered:
+LacR:1 lac__L_c <=> 1 lac__D_c (1 M_L_Lactate_ <=> 1 M_D_Lactate_)
+
+

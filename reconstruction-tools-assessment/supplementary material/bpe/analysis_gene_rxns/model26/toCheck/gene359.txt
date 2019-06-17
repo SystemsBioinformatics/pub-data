@@ -1,0 +1,16 @@
+notRecovered:
+L_LACD2:1 lac__L_c + 1 q8_c -> 1 pyr_c + 1 q8h2_c (1 L-Lactate + 1 Ubiquinone-8 -> 1 Pyruvate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R00196:2 C00125_c + 1 C00186_c <=> 1 C00022_c + 2 C00080_c + 2 C00126_c (2 Ferricytochrome c + 1 (S)-Lactate <=> 1 Pyruvate + 2 H+ + 2 Ferrocytochrome c)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00080_c (H+)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00186_c ((S)-Lactate)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+GLYCK:1 atp_c + 1 glyc__R_c -> 1 3pg_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M__R__Glycerate_ -> 1 M_3_Phospho_D_glycerate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+GKI-RXN:1 ATP_c + 1 GLYCERATE_c -> 1 2-PG_c + 1 ADP_c + 1 PROTON_c (1 ATP + 1 D-glycerate -> 1 2-phospho-D-glycerate + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+2-PG_c (2-phospho-D-glycerate)
+ADP_c (ADP)
+ATP_c (ATP)
+GLYCERATE_c (D-glycerate)
+PROTON_c (H+)
+
+

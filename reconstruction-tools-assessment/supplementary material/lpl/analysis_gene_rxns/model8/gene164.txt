@@ -1,0 +1,6 @@
+notRecovered:
+HISTP:1 h2o_c + 1 hisp_c -> 1 histd_c + 1 pi_c (1 M_H2O_ + 1 M_L_Histidinol_phosphate_ -> 1 M_L_Histidinol_ + 1 M_Phosphate_)
+
+
+AdditionalInModel:
+IGPDH_1:1 eig3p_c + 1 h_c -> 1 h2o_c + 1 imacp_c (1 D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + 1 H+ -> 1 H2O H2O + 1 3-(Imidazol-4-yl)-2-oxopropyl phosphate)

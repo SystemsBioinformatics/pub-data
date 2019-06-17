@@ -1,0 +1,14 @@
+notRecovered:
+RBFSa:1 4r5au_c + 1 db4p_c -> 1 dmlz_c + 2 h2o_c + 1 pi_c (1 4-(1-D-Ribitylamino)-5-aminouracil + 1 3,4-dihydroxy-2-butanone 4-phosphate -> 1 6,7-Dimethyl-8-(1-D-ribityl)lumazine + 2 H2O + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R00066:2 C04332_c <=> 1 C00255_c + 1 C04732_c (2 6,7-Dimethyl-8-(D-ribityl)lumazine <=> 1 Riboflavin + 1 5-Amino-6-(1-D-ribitylamino)uracil)
+
+
+AdditionalMetabolites:
+C00255_c (Riboflavin)
+C04332_c (6,7-Dimethyl-8-(D-ribityl)lumazine)
+C04732_c (5-Amino-6-(1-D-ribitylamino)uracil)
+
+

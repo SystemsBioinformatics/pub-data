@@ -1,0 +1,20 @@
+notRecovered:
+PRFGS_1:1 atp_c + 1 fgam_c + 1 gln__L_c + 1 h2o_c -> 1 adp_c + 1 fpram_c + 1 glu__L_c + 2 h_c + 1 pi_c (1 M_ATP_ + 1 M_N2_Formyl_N1__5_phospho_D_ribosyl_glycinamide_ + 1 M_L_Glutamine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_2__Formamido__N1__5_phospho_D_ribosyl_acetamidine_ + 1 M_L_Glutamate_ + 2 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+rxn03084:1 cpd00002_c + 1 cpd00001_c + 1 cpd00053_c + 1 cpd02678_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00023_c + 1 cpd02826_c (1 ATP_c0 + 1 H2O_c0 + 1 L_Glutamine_c0 + 1 N_Formyl_GAR_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_Glutamate_c0 + 1 5_Phosphoribosylformylglycinamidine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00053_c (L_Glutamine_c0)
+cpd00067_c (H_plus__c0)
+cpd02678_c (N_Formyl_GAR_c0)
+cpd02826_c (5_Phosphoribosylformylglycinamidine_c0)
+
+

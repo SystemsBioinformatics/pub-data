@@ -1,0 +1,15 @@
+notRecovered:
+MCTP1App:1 murein5p5p_p -> 1 ala__D_p + 1 murein5px4p_p (1 two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanine + 1 two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain))
+MCTP2App:1 murein5p5p5p_p -> 2 ala__D_p + 1 murein5px4px4p_p (1 three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 2 D-Alanine + 1 three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain))
+
+
+AdditionalNotInModel:
+RXN-11302:2 CPD-12231_c -> 1 CPD-12261_c + 1 D-ALANINE_c (2 a peptidoglycan dimer (meso-diaminopimelate containing) -> 1 a peptidoglycan with D,D cross-links (meso-diaminopimelate containing) + 1 D-alanine)
+
+
+AdditionalMetabolites:
+CPD-12231_c (a peptidoglycan dimer (meso-diaminopimelate containing))
+CPD-12261_c (a peptidoglycan with D,D cross-links (meso-diaminopimelate containing))
+D-ALANINE_c (D-alanine)
+
+

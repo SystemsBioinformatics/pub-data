@@ -1,0 +1,4 @@
+notRecovered:
+GLYCt:1 glyc_c <=> 1 glyc_e (1 M_Glycerol_ <=> 1 M_Glycerol_)
+
+

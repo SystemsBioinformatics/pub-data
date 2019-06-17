@@ -1,0 +1,4 @@
+notRecovered:
+RBT5PDHy:1 nadp_c + 1 rbt5p_c <=> 1 h_c + 1 nadph_c + 1 ru5p__D_c (1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_D_Ribitol_5_phosphate_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_D_Ribulose_5_phosphate_)
+
+

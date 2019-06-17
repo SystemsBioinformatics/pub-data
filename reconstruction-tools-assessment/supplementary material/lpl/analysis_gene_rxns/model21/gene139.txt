@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+R03299:1 C00004_c + 1 C00007_c + 1 C00080_c + 1 C05593_c -> 1 C00001_c + 1 C00003_c + 1 C01161_c (1 NADH + 1 Oxygen + 1 H+ + 1 3-Hydroxyphenylacetate -> 1 H2O + 1 NAD+ + 1 3,4-Dihydroxyphenylacetate)
+R09517:1 C00007_c + 1 C00108_c + 1 C01352_c -> 1 C00001_c + 1 C00016_c + 1 C00632_c (1 Oxygen + 1 Anthranilate + 1 FADH2 -> 1 H2O + 1 FAD + 1 3-Hydroxyanthranilate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00007_c (Oxygen)
+C00016_c (FAD)
+C00080_c (H+)
+C00108_c (Anthranilate)
+C00632_c (3-Hydroxyanthranilate)
+C01161_c (3,4-Dihydroxyphenylacetate)
+C01352_c (FADH2)
+C05593_c (3-Hydroxyphenylacetate)
+
+

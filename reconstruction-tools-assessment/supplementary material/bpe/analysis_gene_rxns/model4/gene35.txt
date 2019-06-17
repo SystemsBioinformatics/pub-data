@@ -1,0 +1,4 @@
+notRecovered:
+FE3DHBZStonex:1 fe3dhbzs_e + 1 h_p -> 1 fe3dhbzs_p + 1 h_c (1 ferric 2,3-dihydroxybenzoylserine + 1 H+ -> 1 ferric 2,3-dihydroxybenzoylserine + 1 H+)
+
+

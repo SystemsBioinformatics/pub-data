@@ -1,0 +1,16 @@
+notRecovered:
+TDPDRR:1 dtdp4d6dm_c + 1 h_c + 1 nadph_c <=> 1 dtdprmn_c + 1 nadp_c (1 M_dTDP_4_dehydro_6_deoxy_L_mannose_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ <=> 1 M_dTDP_6_deoxy_L_mannose_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+
+
+AdditionalNotInModel:
+RXN-13749:1 DTDP-DEOH-DEOXY-MANNOSE_c + 1 NADH_c + 1 PROTON_c -> 1 CPD-344_c + 1 NAD_c (1 dTDP-4-dehydro-beta-L-rhamnose + 1 NADH + 1 H+ -> 1 dTDP-L-pneumose + 1 NAD+)
+
+
+AdditionalMetabolites:
+CPD-344_c (dTDP-L-pneumose)
+DTDP-DEOH-DEOXY-MANNOSE_c (dTDP-4-dehydro-beta-L-rhamnose)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

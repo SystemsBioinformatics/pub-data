@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00033:1 cpd00007_c + 2 cpd00868_c <=> 2 cpd00011_c + 2 cpd00489_c (1 O2_c0 + 2 p_hydroxyphenylpyruvate_c0 <=> 2 CO2_c0 + 2 4_Hydroxyphenylacetate_c0)
+
+
+AdditionalMetabolites:
+cpd00007_c (O2_c0)
+cpd00011_c (CO2_c0)
+cpd00489_c (4_Hydroxyphenylacetate_c0)
+cpd00868_c (p_hydroxyphenylpyruvate_c0)
+
+

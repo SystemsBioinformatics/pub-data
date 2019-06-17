@@ -1,0 +1,13 @@
+notRecovered:
+YUMPS:1 r5p_c + 1 ura_c <=> 1 h2o_c + 1 psd5p_c (1 M_alpha_D_Ribose_5_phosphate_ + 1 M_Uracil_ <=> 1 M_H2O_ + 1 M_Pseudouridine_5__phosphate_)
+
+
+AdditionalNotInModel:
+RXN-11836:1 23S-rRNA-uridine2605_c -> 1 23S-rRNA-pseudouridine2605_c (1 23S-rRNA-uridine2605 -> 1 23S-rRNA-pseudouridine2605)
+
+
+AdditionalMetabolites:
+23S-rRNA-pseudouridine2605_c (23S-rRNA-pseudouridine2605)
+23S-rRNA-uridine2605_c (23S-rRNA-uridine2605)
+
+

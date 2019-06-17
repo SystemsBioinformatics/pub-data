@@ -1,0 +1,17 @@
+notRecovered:
+ADA:1 adn_c + 1 h2o_c + 1 h_c -> 1 ins_c + 1 nh4_c (1 M_Adenosine_ + 1 M_H2O_ + 1 M_H_ -> 1 M_Inosine_ + 1 M_Ammonium_)
+CSND:1 csn_c + 1 h2o_c + 1 h_c -> 1 nh4_c + 1 ura_c (1 M_Cytosine_ + 1 M_H2O_ + 1 M_H_ -> 1 M_Ammonium_ + 1 M_Uracil_)
+
+
+AdditionalNotInModel:
+RXN0-1081:1 PROTON_c + 1 WATER_c + 1 tRNA-Arg-adenosine34_c -> 1 AMMONIUM_c + 1 tRNA-Arg-inosine34_c (1 H+ + 1 H2O + 1 tRNA-Arg-adenosine34 -> 1 ammonium + 1 tRNA-Arg-inosine34)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+PROTON_c (H+)
+WATER_c (H2O)
+tRNA-Arg-adenosine34_c (tRNA-Arg-adenosine34)
+tRNA-Arg-inosine34_c (tRNA-Arg-inosine34)
+
+

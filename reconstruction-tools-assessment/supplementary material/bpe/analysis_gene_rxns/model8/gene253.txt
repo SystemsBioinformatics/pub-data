@@ -1,0 +1,6 @@
+notRecovered:
+NTP5:1 ctp_c + 1 h2o_c -> 1 cdp_c + 1 h_c + 1 pi_c (1 CTP + 1 H2O -> 1 CDP + 1 H+ + 1 Phosphate)
+NTP3:1 gtp_c + 1 h2o_c -> 1 gdp_c + 1 h_c + 1 pi_c (1 GTP + 1 H2O -> 1 GDP + 1 H+ + 1 Phosphate)
+NTP10:1 h2o_c + 1 itp_c -> 1 h_c + 1 idp_c + 1 pi_c (1 H2O + 1 ITP -> 1 H+ + 1 IDP + 1 Phosphate)
+
+

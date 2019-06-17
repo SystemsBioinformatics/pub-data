@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R09771:1 C00001_c + 1 C19879_c -> 1 C00009_c + 1 C19880_c (1 H2O + 1 D-glycero-alpha-D-manno-Heptose 1,7-bisphosphate -> 1 Orthophosphate + 1 D-glycero-alpha-D-manno-Heptose 1-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C19879_c (D-glycero-alpha-D-manno-Heptose 1,7-bisphosphate)
+C19880_c (D-glycero-alpha-D-manno-Heptose 1-phosphate)
+
+

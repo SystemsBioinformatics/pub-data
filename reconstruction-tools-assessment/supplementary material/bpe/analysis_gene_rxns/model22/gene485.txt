@@ -1,0 +1,5 @@
+notRecovered:
+NAt3pp:1 h_p + 1 na1_c -> 1 h_c + 1 na1_p (1 H+ + 1 Sodium -> 1 H+ + 1 Sodium)
+Kt3pp:1 h_p + 1 k_c -> 1 h_c + 1 k_p (1 H+ + 1 potassium -> 1 H+ + 1 potassium)
+
+

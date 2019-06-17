@@ -1,0 +1,4 @@
+notRecovered:
+UPP3S:1 hmbil_c -> 1 h2o_c + 1 uppg3_c (1 Hydroxymethylbilane -> 1 H2O + 1 Uroporphyrinogen III)
+
+

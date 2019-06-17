@@ -1,0 +1,40 @@
+notRecovered:
+ACOAD10f:1 fad_c + 1 ibcoa_c <=> 1 fadh2_c + 1 2mp2coa_c (1 Flavin adenine dinucleotide oxidized + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) <=> 1 Flavin adenine dinucleotide reduced + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A))
+ACOADH1:1 2mbcoa_c + 1 fad_c <=> 1 2mb2coa_c + 1 fadh2_c (1 (S)-2-methylbutanoyl-coenzyme A + 1 Flavin adenine dinucleotide oxidized <=> 1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) + 1 Flavin adenine dinucleotide reduced)
+ACOAD8f:1 fad_c + 1 stcoa_c <=> 1 fadh2_c + 1 od2coa_c (1 Flavin adenine dinucleotide oxidized + 1 Stearoyl-CoA (n-C18:0CoA) <=> 1 Flavin adenine dinucleotide reduced + 1 trans-Octadec-2-enoyl-CoA)
+
+
+AdditionalNotInModel:
+R00924:1 C00016_c + 1 C00100_c <=> 1 C00894_c + 1 C01352_c (1 FAD + 1 Propanoyl-CoA <=> 1 Propenoyl-CoA + 1 FADH2)
+R02661:1 C00028_c + 1 C00630_c <=> 1 C00030_c + 1 C03460_c (1 Acceptor + 1 2-Methylpropanoyl-CoA <=> 1 Reduced acceptor + 1 2-Methylprop-2-enoyl-CoA)
+R03172:1 C00028_c + 1 C15980_c <=> 1 C00030_c + 1 C03345_c (1 Acceptor + 1 (S)-2-Methylbutanoyl-CoA <=> 1 Reduced acceptor + 1 2-Methylbut-2-enoyl-CoA)
+R04432:1 C00100_c + 1 C04253_c <=> 1 C00894_c + 1 C04570_c (1 Propanoyl-CoA + 1 Electron-transferring flavoprotein <=> 1 Propenoyl-CoA + 1 Reduced electron-transferring flavoprotein)
+R04547:1 C00016_c + 1 C04644_c <=> 1 C01352_c + 1 C05447_c (1 FAD + 1 3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA <=> 1 FADH2 + 1 3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA)
+R04592:1 C00016_c + 1 C04760_c <=> 1 C01352_c + 1 C05460_c (1 FAD + 1 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA <=> 1 FADH2 + 1 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA)
+R06943:1 C00016_c + 1 C14143_c <=> 1 C01352_c + 1 C14144_c (1 FAD + 1 Adipyl-CoA <=> 1 FADH2 + 1 5-Carboxy-2-pentenoyl-CoA)
+R08092:1 C00016_c + 1 C16470_c -> 1 C01352_c + 1 C16468_c (1 FAD + 1 5-Methylhex-4-enoyl-CoA -> 1 FADH2 + 1 (2E)-5-Methylhexa-2,4-dienoyl-CoA)
+
+
+AdditionalMetabolites:
+C00016_c (FAD)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00100_c (Propanoyl-CoA)
+C00630_c (2-Methylpropanoyl-CoA)
+C00894_c (Propenoyl-CoA)
+C01352_c (FADH2)
+C03345_c (2-Methylbut-2-enoyl-CoA)
+C03460_c (2-Methylprop-2-enoyl-CoA)
+C04253_c (Electron-transferring flavoprotein)
+C04570_c (Reduced electron-transferring flavoprotein)
+C04644_c (3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA)
+C04760_c (3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA)
+C05447_c (3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA)
+C05460_c (3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA)
+C14143_c (Adipyl-CoA)
+C14144_c (5-Carboxy-2-pentenoyl-CoA)
+C15980_c ((S)-2-Methylbutanoyl-CoA)
+C16468_c ((2E)-5-Methylhexa-2,4-dienoyl-CoA)
+C16470_c (5-Methylhex-4-enoyl-CoA)
+
+

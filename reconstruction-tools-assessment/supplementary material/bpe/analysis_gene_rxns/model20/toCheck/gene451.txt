@@ -1,0 +1,21 @@
+notRecovered:
+CORELPSPPEAGLCNT_BP:1 coreLPSppea_BP_p + 1 undpglcn_BP_p <=> 1 coreLPSppeag_BP_p + 1 h_c + 1 udcpdp_p (1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 undecaprenyl-diphosphate-glucosamine <=> 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA-glucosamine (B. pertussis specific) + 1 H+ + 1 Undecaprenyl diphosphate)
+
+
+AdditionalNotInModel:
+R09773:1 C04919_c + 1 C16157_c <=> 1 C17556_c + 1 C19884_c (1 2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate + 1 Undecaprenyl phosphate alpha-L-Ara4N <=> 1 di-trans,poly-cis-Undecaprenyl phosphate + 1 Lipid IIA)
+R09774:1 C06025_c + 1 C16157_c <=> 1 C17556_c + 1 C19883_c (1 Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A) + 1 Undecaprenyl phosphate alpha-L-Ara4N <=> 1 di-trans,poly-cis-Undecaprenyl phosphate + 1 alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[4-P-L-Ara4N]-lipid IVA)
+R09781:1 C06026_c + 1 C16157_c <=> 1 C17556_c + 1 C19890_c (1 Di[3-deoxy-D-manno-octulosonyl]-lipid A + 1 Undecaprenyl phosphate alpha-L-Ara4N <=> 1 di-trans,poly-cis-Undecaprenyl phosphate + 1 alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[4-P-L-Ara4N]-lipid A)
+
+
+AdditionalMetabolites:
+C04919_c (2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate)
+C06025_c (Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A))
+C06026_c (Di[3-deoxy-D-manno-octulosonyl]-lipid A)
+C16157_c (Undecaprenyl phosphate alpha-L-Ara4N)
+C17556_c (di-trans,poly-cis-Undecaprenyl phosphate)
+C19883_c (alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[4-P-L-Ara4N]-lipid IVA)
+C19884_c (Lipid IIA)
+C19890_c (alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[4-P-L-Ara4N]-lipid A)
+
+

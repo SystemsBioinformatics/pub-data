@@ -1,0 +1,30 @@
+notRecovered:
+PTRCTA:1 akg_c + 1 ptrc_c -> 1 4abutn_c + 1 glu__L_c (1 2-Oxoglutarate + 1 Putrescine -> 1 4-Aminobutanal + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN-L-ORNITHINE/CPD-824//ARG/L-GLUTAMATE_GAMMA-SEMIALDEHYDE.56.:1 L-ORNITHINE_c + 1 CPD-824_c <=> 1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 ARG_c (1 L-ornithine + 1 5-guanidino-2-oxopentanoate <=> 1 L-glutamate-5-semialdehyde + 1 L-arginine)
+ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN-L-ORNITHINE/PYRUVATE//L-ALPHA-ALANINE/L-GLUTAMATE_GAMMA-SEMIALDEHYDE.69.:1 L-ORNITHINE_c + 1 PYRUVATE_c <=> 1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 L-ALPHA-ALANINE_c (1 L-ornithine + 1 pyruvate <=> 1 L-glutamate-5-semialdehyde + 1 L-alanine)
+ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN-L-ORNITHINE/GLYOX//GLY/L-GLUTAMATE_GAMMA-SEMIALDEHYDE.54.:1 GLYOX_c + 1 L-ORNITHINE_c <=> 1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 GLY_c (1 glyoxylate + 1 L-ornithine <=> 1 L-glutamate-5-semialdehyde + 1 glycine)
+ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN-L-ORNITHINE/P-HYDROXY-PHENYLPYRUVATE//TYR/L-GLUTAMATE_GAMMA-SEMIALDEHYDE.73.:1 L-ORNITHINE_c + 1 P-HYDROXY-PHENYLPYRUVATE_c <=> 1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 TYR_c (1 L-ornithine + 1 4-hydroxyphenylpyruvate <=> 1 L-glutamate-5-semialdehyde + 1 L-tyrosine)
+ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN-L-ORNITHINE/PHENYL-PYRUVATE//PHE/L-GLUTAMATE_GAMMA-SEMIALDEHYDE.64.:1 L-ORNITHINE_c + 1 PHENYL-PYRUVATE_c <=> 1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 PHE_c (1 L-ornithine + 1 keto-phenylpyruvate <=> 1 L-glutamate-5-semialdehyde + 1 L-phenylalanine)
+ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN-L-ORNITHINE/CPD-479//MET/L-GLUTAMATE_GAMMA-SEMIALDEHYDE.56.:1 L-ORNITHINE_c + 1 CPD-479_c <=> 1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 MET_c (1 L-ornithine + 1 4-(methylsulfanyl)-2-oxobutanoate <=> 1 L-glutamate-5-semialdehyde + 1 L-methionine)
+
+
+AdditionalMetabolites:
+ARG_c (L-arginine)
+CPD-479_c (4-(methylsulfanyl)-2-oxobutanoate)
+CPD-824_c (5-guanidino-2-oxopentanoate)
+GLYOX_c (glyoxylate)
+GLY_c (glycine)
+L-ALPHA-ALANINE_c (L-alanine)
+L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c (L-glutamate-5-semialdehyde)
+L-ORNITHINE_c (L-ornithine)
+MET_c (L-methionine)
+P-HYDROXY-PHENYLPYRUVATE_c (4-hydroxyphenylpyruvate)
+PHENYL-PYRUVATE_c (keto-phenylpyruvate)
+PHE_c (L-phenylalanine)
+PYRUVATE_c (pyruvate)
+TYR_c (L-tyrosine)
+
+

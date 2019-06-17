@@ -1,0 +1,16 @@
+notRecovered:
+UAC3NGAMANACET_BP:1 accoa_c + 1 uac3ngama_c -> 1 coa_c + 1 uac3nacgama_c (1 Acetyl-CoA + 1 UDP-2-N-acetyl-3-amino-glucosaminuronate -> 1 Coenzyme A + 1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate)
+
+
+AdditionalNotInModel:
+RXN-13589:1 ACETYL-COA_c + 1 CPD-14562_c -> 1 CO-A_c + 1 CPD-10313_c + 1 PROTON_c (1 acetyl-CoA + 1 UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate -> 1 coenzyme A + 1 UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate + 1 H+)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+CO-A_c (coenzyme A)
+CPD-10313_c (UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate)
+CPD-14562_c (UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate)
+PROTON_c (H+)
+
+

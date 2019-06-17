@@ -1,0 +1,4 @@
+notRecovered:
+G3PD5:1 glyc3p_c + 1 q8_c -> 1 dhap_c + 1 q8h2_c (1 Glycerol 3-phosphate + 1 Ubiquinone-8 -> 1 Dihydroxyacetone phosphate + 1 Ubiquinol-8)
+
+

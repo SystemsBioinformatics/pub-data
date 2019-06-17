@@ -1,0 +1,12 @@
+notRecovered:
+MDH:1 mal__L_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 oaa_c (1 L-Malate + 1 Nicotinamide adenine dinucleotide <=> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Oxaloacetate)
+
+
+AdditionalNotInModel:
+LDH2:1 2hbut_c + 1 nad_c <=> 1 2obut_c + 1 h_c + 1 nadh_c (1 2 Hydroxybutyrate C4H7O3 + 1 Nicotinamide adenine dinucleotide <=> 1 2-Oxobutanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalMetabolites:
+2hbut_c (2 Hydroxybutyrate C4H7O3)
+
+

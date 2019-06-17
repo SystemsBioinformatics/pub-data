@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+GLXCL:2 glx_c + 1 h_c -> 1 2h3oppan_c + 1 co2_c (2 Glyoxylate + 1 H+ -> 1 2-Hydroxy-3-oxopropanoate + 1 CO2 CO2)
+MI1PS:1 g6p_c -> 1 mi1p__D_c (1 D-Glucose 6-phosphate -> 1 1D-myo-Inositol 1-phosphate)
+
+
+AdditionalMetabolites:
+2h3oppan_c (2-Hydroxy-3-oxopropanoate)
+glx_c (Glyoxylate)
+
+

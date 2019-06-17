@@ -1,0 +1,4 @@
+notRecovered:
+DAGGT_LPL:0.01 dag_LPL_c + 2 udpg_c -> 0.01 dgdag_LPL_c + 2 h_c + 2 udp_c (0.01 M_1_2_Diacylglycerol__LPL_specific_ + 2 M_UDPglucose_ -> 0.01 M_Diglucosyl_diacylglycerol_ + 2 M_H_ + 2 M_UDP_)
+
+

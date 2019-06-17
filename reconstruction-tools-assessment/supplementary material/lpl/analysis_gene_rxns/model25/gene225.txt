@@ -1,0 +1,6 @@
+notRecovered:
+THZPSN2:1 MCOSH_c + 1 dxyl5p_c + 1 gly_c + 1 nadp_c -> 1 4mpetz_c + 1 MCOOH_c + 1 co2_c + 2 h2o_c + 2 h_c + 1 nadph_c (1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_1_deoxy_D_xylulose_5_phosphate_ + 1 M_Glycine_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ -> 1 M_4_Methyl_5__2_phosphoethyl__thiazole_ + 1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_CO2_ + 2 M_H2O_ + 2 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_)
+MPTS_LPL:2 MCOSH_c + 1 cpmp_c + 1 h2o_c -> 2 MCOOH_c + 1 mpt_c + 3 h_c (2 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_Precursor_Z_in_molybdenum_cofactor_biosynthesis_ + 1 M_H2O_ -> 2 M_MPT_synthase_small_subunit_MoaD_ + 1 M_molybdopterin_ + 3 M_H_)
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+

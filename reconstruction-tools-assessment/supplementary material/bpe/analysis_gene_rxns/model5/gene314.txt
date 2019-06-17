@@ -1,0 +1,9 @@
+notRecovered:
+LYSabcpp:1 atp_c + 1 h2o_c + 1 lys__L_p -> 1 adp_c + 1 h_c + 1 lys__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 H+ + 1 L-Lysine + 1 Phosphate)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 h_c + 1 his__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 H+ + 1 L-Histidine + 1 Phosphate)
+ORNabcpp:1 atp_c + 1 h2o_c + 1 orn_p -> 1 adp_c + 1 h_c + 1 orn_c + 1 pi_c (1 ATP + 1 H2O + 1 Ornithine -> 1 ADP + 1 H+ + 1 Ornithine + 1 Phosphate)
+ARGabcpp:1 arg__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 arg__L_c + 1 h_c + 1 pi_c (1 L-Arginine + 1 ATP + 1 H2O -> 1 ADP + 1 L-Arginine + 1 H+ + 1 Phosphate)
+
+
+AdditionalInModel:
+DAPabcpp:1 26dap__M_p + 1 atp_c + 1 h2o_c -> 1 26dap__M_c + 1 adp_c + 1 h_c + 1 pi_c (1 Meso-2,6-Diaminoheptanedioate + 1 ATP C10H12N5O13P3 + 1 H2O H2O -> 1 Meso-2,6-Diaminoheptanedioate + 1 ADP C10H12N5O10P2 + 1 H+ + 1 Phosphate)

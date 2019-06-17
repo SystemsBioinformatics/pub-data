@@ -1,0 +1,17 @@
+notRecovered:
+CYSTGL:1 cyst__L_c + 1 h2o_c -> 1 2obut_c + 1 cys__L_c + 1 nh4_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_2_Oxobutanoate_ + 1 M_L_Cysteine_ + 1 M_Ammonium_)
+CYSTL:1 cyst__L_c + 1 h2o_c -> 1 hcys__L_c + 1 nh4_c + 1 pyr_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_L_Homocysteine_ + 1 M_Ammonium_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+O-SUCCHOMOSERLYASE-RXN:1 CYS_c + 1 O-SUCCINYL-L-HOMOSERINE_c <=> 1 L-CYSTATHIONINE_c + 1 PROTON_c + 1 SUC_c (1 L-cysteine + 1 O-succinyl-L-homoserine <=> 1 L-cystathionine + 1 H+ + 1 succinate)
+
+
+AdditionalMetabolites:
+CYS_c (L-cysteine)
+L-CYSTATHIONINE_c (L-cystathionine)
+O-SUCCINYL-L-HOMOSERINE_c (O-succinyl-L-homoserine)
+PROTON_c (H+)
+SUC_c (succinate)
+
+

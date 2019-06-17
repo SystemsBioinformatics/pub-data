@@ -1,0 +1,21 @@
+notRecovered:
+NO3abc:1 atp_c + 1 h2o_c + 1 no3_e -> 1 adp_c + 1 h_c + 1 no3_c + 1 pi_c (1 M_ATP_ + 1 M_H2O_ + 1 M_Nitrate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Nitrate_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+BUTSabc:1 atp_c + 1 h2o_c + 1 buts_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 buts_c (1 ATP + 1 H2O + 1 Butanesulfonate C4H9O3S -> 1 ADP + 1 Phosphate + 1 H+ + 1 Butanesulfonate C4H9O3S)
+MSO3abc:1 atp_c + 1 h2o_c + 1 mso3_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 mso3_c (1 ATP + 1 H2O + 1 Methanesulfonate -> 1 ADP + 1 Phosphate + 1 H+ + 1 Methanesulfonate)
+NO3abcpp:1 atp_c + 1 h2o_c + 1 no3_p -> 1 adp_c + 1 pi_c + 1 h_c + 1 no3_c (1 ATP + 1 H2O + 1 Nitrate -> 1 ADP + 1 Phosphate + 1 H+ + 1 Nitrate)
+TAURabc:1 atp_c + 1 h2o_c + 1 taur_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 taur_c (1 ATP + 1 H2O + 1 Taurine -> 1 ADP + 1 Phosphate + 1 H+ + 1 Taurine)
+
+
+AdditionalMetabolites:
+buts_c (Butanesulfonate C4H9O3S)
+buts_e (Butanesulfonate C4H9O3S)
+mso3_c (Methanesulfonate)
+mso3_e (Methanesulfonate)
+no3_p (Nitrate)
+taur_c (Taurine)
+taur_e (Taurine)
+
+

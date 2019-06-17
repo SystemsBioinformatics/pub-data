@@ -1,0 +1,18 @@
+notRecovered:
+UAAGDS:1 26dap__M_c + 1 atp_c + 1 uamag_c -> 1 adp_c + 1 h_c + 1 pi_c + 1 ugmd_c (1 M_meso_2_6_Diaminoheptanedioate_ + 1 M_ATP_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_gamma_glutamyl_meso_2_6_diaminopimelate_)
+
+
+AdditionalNotInModel:
+rxn02011:1 cpd00002_c + 1 cpd00516_c + 1 cpd00525_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd02964_c (1 ATP_c0 + 1 meso_2_6_Diaminopimelate_c0 + 1 UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 UDP_N_acetylmuramoyl_L_alanyl_D_gamma_glutamyl_meso_2_6_diaminopimelate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00516_c (meso_2_6_Diaminopimelate_c0)
+cpd00525_c (UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_c0)
+cpd02964_c (UDP_N_acetylmuramoyl_L_alanyl_D_gamma_glutamyl_meso_2_6_diaminopimelate_c0)
+
+

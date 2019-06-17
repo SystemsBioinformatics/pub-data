@@ -1,0 +1,16 @@
+notRecovered:
+ACYP_2:1 actp_c + 1 h2o_c -> 1 ac_c + 1 h_c + 1 pi_c (1 M_Acetyl_phosphate_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+ACYLPHOSPHATASE-RXN:1 Acyl-Phosphates_c + 1 WATER_c <=> 1 Carboxylates_c + 1 Pi_c + 1 PROTON_c (1 an acyl phosphate + 1 H2O <=> 1 a carboxylate + 1 phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+Acyl-Phosphates_c (an acyl phosphate)
+Carboxylates_c (a carboxylate)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

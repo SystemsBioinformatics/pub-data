@@ -1,0 +1,15 @@
+notRecovered:
+FRUK:1 atp_c + 1 f1p_c -> 1 adp_c + 1 fdp_c + 1 h_c (1 M_ATP_ + 1 M_D_Fructose_1_phosphate_ -> 1 M_ADP_ + 1 M_D_Fructose_1_6_bisphosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R03236:1 C01097_c + 1 C00002_c <=> 1 C03785_c + 1 C00008_c (1 D-Tagatose 6-phosphate + 1 ATP <=> 1 D-Tagatose 1,6-bisphosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C01097_c (D-Tagatose 6-phosphate)
+C03785_c (D-Tagatose 1,6-bisphosphate)
+
+

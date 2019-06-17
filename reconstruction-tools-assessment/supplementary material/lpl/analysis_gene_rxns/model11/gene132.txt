@@ -1,0 +1,4 @@
+notRecovered:
+GND:1 6pgc_c + 1 nadp_c -> 1 co2_c + 1 nadph_c + 1 ru5p__D_c (1 M_6_Phospho_D_gluconate_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ -> 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_D_Ribulose_5_phosphate_)
+
+

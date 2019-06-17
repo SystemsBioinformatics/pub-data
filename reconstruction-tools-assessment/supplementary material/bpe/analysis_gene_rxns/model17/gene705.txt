@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R03425:1 C00037_c + 1 C02051_c <=> 1 C00011_c + 1 C01242_c (1 Glycine + 1 Lipoylprotein <=> 1 CO2 + 1 S-Aminomethyldihydrolipoylprotein)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00037_c (Glycine)
+C01242_c (S-Aminomethyldihydrolipoylprotein)
+C02051_c (Lipoylprotein)
+
+

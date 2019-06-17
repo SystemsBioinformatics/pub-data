@@ -1,0 +1,20 @@
+notRecovered:
+PTRCTA:1 akg_c + 1 ptrc_c -> 1 4abutn_c + 1 glu__L_c (1 2-Oxoglutarate + 1 Putrescine -> 1 4-Aminobutanal + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+R00668:1 C00026_c + 1 C00077_c <=> 1 C04322_c + 1 C00025_c + 1 C00001_c (1 2-Oxoglutarate + 1 L-Ornithine <=> 1 Delta1-Pyrroline-5-carboxylate + 1 L-Glutamate + 1 H2O)
+R01343:1 C00161_c + 1 C00077_c <=> 1 C01165_c + 1 C00151_c (1 2-Oxo acid + 1 L-Ornithine <=> 1 L-Glutamate 5-semialdehyde + 1 L-Amino acid)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00077_c (L-Ornithine)
+C00151_c (L-Amino acid)
+C00161_c (2-Oxo acid)
+C01165_c (L-Glutamate 5-semialdehyde)
+C04322_c (Delta1-Pyrroline-5-carboxylate)
+
+

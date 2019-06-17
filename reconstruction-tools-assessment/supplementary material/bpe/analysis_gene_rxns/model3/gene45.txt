@@ -1,0 +1,4 @@
+notRecovered:
+HSST:1 hom__L_c + 1 succoa_c -> 1 coa_c + 1 suchms_c (1 L-Homoserine + 1 Succinyl-CoA -> 1 Coenzyme A + 1 O-Succinyl-L-homoserine)
+
+

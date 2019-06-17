@@ -1,0 +1,4 @@
+notRecovered:
+DDPA:1 e4p_c + 1 h2o_c + 1 pep_c -> 1 2dda7p_c + 1 pi_c (1 D-Erythrose 4-phosphate + 1 H2O + 1 Phosphoenolpyruvate -> 1 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate + 1 Phosphate)
+
+

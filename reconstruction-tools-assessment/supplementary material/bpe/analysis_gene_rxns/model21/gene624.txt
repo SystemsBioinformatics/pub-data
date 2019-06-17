@@ -1,0 +1,4 @@
+notRecovered:
+ICDHyr:1 icit_c + 1 nadp_c -> 1 akg_c + 1 co2_c + 1 nadph_c (1 Isocitrate + 1 Nicotinamide adenine dinucleotide phosphate -> 1 2-Oxoglutarate + 1 CO2 + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+

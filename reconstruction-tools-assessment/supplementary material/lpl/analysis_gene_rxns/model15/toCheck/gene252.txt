@@ -1,0 +1,39 @@
+notRecovered:
+ITCY:1 cytd_c + 1 itp_c -> 1 cmp_c + 1 h_c + 1 idp_c (1 M_Cytidine_ + 1 M_ITP_ -> 1 M_CMP_ + 1 M_H_ + 1 M_IDP_)
+
+
+AdditionalNotInModel:
+rxn01705:1 cpd00356_c + 1 cpd00367_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd00533_c (1 dCTP_c0 + 1 Cytidine_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 dCDP_c0)
+rxn01129:1 cpd00115_c + 1 cpd00249_c <=> 1 cpd00067_c + 1 cpd00091_c + 1 cpd00177_c (1 dATP_c0 + 1 Uridine_c0 <=> 1 H_plus__c0 + 1 UMP_c0 + 1 dADP_c0)
+rxn01516:1 cpd00249_c + 1 cpd00357_c <=> 1 cpd00067_c + 1 cpd00091_c + 1 cpd00297_c (1 Uridine_c0 + 1 TTP_c0 <=> 1 H_plus__c0 + 1 UMP_c0 + 1 dTDP_c0)
+rxn00712:1 cpd00062_c + 1 cpd00249_c <=> 1 cpd00067_c + 1 cpd00014_c + 1 cpd00091_c (1 UTP_c0 + 1 Uridine_c0 <=> 1 H_plus__c0 + 1 UDP_c0 + 1 UMP_c0)
+rxn01706:1 cpd00367_c + 1 cpd00358_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd00978_c (1 Cytidine_c0 + 1 dUTP_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 dUDP_c0)
+rxn01515:1 cpd00367_c + 1 cpd00357_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd00297_c (1 Cytidine_c0 + 1 TTP_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 dTDP_c0)
+rxn01370:1 cpd00249_c + 1 cpd00241_c <=> 1 cpd00067_c + 1 cpd00091_c + 1 cpd00295_c (1 Uridine_c0 + 1 dGTP_c0 <=> 1 H_plus__c0 + 1 UMP_c0 + 1 dGDP_c0)
+rxn00368:1 cpd00367_c + 1 cpd00062_c <=> 1 cpd00067_c + 1 cpd00014_c + 1 cpd00046_c (1 Cytidine_c0 + 1 UTP_c0 <=> 1 H_plus__c0 + 1 UDP_c0 + 1 CMP_c0)
+rxn01128:1 cpd00367_c + 1 cpd00115_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd00177_c (1 Cytidine_c0 + 1 dATP_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 dADP_c0)
+rxn01510:1 cpd00367_c + 1 cpd00241_c <=> 1 cpd00067_c + 1 cpd00046_c + 1 cpd00295_c (1 Cytidine_c0 + 1 dGTP_c0 <=> 1 H_plus__c0 + 1 CMP_c0 + 1 dGDP_c0)
+rxn01674:1 cpd00356_c + 1 cpd00249_c <=> 1 cpd00067_c + 1 cpd00533_c + 1 cpd00091_c (1 dCTP_c0 + 1 Uridine_c0 <=> 1 H_plus__c0 + 1 dCDP_c0 + 1 UMP_c0)
+rxn01679:1 cpd00249_c + 1 cpd00358_c <=> 1 cpd00067_c + 1 cpd00091_c + 1 cpd00978_c (1 Uridine_c0 + 1 dUTP_c0 <=> 1 H_plus__c0 + 1 UMP_c0 + 1 dUDP_c0)
+
+
+AdditionalMetabolites:
+cpd00014_c (UDP_c0)
+cpd00046_c (CMP_c0)
+cpd00062_c (UTP_c0)
+cpd00067_c (H_plus__c0)
+cpd00091_c (UMP_c0)
+cpd00115_c (dATP_c0)
+cpd00177_c (dADP_c0)
+cpd00241_c (dGTP_c0)
+cpd00249_c (Uridine_c0)
+cpd00295_c (dGDP_c0)
+cpd00297_c (dTDP_c0)
+cpd00356_c (dCTP_c0)
+cpd00357_c (TTP_c0)
+cpd00358_c (dUTP_c0)
+cpd00367_c (Cytidine_c0)
+cpd00533_c (dCDP_c0)
+cpd00978_c (dUDP_c0)
+
+

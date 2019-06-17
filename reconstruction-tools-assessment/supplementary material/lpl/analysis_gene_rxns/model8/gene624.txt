@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+AGMHE:1 adphep_DD_c -> 1 adphep_LD_c (1 ADP-D-glycero-D-manno-heptose -> 1 ADP-L-glycero-D-manno-heptose)
+UAG4E:1 uacgam_c -> 1 uacgala_c (1 UDP-N-acetyl-D-glucosamine -> 1 UDP N acetyl D galactosamine C17H25N3O17P2)
+
+
+AdditionalMetabolites:
+adphep_DD_c (ADP-D-glycero-D-manno-heptose)
+adphep_LD_c (ADP-L-glycero-D-manno-heptose)
+uacgala_c (UDP N acetyl D galactosamine C17H25N3O17P2)
+
+

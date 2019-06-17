@@ -1,0 +1,4 @@
+notRecovered:
+PAPSR2:1 grxrd_c + 1 paps_c -> 1 grxox_c + 2 h_c + 1 pap_c + 1 so3_c (1 glutaredoxin (reduced) + 1 3'-Phosphoadenylyl sulfate -> 1 glutaredoxin (oxidized) + 2 H+ + 1 Adenosine 3',5'-bisphosphate + 1 Sulfite)
+
+

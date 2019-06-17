@@ -1,0 +1,4 @@
+notRecovered:
+VALTRS:1 atp_c + 1 trnaval_c + 1 val__L_c -> 1 amp_c + 1 ppi_c + 1 valtrna_c (1 ATP + 1 tRNA(Val) + 1 L-Valine -> 1 AMP + 1 Diphosphate + 1 L-Valyl-tRNA(Val))
+
+

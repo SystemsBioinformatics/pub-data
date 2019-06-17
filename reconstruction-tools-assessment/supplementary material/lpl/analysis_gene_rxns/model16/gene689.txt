@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn02182:1 cpd01560_c <=> 1 cpd00013_c + 1 cpd00663_c (1 beta_Alanyl_CoA_c0 <=> 1 NH3_c0 + 1 Acrylyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00013_c (NH3_c0)
+cpd00663_c (Acrylyl_CoA_c0)
+cpd01560_c (beta_Alanyl_CoA_c0)
+
+

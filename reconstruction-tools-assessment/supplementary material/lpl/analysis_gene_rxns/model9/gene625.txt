@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+UAG4E:1 uacgam_c -> 1 uacgala_c (1 UDP-N-acetyl-D-glucosamine -> 1 UDP N acetyl D galactosamine C17H25N3O17P2)
+
+
+AdditionalMetabolites:
+uacgala_c (UDP N acetyl D galactosamine C17H25N3O17P2)
+
+

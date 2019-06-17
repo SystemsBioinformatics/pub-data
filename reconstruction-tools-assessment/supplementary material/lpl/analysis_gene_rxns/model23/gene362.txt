@@ -1,0 +1,16 @@
+notRecovered:
+ME1:1 mal__L_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 pyr_c (1 M_L_Malate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+MALIC-NADP-RXN:1 MAL_c + 1 NADP_c -> 1 CARBON-DIOXIDE_c + 1 NADPH_c + 1 PYRUVATE_c (1 (S)-malate + 1 NADP+ -> 1 CO2 + 1 NADPH + 1 pyruvate)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+MAL_c ((S)-malate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PYRUVATE_c (pyruvate)
+
+

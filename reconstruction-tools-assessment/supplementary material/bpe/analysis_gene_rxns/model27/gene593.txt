@@ -1,0 +1,4 @@
+notRecovered:
+PGK:1 3pg_c + 1 atp_c <=> 1 13dpg_c + 1 adp_c (1 3-Phospho-D-glycerate + 1 ATP <=> 1 3-Phospho-D-glyceroyl phosphate + 1 ADP)
+
+

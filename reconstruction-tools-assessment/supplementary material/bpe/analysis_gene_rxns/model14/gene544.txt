@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01642:1 cpd00067_c + 1 cpd00001_c + 1 cpd02311_c -> 1 cpd00344_c (1 H_plus__c0 + 1 H2O_c0 + 1 4_Imidazolone_5_propanoate_c0 -> 1 N_Formimino_L_glutamate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00067_c (H_plus__c0)
+cpd00344_c (N_Formimino_L_glutamate_c0)
+cpd02311_c (4_Imidazolone_5_propanoate_c0)
+
+

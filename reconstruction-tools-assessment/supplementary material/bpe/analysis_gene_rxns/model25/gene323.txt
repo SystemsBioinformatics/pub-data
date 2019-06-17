@@ -1,0 +1,4 @@
+notRecovered:
+DHNPA2r:1 dhnpt_c -> 1 6hmhpt_c + 1 gcald_c (1 Dihydroneopterin -> 1 6-hydroxymethyl dihydropterin + 1 Glycolaldehyde)
+
+

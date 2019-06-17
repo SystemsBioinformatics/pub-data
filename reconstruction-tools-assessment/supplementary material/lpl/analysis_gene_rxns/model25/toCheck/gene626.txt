@@ -1,0 +1,17 @@
+notRecovered:
+UDCPDPS:1 frdp_c + 8 ipdp_c -> 8 ppi_c + 1 udcpdp_c (1 M_Farnesyl_diphosphate_ + 8 M_Isopentenyl_diphosphate_ -> 8 M_Diphosphate_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+TRANS-HEXAPRENYLTRANSTRANSFERASE-RXN:4 DELTA3-ISOPENTENYL-PP_c + 1 FARNESYL-PP_c -> 1 ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE_c + 4 PPI_c (4 isopentenyl diphosphate + 1 (2E,6E)-farnesyl diphosphate -> 1 all-trans-heptaprenyl diphosphate + 4 diphosphate)
+RXN-11458:3 DELTA3-ISOPENTENYL-PP_c + 1 GERANYLGERANYL-PP_c -> 1 ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE_c + 3 PPI_c (3 isopentenyl diphosphate + 1 geranylgeranyl diphosphate -> 1 all-trans-heptaprenyl diphosphate + 3 diphosphate)
+
+
+AdditionalMetabolites:
+ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE_c (all-trans-heptaprenyl diphosphate)
+DELTA3-ISOPENTENYL-PP_c (isopentenyl diphosphate)
+FARNESYL-PP_c ((2E,6E)-farnesyl diphosphate)
+GERANYLGERANYL-PP_c (geranylgeranyl diphosphate)
+PPI_c (diphosphate)
+
+

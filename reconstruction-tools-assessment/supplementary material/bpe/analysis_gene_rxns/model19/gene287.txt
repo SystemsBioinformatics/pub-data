@@ -1,0 +1,5 @@
+notRecovered:
+GLYt2pp:1 gly_p + 1 h_p <=> 1 gly_c + 1 h_c (1 Glycine + 1 H+ <=> 1 Glycine + 1 H+)
+ALAt2pp:1 ala__L_p + 1 h_p -> 1 ala__L_c + 1 h_c (1 L-Alanine + 1 H+ -> 1 L-Alanine + 1 H+)
+
+

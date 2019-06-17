@@ -1,0 +1,40 @@
+notRecovered:
+NPPDO:2 n2ppn_c + 1 o2_c -> 2 acetone_c + 2 h_c + 2 no2_c (2 M_2_Nitropropane_ + 1 M_O2_ -> 2 M_Acetone_ + 2 M_H_ + 2 M_Nitrite_)
+
+
+AdditionalNotInModel:
+R07765:1 C16221_c + 1 C00080_c + 1 C00004_c <=> 1 C04088_c + 1 C00003_c (1 (2E)-Octadecenoyl-[acp] + 1 H+ + 1 NADH <=> 1 Octadecanoyl-[acyl-carrier protein] + 1 NAD+)
+R01403:1 C00173_c + 1 C00003_c <=> 1 C00693_c + 1 C00080_c + 1 C00004_c (1 Acyl-[acyl-carrier protein] + 1 NAD+ <=> 1 trans-2,3-Dehydroacyl-[acyl-carrier protein] + 1 H+ + 1 NADH)
+R04429:1 C05745_c + 1 C00003_c <=> 1 C04246_c + 1 C00080_c + 1 C00004_c (1 Butyryl-[acp] + 1 NAD+ <=> 1 But-2-enoyl-[acyl-carrier protein] + 1 H+ + 1 NADH)
+R04724:1 C05223_c + 1 C00003_c <=> 1 C05758_c + 1 C00080_c + 1 C00004_c (1 Dodecanoyl-[acyl-carrier protein] + 1 NAD+ <=> 1 trans-Dodec-2-enoyl-[acp] + 1 H+ + 1 NADH)
+R04966:1 C05761_c + 1 C00003_c <=> 1 C05760_c + 1 C00080_c + 1 C00004_c (1 Tetradecanoyl-[acp] + 1 NAD+ <=> 1 trans-Tetradec-2-enoyl-[acp] + 1 H+ + 1 NADH)
+R04969:1 C05764_c + 1 C00003_c <=> 1 C05763_c + 1 C00080_c + 1 C00004_c (1 Hexadecanoyl-[acp] + 1 NAD+ <=> 1 trans-Hexadec-2-enoyl-[acp] + 1 H+ + 1 NADH)
+R04955:1 C05749_c + 1 C00003_c <=> 1 C05748_c + 1 C00080_c + 1 C00004_c (1 Hexanoyl-[acp] + 1 NAD+ <=> 1 trans-Hex-2-enoyl-[acp] + 1 H+ + 1 NADH)
+R04958:1 C05752_c + 1 C00003_c <=> 1 C05751_c + 1 C00080_c + 1 C00004_c (1 Octanoyl-[acp] + 1 NAD+ <=> 1 trans-Oct-2-enoyl-[acp] + 1 H+ + 1 NADH)
+R04961:1 C05755_c + 1 C00003_c <=> 1 C05754_c + 1 C00080_c + 1 C00004_c (1 Decanoyl-[acp] + 1 NAD+ <=> 1 trans-Dec-2-enoyl-[acp] + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00173_c (Acyl-[acyl-carrier protein])
+C00693_c (trans-2,3-Dehydroacyl-[acyl-carrier protein])
+C04088_c (Octadecanoyl-[acyl-carrier protein])
+C04246_c (But-2-enoyl-[acyl-carrier protein])
+C05223_c (Dodecanoyl-[acyl-carrier protein])
+C05745_c (Butyryl-[acp])
+C05748_c (trans-Hex-2-enoyl-[acp])
+C05749_c (Hexanoyl-[acp])
+C05751_c (trans-Oct-2-enoyl-[acp])
+C05752_c (Octanoyl-[acp])
+C05754_c (trans-Dec-2-enoyl-[acp])
+C05755_c (Decanoyl-[acp])
+C05758_c (trans-Dodec-2-enoyl-[acp])
+C05760_c (trans-Tetradec-2-enoyl-[acp])
+C05761_c (Tetradecanoyl-[acp])
+C05763_c (trans-Hexadec-2-enoyl-[acp])
+C05764_c (Hexadecanoyl-[acp])
+C16221_c ((2E)-Octadecenoyl-[acp])
+
+

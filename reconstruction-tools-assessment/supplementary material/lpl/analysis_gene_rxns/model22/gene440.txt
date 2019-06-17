@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00336:1 C00001_c + 1 C01228_c <=> 1 C00013_c + 1 C00035_c (1 H2O + 1 Guanosine 3',5'-bis(diphosphate) <=> 1 Diphosphate + 1 GDP)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C00035_c (GDP)
+C01228_c (Guanosine 3',5'-bis(diphosphate))
+
+

@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+CYTDH:1 cytd_c + 1 h2o_c -> 1 rib__D_c + 1 csn_c (1 Cytidine + 1 H2O H2O -> 1 D-Ribose + 1 Cytosine)
+
+
+AdditionalInModel:
+INSH:1 ins_c + 1 h2o_c -> 1 hxan_c + 1 rib__D_c (1 Inosine + 1 H2O H2O -> 1 Hypoxanthine + 1 D-Ribose)
+GNNUC:1 h2o_c + 1 gsn_c -> 1 gua_c + 1 rib__D_c (1 H2O H2O + 1 Guanosine -> 1 Guanine + 1 D-Ribose)
+XTSNH:1 xtsn_c + 1 h2o_c -> 1 rib__D_c + 1 xan_c (1 Xanthosine + 1 H2O H2O -> 1 D-Ribose + 1 Xanthine)

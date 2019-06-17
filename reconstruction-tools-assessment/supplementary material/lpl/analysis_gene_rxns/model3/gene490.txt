@@ -1,0 +1,4 @@
+notRecovered:
+GLYTRS_1:1 atp_c + 1 gly_c + 1 trnagly_c -> 1 amp_c + 1 glytrna_c + 1 h_c + 1 ppi_c (1 M_ATP_ + 1 M_Glycine_ + 1 M_tRNA_Gly__ -> 1 M_AMP_ + 1 M_Glycyl_tRNA_Gly__ + 1 M_H_ + 1 M_Diphosphate_)
+
+

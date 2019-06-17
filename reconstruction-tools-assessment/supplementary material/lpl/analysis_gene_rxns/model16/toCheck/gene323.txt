@@ -1,0 +1,16 @@
+notRecovered:
+TMDK2:1 gtp_c + 1 thymd_c -> 1 dtmp_c + 1 gdp_c + 1 h_c (1 M_GTP_ + 1 M_Thymidine_ -> 1 M_dTMP_ + 1 M_GDP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn00771:1 cpd00067_c + 1 cpd00002_c + 1 cpd00101_c <=> 1 cpd00008_c + 1 cpd00847_c (1 H_plus__c0 + 1 ATP_c0 + 1 ribose_5_phosphate_c0 <=> 1 ADP_c0 + 1 Ribose_1_5_bisphosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00101_c (ribose_5_phosphate_c0)
+cpd00847_c (Ribose_1_5_bisphosphate_c0)
+
+

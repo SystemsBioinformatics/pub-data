@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R06131:1 C05167_c <=> 1 C00161_c + 1 C00014_c (1 alpha-Amino acid <=> 1 2-Oxo acid + 1 Ammonia)
+
+
+AdditionalMetabolites:
+C00014_c (Ammonia)
+C00161_c (2-Oxo acid)
+C05167_c (alpha-Amino acid)
+
+

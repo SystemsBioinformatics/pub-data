@@ -1,0 +1,4 @@
+notRecovered:
+3OADPCOAT:1 3oxoadp_c + 1 succoa_c -> 1 oxadpcoa_c + 1 succ_c (1 3-Oxoadipate + 1 Succinyl-CoA -> 1 3-Oxoadipyl-CoA + 1 Succinate)
+
+

@@ -1,0 +1,16 @@
+notRecovered:
+GALM:1 gal_c <=> 1 a_gal__D_c (1 M_D_Galactose_ <=> 1 M_alpha_D_galactose_)
+
+
+AdditionalNotInModel:
+ALDOSE-1-EPIMERASE-RXN:1 ALPHA-GLUCOSE_c <=> 1 GLC_c (1 alpha-D-glucopyranose <=> 1 beta-D-glucopyranose)
+ALDOSE1EPIM-RXN:1 GALACTOSE_c <=> 1 ALPHA-D-GALACTOSE_c (1 beta-D-galactose <=> 1 alpha-D-galactose)
+
+
+AdditionalMetabolites:
+ALPHA-D-GALACTOSE_c (alpha-D-galactose)
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+GALACTOSE_c (beta-D-galactose)
+GLC_c (beta-D-glucopyranose)
+
+

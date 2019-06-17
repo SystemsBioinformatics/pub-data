@@ -1,0 +1,4 @@
+notRecovered:
+GLCRAL:1 5dh4dglc_c -> 1 2h3oppan_c + 1 pyr_c (1 5-Dehydro-4-deoxy-D-glucarate -> 1 2-Hydroxy-3-oxopropanoate + 1 Pyruvate)
+
+

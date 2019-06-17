@@ -1,0 +1,4 @@
+notRecovered:
+FUM:1 fum_c + 1 h2o_c <=> 1 mal__L_c (1 M_Fumarate_ + 1 M_H2O_ <=> 1 M_L_Malate_)
+
+

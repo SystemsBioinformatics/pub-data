@@ -1,0 +1,4 @@
+notRecovered:
+ANS:1 chor_c + 1 gln__L_c -> 1 anth_c + 1 glu__L_c + 1 h_c + 1 pyr_c (1 chorismate + 1 L-Glutamine -> 1 Anthranilate + 1 L-Glutamate + 1 H+ + 1 Pyruvate)
+
+

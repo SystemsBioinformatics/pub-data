@@ -1,0 +1,21 @@
+notRecovered:
+CYSS:1 acser_c + 1 h2s_c -> 1 ac_c + 1 cys__L_c + 1 h_c (1 M_O_Acetyl_L_serine_ + 1 M_Hydrogen_sulfide_ -> 1 M_Acetate_ + 1 M_L_Cysteine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RXN66-534:2 CYS_c -> 1 CPD-3736_c + 1 HS_c (2 L-cysteine -> 1 lanthionine + 1 hydrogen sulfide)
+RXN-19038:1 CYS_c + 1 WATER_c -> 1 SER_c + 1 HS_c (1 L-cysteine + 1 H2O -> 1 L-serine + 1 hydrogen sulfide)
+RXN66-562:1 CYS_c + 1 HOMO-CYS_c -> 1 L-CYSTATHIONINE_c + 1 HS_c (1 L-cysteine + 1 L-homocysteine -> 1 L-cystathionine + 1 hydrogen sulfide)
+CYSTATHIONINE-BETA-SYNTHASE-RXN:1 SER_c + 1 HOMO-CYS_c -> 1 L-CYSTATHIONINE_c + 1 WATER_c (1 L-serine + 1 L-homocysteine -> 1 L-cystathionine + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-3736_c (lanthionine)
+CYS_c (L-cysteine)
+HOMO-CYS_c (L-homocysteine)
+HS_c (hydrogen sulfide)
+L-CYSTATHIONINE_c (L-cystathionine)
+SER_c (L-serine)
+WATER_c (H2O)
+
+

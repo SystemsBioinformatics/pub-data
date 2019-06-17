@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R01172:1 C00010_c + 1 C00003_c + 1 C01412_c <=> 1 C00136_c + 1 C00080_c + 1 C00004_c (1 CoA + 1 NAD+ + 1 Butanal <=> 1 Butanoyl-CoA + 1 H+ + 1 NADH)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00010_c (CoA)
+C00080_c (H+)
+C00136_c (Butanoyl-CoA)
+C01412_c (Butanal)
+
+

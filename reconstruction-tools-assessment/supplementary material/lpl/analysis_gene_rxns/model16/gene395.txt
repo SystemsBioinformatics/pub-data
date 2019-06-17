@@ -1,0 +1,17 @@
+notRecovered:
+CYSTL:1 cyst__L_c + 1 h2o_c -> 1 hcys__L_c + 1 nh4_c + 1 pyr_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_L_Homocysteine_ + 1 M_Ammonium_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+rxn00566:1 cpd00001_c + 1 cpd00084_c -> 1 cpd00067_c + 1 cpd00020_c + 1 cpd00013_c + 1 cpd00239_c (1 H2O_c0 + 1 L_Cysteine_c0 -> 1 H_plus__c0 + 1 Pyruvate_c0 + 1 NH3_c0 + 1 H2S_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00084_c (L_Cysteine_c0)
+cpd00239_c (H2S_c0)
+
+

@@ -1,0 +1,26 @@
+notRecovered:
+DMQMT:1 2omhmbl_c + 1 amet_c -> 1 ahcys_c + 1 h_c + 1 q8h2_c (1 2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol + 1 S-Adenosyl-L-methionine -> 1 S-Adenosyl-L-homocysteine + 1 H+ + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+rxn11946:1 cpd00017_c + 1 cpd03449_c <=> 1 cpd00067_c + 1 cpd15560_c + 1 cpd00019_c (1 S_Adenosyl_L_methionine_c0 + 1 2_Octaprenyl_3_methyl_5_hydroxy_6_methoxy_1_4_benzoquinone_c0 <=> 1 H_plus__c0 + 1 Ubiquinone_8_c0 + 1 S_Adenosyl_homocysteine_c0)
+rxn06570:1 cpd00017_c + 1 cpd12190_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd12431_c (1 S_Adenosyl_L_methionine_c0 + 1 Calmodulin_L_lysine_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 Calmodulin_N6_methyl_L_lysine_c0)
+rxn06515:1 cpd00017_c + 1 cpd12043_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd12736_c (1 S_Adenosyl_L_methionine_c0 + 1 Protein_lysine_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 Protein_N6_methyl_L_lysine_c0)
+rxn06805:1 cpd00017_c + 1 cpd12737_c <=> 1 cpd00019_c + 1 cpd12738_c (1 S_Adenosyl_L_methionine_c0 + 1 Protein_N6_N6_dimethyl_L_lysine_c0 <=> 1 S_Adenosyl_homocysteine_c0 + 1 Protein_N6_N6_N6_trimethyl_L_lysine_c0)
+rxn06804:1 cpd00017_c + 1 cpd12736_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd12737_c (1 S_Adenosyl_L_methionine_c0 + 1 Protein_N6_methyl_L_lysine_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 Protein_N6_N6_dimethyl_L_lysine_c0)
+
+
+AdditionalMetabolites:
+cpd00017_c (S_Adenosyl_L_methionine_c0)
+cpd00019_c (S_Adenosyl_homocysteine_c0)
+cpd00067_c (H_plus__c0)
+cpd03449_c (2_Octaprenyl_3_methyl_5_hydroxy_6_methoxy_1_4_benzoquinone_c0)
+cpd12043_c (Protein_lysine_c0)
+cpd12190_c (Calmodulin_L_lysine_c0)
+cpd12431_c (Calmodulin_N6_methyl_L_lysine_c0)
+cpd12736_c (Protein_N6_methyl_L_lysine_c0)
+cpd12737_c (Protein_N6_N6_dimethyl_L_lysine_c0)
+cpd12738_c (Protein_N6_N6_N6_trimethyl_L_lysine_c0)
+cpd15560_c (Ubiquinone_8_c0)
+
+

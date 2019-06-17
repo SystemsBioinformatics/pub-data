@@ -1,0 +1,24 @@
+notRecovered:
+SUCDi:1 q8_c + 1 succ_c -> 1 fum_c + 1 q8h2_c (1 Ubiquinone-8 + 1 Succinate -> 1 Fumarate + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+RXN-15378:1 CPD-9612_c + 1 SUC_c -> 1 CPD-15301_c + 1 FUM_c (1 caldariellaquinone + 1 succinate -> 1 caldariellaquinol + 1 fumarate)
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN:1 Ubiquinones_c + 1 SUC_c -> 1 Ubiquinols_c + 1 FUM_c (1 a ubiquinone + 1 succinate -> 1 an ubiquinol + 1 fumarate)
+SUCCINATE-DEHYDROGENASE-UBIQUINONE6-RXN:1 UBIQUINONE-6_c + 1 SUC_c -> 1 UBIQUINOL-30_c + 1 FUM_c (1 ubiquinone-6 + 1 succinate -> 1 ubiquinol-6 + 1 fumarate)
+RXN-14971:1 ETR-Quinones_c + 1 SUC_c -> 1 ETR-Quinols_c + 1 FUM_c (1 an electron-transfer quinone + 1 succinate -> 1 an electron-transfer quinol + 1 fumarate)
+
+
+AdditionalMetabolites:
+CPD-15301_c (caldariellaquinol)
+CPD-9612_c (caldariellaquinone)
+ETR-Quinols_c (an electron-transfer quinol)
+ETR-Quinones_c (an electron-transfer quinone)
+FUM_c (fumarate)
+SUC_c (succinate)
+UBIQUINOL-30_c (ubiquinol-6)
+UBIQUINONE-6_c (ubiquinone-6)
+Ubiquinols_c (an ubiquinol)
+Ubiquinones_c (a ubiquinone)
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+GLCpts:1 glc__D_e + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 M_D_Glucose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_Pyruvate_)
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+

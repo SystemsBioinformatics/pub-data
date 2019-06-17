@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn01116:1 cpd00171_c <=> 1 cpd00198_c (1 D_Ribulose5_phosphate_c0 <=> 1 D_Xylulose5_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00171_c (D_Ribulose5_phosphate_c0)
+cpd00198_c (D_Xylulose5_phosphate_c0)
+
+

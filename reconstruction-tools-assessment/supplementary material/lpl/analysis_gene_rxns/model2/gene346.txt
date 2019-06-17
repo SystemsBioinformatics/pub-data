@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+GTPCII:3 h2o_c + 1 gtp_c -> 2 h_c + 1 ppi_c + 1 for_c + 1 25dhpp_c (3 H2O + 1 GTP -> 2 H+ + 1 Diphosphate + 1 Formate + 1 2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P)
+GTPCII2:3 h2o_c + 1 gtp_c -> 2 h_c + 1 ppi_c + 1 for_c + 1 25drapp_c (3 H2O + 1 GTP -> 2 H+ + 1 Diphosphate + 1 Formate + 1 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate)
+
+
+AdditionalMetabolites:
+25dhpp_c (2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P)
+25drapp_c (2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate)
+
+

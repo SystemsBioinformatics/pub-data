@@ -1,0 +1,4 @@
+notRecovered:
+FLVR:1 h_c + 1 nadph_c + 1 ribflv_c -> 1 nadp_c + 1 rbflvrd_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Riboflavin_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Reduced_riboflavin_)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+
+AdditionalNotInModel:
+R00811:1 C00089_c + 1 C04261_c -> 1 C00615_c + 1 C16688_c (1 Sucrose + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 Sucrose 6-phosphate)
+
+
+AdditionalMetabolites:
+C00089_c (Sucrose)
+C00615_c (Protein histidine)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+C16688_c (Sucrose 6-phosphate)
+
+

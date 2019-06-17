@@ -1,0 +1,22 @@
+notRecovered:
+ASPabcpp:1 asp__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 asp__L_c + 1 h_c + 1 pi_c (1 L-Aspartate + 1 ATP + 1 H2O -> 1 ADP + 1 L-Aspartate + 1 H+ + 1 Phosphate)
+GLUabcpp:1 atp_c + 1 glu__L_p + 1 h2o_c -> 1 adp_c + 1 glu__L_c + 1 h_c + 1 pi_c (1 ATP + 1 L-Glutamate + 1 H2O -> 1 ADP + 1 L-Glutamate + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn05152:1 cpd00002_c + 1 cpd00001_c + 1 cpd00041_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00041_c (1 ATP_c0 + 1 H2O_c0 + 1 L_Aspartate_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_Aspartate_c0)
+rxn05146:1 cpd00002_c + 1 cpd00001_c + 1 cpd00023_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00023_c (1 ATP_c0 + 1 H2O_c0 + 1 L_Glutamate_e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_Glutamate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00023_e (L_Glutamate_e0)
+cpd00041_c (L_Aspartate_c0)
+cpd00041_e (L_Aspartate_e0)
+cpd00067_c (H_plus__c0)
+
+

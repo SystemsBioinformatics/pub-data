@@ -1,0 +1,4 @@
+notRecovered:
+THD2pp:2 h_p + 1 nadh_c + 1 nadp_c -> 2 h_c + 1 nad_c + 1 nadph_c (2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Nicotinamide adenine dinucleotide phosphate -> 2 H+ + 1 Nicotinamide adenine dinucleotide + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+

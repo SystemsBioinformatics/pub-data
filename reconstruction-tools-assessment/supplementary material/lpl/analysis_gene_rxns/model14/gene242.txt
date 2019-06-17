@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+PNKIN-RXN:1 PYRIDOXINE_c + 1 ATP_c -> 1 PYRIDOXINE-5P_c + 1 ADP_c + 1 PROTON_c (1 pyridoxine + 1 ATP -> 1 pyridoxine 5'-phosphate + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+PROTON_c (H+)
+PYRIDOXINE-5P_c (pyridoxine 5'-phosphate)
+PYRIDOXINE_c (pyridoxine)
+
+

@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00145:1 C00003_c + 1 C05167_c + 1 C00001_c <=> 1 C00161_c + 1 C00014_c + 1 C00080_c + 1 C00004_c (1 NAD+ + 1 alpha-Amino acid + 1 H2O <=> 1 2-Oxo acid + 1 Ammonia + 1 H+ + 1 NADH)
+R00146:1 C00006_c + 1 C05167_c + 1 C00001_c <=> 1 C00005_c + 1 C00161_c + 1 C00014_c + 1 C00080_c (1 NADP+ + 1 alpha-Amino acid + 1 H2O <=> 1 NADPH + 1 2-Oxo acid + 1 Ammonia + 1 H+)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00014_c (Ammonia)
+C00080_c (H+)
+C00161_c (2-Oxo acid)
+C05167_c (alpha-Amino acid)
+
+

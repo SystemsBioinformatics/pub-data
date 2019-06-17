@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04035:1 C00001_c + 1 C02739_c <=> 1 C00013_c + 1 C02741_c (1 H2O + 1 1-(5-Phospho-D-ribosyl)-ATP <=> 1 Diphosphate + 1 Phosphoribosyl-AMP)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C02739_c (1-(5-Phospho-D-ribosyl)-ATP)
+C02741_c (Phosphoribosyl-AMP)
+
+

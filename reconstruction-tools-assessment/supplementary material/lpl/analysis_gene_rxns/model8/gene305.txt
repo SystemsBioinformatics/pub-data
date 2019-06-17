@@ -1,0 +1,17 @@
+notRecovered:
+DAGGT_LPL:0.01 dag_LPL_c + 2 udpg_c -> 0.01 dgdag_LPL_c + 2 h_c + 2 udp_c (0.01 M_1_2_Diacylglycerol__LPL_specific_ + 2 M_UDPglucose_ -> 0.01 M_Diglucosyl_diacylglycerol_ + 2 M_H_ + 2 M_UDP_)
+
+
+AdditionalNotInModel:
+DAGGT_LLA:2 udpg_c + 0.01 12dgr_LLA_c -> 0.01 d12dg_LLA_c + 2 udp_c + 2 h_c (2 UDPglucose + 0.01 1 2 diacylglycerol  lactis specific  -> 0.01 Diglucosyl 1 2 diacylglycerol + 2 UDP C9H11N2O12P2 + 2 H+)
+G16MTM1:1 gdpmann_c + 1 ptd1ino160190_c -> 1 PIM1_c + 1 gdp_c + 1 h_c (1 GDP-D-mannose + 1 Phosphatidyl 1D myo inositol (C16:0, C19:0) -> 1 Phosphatidylinositol mannoside (tuberculosis) + 1 GDP C10H12N5O11P2 + 1 H+)
+
+
+AdditionalMetabolites:
+12dgr_LLA_c (1 2 diacylglycerol  lactis specific)
+PIM1_c (Phosphatidylinositol mannoside (tuberculosis))
+d12dg_LLA_c (Diglucosyl 1 2 diacylglycerol)
+gdpmann_c (GDP-D-mannose)
+ptd1ino160190_c (Phosphatidyl 1D myo inositol (C16:0, C19:0))
+
+

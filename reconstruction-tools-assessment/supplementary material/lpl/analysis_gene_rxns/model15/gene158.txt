@@ -1,0 +1,11 @@
+notRecovered:
+3HAD180:1 3hoctaACP_c -> 1 toctd2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_ -> 1 M_trans_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD120:1 3hddecACP_c -> 1 tddec2eACP_c + 1 h2o_c (1 M__R__3_Hydroxydodecanoyl_acyl_carrier_protein_ -> 1 M_trans_Dodec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD60:1 3hhexACP_c -> 1 thex2eACP_c + 1 h2o_c (1 M__R__3_Hydroxyhexanoyl_acp_ -> 1 M_trans_Hex_2_enoyl_acp_ + 1 M_H2O_)
+3HAD140:1 3hmrsACP_c -> 1 tmrs2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxytetradecanoyl_acyl_carrier_protein_ -> 1 M_trans_Tetradec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD80:1 3hoctACP_c -> 1 toct2eACP_c + 1 h2o_c (1 M__R__3_Hydroxyoctanoyl_acyl_carrier_protein_ -> 1 M_trans_Oct_2_enoyl_acp_ + 1 M_H2O_)
+3HAD100:1 3hdecACP_c -> 1 tdec2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxydecanoyl_acyl_carrier_protein_ -> 1 M_trans_Dec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD40:1 3haACP_c -> 1 but2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxybutanoyl_acyl_carrier_protein_ -> 1 M_But_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD160:1 3hpalmACP_c -> 1 tpalm2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxypalmitoyl_acyl_carrier_protein_ -> 1 M_trans_Hexadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+
+

@@ -1,0 +1,10 @@
+notRecovered:
+PSSA161:1 cdpdhdec9eg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps161_c (1 CDP-1,2-dihexadec-9-enoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (dihexadec-9-enoyl, n-C16:1))
+PSSA180:1 cdpdodecg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps180_c (1 CDP-1,2-dioctadecanoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (dioctadecanoyl, n-C18:0))
+PSSA181:1 cdpdodec11eg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps181_c (1 CDP-1,2-dioctadec-11-enoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (dioctadec-11-enoyl, n-C18:1))
+PSSA120:1 cdpdddecg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps120_c (1 CDP-1,2-didodecanoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (didodecanoyl, n-C12:0))
+PSSA140:1 cdpdtdecg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps140_c (1 CDP-1,2-ditetradecanoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (ditetradecanoyl, n-C14:0))
+PSSA141:1 cdpdtdec7eg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps141_c (1 CDP-1,2-ditetradec-7-enoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (ditetradec-7-enoyl, n-C14:1))
+PSSA160:1 cdpdhdecg_c + 1 ser__L_c -> 1 cmp_c + 1 h_c + 1 ps160_c (1 CDP-1,2-dihexadecanoylglycerol + 1 L-Serine -> 1 CMP + 1 H+ + 1 phosphatidylserine (dihexadecanoyl, n-C16:0))
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+PPPNDO:1 pppn_c + 1 o2_c + 1 h_c + 1 nadh_c -> 1 nad_c + 1 cechddd_c (1 Phenylpropanoate + 1 O2 O2 + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Nicotinamide adenine dinucleotide + 1 Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol)
+CINNDO:1 o2_c + 1 cinnm_c + 1 h_c + 1 nadh_c -> 1 cenchddd_c + 1 nad_c (1 O2 O2 + 1 Trans-Cinnamate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+cechddd_c (Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol)
+cenchddd_c (Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol)
+cinnm_c (Trans-Cinnamate)
+pppn_c (Phenylpropanoate)
+
+

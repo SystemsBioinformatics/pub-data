@@ -1,0 +1,19 @@
+notRecovered:
+FMETTRS:1 10fthf_c + 1 mettrna_c -> 1 fmettrna_c + 1 h_c + 1 thf_c (1 10-Formyltetrahydrofolate + 1 L-Methionyl-tRNA (Met) -> 1 N-Formylmethionyl-tRNA + 1 H+ + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+rxn02283:1 cpd00023_c + 1 cpd02197_c <=> 1 cpd00067_c + 1 cpd00087_c + 1 cpd00770_c (1 L_Glutamate_c0 + 1 5_Formyltetrahydrofolate_c0 <=> 1 H_plus__c0 + 1 Tetrahydrofolate_c0 + 1 N_Formyl_L_glutamate_c0)
+rxn01641:1 cpd00023_c + 1 cpd00502_c <=> 1 cpd00087_c + 1 cpd00344_c (1 L_Glutamate_c0 + 1 5_Formiminotetrahydrofolate_c0 <=> 1 Tetrahydrofolate_c0 + 1 N_Formimino_L_glutamate_c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00067_c (H_plus__c0)
+cpd00087_c (Tetrahydrofolate_c0)
+cpd00344_c (N_Formimino_L_glutamate_c0)
+cpd00502_c (5_Formiminotetrahydrofolate_c0)
+cpd00770_c (N_Formyl_L_glutamate_c0)
+cpd02197_c (5_Formyltetrahydrofolate_c0)
+
+

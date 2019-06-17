@@ -1,0 +1,4 @@
+notRecovered:
+MNLpts:1 mnl_e + 1 pep_c -> 1 mnl1p_c + 1 pyr_c (1 M_D_Mannitol_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannitol_1_phosphate_ + 1 M_Pyruvate_)
+
+

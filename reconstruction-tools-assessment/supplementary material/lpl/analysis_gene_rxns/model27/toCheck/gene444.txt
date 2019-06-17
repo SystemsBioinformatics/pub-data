@@ -1,0 +1,20 @@
+notRecovered:
+PRFGS_1:1 atp_c + 1 fgam_c + 1 gln__L_c + 1 h2o_c -> 1 adp_c + 1 fpram_c + 1 glu__L_c + 2 h_c + 1 pi_c (1 M_ATP_ + 1 M_N2_Formyl_N1__5_phospho_D_ribosyl_glycinamide_ + 1 M_L_Glutamine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_2__Formamido__N1__5_phospho_D_ribosyl_acetamidine_ + 1 M_L_Glutamate_ + 2 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+FGAMSYN-RXN:1 5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE_c + 1 ATP_c + 1 GLN_c + 1 WATER_c -> 1 5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c + 1 ADP_c + 1 GLT_c + 1 PROTON_c + 1 Pi_c (1 N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide + 1 ATP + 1 L-glutamine + 1 H2O -> 1 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine + 1 ADP + 1 L-glutamate + 1 H+ + 1 phosphate)
+
+
+AdditionalMetabolites:
+5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE_c (N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide)
+5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c (2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine)
+ADP_c (ADP)
+ATP_c (ATP)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+PROTON_c (H+)
+Pi_c (phosphate)
+WATER_c (H2O)
+
+

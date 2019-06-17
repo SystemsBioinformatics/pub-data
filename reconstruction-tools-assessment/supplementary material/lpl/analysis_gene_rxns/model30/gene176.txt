@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R00867:1 C00095_c + 1 C00002_c <=> 1 C05345_c + 1 C00008_c (1 D-Fructose + 1 ATP <=> 1 beta-D-Fructose 6-phosphate + 1 ADP)
+R03920:1 C02336_c + 1 C00002_c <=> 1 C05345_c + 1 C00008_c (1 beta-D-Fructose + 1 ATP <=> 1 beta-D-Fructose 6-phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00095_c (D-Fructose)
+C02336_c (beta-D-Fructose)
+C05345_c (beta-D-Fructose 6-phosphate)
+
+

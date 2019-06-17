@@ -1,0 +1,17 @@
+notRecovered:
+ACACCT:1 acac_c + 1 accoa_c -> 1 aacoa_c + 1 ac_c (1 Acetoacetate + 1 Acetyl-CoA -> 1 Acetoacetyl-CoA + 1 Acetate)
+BUTCT:1 accoa_c + 1 but_c -> 1 ac_c + 1 btcoa_c (1 Acetyl-CoA + 1 Butyrate (n-C4:0) -> 1 Acetate + 1 Butanoyl-CoA)
+HXCT:1 accoa_c + 1 hxa_c -> 1 ac_c + 1 hxcoa_c (1 Acetyl-CoA + 1 Hexanoate (n-C6:0) -> 1 Acetate + 1 Hexanoyl-CoA (n-C6:0CoA))
+
+
+AdditionalNotInModel:
+RXN-10085:1 SUC-COA_c + 1 CPD-10826_c <=> 1 CPD-10832_c + 1 SUC_c (1 succinyl-CoA + 1 4-methyl-3-oxoadipate <=> 1 4-methyl-3-oxoadipyl-CoA + 1 succinate)
+
+
+AdditionalMetabolites:
+CPD-10826_c (4-methyl-3-oxoadipate)
+CPD-10832_c (4-methyl-3-oxoadipyl-CoA)
+SUC-COA_c (succinyl-CoA)
+SUC_c (succinate)
+
+

@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+rxn08557:1 cpd00080_c + 1 cpd15500_c -> 1 cpd00095_c + 1 cpd15499_c (1 Glycerol_3_phosphate_c0 + 1 Menaquinone_8_c0 -> 1 Glycerone_phosphate_c0 + 1 Menaquinol_8_c0)
+rxn00616:1 cpd00067_c + 1 cpd00080_c + 1 cpd00015_c <=> 1 cpd00982_c + 1 cpd00095_c (1 H_plus__c0 + 1 Glycerol_3_phosphate_c0 + 1 FAD_c0 <=> 1 FADH2_c0 + 1 Glycerone_phosphate_c0)
+rxn08558:1 cpd00080_c + 1 cpd15352_c -> 1 cpd00095_c + 1 cpd15353_c (1 Glycerol_3_phosphate_c0 + 1 2_Demethylmenaquinone_8_c0 -> 1 Glycerone_phosphate_c0 + 1 2_Demethylmenaquinol_8_c0)
+
+
+AdditionalMetabolites:
+cpd00015_c (FAD_c0)
+cpd00067_c (H_plus__c0)
+cpd00080_c (Glycerol_3_phosphate_c0)
+cpd00095_c (Glycerone_phosphate_c0)
+cpd00982_c (FADH2_c0)
+cpd15352_c (2_Demethylmenaquinone_8_c0)
+cpd15353_c (2_Demethylmenaquinol_8_c0)
+cpd15499_c (Menaquinol_8_c0)
+cpd15500_c (Menaquinone_8_c0)
+
+

@@ -1,0 +1,6 @@
+notRecovered:
+NTPP9:1 h2o_c + 1 itp_c -> 1 h_c + 1 imp_c + 1 ppi_c (1 H2O + 1 ITP -> 1 H+ + 1 IMP + 1 Diphosphate)
+NTPP10:1 ditp_c + 1 h2o_c -> 1 dimp_c + 1 h_c + 1 ppi_c (1 dITP + 1 H2O -> 1 dIMP + 1 H+ + 1 Diphosphate)
+NTPP11:1 h2o_c + 1 xtp_c -> 1 h_c + 1 ppi_c + 1 xmp_c (1 H2O + 1 XTP -> 1 H+ + 1 Diphosphate + 1 Xanthosine 5'-phosphate)
+
+

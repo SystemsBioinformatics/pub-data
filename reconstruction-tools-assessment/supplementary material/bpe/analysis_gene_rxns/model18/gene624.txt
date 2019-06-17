@@ -1,0 +1,37 @@
+AdditionalNotInModel:
+R00268:1 C05379_c <=> 1 C00011_c + 1 C00026_c (1 Oxalosuccinate <=> 1 CO2 + 1 2-Oxoglutarate)
+R00994:1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00109_c <=> 1 C00003_c + 1 C06032_c (1 NADH + 1 CO2 + 1 H+ + 1 2-Oxobutanoate <=> 1 NAD+ + 1 D-erythro-3-Methylmalate)
+R01899:1 C00006_c + 1 C00311_c <=> 1 C00005_c + 1 C00080_c + 1 C05379_c (1 NADP+ + 1 Isocitrate <=> 1 NADPH + 1 H+ + 1 Oxalosuccinate)
+R01934:1 C00003_c + 1 C05662_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00322_c (1 NAD+ + 1 Homoisocitrate <=> 1 NADH + 1 CO2 + 1 H+ + 1 2-Oxoadipate)
+R01936:1 C05533_c -> 1 C00011_c + 1 C00322_c (1 Oxaloglutarate -> 1 CO2 + 1 2-Oxoadipate)
+R04426:1 C00003_c + 1 C04411_c <=> 1 C00004_c + 1 C00080_c + 1 C04236_c (1 NAD+ + 1 (2R,3S)-3-Isopropylmalate <=> 1 NADH + 1 H+ + 1 (2S)-2-Isopropyl-3-oxosuccinate)
+R04862:1 C00003_c + 1 C05662_c -> 1 C00004_c + 1 C00080_c + 1 C05533_c (1 NAD+ + 1 Homoisocitrate -> 1 NADH + 1 H+ + 1 Oxaloglutarate)
+R08214:1 C00003_c + 1 C16597_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C16588_c (1 NAD+ + 1 (-)-threo-Iso(homo)2-citrate <=> 1 NADH + 1 CO2 + 1 H+ + 1 2-Oxopimelate)
+R08215:1 C00003_c + 1 C16600_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C16589_c (1 NAD+ + 1 (-)-threo-Iso(homo)3-citrate <=> 1 NADH + 1 CO2 + 1 H+ + 1 2-Oxosuberate)
+R10052:1 C00003_c + 1 C04411_c -> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00233_c (1 NAD+ + 1 (2R,3S)-3-Isopropylmalate -> 1 NADH + 1 CO2 + 1 H+ + 1 4-Methyl-2-oxopentanoate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00011_c (CO2)
+C00026_c (2-Oxoglutarate)
+C00080_c (H+)
+C00109_c (2-Oxobutanoate)
+C00233_c (4-Methyl-2-oxopentanoate)
+C00311_c (Isocitrate)
+C00322_c (2-Oxoadipate)
+C04236_c ((2S)-2-Isopropyl-3-oxosuccinate)
+C04411_c ((2R,3S)-3-Isopropylmalate)
+C05379_c (Oxalosuccinate)
+C05533_c (Oxaloglutarate)
+C05662_c (Homoisocitrate)
+C06032_c (D-erythro-3-Methylmalate)
+C16588_c (2-Oxopimelate)
+C16589_c (2-Oxosuberate)
+C16597_c ((-)-threo-Iso(homo)2-citrate)
+C16600_c ((-)-threo-Iso(homo)3-citrate)
+
+

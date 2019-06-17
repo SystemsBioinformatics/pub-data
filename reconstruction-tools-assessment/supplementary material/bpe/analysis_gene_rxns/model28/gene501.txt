@@ -1,0 +1,4 @@
+notRecovered:
+HBZOPT:1 4hbz_c + 1 octdp_c -> 1 3ophb_c + 1 ppi_c (1 4-Hydroxybenzoate + 1 all-trans-Octaprenyl diphosphate -> 1 3-Octaprenyl-4-hydroxybenzoate + 1 Diphosphate)
+
+

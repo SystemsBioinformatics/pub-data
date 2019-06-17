@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn04043:1 cpd00008_c + 1 cpd00072_c <=> 2 cpd00067_c + 1 cpd00290_c + 1 cpd00018_c (1 ADP_c0 + 1 D_fructose_6_phosphate_c0 <=> 2 H_plus__c0 + 1 D_fructose_1_6_bisphosphate_c0 + 1 AMP_c0)
+
+
+AdditionalMetabolites:
+cpd00008_c (ADP_c0)
+cpd00018_c (AMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00072_c (D_fructose_6_phosphate_c0)
+cpd00290_c (D_fructose_1_6_bisphosphate_c0)
+
+

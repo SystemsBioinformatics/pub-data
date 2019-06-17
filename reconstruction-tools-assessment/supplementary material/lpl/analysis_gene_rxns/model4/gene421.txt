@@ -1,0 +1,4 @@
+notRecovered:
+ACOTA:1 acorn_c + 1 akg_c <=> 1 acg5sa_c + 1 glu__L_c (1 M_N2_Acetyl_L_ornithine_ + 1 M_2_Oxoglutarate_ <=> 1 M_N_Acetyl_L_glutamate_5_semialdehyde_ + 1 M_L_Glutamate_)
+
+

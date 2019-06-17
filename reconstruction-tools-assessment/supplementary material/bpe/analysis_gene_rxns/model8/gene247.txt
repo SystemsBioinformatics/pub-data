@@ -1,0 +1,17 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+NADH-DEHYDROG-A-RXN:1 Ubiquinones_c + 1 NADH_c + 5 PROTON_c <=> 4 PROTON_e + 1 Ubiquinols_c + 1 NAD_c (1 a ubiquinone + 1 NADH + 5 H+ <=> 4 H+ + 1 an ubiquinol + 1 NAD+)
+
+
+AdditionalMetabolites:
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+PROTON_e (H+)
+Ubiquinols_c (an ubiquinol)
+Ubiquinones_c (a ubiquinone)
+
+

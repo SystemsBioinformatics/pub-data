@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GLGC:1 atp_c + 1 h_c + 1 g1p_c -> 1 ppi_c + 1 adpglc_c (1 ATP + 1 H+ + 1 D-Glucose 1-phosphate -> 1 Diphosphate + 1 ADPglucose)
+
+
+AdditionalMetabolites:
+adpglc_c (ADPglucose)
+
+

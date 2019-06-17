@@ -1,0 +1,19 @@
+notRecovered:
+METB1:1 achms_c + 1 cys__L_c -> 1 ac_c + 1 cyst__L_c + 1 h_c (1 M_O_Acetyl_L_homoserine_ + 1 M_L_Cysteine_ -> 1 M_Acetate_ + 1 M_L_Cystathionine_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+SHSL1:1 cys__L_c + 1 suchms_c -> 1 cyst__L_c + 1 h_c + 1 succ_c (1 L-Cysteine + 1 O-Succinyl-L-homoserine -> 1 L-Cystathionine + 1 H+ + 1 Succinate)
+SHSL4r:1 h2o_c + 1 suchms_c -> 1 2obut_c + 1 h_c + 1 nh4_c + 1 succ_c (1 H2O H2O + 1 O-Succinyl-L-homoserine -> 1 2-Oxobutanoate + 1 H+ + 1 Ammonium + 1 Succinate)
+SHSL2:1 h2s_c + 1 suchms_c -> 1 hcys__L_c + 1 succ_c (1 Hydrogen sulfide + 1 O-Succinyl-L-homoserine -> 1 L-Homocysteine + 1 Succinate)
+SLCYSS:1 acser_c + 1 tsul_c -> 1 ac_c + 1 scys__L_c (1 O-Acetyl-L-serine + 1 Thiosulfate -> 1 Acetate + 1 S-Sulfo-L-cysteine)
+SHSL3:1 ch4s_c + 1 suchms_c -> 1 h_c + 1 met__L_c + 1 succ_c (1 Methanethiol CH4S + 1 O-Succinyl-L-homoserine -> 1 H+ + 1 L-Methionine + 1 Succinate)
+
+
+AdditionalMetabolites:
+ch4s_c (Methanethiol CH4S)
+scys__L_c (S-Sulfo-L-cysteine)
+suchms_c (O-Succinyl-L-homoserine)
+tsul_c (Thiosulfate)
+
+

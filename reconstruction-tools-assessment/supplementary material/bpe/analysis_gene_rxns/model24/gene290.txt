@@ -1,0 +1,15 @@
+notRecovered:
+SERD_D:1 ser__D_c -> 1 nh4_c + 1 pyr_c (1 D-Serine -> 1 Ammonium + 1 Pyruvate)
+THRD_L:1 thr__L_c -> 1 2obut_c + 1 nh4_c (1 L-Threonine -> 1 2-Oxobutanoate + 1 Ammonium)
+
+
+AdditionalNotInModel:
+4.3.1.16-RXN:1 THREO-3-HYDROXY-L-ASPARTATE_c <=> 1 AMMONIUM_c + 1 OXALACETIC_ACID_c (1 (3S)-3-hydroxy-L-aspartate <=> 1 ammonium + 1 oxaloacetate)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+OXALACETIC_ACID_c (oxaloacetate)
+THREO-3-HYDROXY-L-ASPARTATE_c ((3S)-3-hydroxy-L-aspartate)
+
+

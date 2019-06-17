@@ -1,0 +1,21 @@
+notRecovered:
+GLYCTO1:1 glyclt_c + 1 o2_c -> 1 glx_c + 1 h2o2_c (1 Glycolate + 1 O2 -> 1 Glyoxylate + 1 Hydrogen peroxide)
+
+
+AdditionalNotInModel:
+rxn08655:1 cpd15560_c + 1 cpd00139_c <=> 1 cpd15561_c + 1 cpd00040_c (1 Ubiquinone_8_c0 + 1 Glycolate_c0 <=> 1 Ubiquinol_8_c0 + 1 Glyoxalate_c0)
+rxn08656:1 cpd15500_c + 1 cpd00139_c -> 1 cpd15499_c + 1 cpd00040_c (1 Menaquinone_8_c0 + 1 Glycolate_c0 -> 1 Menaquinol_8_c0 + 1 Glyoxalate_c0)
+rxn08657:1 cpd15352_c + 1 cpd00139_c -> 1 cpd15353_c + 1 cpd00040_c (1 2_Demethylmenaquinone_8_c0 + 1 Glycolate_c0 -> 1 2_Demethylmenaquinol_8_c0 + 1 Glyoxalate_c0)
+
+
+AdditionalMetabolites:
+cpd00040_c (Glyoxalate_c0)
+cpd00139_c (Glycolate_c0)
+cpd15352_c (2_Demethylmenaquinone_8_c0)
+cpd15353_c (2_Demethylmenaquinol_8_c0)
+cpd15499_c (Menaquinol_8_c0)
+cpd15500_c (Menaquinone_8_c0)
+cpd15560_c (Ubiquinone_8_c0)
+cpd15561_c (Ubiquinol_8_c0)
+
+

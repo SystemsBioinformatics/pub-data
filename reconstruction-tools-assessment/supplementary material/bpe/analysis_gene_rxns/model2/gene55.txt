@@ -1,0 +1,6 @@
+notRecovered:
+LEUTA:1 akg_c + 1 leu__L_c <=> 1 4mop_c + 1 glu__L_c (1 2-Oxoglutarate + 1 L-Leucine <=> 1 4-Methyl-2-oxopentanoate + 1 L-Glutamate)
+
+
+AdditionalInModel:
+LEUTAi:1 glu__L_c + 1 4mop_c -> 1 akg_c + 1 leu__L_c (1 L-Glutamate + 1 4-Methyl-2-oxopentanoate -> 1 2-Oxoglutarate + 1 L-Leucine)

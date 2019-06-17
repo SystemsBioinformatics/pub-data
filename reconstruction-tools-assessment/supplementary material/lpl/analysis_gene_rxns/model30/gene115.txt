@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R09107:1 C15532_c + 1 C00001_c <=> 1 C00033_c + 1 C00327_c (1 N-Acetyl-L-citrulline + 1 H2O <=> 1 Acetate + 1 L-Citrulline)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00033_c (Acetate)
+C00327_c (L-Citrulline)
+C15532_c (N-Acetyl-L-citrulline)
+
+

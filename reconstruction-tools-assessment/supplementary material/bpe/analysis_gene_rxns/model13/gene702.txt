@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+rxn01547:1 cpd00067_c + 1 cpd00001_c + 1 cpd00311_c <=> 1 cpd00013_c + 1 cpd01217_c (1 H_plus__c0 + 1 H2O_c0 + 1 Guanosine_c0 <=> 1 NH3_c0 + 1 Xanthosine_c0)
+rxn02834:1 cpd00001_c + 1 cpd01775_c -> 1 cpd00012_c + 2 cpd00067_c + 1 cpd01777_c (1 H2O_c0 + 1 Phosphoribosyl_ATP_c0 -> 1 PPi_c0 + 2 H_plus__c0 + 1 Phosphoribosyl_AMP_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00012_c (PPi_c0)
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd00311_c (Guanosine_c0)
+cpd01217_c (Xanthosine_c0)
+cpd01775_c (Phosphoribosyl_ATP_c0)
+cpd01777_c (Phosphoribosyl_AMP_c0)
+
+

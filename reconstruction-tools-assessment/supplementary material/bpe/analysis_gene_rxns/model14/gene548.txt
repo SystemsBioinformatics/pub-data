@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01872:1 cpd00078_c + 1 cpd00449_c <=> 1 cpd00010_c + 1 cpd00860_c (1 Succinyl_CoA_c0 + 1 Dihydrolipoamide_c0 <=> 1 CoA_c0 + 1 S_Succinyldihydrolipoamide_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00078_c (Succinyl_CoA_c0)
+cpd00449_c (Dihydrolipoamide_c0)
+cpd00860_c (S_Succinyldihydrolipoamide_c0)
+
+

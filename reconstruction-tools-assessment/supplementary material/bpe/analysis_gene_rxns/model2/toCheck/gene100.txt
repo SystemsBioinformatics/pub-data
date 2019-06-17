@@ -1,0 +1,12 @@
+notRecovered:
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 3-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+ACTD2:1 nad_c + 1 coa_c + 1 actn__R_c -> 1 h_c + 1 nadh_c + 1 accoa_c + 1 acald_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1  R  Acetoin C4H8O2 -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Acetyl-CoA + 1 Acetaldehyde)
+
+
+AdditionalMetabolites:
+actn__R_c ( R  Acetoin C4H8O2)
+
+

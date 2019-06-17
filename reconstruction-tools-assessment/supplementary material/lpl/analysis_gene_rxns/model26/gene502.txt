@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+THI-P-SYN-RXN:1 AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP_c + 1 PROTON_c + 1 THZ-P_c -> 1 PPI_c + 1 THIAMINE-P_c (1 4-amino-2-methyl-5-(diphosphomethyl)pyrimidine + 1 H+ + 1 4-methyl-5-(2-phosphooxyethyl)thiazole -> 1 diphosphate + 1 thiamine phosphate)
+
+
+AdditionalMetabolites:
+AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP_c (4-amino-2-methyl-5-(diphosphomethyl)pyrimidine)
+PPI_c (diphosphate)
+PROTON_c (H+)
+THIAMINE-P_c (thiamine phosphate)
+THZ-P_c (4-methyl-5-(2-phosphooxyethyl)thiazole)
+
+

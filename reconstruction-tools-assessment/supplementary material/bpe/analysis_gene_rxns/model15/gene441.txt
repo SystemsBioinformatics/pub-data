@@ -1,0 +1,16 @@
+notRecovered:
+HIBD:1 3hmp_c + 1 nad_c <=> 1 2mop_c + 1 h_c + 1 nadh_c (1 (S)-3-hydroxy-2-methylpropanoate + 1 Nicotinamide adenine dinucleotide <=> 1 2-methyl-3-oxopropanoate ((S)-methylmalonate semialdehyde) + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+R05066:1 C00003_c + 1 C06001_c <=> 1 C00004_c + 1 C00080_c + 1 C06002_c (1 NAD+ + 1 (S)-3-Hydroxyisobutyrate <=> 1 NADH + 1 H+ + 1 (S)-Methylmalonate semialdehyde)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C06001_c ((S)-3-Hydroxyisobutyrate)
+C06002_c ((S)-Methylmalonate semialdehyde)
+
+

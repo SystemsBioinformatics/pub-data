@@ -1,0 +1,5 @@
+notRecovered:
+ACKr:1 ac_c + 1 atp_c <=> 1 actp_c + 1 adp_c (1 Acetate + 1 ATP <=> 1 Acetyl phosphate + 1 ADP)
+GART:1 atp_c + 1 for_c + 1 gar_c -> 1 adp_c + 1 fgam_c + 1 h_c + 1 pi_c (1 ATP + 1 Formate + 1 N1-(5-Phospho-D-ribosyl)glycinamide -> 1 ADP + 1 N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide + 1 H+ + 1 Phosphate)
+
+

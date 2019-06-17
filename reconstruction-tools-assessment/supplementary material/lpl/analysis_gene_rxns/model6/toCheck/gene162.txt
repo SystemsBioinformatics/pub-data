@@ -1,0 +1,12 @@
+notRecovered:
+ACPS1:1 apoACP_c + 1 coa_c -> 1 ACP_c + 1 h_c + 1 pap_c (1 M_apoprotein_acyl_carrier_protein_ + 1 M_Coenzyme_A_ -> 1 M_Acyl_carrier_Protein_ + 1 M_H_ + 1 M_Adenosine_3__5__bisphosphate_)
+
+
+AdditionalNotInModel:
+ACOATA_copy_1:1 ACP_c + 1 accoa_c <=> 1 acACP_c + 1 coa_c (1 Acyl carrier protein + 1 Acetyl-CoA <=> 1 Acetyl-ACP + 1 Coenzyme A)
+
+
+AdditionalMetabolites:
+acACP_c (Acetyl-ACP)
+
+

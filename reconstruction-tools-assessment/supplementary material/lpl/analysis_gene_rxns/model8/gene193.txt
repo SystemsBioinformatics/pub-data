@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+BACCL:1 btn_c + 1 atp_c + 1 h_c -> 1 ppi_c + 1 btamp_c (1 Biotin + 1 ATP C10H12N5O13P3 + 1 H+ -> 1 Diphosphate + 1 Biotinyl 5  AMP C20H27N7O9PS)
+
+
+AdditionalMetabolites:
+btamp_c (Biotinyl 5  AMP C20H27N7O9PS)
+
+

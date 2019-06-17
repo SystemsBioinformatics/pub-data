@@ -1,0 +1,16 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 M_5_Methyltetrahydrofolate_ + 1 M_L_Homocysteine_ -> 1 M_H_ + 1 M_L_Methionine_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+
+AdditionalNotInModel:
+1.5.1.20-RXN:1 METHYLENE-THF-GLU-N_c + 1 NADH_c + 1 PROTON_c -> 1 5-METHYL-THF-GLU-N_c + 1 NAD_c (1 METHYLENE-THF-GLU-N + 1 NADH + 1 H+ -> 1 5-METHYL-THF-GLU-N + 1 NAD+)
+
+
+AdditionalMetabolites:
+5-METHYL-THF-GLU-N_c (5-METHYL-THF-GLU-N)
+METHYLENE-THF-GLU-N_c (METHYLENE-THF-GLU-N)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

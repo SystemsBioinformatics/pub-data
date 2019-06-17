@@ -1,0 +1,4 @@
+notRecovered:
+UNAGAMAMT:1 uacmam_c + 1 unaga_c -> 1 h_c + 1 udp_c + 1 unagama_c (1 M_UDP_N_acetyl_D_mannosamine_ + 1 M_Undecaprenyl_diphospho_N_acetyl_glucosamine_ -> 1 M_H_ + 1 M_UDP_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_)
+
+

@@ -1,0 +1,53 @@
+blastStructure = getBlast(species,inputFile,modelIDs,refFastaFiles);
+draftModel = getModelFromHomology(models, blastStructure, species, 1);
+BLASTing "iNF517" against "lpl"..
+BLASTing "lpl" against "iNF517"..
+
+Standardizing grRules of template model with ID "iNF517" ...Warning: Potentially problematic ") AND (", ") AND" or "AND ("relationships found in
+
+  - grRule #23: LLMG_RS08920 and LLMG_RS08940 and LLMG_RS08930 and LLMG_RS08925 and (LLMG_RS09820 or LLMG_RS10805)
+  - grRule #124: ((LLMG_RS02225 and LLMG_RS02230 and LLMG_RS02240) and LLMG_RS00670 and LLMG_RS00675) or (LLMG_RS00670 and LLMG_RS00675)
+  - grRule #139: LLMG_RS08070 and (LLMG_RS08165 and LLMG_RS08170)
+  - grRule #149: (LLMG_RS09330 and LLMG_RS09335) and LLMG_RS09325 and LLMG_RS09320
+  - grRule #174: (LLMG_RS01335 and LLMG_RS01350) and LLMG_RS01355 and LLMG_RS00670 and LLMG_RS00675
+  - grRule #330: (LLMG_RS07900 and LLMG_RS00670 and LLMG_RS00675) or ((LLMG_RS03760 or LLMG_RS03765 or LLMG_RS03755) and LLMG_RS00670 and LLMG_RS00675)
+  - grRule #364: (LLMG_RS03760 or LLMG_RS03765 or LLMG_RS03755) and LLMG_RS00670 and LLMG_RS00675
+  - grRule #484: (LLMG_RS03760 or LLMG_RS03765 or LLMG_RS03755) and LLMG_RS00670 and LLMG_RS00675
+  - grRule #504: (LLMG_RS00140 and LLMG_RS00150) and LLMG_RS00670 and LLMG_RS00675
+  - grRule #540: (LLMG_RS00400 and LLMG_RS00405) and LLMG_RS00395 and LLMG_RS00390
+  - grRule #541: (LLMG_RS00400 and LLMG_RS00405) and LLMG_RS00395 and LLMG_RS00390
+  - grRule #542: (LLMG_RS00400 and LLMG_RS00405) and LLMG_RS00395 and LLMG_RS00390
+  - grRule #554: (LLMG_RS00400 and LLMG_RS00405) and LLMG_RS00395 and LLMG_RS00390
+
+ This kind of relationships should only be present in  reactions catalysed by complexes of isoenzymes e.g.
+
+  - (G1 or G2) and (G3 or G4)
+
+ For these cases modify the grRules manually, writing all the possible combinations e.g.
+
+  - (G1 and G3) or (G1 and G4) or (G2 and G3) or (G2 and G4)
+
+ For other cases modify the correspondent grRules avoiding:
+
+  1) Overall container brackets, e.g.
+        "(G1 and G2)" should be "G1 and G2"
+
+  2) Single unit enzymes enclosed into brackets, e.g.
+        "(G1)" should be "G1"
+
+  3) The use of uppercases for logical operators, e.g.
+        "G1 OR G2" should be "G1 or G2"
+
+  4) Unbalanced brackets, e.g.
+        "((G1 and G2) or G3" should be "(G1 and G2) or G3"
+ 
+> In standardizeGrRules>findPotentialErrors (line 163)
+  In standardizeGrRules (line 41)
+  In getModelFromHomology (line 133)
+  In buildModel_RAVEN (line 25)
+  In generateAllRAVENModels (line 2) 
+ done
+Subscript indices must either be real positive integers or logicals.
+
+Error in getModelFromHomology (line 175)
+    useOrderIndexes(index)=i;

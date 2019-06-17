@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN0-361:1 CYTIDINE_c + 1 WATER_c -> 1 CYTOSINE_c + 1 D-Ribofuranose_c (1 cytidine + 1 H2O -> 1 cytosine + 1 D-Ribofuranose)
+
+
+AdditionalMetabolites:
+CYTIDINE_c (cytidine)
+CYTOSINE_c (cytosine)
+D-Ribofuranose_c (D-Ribofuranose)
+WATER_c (H2O)
+
+

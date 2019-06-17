@@ -1,0 +1,4 @@
+notRecovered:
+M1PD:1 mnl1p_c + 1 nad_c <=> 1 f6p_c + 1 h_c + 1 nadh_c (1 M_D_Mannitol_1_phosphate_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_D_Fructose_6_phosphate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+

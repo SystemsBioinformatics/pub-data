@@ -1,0 +1,4 @@
+notRecovered:
+HPPK:1 2ahhmp_c + 1 atp_c -> 1 2ahhmd_c + 1 amp_c + 1 h_c (1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_ATP_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_diphosphate_ + 1 M_AMP_ + 1 M_H_)
+
+

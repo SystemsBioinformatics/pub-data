@@ -1,0 +1,4 @@
+notRecovered:
+SERTRS_1:1 atp_c + 1 ser__L_c + 1 trnaser_c -> 1 amp_c + 1 h_c + 1 ppi_c + 1 sertrna_c (1 M_ATP_ + 1 M_L_Serine_ + 1 M_tRNA_Ser__ -> 1 M_AMP_ + 1 M_H_ + 1 M_Diphosphate_ + 1 M_L_Seryl_tRNA_Ser__)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+LGTHL:1 gthrd_c + 1 mthgxl_c -> 1 lgt__S_c (1 Reduced glutathione + 1 Methylglyoxal -> 1 (R)-S-Lactoylglutathione)
+
+

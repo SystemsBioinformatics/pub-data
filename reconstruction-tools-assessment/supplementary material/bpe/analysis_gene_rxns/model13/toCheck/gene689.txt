@@ -1,0 +1,18 @@
+notRecovered:
+Kabcpp:1 atp_c + 1 h2o_c + 1 k_p -> 1 adp_c + 1 h_c + 1 k_c + 1 pi_c (1 ATP + 1 H2O + 1 potassium -> 1 ADP + 1 H+ + 1 potassium + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn10168:1 cpd00002_c + 1 cpd00001_c + 1 cpd00205_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00205_c (1 ATP_c0 + 1 H2O_c0 + 1 K_plus__e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 K_plus__c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00205_c (K_plus__c0)
+cpd00205_e (K_plus__e0)
+
+

@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+rxn02090:1 cpd00067_c + 1 cpd00001_c + 1 cpd00585_c <=> 1 cpd00013_c + 1 cpd01679_c (1 H_plus__c0 + 1 H2O_c0 + 1 Creatinine_c0 <=> 1 NH3_c0 + 1 N_Methylhydantoin_c0)
+rxn00300:3 cpd00001_c + 1 cpd00038_c -> 1 cpd00012_c + 3 cpd00067_c + 1 cpd00047_c + 1 cpd00957_c (3 H2O_c0 + 1 GTP_c0 -> 1 PPi_c0 + 3 H_plus__c0 + 1 Formate_c0 + 1 2_5_Diamino_6_5_phosphoribosylamino_4_pyrimidineone_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00012_c (PPi_c0)
+cpd00013_c (NH3_c0)
+cpd00038_c (GTP_c0)
+cpd00047_c (Formate_c0)
+cpd00067_c (H_plus__c0)
+cpd00585_c (Creatinine_c0)
+cpd00957_c (2_5_Diamino_6_5_phosphoribosylamino_4_pyrimidineone_c0)
+cpd01679_c (N_Methylhydantoin_c0)
+
+

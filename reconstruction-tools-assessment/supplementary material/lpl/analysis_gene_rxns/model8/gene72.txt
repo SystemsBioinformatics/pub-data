@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+OIVD3:1 nad_c + 1 coa_c + 1 3mop_c -> 1 co2_c + 1 nadh_c + 1 2mbcoa_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 (S)-3-Methyl-2-oxopentanoate -> 1 CO2 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 2-Methylbutanoyl-CoA)
+OIVD2:1 nad_c + 1 coa_c + 1 3mob_c -> 1 co2_c + 1 nadh_c + 1 ibcoa_c (1 Nicotinamide adenine dinucleotide + 1 Coenzyme A + 1 3-Methyl-2-oxobutanoate -> 1 CO2 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 Isobutyryl-CoA)
+OIVD1r:1 nad_c + 1 4mop_c + 1 coa_c <=> 1 ivcoa_c + 1 co2_c + 1 nadh_c (1 Nicotinamide adenine dinucleotide + 1 4-Methyl-2-oxopentanoate + 1 Coenzyme A <=> 1 Isovaleryl-CoA + 1 CO2 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+AKGDb:1 sdhlam_c + 1 coa_c <=> 1 dhlam_c + 1 succoa_c (1 S Succinyldihydrolipoamide C12H20NO4S2 + 1 Coenzyme A <=> 1 Dihydrolipoamide C8H17NOS2 + 1 Succinyl-CoA)
+
+
+AdditionalMetabolites:
+2mbcoa_c (2-Methylbutanoyl-CoA)
+dhlam_c (Dihydrolipoamide C8H17NOS2)
+ibcoa_c (Isobutyryl-CoA)
+ivcoa_c (Isovaleryl-CoA)
+sdhlam_c (S Succinyldihydrolipoamide C12H20NO4S2)
+
+

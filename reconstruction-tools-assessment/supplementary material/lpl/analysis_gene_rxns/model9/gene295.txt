@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+ENTCS:3 seramp_c + 3 23dhba_c -> 6 amp_c + 1 enter_c + 9 h_c (3 L-seryl-AMP + 3 (2,3-Dihydroxybenzoyl)adenylate -> 6 AMP C10H12N5O7P + 1 Enterochelin + 9 H+)
+RZ5PP:1 5prdmbz_c + 1 h2o_c -> 1 pi_c + 1 rdmbzi_c (1 N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole + 1 H2O H2O -> 1 Phosphate + 1 N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+
+
+AdditionalMetabolites:
+23dhba_c ((2,3-Dihydroxybenzoyl)adenylate)
+5prdmbz_c (N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+enter_c (Enterochelin)
+rdmbzi_c (N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole)
+seramp_c (L-seryl-AMP)
+
+

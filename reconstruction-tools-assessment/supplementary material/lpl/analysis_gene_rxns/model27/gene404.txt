@@ -1,0 +1,4 @@
+notRecovered:
+ATPPRT:1 atp_c + 1 prpp_c -> 1 ppi_c + 1 prbatp_c (1 M_ATP_ + 1 M_5_Phospho_alpha_D_ribose_1_diphosphate_ -> 1 M_Diphosphate_ + 1 M_1__5_Phosphoribosyl__ATP_)
+
+

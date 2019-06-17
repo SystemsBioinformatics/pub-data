@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+4HBCOAH:1 4hbutcoa_c -> 1 vaccoa_c + 1 h2o_c (1 4-Hydroxybutanoyl-CoA -> 1 Vinylacetyl-CoA + 1 H2O H2O)
+4HOXPACMON:1 o2_c + 1 nadh_c + 1 4hoxpac_c + 1 h_c -> 1 34dhpacet_c + 1 nad_c + 1 h2o_c (1 O2 O2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 4 Hydroxyphenylacetic acid C8H8O3 + 1 H+ -> 1 3-4-Dihydroxyphenylacetate + 1 Nicotinamide adenine dinucleotide + 1 H2O H2O)
+4HOXPACMOF:1 o2_c + 1 fadh2_c + 1 4hphac_c -> 1 34dhpha_c + 1 fad_c + 1 h2o_c (1 O2 O2 + 1 Flavin adenine dinucleotide reduced + 1 4-Hydroxyphenylacetate -> 1 3-4-Dihydroxyphenylacetate + 1 Flavin adenine dinucleotide oxidized + 1 H2O H2O)
+VACOAI:1 vaccoa_c <=> 1 b2coa_c (1 Vinylacetyl-CoA <=> 1 Crotonoyl-CoA)
+4HOXPACMOF_1:1 o2_c + 1 4hoxpac_c + 1 fadh2_c -> 1 34dhpacet_c + 1 fad_c + 1 h2o_c (1 O2 O2 + 1 4 Hydroxyphenylacetic acid C8H8O3 + 1 Flavin adenine dinucleotide reduced -> 1 3-4-Dihydroxyphenylacetate + 1 Flavin adenine dinucleotide oxidized + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+34dhpacet_c (3-4-Dihydroxyphenylacetate)
+4hbutcoa_c (4-Hydroxybutanoyl-CoA)
+4hoxpac_c (4 Hydroxyphenylacetic acid C8H8O3)
+b2coa_c (Crotonoyl-CoA)
+fadh2_c (Flavin adenine dinucleotide reduced)
+vaccoa_c (Vinylacetyl-CoA)
+
+

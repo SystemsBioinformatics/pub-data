@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R03470:1 C01278_c <=> 1 C00011_c + 1 C03586_c (1 2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate <=> 1 CO2 + 1 2-Oxo-2,3-dihydrofuran-5-acetate)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C01278_c (2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate)
+C03586_c (2-Oxo-2,3-dihydrofuran-5-acetate)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+OCOAT1:1 acac_c + 1 succoa_c <=> 1 aacoa_c + 1 succ_c (1 Acetoacetate + 1 Succinyl-CoA <=> 1 Acetoacetyl-CoA + 1 Succinate)
+
+

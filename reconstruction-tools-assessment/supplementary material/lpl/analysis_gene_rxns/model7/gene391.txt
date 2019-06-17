@@ -1,0 +1,4 @@
+notRecovered:
+DAPE:1 26dap_LL_c <=> 1 26dap__M_c (1 M_LL_2_6_Diaminoheptanedioate_ <=> 1 M_meso_2_6_Diaminoheptanedioate_)
+
+

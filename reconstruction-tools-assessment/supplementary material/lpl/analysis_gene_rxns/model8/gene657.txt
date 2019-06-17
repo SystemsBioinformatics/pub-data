@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+P5CRx:1 nadh_c + 2 h_c + 1 1pyr5c_c -> 1 nad_c + 1 pro__L_c (1 Nicotinamide adenine dinucleotide - reduced + 2 H+ + 1 1-Pyrroline-5-carboxylate -> 1 Nicotinamide adenine dinucleotide + 1 L-Proline)
+
+

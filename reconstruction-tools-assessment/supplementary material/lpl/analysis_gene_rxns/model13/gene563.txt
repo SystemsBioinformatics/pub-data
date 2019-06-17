@@ -1,0 +1,4 @@
+notRecovered:
+PGCD:1 3pg_c + 1 nad_c -> 1 3php_c + 1 h_c + 1 nadh_c (1 M_3_Phospho_D_glycerate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_3_Phosphohydroxypyruvate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+

@@ -1,0 +1,27 @@
+notRecovered:
+ALDD20x:1 h2o_c + 1 id3acald_c + 1 nad_c -> 2 h_c + 1 ind3ac_c + 1 nadh_c (1 H2O + 1 Indole-3-acetaldehyde + 1 Nicotinamide adenine dinucleotide -> 2 H+ + 1 Indole-3-acetate + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+ALDD1:1 h2o_c + 1 nad_c + 1 fald_c -> 2 h_c + 1 nadh_c + 1 for_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Formaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Formate)
+ALDD3:1 h2o_c + 1 ppal_c + 1 nad_c -> 2 h_c + 1 nadh_c + 1 ppa_c (1 H2O + 1 Propanal + 1 Nicotinamide adenine dinucleotide -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Propionate (n-C3:0))
+ALDD31_1:1 h2o_c + 1 nad_c + 1 amacald_c -> 1 h_c + 1 nadh_c + 1 gly_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Aminoacetaldehyde C2H5NO -> 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Glycine)
+ALDD4:1 h2o_c + 1 nad_c + 1 btal_c -> 2 h_c + 1 nadh_c + 1 but_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Butanal -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Butyrate (n-C4:0))
+ALDD6:1 h2o_c + 1 nad_c + 1 hxal_c -> 2 h_c + 1 nadh_c + 1 hxa_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Hexanal C6H12O -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Hexanoate (n-C6:0))
+GGGABADr:1 h2o_c + 1 nadp_c + 1 ggbutal_c <=> 2 h_c + 1 nadph_c + 1 gg4abut_c (1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Gamma-glutamyl-gamma-butyraldehyde <=> 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Gamma-glutamyl-gamma aminobutyric acid)
+GLXO1:1 h2o_c + 1 nad_c + 1 glx_c -> 2 h_c + 1 nadh_c + 1 oxa_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Glyoxylate -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Oxalate)
+GLYALDDr:1 h2o_c + 1 nad_c + 1 glyald_c -> 2 h_c + 1 nadh_c + 1 glyc__R_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 D-Glyceraldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 (R)-Glycerate)
+LCADi:1 h2o_c + 1 nad_c + 1 lald__L_c -> 2 h_c + 1 nadh_c + 1 lac__L_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 L-Lactaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 L-Lactate)
+
+
+AdditionalMetabolites:
+amacald_c (Aminoacetaldehyde C2H5NO)
+btal_c (Butanal)
+gg4abut_c (Gamma-glutamyl-gamma aminobutyric acid)
+ggbutal_c (Gamma-glutamyl-gamma-butyraldehyde)
+glyald_c (D-Glyceraldehyde)
+hxal_c (Hexanal C6H12O)
+lald__L_c (L-Lactaldehyde)
+oxa_c (Oxalate)
+
+

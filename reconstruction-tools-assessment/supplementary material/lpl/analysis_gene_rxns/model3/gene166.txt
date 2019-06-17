@@ -1,0 +1,20 @@
+notRecovered:
+G3POc:1 glyc3p_c + 1 o2_c -> 1 dhap_c + 1 h2o2_c (1 M_sn_Glycerol_3_phosphate_ + 1 M_O2_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Hydrogen_peroxide_)
+
+
+AdditionalNotInModel:
+G3PD4:1 glyc3p_c + 1 mqn7_c -> 1 dhap_c + 1 mql7_c (1 Glycerol 3-phosphate + 1 Menaquinone 7 C46H64O2 -> 1 Dihydroxyacetone phosphate + 1 Menaquinol 7 C46H66O2)
+G3PD5:1 glyc3p_c + 1 q8_c -> 1 dhap_c + 1 q8h2_c (1 Glycerol 3-phosphate + 1 Ubiquinone-8 -> 1 Dihydroxyacetone phosphate + 1 Ubiquinol-8)
+G3PD6:1 mqn8_c + 1 glyc3p_c -> 1 dhap_c + 1 mql8_c (1 Menaquinone 8 + 1 Glycerol 3-phosphate -> 1 Dihydroxyacetone phosphate + 1 Menaquinol 8)
+G3PD7:1 2dmmq8_c + 1 glyc3p_c -> 1 dhap_c + 1 2dmmql8_c (1 2-Demethylmenaquinone 8 + 1 Glycerol 3-phosphate -> 1 Dihydroxyacetone phosphate + 1 2-Demethylmenaquinol 8)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+

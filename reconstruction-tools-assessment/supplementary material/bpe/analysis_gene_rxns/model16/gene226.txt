@@ -1,0 +1,18 @@
+notRecovered:
+GLDBRAN2:1 bglycogen_c -> 1 glycogen_c (1 branching glycogen -> 1 glycogen)
+
+
+AdditionalNotInModel:
+R02111:1 C00009_c + 1 C00369_c <=> 1 C00103_c + 1 C00718_c (1 Orthophosphate + 1 Starch <=> 1 D-Glucose 1-phosphate + 1 Amylose)
+R11261:1 C00369_c + 1 undefined_114_c <=> 1 undefined_2_c (1 Starch + 1 n C00001 <=> 1 (n+1) C01935)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00103_c (D-Glucose 1-phosphate)
+C00369_c (Starch)
+C00718_c (Amylose)
+undefined_114_c (n C00001)
+undefined_2_c ((n+1) C01935)
+
+

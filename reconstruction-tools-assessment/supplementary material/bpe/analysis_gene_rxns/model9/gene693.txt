@@ -1,0 +1,4 @@
+notRecovered:
+MUCCI:1 ccmuac_c + 1 h_c <=> 1 muclac_c (1 cis,cis-muconate + 1 H+ <=> 1 Muconolactone)
+
+

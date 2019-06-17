@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN0-6564:1 ATP_c + 1 CPD0-2189_c -> 1 4-PHOSPHONOOXY-THREONINE_c + 1 ADP_c + 1 PROTON_c (1 ATP + 1 4-hydroxy-L-threonine -> 1 4-phospho-hydroxy-L-threonine + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+4-PHOSPHONOOXY-THREONINE_c (4-phospho-hydroxy-L-threonine)
+ADP_c (ADP)
+ATP_c (ATP)
+CPD0-2189_c (4-hydroxy-L-threonine)
+PROTON_c (H+)
+
+

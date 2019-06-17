@@ -1,0 +1,16 @@
+notRecovered:
+TDSK_BP:1 atp_c + 1 lipidAds_BP_c -> 1 adp_c + 1 h_c + 1 lipidA_BP_c (1 ATP + 1 Lipid A Disaccharide (B. pertussis specific) -> 1 ADP + 1 H+ + 1 Lipid A Disaccharide Bisphosphate (B. pertussis specific))
+
+
+AdditionalNotInModel:
+TETRAACYLDISACC4KIN-RXN:1 ATP_c + 1 BISOHMYR-GLC_c -> 1 ADP_c + 1 LIPID-IV-A_c + 1 PROTON_c (1 ATP + 1 lipid A disaccharide -> 1 ADP + 1 lipid IVA + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+BISOHMYR-GLC_c (lipid A disaccharide)
+LIPID-IV-A_c (lipid IVA)
+PROTON_c (H+)
+
+

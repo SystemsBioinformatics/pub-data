@@ -1,0 +1,4 @@
+notRecovered:
+ABTA:1 4abut_c + 1 akg_c -> 1 glu__L_c + 1 sucsal_c (1 M_4_Aminobutanoate_ + 1 M_2_Oxoglutarate_ -> 1 M_L_Glutamate_ + 1 M_Succinic_semialdehyde_)
+
+

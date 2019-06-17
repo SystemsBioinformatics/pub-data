@@ -1,0 +1,6 @@
+notRecovered:
+URIH:1 h2o_c + 1 uri_c -> 1 rib__D_c + 1 ura_c (1 M_H2O_ + 1 M_Uridine_ -> 1 M_D_Ribose_ + 1 M_Uracil_)
+
+
+AdditionalInModel:
+INSH:1 h2o_c + 1 ins_c -> 1 hxan_c + 1 rib__D_c (1 H2O H2O + 1 Inosine -> 1 Hypoxanthine + 1 D-Ribose)

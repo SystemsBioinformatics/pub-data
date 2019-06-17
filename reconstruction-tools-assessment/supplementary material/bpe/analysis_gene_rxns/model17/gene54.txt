@@ -1,0 +1,4 @@
+notRecovered:
+MANUNDFUCT_BP:1 uacmamnaca_c + 1 undp2nac4ametfuc_c -> 1 h_c + 1 udp_c + 1 undpfucman_c (1 UDP-2-N-acetyl-3-N-acetyl-D-mannosaminuronate + 1 undecaprenyl-diphosphate-2-N-acetyl-4-aminomethyl-fucose -> 1 H+ + 1 UDP + 1 undecaprenyl-diphosphate-(2-N-acetyl-4-aminomethyl)-fucose-(2-N-acetyl-3-N-acetyl)-D-mannosaminuronate)
+
+

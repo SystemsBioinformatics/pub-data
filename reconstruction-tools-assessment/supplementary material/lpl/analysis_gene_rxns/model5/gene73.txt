@@ -1,0 +1,18 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 M_Coenzyme_A_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Pyruvate_ -> 1 M_Acetyl_CoA_ + 1 M_CO2_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+OIVD3:1 3mop_c + 1 coa_c + 1 nad_c -> 1 2mbcoa_c + 1 co2_c + 1 nadh_c (1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 2-Methylbutanoyl-CoA + 1 CO2 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 CO2 + 1 Isovaleryl-CoA + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD2:1 3mob_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ibcoa_c + 1 nadh_c (1 3-Methyl-2-oxobutanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 CO2 + 1 Isobutyryl-CoA + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalMetabolites:
+2mbcoa_c (2-Methylbutanoyl-CoA)
+ibcoa_c (Isobutyryl-CoA)
+ivcoa_c (Isovaleryl-CoA)
+
+
+AdditionalInModel:
+PDH_copy_1:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 Coenzyme A + 1 Nicotinamide adenine dinucleotide + 1 Pyruvate -> 1 Acetyl-CoA + 1 CO2 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)

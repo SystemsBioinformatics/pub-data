@@ -1,0 +1,27 @@
+notRecovered:
+CYSDESULF:1 cys__L_c + 1 o2_c -> 1 ala__L_c + 1 so2_c (1 L-Cysteine + 1 O2 -> 1 L-Alanine + 1 sulfur dioxide)
+
+
+AdditionalNotInModel:
+CYSDSF:1 cys__L_c -> 1 ala__L_c + 1 s_c (1 L-Cysteine -> 1 L-Alanine + 1 Sulfur)
+I2FE2SR:1 2fe1s_c + 1 iscssh_c + 1 iscu_c -> 4 h_c + 1 iscs_c + 1 iscu_2fe2s_c (1 [2Fe-1S] desulfurated iron-sulfur cluster + 1 IscS with bound sulfur + 1 IscU scaffold protein -> 4 H+ + 1 IscS sulfur acceptor protein + 1 IscU with bound [2Fe-2S] cluster)
+I2FE2SS2:1 fadh2_c + 2 fe2_c + 2 iscssh_c + 1 iscu_2fe2s_c -> 6 h_c + 1 fad_c + 2 iscs_c + 1 iscu_2fe2s2_c (1 Flavin adenine dinucleotide reduced + 2 Fe2+ + 2 IscS with bound sulfur + 1 IscU with bound [2Fe-2S] cluster -> 6 H+ + 1 Flavin adenine dinucleotide oxidized + 2 IscS sulfur acceptor protein + 1 IscU with two bound [2Fe-2S] clusters)
+ICYSDS:1 cys__L_c + 1 iscs_c -> 1 ala__L_c + 1 iscssh_c (1 L-Cysteine + 1 IscS sulfur acceptor protein -> 1 L-Alanine + 1 IscS with bound sulfur)
+MOADSUx:1 nadh_c + 1 iscssh_c + 1 moadamp_c -> 1 nad_c + 1 amp_c + 1 iscs_c + 1 moadcosh_c (1 Nicotinamide adenine dinucleotide - reduced + 1 IscS with bound sulfur + 1 MoaD Protein with bound AMP -> 1 Nicotinamide adenine dinucleotide + 1 AMP + 1 IscS sulfur acceptor protein + 1 MoaD Protein with thiocarboxylate)
+THZPSN3:1 atp_c + 1 h_c + 1 nadph_c + 1 dxyl5p_c + 1 iscssh_c + 1 dhgly_c -> 2 h2o_c + 1 nadp_c + 1 amp_c + 1 ppi_c + 1 co2_c + 1 4mpetz_c + 1 iscs_c (1 ATP + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 1-deoxy-D-xylulose 5-phosphate + 1 IscS with bound sulfur + 1 Dehydroglycine -> 2 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 AMP + 1 Diphosphate + 1 CO2 + 1 4-Methyl-5-(2-phosphoethyl)-thiazole + 1 IscS sulfur acceptor protein)
+
+
+AdditionalMetabolites:
+2fe1s_c ([2Fe-1S] desulfurated iron-sulfur cluster)
+dhgly_c (Dehydroglycine)
+iscs_c (IscS sulfur acceptor protein)
+iscssh_c (IscS with bound sulfur)
+iscu_2fe2s2_c (IscU with two bound [2Fe-2S] clusters)
+iscu_2fe2s_c (IscU with bound [2Fe-2S] cluster)
+iscu_c (IscU scaffold protein)
+moadamp_c (MoaD Protein with bound AMP)
+moadcosh_c (MoaD Protein with thiocarboxylate)
+
+
+AdditionalInModel:
+AMPTASECG:1 h2o_c + 1 cgly_c -> 1 cys__L_c + 1 gly_c (1 H2O + 1 Cys-Gly -> 1 L-Cysteine + 1 Glycine)

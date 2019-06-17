@@ -1,0 +1,14 @@
+notRecovered:
+CGPT:1 cdpglyc_c + 1 unagama_c -> 1 cmp_c + 1 h_c + 1 unagamagp_c (1 M_CDPglycerol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_ -> 1 M_CMP_ + 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_)
+
+
+AdditionalNotInModel:
+R04042:1 C00513_c <=> 1 C00055_c + 1 C02768_c (1 CDP-glycerol <=> 1 CMP + 1 (Glycerophosphate)n)
+
+
+AdditionalMetabolites:
+C00055_c (CMP)
+C00513_c (CDP-glycerol)
+C02768_c ((Glycerophosphate)n)
+
+

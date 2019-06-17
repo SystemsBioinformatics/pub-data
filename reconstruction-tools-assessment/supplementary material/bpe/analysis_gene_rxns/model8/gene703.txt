@@ -1,0 +1,16 @@
+notRecovered:
+GLYCL:1 gly_c + 1 nad_c + 1 thf_c -> 1 co2_c + 1 mlthf_c + 1 nadh_c + 1 nh4_c (1 Glycine + 1 Nicotinamide adenine dinucleotide + 1 5,6,7,8-Tetrahydrofolate -> 1 CO2 + 1 5,10-Methylenetetrahydrofolate + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ammonium)
+
+
+AdditionalNotInModel:
+GCVT-RXN:1 THF-GLU-N_c + 1 AMINOMETHYLDIHYDROLIPOYL-GCVH_c <=> 1 DIHYDROLIPOYL-GCVH_c + 1 METHYLENE-THF-GLU-N_c + 1 AMMONIUM_c (1 a tetrahydrofolate + 1 a [glycine-cleavage complex H protein] N6-aminomethyldihydrolipoyl-L-lysine <=> 1 a [glycine-cleavage complex H protein] N6-dihydrolipoyl-L-lysine + 1 a 5,10-methylenetetrahydrofolate + 1 ammonium)
+
+
+AdditionalMetabolites:
+AMINOMETHYLDIHYDROLIPOYL-GCVH_c (a [glycine-cleavage complex H protein] N6-aminomethyldihydrolipoyl-L-lysine)
+AMMONIUM_c (ammonium)
+DIHYDROLIPOYL-GCVH_c (a [glycine-cleavage complex H protein] N6-dihydrolipoyl-L-lysine)
+METHYLENE-THF-GLU-N_c (a 5,10-methylenetetrahydrofolate)
+THF-GLU-N_c (a tetrahydrofolate)
+
+

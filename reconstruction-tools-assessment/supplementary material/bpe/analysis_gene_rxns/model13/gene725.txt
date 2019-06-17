@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn02115:1 cpd00361_c <=> 1 cpd01221_c (1 ACTN_c0 <=> 1 S_Acetoin_c0)
+
+
+AdditionalMetabolites:
+cpd00361_c (ACTN_c0)
+cpd01221_c (S_Acetoin_c0)
+
+

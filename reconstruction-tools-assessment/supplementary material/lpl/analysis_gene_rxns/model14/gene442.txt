@@ -1,0 +1,37 @@
+AdditionalNotInModel:
+RXN-11501:1 CPD-170_c + 1 WATER_c -> 1 CPD-1099_c + 1 ALPHA-D-GALACTOSE_c (1 stachyose + 1 H2O -> 1 raffinose + 1 alpha-D-galactose)
+RXN-17830-CPD0-2500/WATER//GALACTOSE/P-NITROPHENOL/PROTON.48.:1 CPD0-2500_c + 1 WATER_c -> 1 P-NITROPHENOL_c + 1 GALACTOSE_c + 1 PROTON_c (1 p-nitrophenyl-alpha-D-galactopyranoside + 1 H2O -> 1 4-nitrophenol + 1 beta-D-galactose + 1 H+)
+RXN-17830-CPD0-2500/WATER//ALPHA-D-GALACTOSE/P-NITROPHENOL/PROTON.56.:1 CPD0-2500_c + 1 WATER_c -> 1 P-NITROPHENOL_c + 1 ALPHA-D-GALACTOSE_c + 1 PROTON_c (1 p-nitrophenyl-alpha-D-galactopyranoside + 1 H2O -> 1 4-nitrophenol + 1 alpha-D-galactose + 1 H+)
+RXN-17830:1 CPD0-2500_c + 1 WATER_c -> 1 D-galactopyranose_c + 1 P-NITROPHENOL_c + 1 PROTON_c (1 p-nitrophenyl-alpha-D-galactopyranoside + 1 H2O -> 1 D-galactopyranose + 1 4-nitrophenol + 1 H+)
+RXN-17754:1 CPD-3801_c + 1 WATER_c -> 1 GLUCONATE_c + 1 ALPHA-D-GALACTOSE_c (1 melibionate + 1 H2O -> 1 D-gluconate + 1 alpha-D-galactose)
+RXN-12088:1 Alpha-D-Galactosides_c + 1 WATER_c -> 1 Non-Galactosylated-Galactose-Acceptors_c + 1 ALPHA-D-GALACTOSE_c (1 an alpha-D-galactoside + 1 H2O -> 1 a non galactosylated galactose acceptor + 1 alpha-D-galactose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//GALACTOSE/ALPHA-GLUCOSE.41.:1 MELIBIOSE_c + 1 WATER_c -> 1 GALACTOSE_c + 1 ALPHA-GLUCOSE_c (1 melibiose + 1 H2O -> 1 beta-D-galactose + 1 alpha-D-glucopyranose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//GALACTOSE/Glucopyranose.41.:1 MELIBIOSE_c + 1 WATER_c -> 1 GALACTOSE_c + 1 Glucopyranose_c (1 melibiose + 1 H2O -> 1 beta-D-galactose + 1 D-glucopyranose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//ALPHA-D-GALACTOSE/GLC.39.:1 MELIBIOSE_c + 1 WATER_c -> 1 ALPHA-D-GALACTOSE_c + 1 GLC_c (1 melibiose + 1 H2O -> 1 alpha-D-galactose + 1 beta-D-glucopyranose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//ALPHA-D-GALACTOSE/ALPHA-GLUCOSE.49.:1 MELIBIOSE_c + 1 WATER_c -> 1 ALPHA-D-GALACTOSE_c + 1 ALPHA-GLUCOSE_c (1 melibiose + 1 H2O -> 1 alpha-D-galactose + 1 alpha-D-glucopyranose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//ALPHA-D-GALACTOSE/Glucopyranose.49.:1 MELIBIOSE_c + 1 WATER_c -> 1 ALPHA-D-GALACTOSE_c + 1 Glucopyranose_c (1 melibiose + 1 H2O -> 1 alpha-D-galactose + 1 D-glucopyranose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//D-galactopyranose/GLC.39.:1 MELIBIOSE_c + 1 WATER_c -> 1 D-galactopyranose_c + 1 GLC_c (1 melibiose + 1 H2O -> 1 D-galactopyranose + 1 beta-D-glucopyranose)
+ALPHAGALACTOSID-RXN-MELIBIOSE/WATER//D-galactopyranose/ALPHA-GLUCOSE.49.:1 MELIBIOSE_c + 1 WATER_c -> 1 D-galactopyranose_c + 1 ALPHA-GLUCOSE_c (1 melibiose + 1 H2O -> 1 D-galactopyranose + 1 alpha-D-glucopyranose)
+ALPHAGALACTOSID-RXN:1 MELIBIOSE_c + 1 WATER_c -> 1 D-galactopyranose_c + 1 Glucopyranose_c (1 melibiose + 1 H2O -> 1 D-galactopyranose + 1 D-glucopyranose)
+
+
+AdditionalMetabolites:
+ALPHA-D-GALACTOSE_c (alpha-D-galactose)
+ALPHA-GLUCOSE_c (alpha-D-glucopyranose)
+Alpha-D-Galactosides_c (an alpha-D-galactoside)
+CPD-1099_c (raffinose)
+CPD-170_c (stachyose)
+CPD-3801_c (melibionate)
+CPD0-2500_c (p-nitrophenyl-alpha-D-galactopyranoside)
+D-galactopyranose_c (D-galactopyranose)
+GALACTOSE_c (beta-D-galactose)
+GLC_c (beta-D-glucopyranose)
+GLUCONATE_c (D-gluconate)
+Glucopyranose_c (D-glucopyranose)
+MELIBIOSE_c (melibiose)
+Non-Galactosylated-Galactose-Acceptors_c (a non galactosylated galactose acceptor)
+P-NITROPHENOL_c (4-nitrophenol)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

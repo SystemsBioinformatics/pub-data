@@ -1,0 +1,8 @@
+notRecovered:
+AIRC3:1 5aizc_c <=> 1 5caiz_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate <=> 1 5-phosphoribosyl-5-carboxyaminoimidazole)
+
+
+AdditionalNotInModel:
+AIRCr:1 air_c + 1 co2_c <=> 1 5aizc_c + 1 h_c (1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 CO2 CO2 <=> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + 1 H+)
+
+

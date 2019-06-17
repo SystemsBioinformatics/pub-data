@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+R00936:1 C00003_c + 1 C00101_c <=> 1 C00004_c + 1 C00080_c + 1 C00415_c (1 NAD+ + 1 Tetrahydrofolate <=> 1 NADH + 1 H+ + 1 Dihydrofolate)
+R00937:2 C00003_c + 1 C00101_c <=> 2 C00004_c + 2 C00080_c + 1 C00504_c (2 NAD+ + 1 Tetrahydrofolate <=> 2 NADH + 2 H+ + 1 Folate)
+R00940:2 C00006_c + 1 C00101_c <=> 2 C00005_c + 2 C00080_c + 1 C00504_c (2 NADP+ + 1 Tetrahydrofolate <=> 2 NADPH + 2 H+ + 1 Folate)
+R02235:1 C00003_c + 1 C00415_c <=> 1 C00004_c + 1 C00080_c + 1 C00504_c (1 NAD+ + 1 Dihydrofolate <=> 1 NADH + 1 H+ + 1 Folate)
+R02236:1 C00006_c + 1 C00415_c <=> 1 C00005_c + 1 C00080_c + 1 C00504_c (1 NADP+ + 1 Dihydrofolate <=> 1 NADPH + 1 H+ + 1 Folate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00101_c (Tetrahydrofolate)
+C00415_c (Dihydrofolate)
+C00504_c (Folate)
+
+

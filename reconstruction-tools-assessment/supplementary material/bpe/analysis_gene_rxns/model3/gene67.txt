@@ -1,0 +1,25 @@
+notRecovered:
+CORELPSPPEAabcpp:1 atp_c + 1 coreLPSppea_BP_c + 1 h2o_c -> 1 adp_c + 1 coreLPSppea_BP_p + 1 h_c + 1 pi_c (1 ATP + 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H2O -> 1 ADP + 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H+ + 1 Phosphate)
+GGHHPPEALIPAabcpp:1 atp_c + 1 gghhppealipa_BP_c + 1 h2o_c -> 1 adp_c + 1 gghhppealipa_BP_p + 1 h_c + 1 pi_c (1 ATP + 1 glucurono-heptosyl-(gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H2O -> 1 ADP + 1 glucurono-heptosyl-(gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H+ + 1 Phosphate)
+CORELPSabcpp:1 atp_c + 1 coreLPS_BP_c + 1 h2o_c -> 1 adp_c + 1 coreLPS_BP_p + 1 h_c + 1 pi_c (1 ATP + 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) + 1 H2O -> 1 ADP + 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-KDO-lipidA (B. pertussis specific) + 1 H+ + 1 Phosphate)
+GGGGHHPPEALIPAabcpp:1 atp_c + 1 gggghhppealipa_BP_c + 1 h2o_c -> 1 adp_c + 1 gggghhppealipa_BP_p + 1 h_c + 1 pi_c (1 ATP + 1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H2O -> 1 ADP + 1 glucosamine-(glucurono-)heptosyl-((galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+COLIPAabcpp:1 atp_c + 1 h2o_c + 1 colipa_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 colipa_p (1 ATP + 1 H2O + 1 Core oligosaccharide lipid A -> 1 ADP + 1 Phosphate + 1 H+ + 1 Core oligosaccharide lipid A)
+K2L4Aabcpp:1 atp_c + 1 h2o_c + 1 kdo2lipid4_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 kdo2lipid4_p (1 ATP + 1 H2O + 1 KDO(2)-lipid IV(A) -> 1 ADP + 1 Phosphate + 1 H+ + 1 KDO(2)-lipid IV(A))
+LIPAabcpp:1 atp_c + 1 h2o_c + 1 lipa_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 lipa_p (1 ATP + 1 H2O + 1 KDO(2)-lipid (A) -> 1 ADP + 1 Phosphate + 1 H+ + 1 KDO(2)-lipid (A))
+LIPACabcpp:1 atp_c + 1 h2o_c + 1 lipa_cold_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 lipa_cold_p (1 ATP + 1 H2O + 1 Cold adapted KDO(2)-lipid (A) -> 1 ADP + 1 Phosphate + 1 H+ + 1 Cold adapted KDO(2)-lipid (A))
+
+
+AdditionalMetabolites:
+colipa_c (Core oligosaccharide lipid A)
+colipa_p (Core oligosaccharide lipid A)
+kdo2lipid4_c (KDO(2)-lipid IV(A))
+kdo2lipid4_p (KDO(2)-lipid IV(A))
+lipa_c (KDO(2)-lipid (A))
+lipa_cold_c (Cold adapted KDO(2)-lipid (A))
+lipa_cold_p (Cold adapted KDO(2)-lipid (A))
+lipa_p (KDO(2)-lipid (A))
+
+

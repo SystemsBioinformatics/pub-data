@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+URAt2pp:1 ura_p + 1 h_p -> 1 ura_c + 1 h_c (1 Uracil + 1 H+ -> 1 Uracil + 1 H+)
+URAt2pp_copy1:1 ura_p + 1 h_p -> 1 ura_c + 1 h_c (1 Uracil + 1 H+ -> 1 Uracil + 1 H+)
+
+
+AdditionalMetabolites:
+h_p (H+)
+ura_p (Uracil)
+
+
+AdditionalInModel:
+URAt:1 ura_e <=> 1 ura_c (1 Uracil <=> 1 Uracil)

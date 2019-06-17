@@ -1,0 +1,21 @@
+notRecovered:
+MANpts:1 man_e + 1 pep_c -> 1 man6p_c + 1 pyr_c (1 M_D_Mannose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannose_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R02630:1 C00159_c + 1 C04261_c <=> 1 C00275_c + 1 C00615_c (1 D-Mannose + 1 Protein N(pi)-phospho-L-histidine <=> 1 D-Mannose 6-phosphate + 1 Protein histidine)
+R08366:1 C01132_c + 1 C04261_c -> 1 C00615_c + 1 C06376_c (1 N-Acetyl-D-galactosamine + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 N-Acetyl-D-galactosamine 6-phosphate)
+R08367:1 C02262_c + 1 C04261_c -> 1 C00615_c + 1 C06377_c (1 D-Galactosamine + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 D-Galactosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+C00159_c (D-Mannose)
+C00275_c (D-Mannose 6-phosphate)
+C00615_c (Protein histidine)
+C01132_c (N-Acetyl-D-galactosamine)
+C02262_c (D-Galactosamine)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+C06376_c (N-Acetyl-D-galactosamine 6-phosphate)
+C06377_c (D-Galactosamine 6-phosphate)
+
+

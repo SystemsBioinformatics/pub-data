@@ -1,0 +1,4 @@
+notRecovered:
+LYSTRS:1 atp_c + 1 lys__L_c + 1 trnalys_c -> 1 amp_c + 1 lystrna_c + 1 ppi_c (1 ATP + 1 L-Lysine + 1 tRNA(Lys) -> 1 AMP + 1 L-Lysine-tRNA (Lys) + 1 Diphosphate)
+
+

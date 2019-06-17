@@ -1,0 +1,21 @@
+notRecovered:
+GLYCL:1 gly_c + 1 nad_c + 1 thf_c -> 1 co2_c + 1 mlthf_c + 1 nadh_c + 1 nh4_c (1 Glycine + 1 Nicotinamide adenine dinucleotide + 1 5,6,7,8-Tetrahydrofolate -> 1 CO2 + 1 5,10-Methylenetetrahydrofolate + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ammonium)
+
+
+AdditionalNotInModel:
+GCVT-RXN:1 AMINOMETHYLDIHYDROLIPOYL-GCVH_c + 1 THF-GLU-N_c <=> 1 AMMONIUM_c + 1 DIHYDROLIPOYL-GCVH_c + 1 METHYLENE-THF-GLU-N_c (1 AMINOMETHYLDIHYDROLIPOYL-GCVH + 1 THF-GLU-N <=> 1 ammonium + 1 DIHYDROLIPOYL-GCVH + 1 METHYLENE-THF-GLU-N)
+GCVMULTI-RXN:1 GLY_c + 1 NAD_c + 1 THF-GLU-N_c <=> 1 AMMONIUM_c + 1 CARBON-DIOXIDE_c + 1 METHYLENE-THF-GLU-N_c + 1 NADH_c (1 glycine + 1 NAD+ + 1 THF-GLU-N <=> 1 ammonium + 1 CO2 + 1 METHYLENE-THF-GLU-N + 1 NADH)
+
+
+AdditionalMetabolites:
+AMINOMETHYLDIHYDROLIPOYL-GCVH_c (AMINOMETHYLDIHYDROLIPOYL-GCVH)
+AMMONIUM_c (ammonium)
+CARBON-DIOXIDE_c (CO2)
+DIHYDROLIPOYL-GCVH_c (DIHYDROLIPOYL-GCVH)
+GLY_c (glycine)
+METHYLENE-THF-GLU-N_c (METHYLENE-THF-GLU-N)
+NADH_c (NADH)
+NAD_c (NAD+)
+THF-GLU-N_c (THF-GLU-N)
+
+

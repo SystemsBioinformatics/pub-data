@@ -1,0 +1,18 @@
+notRecovered:
+TRDR:1 h_c + 1 nadph_c + 1 trdox_c -> 1 nadp_c + 1 trdrd_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Oxidized_thioredoxin_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Reduced_thioredoxin_)
+
+
+AdditionalNotInModel:
+RXN-8941:1 CPD-9372_c + 1 NADH-P-OR-NOP_c + 1 OXYGEN-MOLECULE_c + 1 PROTON_c -> 1 CPD-9373_c + 1 NAD-P-OR-NOP_c + 1 WATER_c (1 gamma-glutamyl-isopropylamide + 1 NADH-P-OR-NOP + 1 oxygen + 1 H+ -> 1 gamma-glutamyl-L-alaninol + 1 NAD-P-OR-NOP + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-9372_c (gamma-glutamyl-isopropylamide)
+CPD-9373_c (gamma-glutamyl-L-alaninol)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R04771:1 C05335_c + 1 C00002_c + 1 C00001_c <=> 1 C05691_c + 1 C00013_c + 1 C00009_c (1 L-Selenomethionine + 1 ATP + 1 H2O <=> 1 Se-Adenosylselenomethionine + 1 Diphosphate + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00009_c (Orthophosphate)
+C00013_c (Diphosphate)
+C05335_c (L-Selenomethionine)
+C05691_c (Se-Adenosylselenomethionine)
+
+

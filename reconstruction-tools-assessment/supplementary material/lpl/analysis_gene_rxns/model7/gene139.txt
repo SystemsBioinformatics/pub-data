@@ -1,0 +1,4 @@
+notRecovered:
+HPA3MO:1 4hphac_c + 1 h_c + 1 nadh_c + 1 o2_c -> 1 34dhpha_c + 1 h2o_c + 1 nad_c (1 M_4_Hydroxyphenylacetate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_O2_ -> 1 M_3_4_Dihydroxyphenylacetate_ + 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+

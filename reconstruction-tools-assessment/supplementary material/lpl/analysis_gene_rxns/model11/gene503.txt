@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-18357:1 DIHYDROFOLATE-GLU-N_c + 1 NADP_c -> 1 Folates_c + 1 NADPH_c + 1 PROTON_c (1 a 7,8-dihydrofolate + 1 NADP+ -> 1 a folate + 1 NADPH + 1 H+)
+
+
+AdditionalMetabolites:
+DIHYDROFOLATE-GLU-N_c (a 7,8-dihydrofolate)
+Folates_c (a folate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+
+

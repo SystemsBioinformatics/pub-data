@@ -1,0 +1,4 @@
+notRecovered:
+CYANSTpp:1 cyan_p + 1 tsul_p <=> 1 h_p + 1 so3_p + 1 tcynt_p (1 Hydrogen cyanide + 1 Thiosulfate <=> 1 H+ + 1 Sulfite + 1 Thiocyanate)
+
+

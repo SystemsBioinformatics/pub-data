@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+DCTPD2:1 ctp_c + 1 h2o_c + 1 h_c -> 1 nh4_c + 1 utp_c (1 CTP C9H12N3O14P3 + 1 H2O H2O + 1 H+ -> 1 Ammonium + 1 UTP C9H11N2O15P3)
+
+

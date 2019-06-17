@@ -1,0 +1,12 @@
+notRecovered:
+OMCDC:1 3c4mop_c + 1 h_c -> 1 4mop_c + 1 co2_c (1 3-Carboxy-4-methyl-2-oxopentanoate + 1 H+ -> 1 4-Methyl-2-oxopentanoate + 1 CO2)
+
+
+AdditionalNotInModel:
+ERTHMMOR:1 nad_c + 1 r3mmal_c -> 1 2obut_c + 1 co2_c + 1 nadh_c (1 Nicotinamide adenine dinucleotide + 1 D-erythro-3-Methylmalate -> 1 2-Oxobutanoate + 1 CO2 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalMetabolites:
+r3mmal_c (D-erythro-3-Methylmalate)
+
+

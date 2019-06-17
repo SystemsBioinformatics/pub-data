@@ -1,0 +1,4 @@
+notRecovered:
+ALATA_L:1 akg_c + 1 ala__L_c <=> 1 glu__L_c + 1 pyr_c (1 2-Oxoglutarate + 1 L-Alanine <=> 1 L-Glutamate + 1 Pyruvate)
+
+

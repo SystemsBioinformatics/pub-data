@@ -1,0 +1,16 @@
+notRecovered:
+MUCCI:1 ccmuac_c + 1 h_c <=> 1 muclac_c (1 cis,cis-muconate + 1 H+ <=> 1 Muconolactone)
+
+
+AdditionalNotInModel:
+R05608:1 C00879_c <=> 1 C00001_c + 1 C00679_c (1 D-Galactarate <=> 1 H2O + 1 5-Dehydro-4-deoxy-D-glucarate)
+R10847:1 C20896_c -> 1 C00679_c (1 D-Galactaro-1,4-lactone -> 1 5-Dehydro-4-deoxy-D-glucarate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00679_c (5-Dehydro-4-deoxy-D-glucarate)
+C00879_c (D-Galactarate)
+C20896_c (D-Galactaro-1,4-lactone)
+
+

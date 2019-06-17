@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R00908:1 C00026_c + 1 C00099_c <=> 1 C00025_c + 1 C00222_c (1 2-Oxoglutarate + 1 beta-Alanine <=> 1 L-Glutamate + 1 3-Oxopropanoate)
+R04188:1 C00026_c + 1 C03284_c <=> 1 C00025_c + 1 C06002_c (1 2-Oxoglutarate + 1 L-3-Aminoisobutanoate <=> 1 L-Glutamate + 1 (S)-Methylmalonate semialdehyde)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C00099_c (beta-Alanine)
+C00222_c (3-Oxopropanoate)
+C03284_c (L-3-Aminoisobutanoate)
+C06002_c ((S)-Methylmalonate semialdehyde)
+
+

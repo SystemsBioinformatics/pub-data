@@ -1,0 +1,4 @@
+notRecovered:
+NH4tpp:1 nh4_p <=> 1 nh4_c (1 Ammonium <=> 1 Ammonium)
+
+

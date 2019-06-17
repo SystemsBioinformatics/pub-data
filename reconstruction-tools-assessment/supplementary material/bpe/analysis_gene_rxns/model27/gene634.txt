@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R02670:4 C00007_c + 2 C00632_c <=> 2 C00027_c + 1 C05640_c + 2 C00704_c + 2 C00080_c (4 Oxygen + 2 3-Hydroxyanthranilate <=> 2 Hydrogen peroxide + 1 Cinnavalininate + 2 O2.- + 2 H+)
+
+
+AdditionalMetabolites:
+C00007_c (Oxygen)
+C00027_c (Hydrogen peroxide)
+C00080_c (H+)
+C00632_c (3-Hydroxyanthranilate)
+C00704_c (O2.-)
+C05640_c (Cinnavalininate)
+
+

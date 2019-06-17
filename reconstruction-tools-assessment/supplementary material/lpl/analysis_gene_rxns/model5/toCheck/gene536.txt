@@ -1,0 +1,12 @@
+notRecovered:
+SDPTA:1 akg_c + 1 sl26da_c <=> 1 glu__L_c + 1 sl2a6o_c (1 M_2_Oxoglutarate_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ <=> 1 M_L_Glutamate_ + 1 M_N_Succinyl_2_L_amino_6_oxoheptanedioate_)
+
+
+AdditionalNotInModel:
+UNK5:1 2kmb_c + 1 asp__L_c -> 1 met__L_c + 1 oaa_c (1 2-keto-4-methylthiobutyrate + 1 L-Aspartate -> 1 L-Methionine + 1 Oxaloacetate)
+
+
+AdditionalMetabolites:
+2kmb_c (2-keto-4-methylthiobutyrate)
+
+

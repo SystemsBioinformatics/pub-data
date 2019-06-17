@@ -1,0 +1,4 @@
+notRecovered:
+TRPt3pp:1 h_p + 1 trp__L_c -> 1 h_c + 1 trp__L_p (1 H+ + 1 L-Tryptophan -> 1 H+ + 1 L-Tryptophan)
+
+

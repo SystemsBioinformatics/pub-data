@@ -23,9 +23,12 @@ names, fromBeginning, species, metOtherIDs, metMNXIDs, metMatrixFileName, metIDs
 %
 %    
 % .. Authors:
-%       - Sebastián Mendoza 17/01/2019
+%       - Sebasti?n Mendoza 17/01/2019
 
 % initialize met table
+
+global rootFolder
+
 metIDs = cell(10000,length(models)+1);
 for i = 1:length(models)+1
     emptys =  find(cellfun(@isempty,metIDs(:,i))==1);
@@ -33,18 +36,18 @@ for i = 1:length(models)+1
 end
 
 compSymbols = getCompSymbols;
-if exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metMatrixFileName '_' species '.mat'], 'file')==2 ...
-        && exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metIDsFileName '_' species '.mat'], 'file')==2 ...
+if exist(fullfile(rootFolder, 'results', species, [metMatrixFileName '_' species '.mat']), 'file')==2 ...
+        && exist(fullfile(rootFolder, 'results', species, [metIDsFileName '_' species '.mat']), 'file')==2 ...
         && ~fromBeginning
-    load(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metMatrixFileName '_' species '.mat']);
-        load(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metIDsFileName '_' species '.mat'])
+    load(fullfile(rootFolder, 'results', species, [metMatrixFileName, '_', species, '.mat']));
+        load(fullfile(rootFolder, 'results', species, [metIDsFileName, '_', species, '.mat']))
 
 elseif fromBeginning
-    if exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metMatrixFileName '_' species '.mat'], 'file')==2 
-        delete(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metMatrixFileName '_' species '.mat']);
+    if exist(fullfile(rootFolder, 'results', species, [metMatrixFileName, '_', species, '.mat']), 'file')==2 
+        delete(fullfile(rootFolder, 'results', species, [metMatrixFileName, '_', species, '.mat']));
     end
-    if exist(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metIDsFileName '_' species '.mat'], 'file')==2 
-        delete(['D:\Dropbox\Research_Projects\Review_reconstruction\comparison\' species filesep metIDsFileName '_' species '.mat'])  
+    if exist(fullfile(rootFolder, 'results', species, [metIDsFileName, '_', species, '.mat']), 'file')==2 
+        delete(fullfile(rootFolder, 'results', species, [metIDsFileName, '_', species, '.mat']))  
     end
     
     % fill first column of rxn comparison table
@@ -66,7 +69,7 @@ elseif fromBeginning
     fprintf('comparing mets in models: progress %2.0f %%\n', 0);
     
     for i = 2:length(models)
-        if strcmp('bigg', idsType{i})
+        if strcmp(idsType{1}, idsType{i})
             mets_i = models{i}.mets;
             diff = mets_i;
             for j =2:i

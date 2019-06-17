@@ -1,0 +1,4 @@
+notRecovered:
+GLCP:1 glycogen_c + 1 pi_c -> 1 g1p_c (1 M_glycogen_ + 1 M_Phosphate_ -> 1 M_D_Glucose_1_phosphate_)
+
+

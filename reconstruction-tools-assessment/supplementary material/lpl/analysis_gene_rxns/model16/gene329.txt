@@ -1,0 +1,26 @@
+AdditionalNotInModel:
+rxn08792:1 cpd15560_c + 1 cpd00159_c -> 1 cpd00020_c + 1 cpd15561_c (1 Ubiquinone_8_c0 + 1 L_Lactate_c0 -> 1 Pyruvate_c0 + 1 Ubiquinol_8_c0)
+rxn00145:1 cpd00159_c + 2 cpd00109_c <=> 2 cpd00067_c + 1 cpd00020_c + 2 cpd00110_c (1 L_Lactate_c0 + 2 Cytochrome_c3_plus__c0 <=> 2 H_plus__c0 + 1 Pyruvate_c0 + 2 Cytochrome_c2_plus__c0)
+rxn02228:1 cpd00003_c + 1 cpd03455_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00706_c (1 NAD_c0 + 1 3_Mercaptolactate_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Mercaptopyruvate_c0)
+rxn08793:1 cpd15500_c + 1 cpd00159_c -> 1 cpd00020_c + 1 cpd15499_c (1 Menaquinone_8_c0 + 1 L_Lactate_c0 -> 1 Pyruvate_c0 + 1 Menaquinol_8_c0)
+rxn00741:1 cpd00003_c + 1 cpd03561_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00094_c (1 NAD_c0 + 1 2_Hydroxybutyrate_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 2_Oxobutyrate_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00094_c (2_Oxobutyrate_c0)
+cpd00109_c (Cytochrome_c3_plus__c0)
+cpd00110_c (Cytochrome_c2_plus__c0)
+cpd00159_c (L_Lactate_c0)
+cpd00706_c (Mercaptopyruvate_c0)
+cpd03455_c (3_Mercaptolactate_c0)
+cpd03561_c (2_Hydroxybutyrate_c0)
+cpd15499_c (Menaquinol_8_c0)
+cpd15500_c (Menaquinone_8_c0)
+cpd15560_c (Ubiquinone_8_c0)
+cpd15561_c (Ubiquinol_8_c0)
+
+

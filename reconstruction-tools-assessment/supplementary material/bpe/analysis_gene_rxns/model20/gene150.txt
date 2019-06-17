@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+R00985:1 C00014_c + 1 C00251_c <=> 1 C00001_c + 1 C00022_c + 1 C00108_c (1 Ammonia + 1 Chorismate <=> 1 H2O + 1 Pyruvate + 1 Anthranilate)
+R00986:1 C00064_c + 1 C00251_c <=> 1 C00022_c + 1 C00025_c + 1 C00108_c (1 L-Glutamine + 1 Chorismate <=> 1 Pyruvate + 1 L-Glutamate + 1 Anthranilate)
+R01073:1 C00013_c + 1 C04302_c <=> 1 C00108_c + 1 C00119_c (1 Diphosphate + 1 N-(5-Phospho-D-ribosyl)anthranilate <=> 1 Anthranilate + 1 5-Phospho-alpha-D-ribose 1-diphosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C00108_c (Anthranilate)
+C00119_c (5-Phospho-alpha-D-ribose 1-diphosphate)
+C00251_c (Chorismate)
+C04302_c (N-(5-Phospho-D-ribosyl)anthranilate)
+
+

@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+FBA2:1 f1p_c <=> 1 glyald_c + 1 dhap_c (1 D-Fructose 1-phosphate <=> 1 D-Glyceraldehyde + 1 Dihydroxyacetone phosphate)
+INSCR:1 atp_c + 1 2ins_c -> 1 adp_c + 2 h_c + 1 msa_c + 1 dhap_c (1 ATP + 1 2-Inosose -> 1 ADP + 2 H+ + 1 Malonate semialdehyde + 1 Dihydroxyacetone phosphate)
+
+
+AdditionalMetabolites:
+msa_c (Malonate semialdehyde)
+
+

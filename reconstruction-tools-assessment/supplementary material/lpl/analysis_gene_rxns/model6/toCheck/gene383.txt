@@ -1,0 +1,12 @@
+notRecovered:
+G1PTT:1 dttp_c + 1 g1p_c + 1 h_c -> 1 dtdpglu_c + 1 ppi_c (1 M_dTTP_ + 1 M_D_Glucose_1_phosphate_ + 1 M_H_ -> 1 M_dTDPglucose_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+G1PTMT:1 dttp_c + 1 g1p_c + 1 h_c -> 1 dtdpglc_c + 1 ppi_c (1 DTTP C10H13N2O14P3 + 1 D-Glucose 1-phosphate + 1 H+ -> 1 DTDPglucose + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+dtdpglc_c (DTDPglucose)
+
+

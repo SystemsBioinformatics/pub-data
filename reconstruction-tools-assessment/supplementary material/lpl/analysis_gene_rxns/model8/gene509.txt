@@ -1,0 +1,8 @@
+notRecovered:
+RIBt2:1 h_e + 1 rib__D_e -> 1 h_c + 1 rib__D_c (1 M_H_ + 1 M_D_Ribose_ -> 1 M_H_ + 1 M_D_Ribose_)
+
+
+AdditionalNotInModel:
+RIBabc:1 h2o_c + 1 rib__D_e + 1 atp_c -> 1 pi_c + 1 rib__D_c + 1 adp_c + 1 h_c (1 H2O H2O + 1 D-Ribose + 1 ATP C10H12N5O13P3 -> 1 Phosphate + 1 D-Ribose + 1 ADP C10H12N5O10P2 + 1 H+)
+
+

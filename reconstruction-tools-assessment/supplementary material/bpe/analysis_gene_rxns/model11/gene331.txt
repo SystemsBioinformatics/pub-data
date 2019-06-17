@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+DIOHBUTANONEPSYN-RXN:1 RIBULOSE-5P_c <=> 1 DIHYDROXY-BUTANONE-P_c + 1 FORMATE_c + 1 PROTON_c (1 D-ribulose 5-phosphate <=> 1 1-deoxy-L-glycero-tetrulose 4-phosphate + 1 formate + 1 H+)
+
+
+AdditionalMetabolites:
+DIHYDROXY-BUTANONE-P_c (1-deoxy-L-glycero-tetrulose 4-phosphate)
+FORMATE_c (formate)
+PROTON_c (H+)
+RIBULOSE-5P_c (D-ribulose 5-phosphate)
+
+

@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+rxn02596:1 cpd00001_c + 1 cpd01133_c -> 1 cpd00108_c + 1 cpd00382_c (1 H2O_c0 + 1 Stachyose_c0 -> 1 Galactose_c0 + 1 Melitose_c0)
+rxn03838:1 cpd00001_c + 1 cpd03200_c -> 1 cpd00108_c + 1 cpd03198_c (1 H2O_c0 + 1 Manninotriose_c0 -> 1 Galactose_c0 + 1 Melibiose_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00108_c (Galactose_c0)
+cpd00382_c (Melitose_c0)
+cpd01133_c (Stachyose_c0)
+cpd03198_c (Melibiose_c0)
+cpd03200_c (Manninotriose_c0)
+
+

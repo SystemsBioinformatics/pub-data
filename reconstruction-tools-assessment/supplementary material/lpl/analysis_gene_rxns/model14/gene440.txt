@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+GDPPYPHOSKIN-RXN:1 GDP_c + 1 ATP_c -> 1 GUANOSINE-5DP-3DP_c + 1 AMP_c (1 GDP + 1 ATP -> 1 ppGpp + 1 AMP)
+RXN0-384:1 WATER_c + 1 DATP_c <=> 1 DAMP_c + 1 PPI_c + 1 PROTON_c (1 H2O + 1 dATP <=> 1 dAMP + 1 diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+DAMP_c (dAMP)
+DATP_c (dATP)
+GDP_c (GDP)
+GUANOSINE-5DP-3DP_c (ppGpp)
+PPI_c (diphosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

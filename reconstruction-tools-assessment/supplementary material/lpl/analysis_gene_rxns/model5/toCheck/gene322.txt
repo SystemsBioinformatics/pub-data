@@ -1,0 +1,15 @@
+notRecovered:
+THMDt2:1 h_e + 1 thymd_e -> 1 h_c + 1 thymd_c (1 M_H_ + 1 M_Thymidine_ -> 1 M_H_ + 1 M_Thymidine_)
+
+
+AdditionalNotInModel:
+URIt4:1 na1_e + 1 uri_e -> 1 na1_c + 1 uri_c (1 Sodium + 1 Uridine -> 1 Sodium + 1 Uridine)
+THMDt4:1 na1_e + 1 thymd_e -> 1 na1_c + 1 thymd_c (1 Sodium + 1 Thymidine C10H14N2O5 -> 1 Sodium + 1 Thymidine C10H14N2O5)
+CYTDt4:1 cytd_e + 1 na1_e -> 1 cytd_c + 1 na1_c (1 Cytidine + 1 Sodium -> 1 Cytidine + 1 Sodium)
+
+
+AdditionalMetabolites:
+cytd_e (Cytidine)
+uri_e (Uridine)
+
+

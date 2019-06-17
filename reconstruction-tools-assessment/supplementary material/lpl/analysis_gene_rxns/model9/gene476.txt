@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+GALM2:1 gal_bD_c -> 1 gal_c (1 Beta D-Galactose -> 1 D-Galactose)
+GalMr:1 glc__aD_c <=> 1 glc__bD_c (1 Alpha D-glucose <=> 1 D-Glucose)
+GALM2pp:1 gal_bD_p -> 1 gal_p (1 Beta D-Galactose -> 1 D-Galactose)
+GALM1:1 glc__bD_c -> 1 glc__D_c (1 D-Glucose -> 1 D-Glucose)
+
+
+AdditionalMetabolites:
+gal_bD_c (Beta D-Galactose)
+gal_bD_p (Beta D-Galactose)
+gal_p (D-Galactose)
+glc__aD_c (Alpha D-glucose)
+glc__bD_c (D-Glucose)
+
+

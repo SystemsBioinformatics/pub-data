@@ -1,0 +1,15 @@
+notRecovered:
+PGSA_LPL:0.01 cdpdag_LPL_c + 1 glyc3p_c <=> 1 cmp_c + 1 h_c + 0.01 pgp_LPL_c (0.01 M_CDPdiacylglycerol__LPL_specific__ + 1 M_sn_Glycerol_3_phosphate_ <=> 1 M_CMP_ + 1 M_H_ + 0.01 M_Phosphatidylglycerophosphate__LPL_specific__)
+
+
+AdditionalNotInModel:
+R01801:1 C00093_c + 1 C00269_c <=> 1 C00055_c + 1 C03892_c (1 sn-Glycerol 3-phosphate + 1 CDP-diacylglycerol <=> 1 CMP + 1 Phosphatidylglycerophosphate)
+
+
+AdditionalMetabolites:
+C00055_c (CMP)
+C00093_c (sn-Glycerol 3-phosphate)
+C00269_c (CDP-diacylglycerol)
+C03892_c (Phosphatidylglycerophosphate)
+
+

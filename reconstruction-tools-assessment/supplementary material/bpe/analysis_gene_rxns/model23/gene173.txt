@@ -1,0 +1,20 @@
+notRecovered:
+RNTR3c:1 ctp_c + 1 fldrd_c -> 1 dctp_c + 1 fldox_c + 1 h2o_c (1 CTP + 1 flavodoxin (reduced) -> 1 dCTP + 1 flavodoxin (oxidized) + 1 H2O)
+RNTR2c:1 fldrd_c + 1 gtp_c -> 1 dgtp_c + 1 fldox_c + 1 h2o_c (1 flavodoxin (reduced) + 1 GTP -> 1 dGTP + 1 flavodoxin (oxidized) + 1 H2O)
+FRDO:1 fdxrd_c + 1 nadp_c -> 1 fdxox_c + 1 h_c + 1 nadph_c (1 ferredoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate -> 1 ferredoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+RNTR4c:1 fldrd_c + 1 utp_c -> 1 dutp_c + 1 fldox_c + 1 h2o_c (1 flavodoxin (reduced) + 1 UTP -> 1 dUTP + 1 flavodoxin (oxidized) + 1 H2O)
+RNTR1c:1 atp_c + 1 fldrd_c -> 1 datp_c + 1 fldox_c + 1 h2o_c (1 ATP + 1 flavodoxin (reduced) -> 1 dATP + 1 flavodoxin (oxidized) + 1 H2O)
+
+
+AdditionalNotInModel:
+RXN-17897:1 NADP_c + 1 PROTON_c + 2 Reduced-ferredoxins_c <=> 1 NADPH_c + 2 Oxidized-ferredoxins_c (1 NADP+ + 1 H+ + 2 Reduced-ferredoxins <=> 1 NADPH + 2 Oxidized-ferredoxins)
+
+
+AdditionalMetabolites:
+NADPH_c (NADPH)
+NADP_c (NADP+)
+Oxidized-ferredoxins_c (Oxidized-ferredoxins)
+PROTON_c (H+)
+Reduced-ferredoxins_c (Reduced-ferredoxins)
+
+

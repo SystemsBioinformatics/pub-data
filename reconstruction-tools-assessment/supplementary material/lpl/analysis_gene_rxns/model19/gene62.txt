@@ -1,0 +1,4 @@
+notRecovered:
+DHNPA_1:1 dhnpt_c -> 1 2ahhmp_c + 1 gcald_c (1 M_2_Amino_4_hydroxy_6__D_erythro_1_2_3_trihydroxypropyl__7_8_dihydropteridine_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_Glycolaldehyde_)
+
+

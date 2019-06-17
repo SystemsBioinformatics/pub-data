@@ -1,0 +1,26 @@
+notRecovered:
+ALDD19xr:1 h2o_c + 1 nad_c + 1 pacald_c -> 2 h_c + 1 nadh_c + 1 pac_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Phenylacetaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Phenylacetic acid)
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+ALDD2x:1 acald_c + 1 h2o_c + 1 nad_c -> 1 ac_c + 2 h_c + 1 nadh_c (1 Acetaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Acetate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+GLUSADH:1 oxptn_c + 1 h2o_c + 1 nadp_c <=> 1 glutar_c + 2 h_c + 1 nadph_c (1 Glutarate semialdehyde (5-oxopentanoate) + 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 Glutarate (1,3-propanedicarboxylic acid) + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+R03177:1 C00001_c + 1 C00003_c + 1 C02647_c <=> 1 C00004_c + 1 C00080_c + 1 C01035_c (1 H2O + 1 NAD+ + 1 4-Guanidinobutanal <=> 1 NADH + 1 H+ + 1 4-Guanidinobutanoate)
+R07417:1 C00001_c + 1 C00003_c + 1 C15700_c <=> 1 C00004_c + 1 C00080_c + 1 C15767_c (1 H2O + 1 NAD+ + 1 gamma-Glutamyl-gamma-aminobutyraldehyde <=> 1 NADH + 1 H+ + 1 4-(L-gamma-Glutamylamino)butanoate)
+R07418:1 C00001_c + 1 C00006_c + 1 C15700_c <=> 1 C00005_c + 1 C00080_c + 1 C15767_c (1 H2O + 1 NADP+ + 1 gamma-Glutamyl-gamma-aminobutyraldehyde <=> 1 NADPH + 1 H+ + 1 4-(L-gamma-Glutamylamino)butanoate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C01035_c (4-Guanidinobutanoate)
+C02647_c (4-Guanidinobutanal)
+C15700_c (gamma-Glutamyl-gamma-aminobutyraldehyde)
+C15767_c (4-(L-gamma-Glutamylamino)butanoate)
+
+

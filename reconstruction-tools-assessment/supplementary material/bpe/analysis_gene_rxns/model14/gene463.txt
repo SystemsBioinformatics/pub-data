@@ -1,0 +1,18 @@
+notRecovered:
+PIt2rpp:1 h_p + 1 pi_p <=> 1 h_c + 1 pi_c (1 H+ + 1 Phosphate <=> 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn11268:1 cpd00012_c + 1 cpd00067_c -> 1 cpd00067_e + 1 cpd00012_e (1 PPi_c0 + 1 H_plus__c0 -> 1 H_plus__e0 + 1 PPi_e0)
+rxn05312:1 cpd00067_c + 1 cpd00009_c -> 1 cpd00067_e + 1 cpd00009_e (1 H_plus__c0 + 1 Phosphate_c0 -> 1 H_plus__e0 + 1 Phosphate_e0)
+
+
+AdditionalMetabolites:
+cpd00009_c (Phosphate_c0)
+cpd00009_e (Phosphate_e0)
+cpd00012_c (PPi_c0)
+cpd00012_e (PPi_e0)
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+
+

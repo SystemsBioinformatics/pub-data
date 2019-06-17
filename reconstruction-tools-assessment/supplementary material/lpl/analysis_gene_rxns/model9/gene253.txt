@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+ADADir:1 atp_c + 1 dcyt_c <=> 1 adp_c + 1 h_c + 1 dcmp_c (1 ATP C10H12N5O13P3 + 1 Deoxycytidine <=> 1 ADP C10H12N5O10P2 + 1 H+ + 1 DCMP C9H12N3O7P)
+ADNK1:1 atp_c + 1 adn_c -> 1 amp_c + 1 adp_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Adenosine -> 1 AMP C10H12N5O7P + 1 ADP C10H12N5O10P2 + 1 H+)
+
+
+AdditionalMetabolites:
+dcyt_c (Deoxycytidine)
+
+

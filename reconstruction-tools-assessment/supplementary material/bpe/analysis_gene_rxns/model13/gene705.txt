@@ -1,0 +1,20 @@
+notRecovered:
+GLYCL:1 gly_c + 1 nad_c + 1 thf_c -> 1 co2_c + 1 mlthf_c + 1 nadh_c + 1 nh4_c (1 Glycine + 1 Nicotinamide adenine dinucleotide + 1 5,6,7,8-Tetrahydrofolate -> 1 CO2 + 1 5,10-Methylenetetrahydrofolate + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ammonium)
+
+
+AdditionalNotInModel:
+rxn06493:1 cpd00003_c + 1 cpd12225_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd12005_c (1 NAD_c0 + 1 Dihydrolipolprotein_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Lipoylprotein_c0)
+rxn06377:1 cpd00067_c + 1 cpd00033_c + 1 cpd12005_c -> 1 cpd00011_c + 1 cpd11830_c (1 H_plus__c0 + 1 Glycine_c0 + 1 Lipoylprotein_c0 -> 1 CO2_c0 + 1 S_Aminomethyldihydrolipoylprotein_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00011_c (CO2_c0)
+cpd00033_c (Glycine_c0)
+cpd00067_c (H_plus__c0)
+cpd11830_c (S_Aminomethyldihydrolipoylprotein_c0)
+cpd12005_c (Lipoylprotein_c0)
+cpd12225_c (Dihydrolipolprotein_c0)
+
+

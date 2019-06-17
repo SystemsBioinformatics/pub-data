@@ -1,0 +1,4 @@
+notRecovered:
+MOCOS_LPL:1 mpt_c <=> 1 moco_c (1 M_molybdopterin_ <=> 1 M_Molybdenum_cofactor_)
+
+

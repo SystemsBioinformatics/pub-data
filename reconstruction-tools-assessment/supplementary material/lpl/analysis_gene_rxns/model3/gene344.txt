@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+DHNPA2r:1 dhnpt_c <=> 1 gcald_c + 1 6hmhpt_c (1 Dihydroneopterin <=> 1 Glycolaldehyde + 1 6-hydroxymethyl dihydropterin)
+
+
+AdditionalMetabolites:
+6hmhpt_c (6-hydroxymethyl dihydropterin)
+
+

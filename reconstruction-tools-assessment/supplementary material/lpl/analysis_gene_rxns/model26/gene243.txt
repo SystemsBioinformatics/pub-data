@@ -1,0 +1,4 @@
+notRecovered:
+UAGPT5:1 uacgam_c + 1 uagmdalac_c -> 1 h_c + 1 uaagmdalac_c + 1 udp_c (1 M_UDP_N_acetyl_D_glucosamine_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UDP_)
+
+

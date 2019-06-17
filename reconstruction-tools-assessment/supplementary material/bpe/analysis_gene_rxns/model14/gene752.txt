@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00730:1 cpd00070_c + 1 cpd00093_c <=> 1 cpd00010_c + 1 cpd02014_c (1 Malonyl_CoA_c0 + 1 Anthranilate_c0 <=> 1 CoA_c0 + 1 N_Malonylanthranilate_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00070_c (Malonyl_CoA_c0)
+cpd00093_c (Anthranilate_c0)
+cpd02014_c (N_Malonylanthranilate_c0)
+
+

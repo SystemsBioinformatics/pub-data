@@ -1,0 +1,20 @@
+notRecovered:
+G3PAT120:1 ddcaACP_c + 1 glyc3p_c -> 1 1ddecg3p_c + 1 ACP_c (1 Dodecanoyl-ACP (n-C12:0ACP) + 1 Glycerol 3-phosphate -> 1 1-dodecanoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT141:1 glyc3p_c + 1 tdeACP_c -> 1 1tdec7eg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1) -> 1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT140:1 glyc3p_c + 1 myrsACP_c -> 1 1tdecg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 1-tetradecanoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT180:1 glyc3p_c + 1 ocdcaACP_c -> 1 1odecg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 Octadecanoyl-ACP (n-C18:0ACP) -> 1 1-octadecanoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT161:1 glyc3p_c + 1 hdeACP_c -> 1 1hdec9eg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) -> 1 1-hexadec-9-enoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT160:1 glyc3p_c + 1 palmACP_c -> 1 1hdecg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 1-hexadecanoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT181:1 glyc3p_c + 1 octeACP_c -> 1 1odec11eg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) -> 1 1-octadec-11-enoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+
+
+AdditionalNotInModel:
+RXN-9590:1 ACYL-ACP_c + 1 Pi_c -> 1 ACP_c + 1 Acyl-Phosphates_c (1 ACYL-ACP + 1 phosphate -> 1 ACP + 1 Acyl-Phosphates)
+
+
+AdditionalMetabolites:
+ACYL-ACP_c (ACYL-ACP)
+Acyl-Phosphates_c (Acyl-Phosphates)
+Pi_c (phosphate)
+
+

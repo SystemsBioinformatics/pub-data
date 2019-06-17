@@ -1,0 +1,4 @@
+notRecovered:
+FUMAC:1 4fumacac_c + 1 h2o_c -> 1 acac_c + 1 fum_c + 1 h_c (1 4-fumarylacetoacetate + 1 H2O -> 1 Acetoacetate + 1 Fumarate + 1 H+)
+
+

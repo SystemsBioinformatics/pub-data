@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R05086:1 C00001_c + 1 C06055_c <=> 1 C00009_c + 1 C06056_c (1 H2O + 1 O-Phospho-4-hydroxy-L-threonine <=> 1 Orthophosphate + 1 4-Hydroxy-L-threonine)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C06055_c (O-Phospho-4-hydroxy-L-threonine)
+C06056_c (4-Hydroxy-L-threonine)
+
+

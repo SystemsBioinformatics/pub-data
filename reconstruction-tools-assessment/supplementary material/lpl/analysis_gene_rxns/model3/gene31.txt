@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+MNLptspp:1 pep_c + 1 mnl_p -> 1 pyr_c + 1 mnl1p_c (1 Phosphoenolpyruvate + 1 D-Mannitol -> 1 Pyruvate + 1 D-Mannitol 1-phosphate)
+
+
+AdditionalMetabolites:
+mnl_p (D-Mannitol)
+
+

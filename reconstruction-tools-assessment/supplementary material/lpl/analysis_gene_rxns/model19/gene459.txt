@@ -1,0 +1,15 @@
+notRecovered:
+ACGApts:1 acgam_e + 1 pep_c -> 1 acgam6p_c + 1 pyr_c (1 M_N_Acetyl_D_glucosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_Acetyl_D_glucosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R05199:1 C00140_c + 1 C04261_c -> 1 C00357_c + 1 C00615_c (1 N-Acetyl-D-glucosamine + 1 Protein N(pi)-phospho-L-histidine -> 1 N-Acetyl-D-glucosamine 6-phosphate + 1 Protein histidine)
+
+
+AdditionalMetabolites:
+C00140_c (N-Acetyl-D-glucosamine)
+C00357_c (N-Acetyl-D-glucosamine 6-phosphate)
+C00615_c (Protein histidine)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+
+

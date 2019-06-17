@@ -1,0 +1,14 @@
+notRecovered:
+PGLYCP:1 2pglyc_c + 1 h2o_c -> 1 glyclt_c + 1 pi_c (1 M_2_Phosphoglycolate_ + 1 M_H2O_ -> 1 M_Glycolate_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R00004:1 C00001_c + 1 C00013_c <=> 2 C00009_c (1 H2O + 1 Diphosphate <=> 2 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00013_c (Diphosphate)
+
+

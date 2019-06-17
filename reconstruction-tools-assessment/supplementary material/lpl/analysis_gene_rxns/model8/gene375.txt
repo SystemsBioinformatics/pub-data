@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+UDCPDPex:1 h2o_e + 1 udcpdp_e -> 1 pi_e + 1 h_e + 1 udcpp_e (1 H2O H2O + 1 Undecaprenyl diphosphate -> 1 Phosphate + 1 H+ + 1 Undecaprenyl phosphate)
+DCPDP:1 h2o_c + 1 decdp_tb_c -> 1 pi_c + 1 decd_tb_c + 1 h_c (1 H2O H2O + 1 (E,E,E,E,E,E,E,Z,Z) Decaprenyl diphosphate -> 1 Phosphate + 1 (E,E,E,E,E,E,E,Z,Z) decaprenyl phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+decd_tb_c ((E,E,E,E,E,E,E,Z,Z) decaprenyl phosphate)
+decdp_tb_c ((E,E,E,E,E,E,E,Z,Z) Decaprenyl diphosphate)
+udcpdp_e (Undecaprenyl diphosphate)
+udcpp_e (Undecaprenyl phosphate)
+
+
+AdditionalInModel:
+UDCPDP:1 h2o_c + 1 udcpdp_c -> 1 pi_c + 1 h_c + 1 udcpp_c (1 H2O H2O + 1 Undecaprenyl diphosphate -> 1 Phosphate + 1 H+ + 1 Undecaprenyl phosphate)

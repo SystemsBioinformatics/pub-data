@@ -1,0 +1,5 @@
+notRecovered:
+SKMt2pp:1 h_p + 1 skm_p -> 1 h_c + 1 skm_c (1 H+ + 1 Shikimate -> 1 H+ + 1 Shikimate)
+PROt2rpp:1 h_p + 1 pro__L_p -> 1 h_c + 1 pro__L_c (1 H+ + 1 L-Proline -> 1 H+ + 1 L-Proline)
+
+

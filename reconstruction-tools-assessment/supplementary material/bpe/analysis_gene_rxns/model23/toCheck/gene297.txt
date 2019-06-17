@@ -1,0 +1,19 @@
+notRecovered:
+UM4PCP:1 h2o_c + 1 um4p_c -> 1 ala__D_c + 1 ugmd_c (1 H2O + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine -> 1 D-Alanine + 1 UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate)
+4PCP:1 LalaDgluMdapDala_c + 1 h2o_c -> 1 LalaDgluMdap_c + 1 ala__D_c (1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine + 1 H2O -> 1 L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate + 1 D-Alanine)
+
+
+AdditionalNotInModel:
+RXN0-5227:1 CPD0-1082_c + 1 WATER_c -> 1 D-ALANINE_c + 1 L-ALA-GAMMA-D-GLU-DAP_c (1 L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine + 1 H2O -> 1 D-alanine + 1 L-alanyl-gamma-D-glutamyl-meso-diaminopimelate)
+RXN0-2061:1 UDP-MURNAC-TETRAPEPTIDE_c + 1 WATER_c -> 1 D-ALANINE_c + 1 UDP-AAGM-DIAMINOHEPTANEDIOATE_c (1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine + 1 H2O -> 1 D-alanine + 1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate)
+
+
+AdditionalMetabolites:
+CPD0-1082_c (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine)
+D-ALANINE_c (D-alanine)
+L-ALA-GAMMA-D-GLU-DAP_c (L-alanyl-gamma-D-glutamyl-meso-diaminopimelate)
+UDP-AAGM-DIAMINOHEPTANEDIOATE_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate)
+UDP-MURNAC-TETRAPEPTIDE_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine)
+WATER_c (H2O)
+
+

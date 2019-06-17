@@ -1,0 +1,24 @@
+notRecovered:
+3HAD180:1 3hoctaACP_c -> 1 toctd2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_ -> 1 M_trans_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+3HAD40:1 3haACP_c -> 1 but2eACP_c + 1 h2o_c (1 M__3R__3_Hydroxybutanoyl_acyl_carrier_protein_ -> 1 M_But_2_enoyl_acyl_carrier_protein_ + 1 M_H2O_)
+
+
+AdditionalNotInModel:
+R04428:1 C04618_c <=> 1 C04246_c + 1 C00001_c (1 (3R)-3-Hydroxybutanoyl-[acyl-carrier protein] <=> 1 But-2-enoyl-[acyl-carrier protein] + 1 H2O)
+R10208:1 C01271_c <=> 1 C00693_c + 1 C00001_c (1 (3R)-3-Hydroxyacyl-[acyl-carrier protein] <=> 1 trans-2,3-Dehydroacyl-[acyl-carrier protein] + 1 H2O)
+R10117:1 C20373_c <=> 1 C20374_c + 1 C00001_c (1 3-Hydroxyglutaryl-[acp] methyl ester <=> 1 Enoylglutaryl-[acp] methyl ester + 1 H2O)
+R10121:1 C20377_c <=> 1 C00001_c + 1 C20378_c (1 3-Hydroxypimeloyl-[acp] methyl ester <=> 1 H2O + 1 Enoylpimeloyl-[acp] methyl ester)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00693_c (trans-2,3-Dehydroacyl-[acyl-carrier protein])
+C01271_c ((3R)-3-Hydroxyacyl-[acyl-carrier protein])
+C04246_c (But-2-enoyl-[acyl-carrier protein])
+C04618_c ((3R)-3-Hydroxybutanoyl-[acyl-carrier protein])
+C20373_c (3-Hydroxyglutaryl-[acp] methyl ester)
+C20374_c (Enoylglutaryl-[acp] methyl ester)
+C20377_c (3-Hydroxypimeloyl-[acp] methyl ester)
+C20378_c (Enoylpimeloyl-[acp] methyl ester)
+
+

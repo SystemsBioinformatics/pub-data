@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn06870:1 cpd12044_c <=> 1 cpd12868_c (1 Protein_serine_c0 <=> 1 Protein_D_serine_c0)
+
+
+AdditionalMetabolites:
+cpd12044_c (Protein_serine_c0)
+cpd12868_c (Protein_D_serine_c0)
+
+

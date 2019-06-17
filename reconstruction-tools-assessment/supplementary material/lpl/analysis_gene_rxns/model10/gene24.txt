@@ -1,0 +1,18 @@
+notRecovered:
+SBTD_L:1 nad_c + 1 sbt__L_c -> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_L_Sorbitol_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD:1 idt_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_L_Iditol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD_D2:1 nad_c + 1 sbt__D_c -> 1 fru_c + 1 h_c + 1 nadh_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_D_Sorbitol_ -> 1 M_D_Fructose_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+RXN-11106:1 CPD-12079_c + 1 NAD_c <=> 1 XYLULOSE-5-PHOSPHATE_c + 1 NADH_c + 1 PROTON_c (1 D-arabitol 1-phosphate + 1 NAD+ <=> 1 D-xylulose 5-phosphate + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-12079_c (D-arabitol 1-phosphate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+XYLULOSE-5-PHOSPHATE_c (D-xylulose 5-phosphate)
+
+

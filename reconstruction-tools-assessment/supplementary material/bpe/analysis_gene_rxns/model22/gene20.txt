@@ -1,0 +1,13 @@
+notRecovered:
+FEENTERabcpp:1 atp_c + 1 feenter_p + 1 h2o_c -> 1 adp_c + 1 feenter_c + 1 h_c + 1 pi_c (1 ATP + 1 Fe-enterobactin + 1 H2O -> 1 ADP + 1 Fe-enterobactin + 1 H+ + 1 Phosphate)
+FECRMabcpp:1 atp_c + 1 fecrm_p + 1 h2o_c -> 1 adp_c + 1 fecrm_c + 1 h_c + 1 pi_c (1 ATP + 1 Ferrichrome + 1 H2O -> 1 ADP + 1 Ferrichrome + 1 H+ + 1 Phosphate)
+FEALCabcpp:1 atp_c + 1 fealc_p + 1 h2o_c -> 1 adp_c + 1 fealc_c + 1 h_c + 1 pi_c (1 ATP + 1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H2O -> 1 ADP + 1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+ + 1 Phosphate)
+FE3HOXabcpp:1 atp_c + 1 fe3hox_p + 1 h2o_c -> 1 adp_c + 1 fe3hox_c + 1 h_c + 1 pi_c (1 ATP + 1 Fe(III)hydroxamate + 1 H2O -> 1 ADP + 1 Fe(III)hydroxamate + 1 H+ + 1 Phosphate)
+FE3DHBZSabcpp:1 atp_c + 1 fe3dhbzs_p + 1 h2o_c -> 1 adp_c + 1 fe3dhbzs_c + 1 h_c + 1 pi_c (1 ATP + 1 ferric 2,3-dihydroxybenzoylserine + 1 H2O -> 1 ADP + 1 ferric 2,3-dihydroxybenzoylserine + 1 H+ + 1 Phosphate)
+DESFXBabcpp:1 atp_c + 1 desfxb_p + 1 h2o_c -> 1 adp_c + 1 desfxb_c + 1 h_c + 1 pi_c (1 ATP + 1 Desferrixoamine B + 1 H2O -> 1 ADP + 1 Desferrixoamine B + 1 H+ + 1 Phosphate)
+CPGNabcpp:1 atp_c + 1 cpgn_p + 1 h2o_c -> 1 adp_c + 1 cpgn_c + 1 h_c + 1 pi_c (1 ATP + 1 coprogen + 1 H2O -> 1 ADP + 1 coprogen + 1 H+ + 1 Phosphate)
+FE3DCITabcpp:1 atp_c + 1 fe3dcit_p + 1 h2o_c -> 1 adp_c + 2 cit_c + 1 fe3_c + 1 h_c + 1 pi_c (1 ATP + 1 Fe(III)dicitrate + 1 H2O -> 1 ADP + 2 Citrate + 1 Fe3+ + 1 H+ + 1 Phosphate)
+FEOXAMabcpp:1 atp_c + 1 feoxam_p + 1 h2o_c -> 1 adp_c + 1 feoxam_c + 1 h_c + 1 pi_c (1 ATP + 1 ferroxamine + 1 H2O -> 1 ADP + 1 ferroxamine + 1 H+ + 1 Phosphate)
+ARBTNabcpp:1 arbtn_fe3_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 arbtn_fe3_c + 1 h_c + 1 pi_c (1 Aerobactin + 1 ATP + 1 H2O -> 1 ADP + 1 Aerobactin + 1 H+ + 1 Phosphate)
+
+

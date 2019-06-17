@@ -1,0 +1,5 @@
+notRecovered:
+DGK1:1 atp_c + 1 dgmp_c <=> 1 adp_c + 1 dgdp_c (1 ATP + 1 dGMP <=> 1 ADP + 1 dGDP)
+GK1:1 atp_c + 1 gmp_c <=> 1 adp_c + 1 gdp_c (1 ATP + 1 GMP <=> 1 ADP + 1 GDP)
+
+

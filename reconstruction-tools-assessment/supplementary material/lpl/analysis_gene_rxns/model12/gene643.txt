@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN0-1441-ADENOSINE_DIPHOSPHATE_RIBOSE/WATER//AMP/CPD-15318/PROTON.57.:1 ADENOSINE_DIPHOSPHATE_RIBOSE_c + 1 WATER_c -> 1 CPD-15318_c + 1 AMP_c + 2 PROTON_c (1 ADP-D-ribose + 1 H2O -> 1 alpha-D-ribose 5-phosphate + 1 AMP + 2 H+)
+RXN0-1441:1 ADENOSINE_DIPHOSPHATE_RIBOSE_c + 1 WATER_c -> 1 CPD-15317_c + 1 AMP_c + 2 PROTON_c (1 ADP-D-ribose + 1 H2O -> 1 D-ribofuranose 5-phosphate + 1 AMP + 2 H+)
+
+
+AdditionalMetabolites:
+ADENOSINE_DIPHOSPHATE_RIBOSE_c (ADP-D-ribose)
+AMP_c (AMP)
+CPD-15317_c (D-ribofuranose 5-phosphate)
+CPD-15318_c (alpha-D-ribose 5-phosphate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

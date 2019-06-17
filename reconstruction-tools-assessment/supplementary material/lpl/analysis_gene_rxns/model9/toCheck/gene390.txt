@@ -1,0 +1,13 @@
+notRecovered:
+AMANK:1 acmana_c + 1 atp_c -> 1 acmanap_c + 1 adp_c + 1 h_c (1 M_N_Acetyl_D_mannosamine_ + 1 M_ATP_ -> 1 M_N_Acetyl_D_mannosamine_6_phosphate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+G6PP:1 g6p_c + 1 h2o_c -> 1 glc__D_c + 1 pi_c (1 D-Glucose 6-phosphate + 1 H2O H2O -> 1 D-Glucose + 1 Phosphate)
+ACGAMK:1 atp_c + 1 acgam_c -> 1 adp_c + 1 h_c + 1 acgam6p_c (1 ATP C10H12N5O13P3 + 1 N-Acetyl-D-glucosamine -> 1 ADP C10H12N5O10P2 + 1 H+ + 1 N-Acetyl-D-glucosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+acgam_c (N-Acetyl-D-glucosamine)
+
+

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn03887:1 cpd00652_c -> 1 cpd00001_c + 1 cpd00515_c (1 D_Mucic_acid_c0 -> 1 H2O_c0 + 1 5_Dehydro_4_deoxy_D_glucarate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00515_c (5_Dehydro_4_deoxy_D_glucarate_c0)
+cpd00652_c (D_Mucic_acid_c0)
+
+

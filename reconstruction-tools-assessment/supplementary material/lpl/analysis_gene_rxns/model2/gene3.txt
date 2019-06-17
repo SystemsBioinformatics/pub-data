@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+ABUTD:1 h2o_c + 1 nad_c + 1 4abutn_c -> 2 h_c + 1 nadh_c + 1 4abut_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 4-Aminobutanal -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 4-Aminobutanoate)
+LCARS:1 h_c + 1 nadh_c + 1 lald__L_c <=> 1 12ppd__S_c + 1 nad_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 L-Lactaldehyde <=> 1 (S)-Propane-1,2-diol + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalMetabolites:
+12ppd__S_c ((S)-Propane-1,2-diol)
+4abutn_c (4-Aminobutanal)
+
+
+AdditionalInModel:
+GCALDD:1 h2o_c + 1 nad_c + 1 gcald_c -> 2 h_c + 1 nadh_c + 1 glyclt_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Glycolaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Glycolate)

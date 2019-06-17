@@ -1,0 +1,24 @@
+notRecovered:
+ACGAMPM:1 acgam6p_c <=> 1 acgam1p_c (1 N-Acetyl-D-glucosamine 6-phosphate <=> 1 N-Acetyl-D-glucosamine 1-phosphate)
+
+
+AdditionalNotInModel:
+PHOSMANMUT-RXN-MANNOSE-1P//MANNOSE-6P.23.:1 MANNOSE-6P_c -> 1 MANNOSE-1P_c (1 alpha-D-mannopyranose 6-phosphate -> 1 alpha-D-mannose 1-phosphate)
+PHOSMANMUT-RXN-MANNOSE-1P//CPD-15711.22.:1 CPD-15711_c -> 1 MANNOSE-1P_c (1 beta-D-mannopyranose 6-phosphate -> 1 alpha-D-mannose 1-phosphate)
+PHOSMANMUT-RXN:1 CPD-15979_c -> 1 MANNOSE-1P_c (1 D-mannopyranose 6-phosphate -> 1 alpha-D-mannose 1-phosphate)
+RXN-16998:1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c + 1 Phosphoglucomutase_c -> 1 Phosphorylated-phosphoglucomutase_c + 1 D-glucopyranose-6-phosphate_c (1 alpha-glucose 1,6-bisphosphate + 1 a phosphoglucomutase -> 1 a phosphorylated phosphoglucomutase + 1 D-glucopyranose 6-phosphate)
+RXN-16997:1 Phosphorylated-phosphoglucomutase_c + 1 GLC-1-P_c -> 1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c + 1 Phosphoglucomutase_c (1 a phosphorylated phosphoglucomutase + 1 alpha-D-glucopyranose 1-phosphate -> 1 alpha-glucose 1,6-bisphosphate + 1 a phosphoglucomutase)
+
+
+AdditionalMetabolites:
+ALPHA-GLUCOSE-16-BISPHOSPHATE_c (alpha-glucose 1,6-bisphosphate)
+CPD-15711_c (beta-D-mannopyranose 6-phosphate)
+CPD-15979_c (D-mannopyranose 6-phosphate)
+D-glucopyranose-6-phosphate_c (D-glucopyranose 6-phosphate)
+GLC-1-P_c (alpha-D-glucopyranose 1-phosphate)
+MANNOSE-1P_c (alpha-D-mannose 1-phosphate)
+MANNOSE-6P_c (alpha-D-mannopyranose 6-phosphate)
+Phosphoglucomutase_c (a phosphoglucomutase)
+Phosphorylated-phosphoglucomutase_c (a phosphorylated phosphoglucomutase)
+
+

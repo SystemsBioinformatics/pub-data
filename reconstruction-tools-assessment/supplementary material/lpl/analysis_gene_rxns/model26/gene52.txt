@@ -1,0 +1,16 @@
+notRecovered:
+DALTAL:0.01 LTA_LPL_c + 25 ala__D_c + 25 atp_c -> 0.01 LTAala_LPL_c + 25 adp_c + 25 pi_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_D_Alanine_ + 25 M_ATP_ -> 0.01 M_Lipoteichoic_acid__n25__with_100_D_Ala_substitutions__LPL_specific__ + 25 M_ADP_ + 25 M_Phosphate_)
+DARTAL:1 RTA_c + 25 ala__D_c + 25 atp_c -> 1 RTAala_c + 25 adp_c + 25 pi_c (1 M_teichoic_acid_containing_ribitol_P_ + 25 M_D_Alanine_ + 25 M_ATP_ -> 1 M_ribitol_teichoic_acid__n25__with_D_Ala_substitutions_ + 25 M_ADP_ + 25 M_Phosphate_)
+
+
+AdditionalNotInModel:
+RXN-18013:1 D-Ala-DltC_c + 1 L-1-PHOSPHATIDYL-GLYCEROL_c -> 1 1-Phosphatidyl-2-O-D-Ala-Glycerol_c + 1 D-alanine-carrier-protein_c (1 D-Ala-DltC + 1 L-1-PHOSPHATIDYL-GLYCEROL -> 1 1-Phosphatidyl-2-O-D-Ala-Glycerol + 1 D-alanine-carrier-protein)
+
+
+AdditionalMetabolites:
+1-Phosphatidyl-2-O-D-Ala-Glycerol_c (1-Phosphatidyl-2-O-D-Ala-Glycerol)
+D-Ala-DltC_c (D-Ala-DltC)
+D-alanine-carrier-protein_c (D-alanine-carrier-protein)
+L-1-PHOSPHATIDYL-GLYCEROL_c (L-1-PHOSPHATIDYL-GLYCEROL)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+ALALAC:1 ala__D_c + 1 atp_c + 1 lac__D_c <=> 1 adp_c + 1 alalac_c + 1 pi_c (1 M_D_Alanine_ + 1 M_ATP_ + 1 M_D_Lactate_ <=> 1 M_ADP_ + 1 M_D_Alanyl_D_lactate_ + 1 M_Phosphate_)
+
+

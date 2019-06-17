@@ -1,0 +1,4 @@
+notRecovered:
+GTHOr:1 gthox_c + 1 h_c + 1 nadph_c <=> 2 gthrd_c + 1 nadp_c (1 M_Oxidized_glutathione_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ <=> 2 M_Reduced_glutathione_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+
+

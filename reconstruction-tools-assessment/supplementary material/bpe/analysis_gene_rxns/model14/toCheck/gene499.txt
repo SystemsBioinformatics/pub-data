@@ -1,0 +1,23 @@
+notRecovered:
+UNK3:1 glu__L_c + 1 2kmb_c <=> 1 akg_c + 1 met__L_c (1 L-Glutamate + 1 2-keto-4-methylthiobutanoate <=> 1 2-Oxoglutarate + 1 L-Methionine)
+
+
+AdditionalNotInModel:
+rxn00527:1 cpd00024_c + 1 cpd00069_c <=> 1 cpd00023_c + 1 cpd00868_c (1 2_Oxoglutarate_c0 + 1 L_Tyrosine_c0 <=> 1 L_Glutamate_c0 + 1 p_hydroxyphenylpyruvate_c0)
+rxn01270:1 cpd00032_c + 1 cpd00616_c <=> 1 cpd00041_c + 1 cpd00219_c (1 Oxaloacetate_c0 + 1 Pretyrosine_c0 <=> 1 L_Aspartate_c0 + 1 Prephenate_c0)
+rxn00493:1 cpd00024_c + 1 cpd00066_c <=> 1 cpd00023_c + 1 cpd00143_c (1 2_Oxoglutarate_c0 + 1 L_Phenylalanine_c0 <=> 1 L_Glutamate_c0 + 1 Phenylpyruvate_c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00024_c (2_Oxoglutarate_c0)
+cpd00032_c (Oxaloacetate_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd00066_c (L_Phenylalanine_c0)
+cpd00069_c (L_Tyrosine_c0)
+cpd00143_c (Phenylpyruvate_c0)
+cpd00219_c (Prephenate_c0)
+cpd00616_c (Pretyrosine_c0)
+cpd00868_c (p_hydroxyphenylpyruvate_c0)
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+DAGK_LPL:1 atp_c + 0.01 dag_LPL_c -> 1 adp_c + 1 h_c + 0.01 pa_LPL_c (1 M_ATP_ + 0.01 M_1_2_Diacylglycerol__LPL_specific_ -> 1 M_ADP_ + 1 M_H_ + 0.01 M_phosphatidic_acid__Lb_plantarum_specific__)
+
+
+AdditionalNotInModel:
+DAGK_LLA:0.01 12dgr_LLA_c + 1 atp_c -> 1 adp_c + 1 h_c + 0.01 pa_LLA_c (0.01 1 2 diacylglycerol  lactis specific  + 1 ATP C10H12N5O13P3 -> 1 ADP C10H12N5O10P2 + 1 H+ + 0.01 Phosphatidic acid  Lactis specific)
+
+
+AdditionalMetabolites:
+12dgr_LLA_c (1 2 diacylglycerol  lactis specific)
+pa_LLA_c (Phosphatidic acid  Lactis specific)
+
+

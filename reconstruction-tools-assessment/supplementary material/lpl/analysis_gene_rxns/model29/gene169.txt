@@ -1,0 +1,20 @@
+notRecovered:
+GLCP:1 glycogen_c + 1 pi_c -> 1 g1p_c (1 M_glycogen_ + 1 M_Phosphate_ -> 1 M_D_Glucose_1_phosphate_)
+
+
+AdditionalNotInModel:
+R02111:1 C00369_c + 1 C00009_c <=> 1 C00718_c + 1 C00103_c (1 Starch + 1 Orthophosphate <=> 1 Amylose + 1 D-Glucose 1-phosphate)
+R01821:1 C00009_c <=> 1 C00718_c + 1 C00103_c (1 Orthophosphate <=> 1 Amylose + 1 D-Glucose 1-phosphate)
+R06185:1 G10545_c + 1 C00009_c <=> 1 C00103_c + 1 G10495_c (1 Starch + 1 Orthophosphate <=> 1 D-Glucose 1-phosphate + 1 1,4-alpha-D-Glucan)
+R06050:1 C00009_c <=> 1 C00103_c + 1 G10495_c (1 Orthophosphate <=> 1 D-Glucose 1-phosphate + 1 1,4-alpha-D-Glucan)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00103_c (D-Glucose 1-phosphate)
+C00369_c (Starch)
+C00718_c (Amylose)
+G10495_c (1,4-alpha-D-Glucan)
+G10545_c (Starch)
+
+

@@ -1,0 +1,10 @@
+notRecovered:
+Kt2pp:1 h_p + 1 k_p -> 1 h_c + 1 k_c (1 H+ + 1 potassium -> 1 H+ + 1 potassium)
+
+
+AdditionalNotInModel:
+Kt2r:1 h_e + 1 k_e -> 1 h_c + 1 k_c (1 H+ + 1 Potassium -> 1 H+ + 1 Potassium)
+
+
+AdditionalInModel:
+Kt2pp:1 h_p + 1 k_p -> 1 h_c + 1 k_c (1 H+ + 1 Potassium -> 1 H+ + 1 Potassium)

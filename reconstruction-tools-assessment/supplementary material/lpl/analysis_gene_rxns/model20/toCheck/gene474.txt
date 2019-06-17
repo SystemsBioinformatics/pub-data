@@ -1,0 +1,16 @@
+notRecovered:
+GALM:1 gal_c <=> 1 a_gal__D_c (1 M_D_Galactose_ <=> 1 M_alpha_D_galactose_)
+
+
+AdditionalNotInModel:
+R01602:1 C00267_c <=> 1 C00221_c (1 alpha-D-Glucose <=> 1 beta-D-Glucose)
+R10619:1 C00124_c <=> 1 C00984_c (1 D-Galactose <=> 1 alpha-D-Galactose)
+
+
+AdditionalMetabolites:
+C00124_c (D-Galactose)
+C00221_c (beta-D-Glucose)
+C00267_c (alpha-D-Glucose)
+C00984_c (alpha-D-Galactose)
+
+

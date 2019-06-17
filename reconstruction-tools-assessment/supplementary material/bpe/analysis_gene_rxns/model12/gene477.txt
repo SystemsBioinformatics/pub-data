@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN:1 N-ALPHA-ACETYLORNITHINE_c + 1 GLT_c -> 1 ACETYL-GLU_c + 1 L-ORNITHINE_c (1 N-acetyl-L-ornithine + 1 L-glutamate -> 1 N-acetyl-L-glutamate + 1 L-ornithine)
+RXN0-6948:1 MET_c + 1 ACETYL-COA_c -> 1 CPD0-2015_c + 1 CO-A_c + 1 PROTON_c (1 L-methionine + 1 acetyl-CoA -> 1 N-acetyl-L-methionine + 1 coenzyme A + 1 H+)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+ACETYL-GLU_c (N-acetyl-L-glutamate)
+CO-A_c (coenzyme A)
+CPD0-2015_c (N-acetyl-L-methionine)
+GLT_c (L-glutamate)
+L-ORNITHINE_c (L-ornithine)
+MET_c (L-methionine)
+N-ALPHA-ACETYLORNITHINE_c (N-acetyl-L-ornithine)
+PROTON_c (H+)
+
+

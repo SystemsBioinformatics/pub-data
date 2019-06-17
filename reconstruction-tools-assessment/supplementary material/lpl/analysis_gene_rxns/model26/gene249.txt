@@ -1,0 +1,20 @@
+notRecovered:
+MTHFD:1 mlthf_c + 1 nadp_c <=> 1 methf_c + 1 nadph_c (1 M_5_10_Methylenetetrahydrofolate_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ <=> 1 M_5_10_Methenyltetrahydrofolate_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_)
+MTHFC:1 h2o_c + 1 methf_c <=> 1 10fthf_c + 1 h_c (1 M_H2O_ + 1 M_5_10_Methenyltetrahydrofolate_ <=> 1 M_10_Formyltetrahydrofolate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+METHYLENETHFDEHYDROG-NADP-RXN:1 METHYLENE-THF-GLU-N_c + 1 NADP_c <=> 1 5-10-METHENYL-THF-GLU-N_c + 1 NADPH_c (1 METHYLENE-THF-GLU-N + 1 NADP+ <=> 1 5-10-METHENYL-THF-GLU-N + 1 NADPH)
+METHENYLTHFCYCLOHYDRO-RXN:1 5-10-METHENYL-THF-GLU-N_c + 1 WATER_c <=> 1 FORMYL-THF-GLU-N_c + 1 PROTON_c (1 5-10-METHENYL-THF-GLU-N + 1 H2O <=> 1 FORMYL-THF-GLU-N + 1 H+)
+
+
+AdditionalMetabolites:
+5-10-METHENYL-THF-GLU-N_c (5-10-METHENYL-THF-GLU-N)
+FORMYL-THF-GLU-N_c (FORMYL-THF-GLU-N)
+METHYLENE-THF-GLU-N_c (METHYLENE-THF-GLU-N)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

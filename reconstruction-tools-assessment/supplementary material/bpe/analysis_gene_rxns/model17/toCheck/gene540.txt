@@ -1,0 +1,19 @@
+notRecovered:
+MOAT_BP:1 ckdo_c + 1 lipidA_BP_c -> 1 cmp_c + 1 h_c + 1 kdolipid4_BP_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 Lipid A Disaccharide Bisphosphate (B. pertussis specific) -> 1 CMP + 1 H+ + 1 KDO-lipid IV(A) (B. pertussis specific))
+
+
+AdditionalNotInModel:
+R04658:1 C04121_c + 1 C04919_c <=> 1 C00055_c + 1 C06024_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate <=> 1 CMP + 1 3-Deoxy-D-manno-octulosonyl-lipid IV(A))
+R05074:1 C04121_c + 1 C06024_c <=> 1 C00055_c + 1 C06025_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 3-Deoxy-D-manno-octulosonyl-lipid IV(A) <=> 1 CMP + 1 Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A))
+R09763:1 C04121_c + 1 C06025_c <=> 1 C00055_c + 1 C19875_c (1 CMP-3-deoxy-D-manno-octulosonate + 1 Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A) <=> 1 CMP + 1 alpha-Kdo-(2->8)-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA)
+
+
+AdditionalMetabolites:
+C00055_c (CMP)
+C04121_c (CMP-3-deoxy-D-manno-octulosonate)
+C04919_c (2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate)
+C06024_c (3-Deoxy-D-manno-octulosonyl-lipid IV(A))
+C06025_c (Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A))
+C19875_c (alpha-Kdo-(2->8)-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA)
+
+

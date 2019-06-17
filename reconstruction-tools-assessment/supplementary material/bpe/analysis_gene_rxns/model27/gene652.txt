@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R09099:1 C00065_c + 1 C01217_c <=> 1 C00037_c + 1 C00001_c + 1 C04377_c (1 L-Serine + 1 5,6,7,8-Tetrahydromethanopterin <=> 1 Glycine + 1 H2O + 1 5,10-Methylenetetrahydromethanopterin)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00037_c (Glycine)
+C00065_c (L-Serine)
+C01217_c (5,6,7,8-Tetrahydromethanopterin)
+C04377_c (5,10-Methylenetetrahydromethanopterin)
+
+

@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+2-KETO-ADIPATE-DEHYDROG-RXN:1 2K-ADIPATE_c + 1 NAD_c + 1 CO-A_c -> 1 CARBON-DIOXIDE_c + 1 GLUTARYL-COA_c + 1 NADH_c (1 2-oxoadipate + 1 NAD+ + 1 coenzyme A -> 1 CO2 + 1 glutaryl-CoA + 1 NADH)
+RXN-7716:1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c + 1 NAD_c -> 1 Oxo-glutarate-dehydrogenase-lipoyl_c + 1 NADH_c + 1 PROTON_c (1 a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine + 1 NAD+ -> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 NADH + 1 H+)
+RXN0-1147:1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c + 1 SUC-COA_c <=> 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c + 1 CO-A_c (1 a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine + 1 succinyl-CoA <=> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine + 1 coenzyme A)
+2OXOGLUTDECARB-RXN:1 Oxo-glutarate-dehydrogenase-lipoyl_c + 1 2-KETOGLUTARATE_c + 1 PROTON_c -> 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c + 1 CARBON-DIOXIDE_c (1 a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 2-oxoglutarate + 1 H+ -> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine + 1 CO2)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+2K-ADIPATE_c (2-oxoadipate)
+CARBON-DIOXIDE_c (CO2)
+CO-A_c (coenzyme A)
+GLUTARYL-COA_c (glutaryl-CoA)
+NADH_c (NADH)
+NAD_c (NAD+)
+Oxo-glutarate-dehydro-suc-DH-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine)
+Oxo-glutarate-dehydrogenase-DH-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine)
+Oxo-glutarate-dehydrogenase-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine)
+PROTON_c (H+)
+SUC-COA_c (succinyl-CoA)
+
+

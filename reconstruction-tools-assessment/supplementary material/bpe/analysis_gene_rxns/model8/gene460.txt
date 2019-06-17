@@ -1,0 +1,4 @@
+notRecovered:
+DHORD2:1 dhor__S_c + 1 q8_c -> 1 orot_c + 1 q8h2_c (1 (S)-Dihydroorotate + 1 Ubiquinone-8 -> 1 Orotate + 1 Ubiquinol-8)
+
+

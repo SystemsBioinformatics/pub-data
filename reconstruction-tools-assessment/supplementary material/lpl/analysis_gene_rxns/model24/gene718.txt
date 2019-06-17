@@ -1,0 +1,25 @@
+notRecovered:
+GARFT:1 10fthf_c + 1 gar_c <=> 1 fgam_c + 1 h_c + 1 thf_c (1 M_10_Formyltetrahydrofolate_ + 1 M_N1__5_Phospho_D_ribosyl_glycinamide_ <=> 1 M_N2_Formyl_N1__5_phospho_D_ribosyl_glycinamide_ + 1 M_H_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+
+AdditionalNotInModel:
+GLYRIBONUCSYN-RXN:1 5-P-BETA-D-RIBOSYL-AMINE_c + 1 ATP_c + 1 GLY_c -> 1 5-PHOSPHO-RIBOSYL-GLYCINEAMIDE_c + 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 5-phospho-beta-D-ribosylamine + 1 ATP + 1 glycine -> 1 N1-(5-phospho-beta-D-ribosyl)glycinamide + 1 ADP + 1 H+ + 1 phosphate)
+AIRS-RXN:1 5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c + 1 ATP_c -> 1 5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c + 1 ADP_c + 1 PROTON_c + 1 Pi_c (1 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine + 1 ATP -> 1 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + 1 ADP + 1 H+ + 1 phosphate)
+GART-RXN:1 5-PHOSPHO-RIBOSYL-GLYCINEAMIDE_c + 1 FORMYL-THF-GLU-N_c <=> 1 5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE_c + 1 PROTON_c + 1 THF-GLU-N_c (1 N1-(5-phospho-beta-D-ribosyl)glycinamide + 1 FORMYL-THF-GLU-N <=> 1 N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide + 1 H+ + 1 THF-GLU-N)
+
+
+AdditionalMetabolites:
+5-P-BETA-D-RIBOSYL-AMINE_c (5-phospho-beta-D-ribosylamine)
+5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE_c (N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide)
+5-PHOSPHO-RIBOSYL-GLYCINEAMIDE_c (N1-(5-phospho-beta-D-ribosyl)glycinamide)
+5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c (5-amino-1-(5-phospho-beta-D-ribosyl)imidazole)
+5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c (2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine)
+ADP_c (ADP)
+ATP_c (ATP)
+FORMYL-THF-GLU-N_c (FORMYL-THF-GLU-N)
+GLY_c (glycine)
+PROTON_c (H+)
+Pi_c (phosphate)
+THF-GLU-N_c (THF-GLU-N)
+
+

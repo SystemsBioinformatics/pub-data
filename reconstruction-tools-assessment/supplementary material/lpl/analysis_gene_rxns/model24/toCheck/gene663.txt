@@ -1,0 +1,15 @@
+notRecovered:
+CELBpts:1 cellb_e + 1 pep_c -> 1 6pgg_c + 1 pyr_c (1 M_cellobiose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-155B:1 CHITOBIOSE_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 DIACETYLCHITOBIOSE-6-PHOSPHATE_c + 1 Hpr-Histidine_c (1 CHITOBIOSE + 1 Hpr-pi-phospho-L-histidines -> 1 N,N'-diacetylchitobiose 6'-phosphate + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+CHITOBIOSE_c (CHITOBIOSE)
+DIACETYLCHITOBIOSE-6-PHOSPHATE_c (N,N'-diacetylchitobiose 6'-phosphate)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+
+

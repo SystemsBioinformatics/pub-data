@@ -1,0 +1,18 @@
+notRecovered:
+ALCE:1 h_c + 1 nadph_c + 1 o2_c + 1 shptrc_c -> 1 h2o_c + 1 hshptrc_c + 1 nadp_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 O2 + 1 N4-succinyl-N4-hydroxyputrescine -> 1 H2O + 1 N4-succinyl-N4-hydroxy-2-hydroxyputrescine + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+R07409:1 C00007_c + 2 C00080_c + 1 C00114_c + 2 C00138_c -> 2 C00001_c + 2 C00139_c + 1 C00576_c (1 Oxygen + 2 H+ + 1 Choline + 2 Reduced ferredoxin -> 2 H2O + 2 Oxidized ferredoxin + 1 Betaine aldehyde)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00080_c (H+)
+C00114_c (Choline)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00576_c (Betaine aldehyde)
+
+

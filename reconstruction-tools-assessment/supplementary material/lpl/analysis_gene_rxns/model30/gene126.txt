@@ -1,0 +1,20 @@
+notRecovered:
+NAPRT:1 h_c + 1 nac_c + 1 prpp_c -> 1 nicrnt_c + 1 ppi_c (1 M_H_ + 1 M_Nicotinate_ + 1 M_5_Phospho_alpha_D_ribose_1_diphosphate_ -> 1 M_Nicotinate_D_ribonucleotide_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+R01724:1 C00008_c + 1 C01185_c + 1 C00013_c + 1 C00009_c <=> 1 C00253_c + 1 C00119_c + 1 C00001_c + 1 C00002_c + 1 C00080_c (1 ADP + 1 Nicotinate D-ribonucleotide + 1 Diphosphate + 1 Orthophosphate <=> 1 Nicotinate + 1 5-Phospho-alpha-D-ribose 1-diphosphate + 1 H2O + 1 ATP + 1 H+)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00013_c (Diphosphate)
+C00080_c (H+)
+C00119_c (5-Phospho-alpha-D-ribose 1-diphosphate)
+C00253_c (Nicotinate)
+C01185_c (Nicotinate D-ribonucleotide)
+
+

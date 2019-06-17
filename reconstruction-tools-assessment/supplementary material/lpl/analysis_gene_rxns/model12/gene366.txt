@@ -1,0 +1,4 @@
+notRecovered:
+AMAA:1 acmama_c + 1 h2o_c -> 1 acmam_c + 1 ala__L_c (1 M_N_Acetyl_D_muramoyl_L_alanine_ + 1 M_H2O_ -> 1 M_N_Acetyl_D_muramoate_ + 1 M_L_Alanine_)
+
+

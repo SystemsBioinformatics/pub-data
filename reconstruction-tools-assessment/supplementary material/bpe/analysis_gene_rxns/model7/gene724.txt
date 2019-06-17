@@ -1,0 +1,4 @@
+notRecovered:
+ALATRS:1 ala__L_c + 1 atp_c + 1 trnaala_c -> 1 alatrna_c + 1 amp_c + 1 ppi_c (1 L-Alanine + 1 ATP + 1 tRNA(Ala) -> 1 L-Alanyl-tRNA(Ala) + 1 AMP + 1 Diphosphate)
+
+

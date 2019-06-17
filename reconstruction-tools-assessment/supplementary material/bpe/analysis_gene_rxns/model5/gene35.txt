@@ -1,0 +1,20 @@
+notRecovered:
+FE3DHBZStonex:1 fe3dhbzs_e + 1 h_p -> 1 fe3dhbzs_p + 1 h_c (1 ferric 2,3-dihydroxybenzoylserine + 1 H+ -> 1 ferric 2,3-dihydroxybenzoylserine + 1 H+)
+FEENTERtonex:1 feenter_e + 1 h_p -> 1 feenter_p + 1 h_c (1 Fe-enterobactin + 1 H+ -> 1 Fe-enterobactin + 1 H+)
+
+
+AdditionalNotInModel:
+DHBSZ3FEtonex:1 fe3dhbzs3_e + 1 h_p -> 1 fe3dhbzs3_p + 1 h_c (1 2-3-dihydroxybenzoylserine trimer-Fe-III + 1 H+ -> 1 2-3-dihydroxybenzoylserine trimer-Fe-III + 1 H+)
+SALCHS2FEtonex:1 h_p + 1 salchs2fe_e -> 1 h_c + 1 salchs2fe_p (1 H+ + 1 Salmochelin-S2-Fe-III -> 1 H+ + 1 Salmochelin-S2-Fe-III)
+SALCHS4FEtonex:1 h_p + 1 salchs4fe_e -> 1 h_c + 1 salchs4fe_p (1 H+ + 1 Salmochelin-S4-Fe-III -> 1 H+ + 1 Salmochelin-S4-Fe-III)
+
+
+AdditionalMetabolites:
+fe3dhbzs3_e (2-3-dihydroxybenzoylserine trimer-Fe-III)
+fe3dhbzs3_p (2-3-dihydroxybenzoylserine trimer-Fe-III)
+salchs2fe_e (Salmochelin-S2-Fe-III)
+salchs2fe_p (Salmochelin-S2-Fe-III)
+salchs4fe_e (Salmochelin-S4-Fe-III)
+salchs4fe_p (Salmochelin-S4-Fe-III)
+
+

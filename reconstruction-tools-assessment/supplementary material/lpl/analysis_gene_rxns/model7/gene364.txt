@@ -1,0 +1,4 @@
+notRecovered:
+AEPPT:1 2aeppn_c + 1 pyr_c -> 1 ala__L_c + 1 Pald_c (1 M__2_Aminoethyl_phosphonate_ + 1 M_Pyruvate_ -> 1 M_L_Alanine_ + 1 M_Phosphonoacetaldehyde_)
+
+

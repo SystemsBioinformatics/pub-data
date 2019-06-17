@@ -1,0 +1,19 @@
+notRecovered:
+NAMNPP:1 atp_c + 1 h2o_c + 1 nac_c + 1 prpp_c -> 1 adp_c + 1 nicrnt_c + 1 pi_c + 1 ppi_c (1 ATP + 1 H2O + 1 Nicotinate + 1 5-Phospho-alpha-D-ribose 1-diphosphate -> 1 ADP + 1 Nicotinate D-ribonucleotide + 1 Phosphate + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+rxn00012:2 cpd00076_c <=> 1 cpd00027_c + 1 cpd02298_c (2 Sucrose_c0 <=> 1 D_Glucose_c0 + 1 1F_beta_D_Fructosylsucrose_c0)
+rxn01265:1 cpd00012_c + 1 cpd00873_c <=> 1 cpd00103_c + 1 cpd00218_c (1 PPi_c0 + 1 Nicotinate_ribonucleotide_c0 <=> 1 PRPP_c0 + 1 Niacin_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00027_c (D_Glucose_c0)
+cpd00076_c (Sucrose_c0)
+cpd00103_c (PRPP_c0)
+cpd00218_c (Niacin_c0)
+cpd00873_c (Nicotinate_ribonucleotide_c0)
+cpd02298_c (1F_beta_D_Fructosylsucrose_c0)
+
+

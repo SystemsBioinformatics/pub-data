@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R04475:1 C00026_c + 1 C04421_c <=> 1 C00025_c + 1 C04462_c (1 2-Oxoglutarate + 1 N-Succinyl-LL-2,6-diaminoheptanedioate <=> 1 L-Glutamate + 1 N-Succinyl-2-L-amino-6-oxoheptanedioate)
+R09778:1 C00025_c + 1 C19888_c <=> 1 C00026_c + 1 C19889_c (1 L-Glutamate + 1 LysW-gamma-L-alpha-aminoadipate 6-semialdehyde <=> 1 2-Oxoglutarate + 1 LysW-gamma-L-lysine)
+R10932:1 C00025_c + 1 C20950_c <=> 1 C00026_c + 1 C20951_c (1 L-Glutamate + 1 LysW-L-glutamate 5-semialdehyde <=> 1 2-Oxoglutarate + 1 LysW-L-ornithine)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C04421_c (N-Succinyl-LL-2,6-diaminoheptanedioate)
+C04462_c (N-Succinyl-2-L-amino-6-oxoheptanedioate)
+C19888_c (LysW-gamma-L-alpha-aminoadipate 6-semialdehyde)
+C19889_c (LysW-gamma-L-lysine)
+C20950_c (LysW-L-glutamate 5-semialdehyde)
+C20951_c (LysW-L-ornithine)
+
+

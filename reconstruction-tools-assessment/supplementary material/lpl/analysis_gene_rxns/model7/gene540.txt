@@ -1,0 +1,12 @@
+notRecovered:
+SUCD3BC:1 mqn7_c + 1 succ_c <=> 1 fum_c + 1 mql7_c (1 M_Menaquinone_7_ + 1 M_Succinate_ <=> 1 M_Fumarate_ + 1 M_Menaquinol_7_)
+
+
+AdditionalNotInModel:
+SUCD1:1 succ_c + 1 fad_c <=> 1 fadh2_c + 1 fum_c (1 Succinate + 1 Flavin adenine dinucleotide oxidized <=> 1 Flavin adenine dinucleotide reduced + 1 Fumarate)
+
+
+AdditionalMetabolites:
+fadh2_c (Flavin adenine dinucleotide reduced)
+
+

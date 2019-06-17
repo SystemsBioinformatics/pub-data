@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+ACOATA:1 accoa_c + 1 ACP_c <=> 1 acACP_c + 1 coa_c (1 Acetyl-CoA + 1 Acyl carrier protein <=> 1 Acetyl-ACP + 1 Coenzyme A)
+
+
+AdditionalMetabolites:
+acACP_c (Acetyl-ACP)
+
+
+AdditionalInModel:
+MCOATA:1 malcoa_c + 1 ACP_c <=> 1 malACP_c + 1 coa_c (1 Malonyl CoA C24H33N7O19P3S + 1 Acyl carrier protein <=> 1 Malonyl-[acyl-carrier protein] + 1 Coenzyme A)

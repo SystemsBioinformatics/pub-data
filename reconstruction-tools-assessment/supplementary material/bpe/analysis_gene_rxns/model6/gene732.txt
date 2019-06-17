@@ -1,0 +1,5 @@
+AdditionalNotInModel:
+DALAOX:1 ala__D_c + 1 h2o_c + 1 o2_c -> 1 h2o2_c + 1 nh4_c + 1 pyr_c (1 D-Alanine + 1 H2O H2O + 1 O2 O2 -> 1 Hydrogen peroxide + 1 Ammonium + 1 Pyruvate)
+GLYO1:1 gly_c + 1 h2o_c + 1 o2_c -> 1 glx_c + 1 h2o2_c + 1 nh4_c (1 Glycine + 1 H2O H2O + 1 O2 O2 -> 1 Glyoxylate + 1 Hydrogen peroxide + 1 Ammonium)
+
+

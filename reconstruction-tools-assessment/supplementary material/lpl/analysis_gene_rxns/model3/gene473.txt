@@ -1,0 +1,2 @@
+AdditionalInModel:
+TDPDRR:1 h_c + 1 nadph_c + 1 dtdp4d6dm_c -> 1 nadp_c + 1 dtdprmn_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 DTDP-4-dehydro-6-deoxy-L-mannose -> 1 Nicotinamide adenine dinucleotide phosphate + 1 DTDP-L-rhamnose)

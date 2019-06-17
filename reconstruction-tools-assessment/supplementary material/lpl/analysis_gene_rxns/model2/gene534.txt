@@ -1,0 +1,4 @@
+notRecovered:
+ADA:1 adn_c + 1 h2o_c + 1 h_c -> 1 ins_c + 1 nh4_c (1 M_Adenosine_ + 1 M_H2O_ + 1 M_H_ -> 1 M_Inosine_ + 1 M_Ammonium_)
+
+

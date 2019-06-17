@@ -1,0 +1,6 @@
+notRecovered:
+DURIK1:1 atp_c + 1 duri_c -> 1 adp_c + 1 dump_c + 1 h_c (1 M_ATP_ + 1 M_Deoxyuridine_ -> 1 M_ADP_ + 1 M_dUMP_ + 1 M_H_)
+TMDK2:1 gtp_c + 1 thymd_c -> 1 dtmp_c + 1 gdp_c + 1 h_c (1 M_GTP_ + 1 M_Thymidine_ -> 1 M_dTMP_ + 1 M_GDP_ + 1 M_H_)
+TMDK1:1 atp_c + 1 thymd_c -> 1 adp_c + 1 dtmp_c + 1 h_c (1 M_ATP_ + 1 M_Thymidine_ -> 1 M_ADP_ + 1 M_dTMP_ + 1 M_H_)
+
+

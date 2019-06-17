@@ -1,0 +1,19 @@
+notRecovered:
+HMR_6515:1 mercppyr_c + 1 so3_c -> 1 pyr_c + 1 tsul_c (1 Mercaptopyruvate + 1 Sulfite -> 1 Pyruvate + 1 Thiosulfate)
+CYANSTpp:1 cyan_p + 1 tsul_p <=> 1 h_p + 1 so3_p + 1 tcynt_p (1 Hydrogen cyanide + 1 Thiosulfate <=> 1 H+ + 1 Sulfite + 1 Thiocyanate)
+CYANST:1 cyan_c + 1 tsul_c <=> 1 h_c + 1 so3_c + 1 tcynt_c (1 Hydrogen cyanide + 1 Thiosulfate <=> 1 H+ + 1 Sulfite + 1 Thiocyanate)
+MCPST:1 cyan_c + 1 mercppyr_c -> 1 h_c + 1 pyr_c + 1 tcynt_c (1 Hydrogen cyanide + 1 Mercaptopyruvate -> 1 H+ + 1 Pyruvate + 1 Thiocyanate)
+
+
+AdditionalNotInModel:
+R03105:1 C00957_c + 1 C00342_c <=> 1 C00283_c + 1 C00343_c + 1 C00022_c (1 Mercaptopyruvate + 1 Thioredoxin <=> 1 Hydrogen sulfide + 1 Thioredoxin disulfide + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00283_c (Hydrogen sulfide)
+C00342_c (Thioredoxin)
+C00343_c (Thioredoxin disulfide)
+C00957_c (Mercaptopyruvate)
+
+

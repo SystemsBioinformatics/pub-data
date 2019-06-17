@@ -1,0 +1,18 @@
+notRecovered:
+DHNPA_1:1 dhnpt_c -> 1 2ahhmp_c + 1 gcald_c (1 M_2_Amino_4_hydroxy_6__D_erythro_1_2_3_trihydroxypropyl__7_8_dihydropteridine_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_Glycolaldehyde_)
+
+
+AdditionalNotInModel:
+rxn02504:1 cpd02961_c <=> 1 cpd00229_c + 1 cpd00954_c (1 Dihydroneopterin_c0 <=> 1 Glycolaldehyde_c0 + 1 6_hydroxymethyl_dihydropterin_c0)
+rxn00783:1 cpd00945_c <=> 1 cpd00020_c + 1 cpd00102_c (1 2_Dehydro_3_deoxy_D_galactonate_6_phosphate_c0 <=> 1 Pyruvate_c0 + 1 Glyceraldehyde3_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00102_c (Glyceraldehyde3_phosphate_c0)
+cpd00229_c (Glycolaldehyde_c0)
+cpd00945_c (2_Dehydro_3_deoxy_D_galactonate_6_phosphate_c0)
+cpd00954_c (6_hydroxymethyl_dihydropterin_c0)
+cpd02961_c (Dihydroneopterin_c0)
+
+

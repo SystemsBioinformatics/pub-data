@@ -1,0 +1,16 @@
+notRecovered:
+CRCT:1 ctp_c + 1 h_c + 1 rbt5p_c -> 1 cdprbtl_c + 1 ppi_c (1 M_CTP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_ -> 1 M_CDPribitol_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+2.7.7.40-RXN:1 CTP_c + 1 CPD-372_c + 1 PROTON_c <=> 1 CPD-1111_c + 1 PPI_c (1 CTP + 1 D-ribitol 5-phosphate + 1 H+ <=> 1 CDP-ribitol + 1 diphosphate)
+
+
+AdditionalMetabolites:
+CPD-1111_c (CDP-ribitol)
+CPD-372_c (D-ribitol 5-phosphate)
+CTP_c (CTP)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

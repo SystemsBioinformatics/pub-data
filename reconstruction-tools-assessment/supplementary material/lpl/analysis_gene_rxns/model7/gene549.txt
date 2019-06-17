@@ -1,0 +1,4 @@
+notRecovered:
+ASPK:1 asp__L_c + 1 atp_c <=> 1 4pasp_c + 1 adp_c (1 M_L_Aspartate_ + 1 M_ATP_ <=> 1 M_4_Phospho_L_aspartate_ + 1 M_ADP_)
+
+

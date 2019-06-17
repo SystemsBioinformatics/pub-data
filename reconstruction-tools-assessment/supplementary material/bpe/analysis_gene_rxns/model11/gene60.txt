@@ -1,0 +1,20 @@
+notRecovered:
+DAAD:1 ala__D_c + 1 fad_c + 1 h2o_c -> 1 fadh2_c + 1 nh4_c + 1 pyr_c (1 D-Alanine + 1 Flavin adenine dinucleotide oxidized + 1 H2O -> 1 Flavin adenine dinucleotide reduced + 1 Ammonium + 1 Pyruvate)
+DPHEDH:1 fad_c + 1 h2o_c + 1 phe_D_c -> 1 fadh2_c + 1 nh4_c + 1 phpyr_c (1 Flavin adenine dinucleotide oxidized + 1 H2O + 1 D-Phenylalanine -> 1 Flavin adenine dinucleotide reduced + 1 Ammonium + 1 Phenylpyruvate)
+
+
+AdditionalNotInModel:
+RXN-15849:1 CPD-220_c + 1 Acceptor_c -> 1 CPD-17095_c + 1 Donor-H2_c (1 D-arginine + 1 an oxidized electron acceptor -> 1 iminoarginine + 1 a reduced electron acceptor)
+RXN-7563:1 CPD-220_c + 1 WATER_c + 1 Acceptor_c -> 1 CPD-824_c + 1 AMMONIUM_c + 1 Donor-H2_c (1 D-arginine + 1 H2O + 1 an oxidized electron acceptor -> 1 5-guanidino-2-oxopentanoate + 1 ammonium + 1 a reduced electron acceptor)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+Acceptor_c (an oxidized electron acceptor)
+CPD-17095_c (iminoarginine)
+CPD-220_c (D-arginine)
+CPD-824_c (5-guanidino-2-oxopentanoate)
+Donor-H2_c (a reduced electron acceptor)
+WATER_c (H2O)
+
+

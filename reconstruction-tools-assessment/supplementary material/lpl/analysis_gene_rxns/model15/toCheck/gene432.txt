@@ -1,0 +1,17 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+rxn06060:2 cpd00042_c + 1 cpd00268_c <=> 1 cpd00067_c + 1 cpd00239_c + 1 cpd00081_c + 1 cpd00111_c (2 GSH_c0 + 1 H2S2O3_c0 <=> 1 H_plus__c0 + 1 H2S_c0 + 1 Sulfite_c0 + 1 Oxidized_glutathione_c0)
+
+
+AdditionalMetabolites:
+cpd00042_c (GSH_c0)
+cpd00067_c (H_plus__c0)
+cpd00081_c (Sulfite_c0)
+cpd00111_c (Oxidized_glutathione_c0)
+cpd00239_c (H2S_c0)
+cpd00268_c (H2S2O3_c0)
+
+

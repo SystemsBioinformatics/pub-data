@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn00012:2 cpd00076_c <=> 1 cpd00027_c + 1 cpd02298_c (2 Sucrose_c0 <=> 1 D_Glucose_c0 + 1 1F_beta_D_Fructosylsucrose_c0)
+
+
+AdditionalMetabolites:
+cpd00027_c (D_Glucose_c0)
+cpd00076_c (Sucrose_c0)
+cpd02298_c (1F_beta_D_Fructosylsucrose_c0)
+
+

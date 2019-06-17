@@ -1,0 +1,6 @@
+notRecovered:
+UMPK:1 atp_c + 1 ump_c -> 1 adp_c + 1 udp_c (1 M_ATP_ + 1 M_UMP_ -> 1 M_ADP_ + 1 M_UDP_)
+
+
+AdditionalInModel:
+UMPK:1 atp_c + 1 ump_c -> 1 adp_c + 1 udp_c (1 ATP C10H12N5O13P3 + 1 UMP C9H11N2O9P -> 1 ADP C10H12N5O10P2 + 1 UDP C9H11N2O12P2)

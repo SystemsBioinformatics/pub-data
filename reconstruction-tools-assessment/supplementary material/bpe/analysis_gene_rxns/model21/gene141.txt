@@ -1,0 +1,4 @@
+notRecovered:
+AMPTASEPG:1 h2o_c + 1 progly_c -> 1 gly_c + 1 pro__L_c (1 H2O + 1 L-Prolinylglycine -> 1 Glycine + 1 L-Proline)
+
+

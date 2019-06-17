@@ -1,0 +1,16 @@
+notRecovered:
+PGCD:1 3pg_c + 1 nad_c -> 1 3php_c + 1 h_c + 1 nadh_c (1 M_3_Phospho_D_glycerate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_3_Phosphohydroxypyruvate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+GLYCOLATE-REDUCTASE-RXN:1 GLYCOLLATE_c + 1 NAD_c <=> 1 GLYOX_c + 1 NADH_c + 1 PROTON_c (1 glycolate + 1 NAD+ <=> 1 glyoxylate + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+GLYCOLLATE_c (glycolate)
+GLYOX_c (glyoxylate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

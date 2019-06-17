@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+ARHGDx:1 nad_c + 1 r2hglut_c <=> 1 h_c + 1 akg_c + 1 nadh_c (1 Nicotinamide adenine dinucleotide + 1 (R)-2-Hydroxyglutarate <=> 1 H+ + 1 2-Oxoglutarate + 1 Nicotinamide adenine dinucleotide - reduced)
+AHGDx:1 nad_c + 1 S2hglut_c <=> 1 h_c + 1 akg_c + 1 nadh_c (1 Nicotinamide adenine dinucleotide + 1 (S)-2-Hydroxyglutarate <=> 1 H+ + 1 2-Oxoglutarate + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalMetabolites:
+S2hglut_c ((S)-2-Hydroxyglutarate)
+r2hglut_c ((R)-2-Hydroxyglutarate)
+
+

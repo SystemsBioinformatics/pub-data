@@ -1,0 +1,15 @@
+notRecovered:
+CELBpts:1 cellb_e + 1 pep_c -> 1 6pgg_c + 1 pyr_c (1 M_cellobiose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_6_Phospho_beta_D_glucosyl__1_4__D_glucose_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+CELLBpts_1:1 pep_c + 1 cellb_e -> 1 6pgg_c + 1 pyr_p (1 Phosphoenolpyruvate + 1 Cellobiose -> 1 6pgg c + 1 Pyruvate)
+SALCptspp:1 pep_c + 1 salcn_p -> 1 pyr_c + 1 salcn6p_c (1 Phosphoenolpyruvate + 1 Salicin -> 1 Pyruvate + 1 Salicin 6-phosphate)
+
+
+AdditionalMetabolites:
+pyr_p (Pyruvate)
+salcn6p_c (Salicin 6-phosphate)
+salcn_p (Salicin)
+
+

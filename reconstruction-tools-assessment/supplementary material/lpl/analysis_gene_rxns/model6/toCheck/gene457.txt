@@ -1,0 +1,14 @@
+notRecovered:
+MPTS_LPL:2 MCOSH_c + 1 cpmp_c + 1 h2o_c -> 2 MCOOH_c + 1 mpt_c + 3 h_c (2 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_Precursor_Z_in_molybdenum_cofactor_biosynthesis_ + 1 M_H2O_ -> 2 M_MPT_synthase_small_subunit_MoaD_ + 1 M_molybdopterin_ + 3 M_H_)
+
+
+AdditionalNotInModel:
+MPTS:1 cpmp_c + 1 cu2_c + 2 moadcosh_c -> 5 h_c + 2 moadcoo_c + 1 mpt_c (1 Cyclic pyranopterin monophosphate + 1 Copper + 2 MoaD Protein with thiocarboxylate -> 5 H+ + 2 MoaD Protein with carboxylate + 1 Molybdopterin)
+
+
+AdditionalMetabolites:
+cu2_c (Copper)
+moadcoo_c (MoaD Protein with carboxylate)
+moadcosh_c (MoaD Protein with thiocarboxylate)
+
+

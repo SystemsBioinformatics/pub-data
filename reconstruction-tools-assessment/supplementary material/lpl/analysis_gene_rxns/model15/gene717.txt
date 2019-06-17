@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+rxn01287:1 cpd00002_c + 1 cpd00224_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd02428_c (1 ATP_c0 + 1 L_Arabinose_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 beta_L_Arabinose_1_phosphate_c0)
+rxn01390:1 cpd00002_c + 1 cpd00261_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd03861_c (1 ATP_c0 + 1 L_Lyxulose_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 L_Xylulose_1_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00067_c (H_plus__c0)
+cpd00224_c (L_Arabinose_c0)
+cpd00261_c (L_Lyxulose_c0)
+cpd02428_c (beta_L_Arabinose_1_phosphate_c0)
+cpd03861_c (L_Xylulose_1_phosphate_c0)
+
+

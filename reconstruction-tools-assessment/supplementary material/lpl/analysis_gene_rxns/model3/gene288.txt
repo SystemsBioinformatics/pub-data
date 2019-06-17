@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+LYSabc:1 atp_c + 1 h2o_c + 1 lys__L_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 lys__L_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 Phosphate + 1 H+ + 1 L-Lysine)
+LYSt2pp:1 h_p + 1 lys__L_p -> 1 h_c + 1 lys__L_c (1 H+ + 1 L-Lysine -> 1 H+ + 1 L-Lysine)
+
+
+AdditionalMetabolites:
+h_p (H+)
+lys__L_p (L-Lysine)
+
+

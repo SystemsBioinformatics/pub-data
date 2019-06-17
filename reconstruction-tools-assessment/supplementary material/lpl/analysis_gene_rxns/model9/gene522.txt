@@ -1,0 +1,6 @@
+notRecovered:
+YUMPS:1 r5p_c + 1 ura_c <=> 1 h2o_c + 1 psd5p_c (1 M_alpha_D_Ribose_5_phosphate_ + 1 M_Uracil_ <=> 1 M_H2O_ + 1 M_Pseudouridine_5__phosphate_)
+
+
+AdditionalInModel:
+YUMPS:1 ura_c + 1 r5p_c <=> 1 psd5p_c + 1 h2o_c (1 Uracil + 1 Alpha-D-Ribose 5-phosphate <=> 1 Pseudouridine 5  phosphate C9H11N2O9P + 1 H2O H2O)

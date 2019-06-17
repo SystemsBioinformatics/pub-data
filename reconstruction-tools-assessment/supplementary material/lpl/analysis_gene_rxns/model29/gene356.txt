@@ -1,0 +1,4 @@
+notRecovered:
+DHORTS:1 dhor__S_c + 1 h2o_c <=> 1 cbasp_c + 1 h_c (1 M__S__Dihydroorotate_ + 1 M_H2O_ <=> 1 M_N_Carbamoyl_L_aspartate_ + 1 M_H_)
+
+

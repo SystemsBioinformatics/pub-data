@@ -1,0 +1,25 @@
+AdditionalNotInModel:
+rxn00908:1 cpd00033_c + 1 cpd00003_c + 1 cpd00087_c <=> 1 cpd00004_c + 1 cpd00011_c + 1 cpd00013_c + 1 cpd00125_c (1 Glycine_c0 + 1 NAD_c0 + 1 Tetrahydrofolate_c0 <=> 1 NADH_c0 + 1 CO2_c0 + 1 NH3_c0 + 1 5_10_Methylenetetrahydrofolate_c0)
+rxn03005:2 cpd00067_c + 1 cpd00087_c + 1 cpd02678_c <=> 1 cpd00001_c + 1 cpd00347_c + 1 cpd02394_c (2 H_plus__c0 + 1 Tetrahydrofolate_c0 + 1 N_Formyl_GAR_c0 <=> 1 H2O_c0 + 1 5_10_Methenyltetrahydrofolate_c0 + 1 GAR_c0)
+rxn01652:1 cpd00001_c + 1 cpd00347_c <=> 1 cpd00067_c + 1 cpd02197_c (1 H2O_c0 + 1 5_10_Methenyltetrahydrofolate_c0 <=> 1 H_plus__c0 + 1 5_Formyltetrahydrofolate_c0)
+rxn06600:1 cpd00087_c + 1 cpd11830_c -> 1 cpd00013_c + 1 cpd00125_c + 1 cpd12225_c (1 Tetrahydrofolate_c0 + 1 S_Aminomethyldihydrolipoylprotein_c0 -> 1 NH3_c0 + 1 5_10_Methylenetetrahydrofolate_c0 + 1 Dihydrolipolprotein_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00011_c (CO2_c0)
+cpd00013_c (NH3_c0)
+cpd00033_c (Glycine_c0)
+cpd00067_c (H_plus__c0)
+cpd00087_c (Tetrahydrofolate_c0)
+cpd00125_c (5_10_Methylenetetrahydrofolate_c0)
+cpd00347_c (5_10_Methenyltetrahydrofolate_c0)
+cpd02197_c (5_Formyltetrahydrofolate_c0)
+cpd02394_c (GAR_c0)
+cpd02678_c (N_Formyl_GAR_c0)
+cpd11830_c (S_Aminomethyldihydrolipoylprotein_c0)
+cpd12225_c (Dihydrolipolprotein_c0)
+
+

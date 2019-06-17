@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+G6PBDH:1 nadp_c + 1 g6p_B_c -> 1 nadph_c + 1 6pgl_c + 1 h_c (1 Nicotinamide adenine dinucleotide phosphate + 1 Beta D glucose 6 phosphate C6H11O9P -> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 6-phospho-D-glucono-1,5-lactone + 1 H+)
+
+

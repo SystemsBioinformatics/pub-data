@@ -1,0 +1,19 @@
+notRecovered:
+ENTERES:1 enter_c + 3 h2o_c -> 3 23dhbzs_c + 3 h_c (1 Enterochelin + 3 H2O -> 3 2,3-dihydroxybenzoylserine + 3 H+)
+ENTERES2:1 feenter_c + 3 h2o_c -> 3 23dhbzs_c + 1 fe3_c + 3 h_c (1 Fe-enterobactin + 3 H2O -> 3 2,3-dihydroxybenzoylserine + 1 Fe3+ + 3 H+)
+
+
+AdditionalNotInModel:
+ENTERHpp:1 enter_p + 1 h2o_c -> 1 23dhbzs3_p (1 Enterochelin + 1 H2O H2O -> 1 2-3-dihydroxybenzoylserine trimer)
+SALCHS4FEHpp:1 h2o_p + 1 salchs4fe_p -> 1 salchs2fe_p (1 H2O H2O + 1 Salmochelin-S4-Fe-III -> 1 Salmochelin-S2-Fe-III)
+SALCHS4Hpp:1 h2o_p + 1 salchs4_p -> 1 salchs2_p (1 H2O H2O + 1 Salmochelin-S4 -> 1 Salmochelin-S2)
+
+
+AdditionalMetabolites:
+23dhbzs3_p (2-3-dihydroxybenzoylserine trimer)
+salchs2_p (Salmochelin-S2)
+salchs2fe_p (Salmochelin-S2-Fe-III)
+salchs4_p (Salmochelin-S4)
+salchs4fe_p (Salmochelin-S4-Fe-III)
+
+

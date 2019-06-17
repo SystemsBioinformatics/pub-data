@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R04573:1 C00993_c + 1 C00002_c + 1 C05892_c <=> 1 C00008_c + 1 C00009_c + 1 C04702_c (1 D-Alanyl-D-alanine + 1 ATP + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine <=> 1 ADP + 1 Orthophosphate + 1 UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala))
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00993_c (D-Alanyl-D-alanine)
+C04702_c (UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala))
+C05892_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine)
+
+

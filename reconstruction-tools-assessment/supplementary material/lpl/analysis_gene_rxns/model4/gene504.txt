@@ -1,0 +1,4 @@
+notRecovered:
+TDPGDH:1 dtdpglu_c -> 1 dtdp4d6dg_c + 1 h2o_c (1 M_dTDPglucose_ -> 1 M_dTDP_4_dehydro_6_deoxy_D_glucose_ + 1 M_H2O_)
+
+

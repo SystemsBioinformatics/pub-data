@@ -1,0 +1,40 @@
+notRecovered:
+GTHRDHpp:1 gthrd_p + 1 h2o_p -> 1 cgly_p + 1 glu__L_p (1 Reduced glutathione + 1 H2O -> 1 Cys-Gly + 1 L-Glutamate)
+
+
+AdditionalNotInModel:
+R03867:1 C00045_c + 1 C02166_c <=> 1 C05951_c + 1 C03363_c (1 Amino acid + 1 Leukotriene C4 <=> 1 Leukotriene D4 + 1 5-L-Glutamyl amino acid)
+R03970:1 C02512_c + 1 C00025_c <=> 1 C00001_c + 1 C05711_c (1 3-Cyano-L-alanine + 1 L-Glutamate <=> 1 H2O + 1 gamma-Glutamyl-beta-cyanoalanine)
+R03971:1 C05670_c + 1 C00025_c <=> 1 C00001_c + 1 C06114_c (1 3-Aminopropiononitrile + 1 L-Glutamate <=> 1 H2O + 1 gamma-Glutamyl-beta-aminopropiononitrile)
+R03916:1 C00001_c + 1 C02320_c <=> 1 C05729_c + 1 C00025_c (1 H2O + 1 R-S-Glutathione <=> 1 R-S-Cysteinylglycine + 1 L-Glutamate)
+R01262:1 C00151_c + 1 C00051_c <=> 1 C03740_c + 1 C01419_c (1 L-Amino acid + 1 Glutathione <=> 1 (5-L-Glutamyl)-L-amino acid + 1 Cys-Gly)
+R04935:1 C03193_c + 1 C05689_c <=> 1 C05695_c + 1 C00012_c (1 (5-L-Glutamyl)-peptide + 1 Se-Methyl-L-selenocysteine <=> 1 gamma-Glutamyl-Se-methylselenocysteine + 1 Peptide)
+R01687:1 C03193_c + 1 C00245_c <=> 1 C00012_c + 1 C05844_c (1 (5-L-Glutamyl)-peptide + 1 Taurine <=> 1 Peptide + 1 5-L-Glutamyl-taurine)
+R04159:1 C03193_c + 1 C00045_c <=> 1 C03363_c + 1 C00012_c (1 (5-L-Glutamyl)-peptide + 1 Amino acid <=> 1 5-L-Glutamyl amino acid + 1 Peptide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00012_c (Peptide)
+C00025_c (L-Glutamate)
+C00045_c (Amino acid)
+C00051_c (Glutathione)
+C00151_c (L-Amino acid)
+C00245_c (Taurine)
+C01419_c (Cys-Gly)
+C02166_c (Leukotriene C4)
+C02320_c (R-S-Glutathione)
+C02512_c (3-Cyano-L-alanine)
+C03193_c ((5-L-Glutamyl)-peptide)
+C03363_c (5-L-Glutamyl amino acid)
+C03740_c ((5-L-Glutamyl)-L-amino acid)
+C05670_c (3-Aminopropiononitrile)
+C05689_c (Se-Methyl-L-selenocysteine)
+C05695_c (gamma-Glutamyl-Se-methylselenocysteine)
+C05711_c (gamma-Glutamyl-beta-cyanoalanine)
+C05729_c (R-S-Cysteinylglycine)
+C05844_c (5-L-Glutamyl-taurine)
+C05951_c (Leukotriene D4)
+C06114_c (gamma-Glutamyl-beta-aminopropiononitrile)
+
+

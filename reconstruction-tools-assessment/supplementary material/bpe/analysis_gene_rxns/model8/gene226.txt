@@ -1,0 +1,4 @@
+notRecovered:
+GLDBRAN2:1 bglycogen_c -> 1 glycogen_c (1 branching glycogen -> 1 glycogen)
+
+

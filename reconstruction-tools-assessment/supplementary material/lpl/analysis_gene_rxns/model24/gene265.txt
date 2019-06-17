@@ -1,0 +1,4 @@
+notRecovered:
+CGPT:1 cdpglyc_c + 1 unagama_c -> 1 cmp_c + 1 h_c + 1 unagamagp_c (1 M_CDPglycerol_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_ -> 1 M_CMP_ + 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_glycerolphosphate_)
+
+

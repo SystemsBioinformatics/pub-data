@@ -1,0 +1,22 @@
+notRecovered:
+PGSA120:1 cdpdddecg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp120_c (1 CDP-1,2-didodecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0))
+PGSA140:1 cdpdtdecg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp140_c (1 CDP-1,2-ditetradecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0))
+PGSA141:1 cdpdtdec7eg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp141_c (1 CDP-1,2-ditetradec-7-enoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1))
+PGSA160:1 cdpdhdecg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp160_c (1 CDP-1,2-dihexadecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0))
+PGSA161:1 cdpdhdec9eg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp161_c (1 CDP-1,2-dihexadec-9-enoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1))
+PGSA180:1 cdpdodecg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp180_c (1 CDP-1,2-dioctadecanoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0))
+PGSA181:1 cdpdodec11eg_c + 1 glyc3p_c -> 1 cmp_c + 1 h_c + 1 pgp181_c (1 CDP-1,2-dioctadec-11-enoylglycerol + 1 Glycerol 3-phosphate -> 1 CMP + 1 H+ + 1 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1))
+
+
+AdditionalNotInModel:
+PHOSPHAGLYPSYN-RXN:1 GLYCEROL-3P_c + 1 CDPDIACYLGLYCEROL_c -> 1 L-1-PHOSPHATIDYL-GLYCEROL-P_c + 1 CMP_c + 1 PROTON_c (1 sn-glycerol 3-phosphate + 1 a CDP-diacylglycerol -> 1 1-(3-sn-phosphatidyl)-sn-glycerol 3-phosphate + 1 CMP + 1 H+)
+
+
+AdditionalMetabolites:
+CDPDIACYLGLYCEROL_c (a CDP-diacylglycerol)
+CMP_c (CMP)
+GLYCEROL-3P_c (sn-glycerol 3-phosphate)
+L-1-PHOSPHATIDYL-GLYCEROL-P_c (1-(3-sn-phosphatidyl)-sn-glycerol 3-phosphate)
+PROTON_c (H+)
+
+

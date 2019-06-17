@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+HSDxi:1 nadh_c + 1 aspsa_c + 1 h_c <=> 1 nad_c + 1 hom__L_c (1 Nicotinamide adenine dinucleotide - reduced + 1 L-Aspartate 4-semialdehyde + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 L-Homoserine)
+
+

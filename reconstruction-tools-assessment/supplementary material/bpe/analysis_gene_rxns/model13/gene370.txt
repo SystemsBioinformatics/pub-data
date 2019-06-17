@@ -1,0 +1,16 @@
+notRecovered:
+PROt4pp:1 na1_p + 1 pro__L_p <=> 1 na1_c + 1 pro__L_c (1 Sodium + 1 L-Proline <=> 1 Sodium + 1 L-Proline)
+CHLt2pp:1 chol_p + 1 h_p -> 1 chol_c + 1 h_c (1 Choline + 1 H+ -> 1 Choline + 1 H+)
+
+
+AdditionalNotInModel:
+rxn09692:1 cpd00067_e + 1 cpd00098_e <=> 1 cpd00067_c + 1 cpd00098_c (1 H_plus__e0 + 1 Choline_e0 <=> 1 H_plus__c0 + 1 Choline_c0)
+
+
+AdditionalMetabolites:
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+cpd00098_c (Choline_c0)
+cpd00098_e (Choline_e0)
+
+

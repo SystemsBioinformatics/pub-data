@@ -1,0 +1,18 @@
+notRecovered:
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 Coenzyme A + 1 Nicotinamide adenine dinucleotide + 1 Pyruvate -> 1 Acetyl-CoA + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD3:1 3mop_c + 1 coa_c + 1 nad_c -> 1 2mbcoa_c + 1 co2_c + 1 nadh_c (1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 (S)-2-methylbutanoyl-coenzyme A + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 3-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD2:1 3mob_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ibcoa_c + 1 nadh_c (1 3-Methyl-2-oxobutanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+rxn01871:1 cpd00022_c + 1 cpd00449_c <=> 1 cpd00010_c + 1 cpd00836_c (1 Acetyl_CoA_c0 + 1 Dihydrolipoamide_c0 <=> 1 CoA_c0 + 1 S_Acetyldihydrolipoamide_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00449_c (Dihydrolipoamide_c0)
+cpd00836_c (S_Acetyldihydrolipoamide_c0)
+
+

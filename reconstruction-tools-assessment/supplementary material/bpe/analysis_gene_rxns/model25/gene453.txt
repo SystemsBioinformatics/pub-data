@@ -1,0 +1,16 @@
+notRecovered:
+FMETTRS:1 10fthf_c + 1 mettrna_c -> 1 fmettrna_c + 1 h_c + 1 thf_c (1 10-Formyltetrahydrofolate + 1 L-Methionyl-tRNA (Met) -> 1 N-Formylmethionyl-tRNA + 1 H+ + 1 5,6,7,8-Tetrahydrofolate)
+
+
+AdditionalNotInModel:
+METHIONYL-TRNA-FORMYLTRANSFERASE-RXN:1 FORMYL-THF-GLU-N_c + 1 L-methionyl-tRNAfmet_c -> 1 N-formyl-L-methionyl-tRNAfmet_c + 1 PROTON_c + 1 THF-GLU-N_c (1 FORMYL-THF-GLU-N + 1 L-methionyl-tRNAfmet -> 1 N-formyl-L-methionyl-tRNAfmet + 1 H+ + 1 THF-GLU-N)
+
+
+AdditionalMetabolites:
+FORMYL-THF-GLU-N_c (FORMYL-THF-GLU-N)
+L-methionyl-tRNAfmet_c (L-methionyl-tRNAfmet)
+N-formyl-L-methionyl-tRNAfmet_c (N-formyl-L-methionyl-tRNAfmet)
+PROTON_c (H+)
+THF-GLU-N_c (THF-GLU-N)
+
+

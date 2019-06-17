@@ -1,0 +1,4 @@
+notRecovered:
+GLUSy:1 akg_c + 1 gln__L_c + 1 h_c + 1 nadph_c -> 2 glu__L_c + 1 nadp_c (1 2-Oxoglutarate + 1 L-Glutamine + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 2 L-Glutamate + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

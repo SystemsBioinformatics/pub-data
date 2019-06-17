@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+R07343:1 C15585_c + 1 C00001_c <=> 1 C00137_c + 1 C00009_c (1 myo-Inositol phosphate + 1 H2O <=> 1 myo-Inositol + 1 Orthophosphate)
+R01186:1 C03546_c + 1 C00001_c <=> 1 C00137_c + 1 C00009_c (1 myo-Inositol 4-phosphate + 1 H2O <=> 1 myo-Inositol + 1 Orthophosphate)
+R01187:1 C00006_c + 1 C04840_c + 1 C04006_c + 1 C00001_c <=> 1 C00137_c + 1 C00011_c + 1 C00005_c + 1 C04453_c + 1 C00009_c + 1 C00080_c (1 NADP+ + 1 3beta-Hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carboxylate + 1 1D-myo-Inositol 3-phosphate + 1 H2O <=> 1 myo-Inositol + 1 CO2 + 1 NADPH + 1 4alpha-Methyl-5alpha-cholest-7-en-3-one + 1 Orthophosphate + 1 H+)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00009_c (Orthophosphate)
+C00011_c (CO2)
+C00080_c (H+)
+C00137_c (myo-Inositol)
+C03546_c (myo-Inositol 4-phosphate)
+C04006_c (1D-myo-Inositol 3-phosphate)
+C04453_c (4alpha-Methyl-5alpha-cholest-7-en-3-one)
+C04840_c (3beta-Hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carboxylate)
+C15585_c (myo-Inositol phosphate)
+
+

@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+DHORDi:1 dhor__S_c + 1 o2_c <=> 1 h2o2_c + 1 orot_c (1 (S)-Dihydroorotate + 1 O2 O2 <=> 1 Hydrogen peroxide + 1 Orotate C5H3N2O4)
+
+

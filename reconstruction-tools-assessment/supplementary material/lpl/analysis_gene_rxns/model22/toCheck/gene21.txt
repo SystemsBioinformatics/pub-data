@@ -1,0 +1,15 @@
+notRecovered:
+GLYCK:1 atp_c + 1 glyc__R_c -> 1 3pg_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M__R__Glycerate_ -> 1 M_3_Phospho_D_glycerate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+R08572:1 C00002_c + 1 C00258_c <=> 1 C00008_c + 1 C00631_c (1 ATP + 1 D-Glycerate <=> 1 ADP + 1 2-Phospho-D-glycerate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00258_c (D-Glycerate)
+C00631_c (2-Phospho-D-glycerate)
+
+

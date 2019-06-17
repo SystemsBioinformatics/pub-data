@@ -1,0 +1,21 @@
+notRecovered:
+SBTD_L:1 nad_c + 1 sbt__L_c -> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_L_Sorbitol_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD:1 idt_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_L_Iditol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+
+
+AdditionalNotInModel:
+IDOND2:1 nadph_c + 1 5dglcn_c + 1 h_c -> 1 nadp_c + 1 idon__L_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 5-Dehydro-D-gluconate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 L-Idonate)
+BZALDH:1 nad_c + 1 bzalc_c <=> 1 nadh_c + 1 h_c + 1 bzal_c (1 Nicotinamide adenine dinucleotide + 1 Benzyl alcohol <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 Benzaldehyde)
+THRD:1 nad_c + 1 thr__L_c -> 1 nadh_c + 1 2aobut_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 L-Threonine -> 1 Nicotinamide adenine dinucleotide - reduced + 1 L-2-Amino-3-oxobutanoate + 1 H+)
+GLTPD:1 nad_c + 1 galt1p_c <=> 1 nadh_c + 1 tag6p__D_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Galactitol 1-phosphate <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 D-Tagatose 6-phosphate + 1 H+)
+IDOND:1 nadh_c + 1 5dglcn_c + 1 h_c <=> 1 nad_c + 1 idon__L_c (1 Nicotinamide adenine dinucleotide - reduced + 1 5-Dehydro-D-gluconate + 1 H+ <=> 1 Nicotinamide adenine dinucleotide + 1 L-Idonate)
+
+
+AdditionalMetabolites:
+2aobut_c (L-2-Amino-3-oxobutanoate)
+5dglcn_c (5-Dehydro-D-gluconate)
+bzalc_c (Benzyl alcohol)
+idon__L_c (L-Idonate)
+tag6p__D_c (D-Tagatose 6-phosphate)
+
+

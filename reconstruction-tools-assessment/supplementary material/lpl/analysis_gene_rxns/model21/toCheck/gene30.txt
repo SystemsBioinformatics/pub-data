@@ -1,0 +1,30 @@
+notRecovered:
+DNTPPA_1:1 ahdt_c + 1 h2o_c -> 1 dhpmp_c + 1 ppi_c (1 M_2_Amino_4_hydroxy_6__erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_ + 1 M_H2O_ -> 1 M_Dihydroneopterin_monophosphate_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+R00426:1 C00001_c + 1 C00044_c -> 1 C00013_c + 1 C00144_c (1 H2O + 1 GTP -> 1 Diphosphate + 1 GMP)
+R00720:1 C00001_c + 1 C00081_c -> 1 C00013_c + 1 C00130_c (1 H2O + 1 ITP -> 1 Diphosphate + 1 IMP)
+R01855:1 C00001_c + 1 C00286_c -> 1 C00013_c + 1 C00362_c (1 H2O + 1 dGTP -> 1 Diphosphate + 1 dGMP)
+R02100:1 C00001_c + 1 C00460_c <=> 1 C00013_c + 1 C00365_c (1 H2O + 1 dUTP <=> 1 Diphosphate + 1 dUMP)
+R02720:1 C00001_c + 1 C00700_c -> 1 C00013_c + 1 C00655_c (1 H2O + 1 XTP -> 1 Diphosphate + 1 Xanthosine 5'-phosphate)
+R03531:1 C00001_c + 1 C01345_c -> 1 C00013_c + 1 C06196_c (1 H2O + 1 dITP -> 1 Diphosphate + 1 2'-Deoxyinosine 5'-phosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00013_c (Diphosphate)
+C00044_c (GTP)
+C00081_c (ITP)
+C00130_c (IMP)
+C00144_c (GMP)
+C00286_c (dGTP)
+C00362_c (dGMP)
+C00365_c (dUMP)
+C00460_c (dUTP)
+C00655_c (Xanthosine 5'-phosphate)
+C00700_c (XTP)
+C01345_c (dITP)
+C06196_c (2'-Deoxyinosine 5'-phosphate)
+
+

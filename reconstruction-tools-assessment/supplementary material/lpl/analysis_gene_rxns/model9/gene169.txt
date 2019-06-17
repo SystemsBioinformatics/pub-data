@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+GLCP2_1:1 14glucan_c + 1 pi_c -> 1 g1p_c + 1 amylose_c (1 1,4-alpha-D-glucan + 1 Phosphate -> 1 D-Glucose 1-phosphate + 1 Amylose)
+GLCP2:1 bglycogen_c + 1 pi_c -> 1 g1p_c (1 Branching glycogen + 1 Phosphate -> 1 D-Glucose 1-phosphate)
+MLTP1:1 maltpt_c + 1 pi_c <=> 1 maltttr_c + 1 g1p_c (1 Maltopentaose + 1 Phosphate <=> 1 Maltotetraose + 1 D-Glucose 1-phosphate)
+MLTP2:1 malthx_c + 1 pi_c <=> 1 maltpt_c + 1 g1p_c (1 Maltohexaose + 1 Phosphate <=> 1 Maltopentaose + 1 D-Glucose 1-phosphate)
+MLTP3:1 pi_c + 1 malthp_c <=> 1 malthx_c + 1 g1p_c (1 Phosphate + 1 Maltoheptaose <=> 1 Maltohexaose + 1 D-Glucose 1-phosphate)
+
+
+AdditionalMetabolites:
+14glucan_c (1,4-alpha-D-glucan)
+amylose_c (Amylose)
+bglycogen_c (Branching glycogen)
+malthp_c (Maltoheptaose)
+malthx_c (Maltohexaose)
+maltpt_c (Maltopentaose)
+maltttr_c (Maltotetraose)
+
+

@@ -1,0 +1,21 @@
+notRecovered:
+G3POc:1 glyc3p_c + 1 o2_c -> 1 dhap_c + 1 h2o2_c (1 M_sn_Glycerol_3_phosphate_ + 1 M_O2_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Hydrogen_peroxide_)
+
+
+AdditionalNotInModel:
+R00849:1 C15602_c + 1 C00093_c <=> 1 C15603_c + 1 C00111_c (1 Quinone + 1 sn-Glycerol 3-phosphate <=> 1 Hydroquinone + 1 Glycerone phosphate)
+R00848:1 C00093_c + 1 C00016_c <=> 1 C00111_c + 1 C01352_c (1 sn-Glycerol 3-phosphate + 1 FAD <=> 1 Glycerone phosphate + 1 FADH2)
+R08657:1 C00093_c + 1 C00399_c <=> 1 C00111_c + 1 C00390_c (1 sn-Glycerol 3-phosphate + 1 Ubiquinone <=> 1 Glycerone phosphate + 1 Ubiquinol)
+
+
+AdditionalMetabolites:
+C00016_c (FAD)
+C00093_c (sn-Glycerol 3-phosphate)
+C00111_c (Glycerone phosphate)
+C00390_c (Ubiquinol)
+C00399_c (Ubiquinone)
+C01352_c (FADH2)
+C15602_c (Quinone)
+C15603_c (Hydroquinone)
+
+

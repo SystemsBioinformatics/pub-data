@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R02110:1 C00718_c <=> 1 C00369_c (1 Amylose <=> 1 Starch)
+
+
+AdditionalMetabolites:
+C00369_c (Starch)
+C00718_c (Amylose)
+
+

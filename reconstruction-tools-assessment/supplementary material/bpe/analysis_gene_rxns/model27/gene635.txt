@@ -1,0 +1,4 @@
+notRecovered:
+HEMEOS:1 frdp_c + 1 h2o_c + 1 pheme_c -> 1 hemeO_c + 1 ppi_c (1 Farnesyl diphosphate + 1 H2O + 1 Protoheme -> 1 Heme O + 1 Diphosphate)
+
+

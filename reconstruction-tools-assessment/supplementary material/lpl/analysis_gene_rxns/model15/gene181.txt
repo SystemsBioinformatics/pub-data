@@ -1,0 +1,15 @@
+notRecovered:
+GLCS1:1 adpglc_c -> 1 adp_c + 1 glycogen_c + 1 h_c (1 M_ADPglucose_ -> 1 M_ADP_ + 1 M_glycogen_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn08615:1 cpd00387_c + 1 cpd15302_c <=> 1 cpd00008_c + 1 cpd00155_c (1 ADPglucose_c0 + 1 glycogenn_1_c0 <=> 1 ADP_c0 + 1 Glycogen_c0)
+
+
+AdditionalMetabolites:
+cpd00008_c (ADP_c0)
+cpd00155_c (Glycogen_c0)
+cpd00387_c (ADPglucose_c0)
+cpd15302_c (glycogenn_1_c0)
+
+

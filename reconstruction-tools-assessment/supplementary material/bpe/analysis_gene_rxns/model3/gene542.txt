@@ -1,0 +1,6 @@
+notRecovered:
+PTRCTA:1 akg_c + 1 ptrc_c -> 1 4abutn_c + 1 glu__L_c (1 2-Oxoglutarate + 1 Putrescine -> 1 4-Aminobutanal + 1 L-Glutamate)
+
+
+AdditionalInModel:
+ABTA:1 akg_c + 1 4abut_c -> 1 glu__L_c + 1 sucsal_c (1 2-Oxoglutarate + 1 4-Aminobutanoate -> 1 L-Glutamate + 1 Succinic semialdehyde)

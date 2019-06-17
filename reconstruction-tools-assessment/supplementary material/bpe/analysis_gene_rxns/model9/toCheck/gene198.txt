@@ -1,0 +1,17 @@
+notRecovered:
+MECDPDH2:1 2mecdp_c + 1 nadh_c -> 1 h2mb4p_c + 1 h2o_c + 1 nad_c (1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate + 1 Nicotinamide adenine dinucleotide - reduced -> 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H2O + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+RXN0-882:1 HYDROXY-METHYL-BUTENYL-DIP_c + 2 Oxidized-ferredoxins_c + 1 WATER_c <=> 1 2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE_c + 2 Reduced-ferredoxins_c + 1 PROTON_c (1 (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 an oxidized ferredoxin [iron-sulfur] cluster + 1 H2O <=> 1 2-C-methyl-D-erythritol-2,4-cyclodiphosphate + 2 a reduced ferredoxin [iron-sulfur] cluster + 1 H+)
+
+
+AdditionalMetabolites:
+2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE_c (2-C-methyl-D-erythritol-2,4-cyclodiphosphate)
+HYDROXY-METHYL-BUTENYL-DIP_c ((E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate)
+Oxidized-ferredoxins_c (an oxidized ferredoxin [iron-sulfur] cluster)
+PROTON_c (H+)
+Reduced-ferredoxins_c (a reduced ferredoxin [iron-sulfur] cluster)
+WATER_c (H2O)
+
+

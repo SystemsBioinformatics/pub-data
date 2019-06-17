@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R09543:1 C00019_c + 1 C01209_c <=> 1 C00021_c + 1 C19673_c (1 S-Adenosyl-L-methionine + 1 Malonyl-[acyl-carrier protein] <=> 1 S-Adenosyl-L-homocysteine + 1 Malonyl-[acp] methyl ester)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C01209_c (Malonyl-[acyl-carrier protein])
+C19673_c (Malonyl-[acp] methyl ester)
+
+

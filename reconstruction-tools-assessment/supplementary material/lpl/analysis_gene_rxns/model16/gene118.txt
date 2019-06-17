@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn07454:1 cpd14796_c <=> 1 cpd00001_c + 1 cpd14795_c (1 Z_Phenylacetaldehyde_oxime_c0 <=> 1 H2O_c0 + 1 Benzyl_cyanide_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd14795_c (Benzyl_cyanide_c0)
+cpd14796_c (Z_Phenylacetaldehyde_oxime_c0)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+CYSTGL:1 cyst__L_c + 1 h2o_c -> 1 2obut_c + 1 cys__L_c + 1 nh4_c (1 M_L_Cystathionine_ + 1 M_H2O_ -> 1 M_2_Oxobutanoate_ + 1 M_L_Cysteine_ + 1 M_Ammonium_)
+
+

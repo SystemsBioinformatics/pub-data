@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+GLUt4:1 na1_e + 1 glu__L_e -> 1 glu__L_c + 1 na1_c (1 Sodium + 1 L-Glutamate -> 1 L-Glutamate + 1 Sodium)
+
+

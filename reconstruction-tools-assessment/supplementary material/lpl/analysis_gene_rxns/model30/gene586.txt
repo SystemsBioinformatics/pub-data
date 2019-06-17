@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R01186:1 C03546_c + 1 C00001_c <=> 1 C00137_c + 1 C00009_c (1 myo-Inositol 4-phosphate + 1 H2O <=> 1 myo-Inositol + 1 Orthophosphate)
+R01187:1 C04006_c + 1 C00001_c <=> 1 C00137_c + 1 C00009_c (1 1D-myo-Inositol 3-phosphate + 1 H2O <=> 1 myo-Inositol + 1 Orthophosphate)
+R07343:1 C15585_c + 1 C00001_c <=> 1 C00137_c + 1 C00009_c (1 myo-Inositol phosphate + 1 H2O <=> 1 myo-Inositol + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00137_c (myo-Inositol)
+C03546_c (myo-Inositol 4-phosphate)
+C04006_c (1D-myo-Inositol 3-phosphate)
+C15585_c (myo-Inositol phosphate)
+
+

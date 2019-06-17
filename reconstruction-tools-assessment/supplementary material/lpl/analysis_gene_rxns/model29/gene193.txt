@@ -1,0 +1,22 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 M_Acetyl_CoA_ + 1 M_ATP_ + 1 M_Bicarbonate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Malonyl_CoA_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R01074:1 C00120_c + 1 C00002_c <=> 1 C05921_c + 1 C00013_c (1 Biotin + 1 ATP <=> 1 Biotinyl-5''-AMP + 1 Diphosphate)
+R04562:1 C00120_c + 1 C04735_c + 1 C00002_c <=> 1 C00020_c + 1 C00013_c + 1 C04681_c (1 Biotin + 1 Apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] + 1 ATP <=> 1 AMP + 1 Diphosphate + 1 [Acetyl-CoA:carbon-dioxide ligase (ADP-forming)])
+R05145:1 C06249_c + 1 C05921_c <=> 1 C06250_c + 1 C00020_c (1 Apo-[carboxylase] + 1 Biotinyl-5''-AMP <=> 1 Holo-[carboxylase] + 1 AMP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00120_c (Biotin)
+C04681_c ([Acetyl-CoA:carbon-dioxide ligase (ADP-forming)])
+C04735_c (Apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)])
+C05921_c (Biotinyl-5''-AMP)
+C06249_c (Apo-[carboxylase])
+C06250_c (Holo-[carboxylase])
+
+

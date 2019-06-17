@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R05693:1 C00003_c + 1 C11499_c <=> 1 C00004_c + 1 C00080_c + 1 C05528_c (1 NAD+ + 1 (S)-3-Sulfolactate <=> 1 NADH + 1 H+ + 1 3-Sulfopyruvate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C05528_c (3-Sulfopyruvate)
+C11499_c ((S)-3-Sulfolactate)
+
+

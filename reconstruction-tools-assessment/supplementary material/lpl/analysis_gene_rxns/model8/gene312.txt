@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+PNP:1 pi_c + 1 rnam_c <=> 1 ncam_c + 1 r1p_c + 1 h_c (1 Phosphate + 1 N Ribosylnicotinamide C11H15N2O5 <=> 1 Nicotinamide + 1 Alpha-D-Ribose 1-phosphate + 1 H+)
+PUNP8:1 pi_c + 1 nebari_c + 1 h_c <=> 1 purine_c + 1 r1p_c (1 Phosphate + 1 Nebularine C10H12N4O4 + 1 H+ <=> 1 Purine C5H5N4 + 1 Alpha-D-Ribose 1-phosphate)
+
+
+AdditionalMetabolites:
+nebari_c (Nebularine C10H12N4O4)
+purine_c (Purine C5H5N4)
+rnam_c (N Ribosylnicotinamide C11H15N2O5)
+
+

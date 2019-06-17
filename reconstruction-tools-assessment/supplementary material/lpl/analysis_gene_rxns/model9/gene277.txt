@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+NADK3:1 dgtp_c + 1 nad_c -> 1 dgdp_c + 1 nadp_c + 1 h_c (1 DGTP C10H12N5O13P3 + 1 Nicotinamide adenine dinucleotide -> 1 DGDP C10H12N5O10P2 + 1 Nicotinamide adenine dinucleotide phosphate + 1 H+)
+NADK1:1 nad_c + 1 gtp_c -> 1 nadp_c + 1 h_c + 1 gdp_c (1 Nicotinamide adenine dinucleotide + 1 GTP C10H12N5O14P3 -> 1 Nicotinamide adenine dinucleotide phosphate + 1 H+ + 1 GDP C10H12N5O11P2)
+NADK5:1 dttp_c + 1 nad_c -> 1 nadp_c + 1 h_c + 1 dtdp_c (1 DTTP C10H13N2O14P3 + 1 Nicotinamide adenine dinucleotide -> 1 Nicotinamide adenine dinucleotide phosphate + 1 H+ + 1 DTDP C10H13N2O11P2)
+NADK4:1 nad_c + 1 dctp_c -> 1 nadp_c + 1 h_c + 1 dcdp_c (1 Nicotinamide adenine dinucleotide + 1 DCTP C9H12N3O13P3 -> 1 Nicotinamide adenine dinucleotide phosphate + 1 H+ + 1 DCDP C9H12N3O10P2)
+NADK2:1 nad_c + 1 datp_c -> 1 nadp_c + 1 h_c + 1 dadp_c (1 Nicotinamide adenine dinucleotide + 1 DATP C10H12N5O12P3 -> 1 Nicotinamide adenine dinucleotide phosphate + 1 H+ + 1 DADP C10H12N5O9P2)
+
+

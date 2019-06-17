@@ -1,0 +1,17 @@
+notRecovered:
+GLCpts:1 glc__D_e + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 M_D_Glucose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+SUCptspp:1 pep_c + 1 sucr_p -> 1 pyr_c + 1 suc6p_c (1 Phosphoenolpyruvate + 1 Sucrose C12H22O11 -> 1 Pyruvate + 1 Sucrose 6-phosphate)
+TREptspp:1 pep_c + 1 tre_p -> 1 pyr_c + 1 tre6p_c (1 Phosphoenolpyruvate + 1 Trehalose -> 1 Pyruvate + 1 Alpha,alpha'-Trehalose 6-phosphate)
+ACMUMptspp:1 pep_c + 1 acmum_p -> 1 pyr_c + 1 acmum6p_c (1 Phosphoenolpyruvate + 1 N-Acetylmuramate -> 1 Pyruvate + 1 N-acetylmuramate 6-phosphate)
+
+
+AdditionalMetabolites:
+acmum6p_c (N-acetylmuramate 6-phosphate)
+acmum_p (N-Acetylmuramate)
+sucr_p (Sucrose C12H22O11)
+tre_p (Trehalose)
+
+

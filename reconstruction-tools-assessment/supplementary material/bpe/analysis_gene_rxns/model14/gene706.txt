@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00927:1 cpd00001_c + 1 cpd00182_c <=> 1 cpd00128_c + 1 cpd00105_c (1 H2O_c0 + 1 Adenosine_c0 <=> 1 Adenine_c0 + 1 D_Ribose_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00105_c (D_Ribose_c0)
+cpd00128_c (Adenine_c0)
+cpd00182_c (Adenosine_c0)
+
+

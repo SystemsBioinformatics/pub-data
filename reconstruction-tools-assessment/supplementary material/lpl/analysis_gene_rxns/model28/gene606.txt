@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00137:1 C00002_c + 1 C00455_c <=> 1 C00003_c + 1 C00013_c (1 ATP + 1 Nicotinamide D-ribonucleotide <=> 1 NAD+ + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00003_c (NAD+)
+C00013_c (Diphosphate)
+C00455_c (Nicotinamide D-ribonucleotide)
+
+

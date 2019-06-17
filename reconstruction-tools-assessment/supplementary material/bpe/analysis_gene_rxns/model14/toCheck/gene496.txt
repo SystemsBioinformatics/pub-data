@@ -1,0 +1,28 @@
+notRecovered:
+CU1abcpp:1 atp_c + 1 cu_c + 1 h2o_c -> 1 adp_c + 1 cu_p + 1 h_c + 1 pi_c (1 ATP + 1 Cu+ + 1 H2O -> 1 ADP + 1 Cu+ + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn10344:1 cpd00002_c + 1 cpd00001_c + 1 cpd04097_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd04097_e (1 ATP_c0 + 1 H2O_c0 + 1 Pb_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Pb_e0)
+rxn05516:1 cpd00002_c + 1 cpd00001_c + 1 cpd01012_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd01012_e (1 ATP_c0 + 1 H2O_c0 + 1 Cd2_plus__c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Cd2_plus__e0)
+rxn10481:1 cpd00002_c + 1 cpd00001_c + 1 cpd00058_e -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00058_c (1 ATP_c0 + 1 H2O_c0 + 1 Cu2_plus__e0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Cu2_plus__c0)
+rxn05528:1 cpd00002_c + 1 cpd00001_c + 1 cpd00058_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00058_e (1 ATP_c0 + 1 H2O_c0 + 1 Cu2_plus__c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Cu2_plus__e0)
+rxn10343:1 cpd00002_c + 1 cpd00001_c + 1 cpd00531_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00531_e (1 ATP_c0 + 1 H2O_c0 + 1 Hg2_plus__c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 Hg2_plus__e0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00058_c (Cu2_plus__c0)
+cpd00058_e (Cu2_plus__e0)
+cpd00067_c (H_plus__c0)
+cpd00531_c (Hg2_plus__c0)
+cpd00531_e (Hg2_plus__e0)
+cpd01012_c (Cd2_plus__c0)
+cpd01012_e (Cd2_plus__e0)
+cpd04097_c (Pb_c0)
+cpd04097_e (Pb_e0)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+VALt2rpp:1 h_p + 1 val__L_p -> 1 h_c + 1 val__L_c (1 H+ + 1 L-Valine -> 1 H+ + 1 L-Valine)
+
+

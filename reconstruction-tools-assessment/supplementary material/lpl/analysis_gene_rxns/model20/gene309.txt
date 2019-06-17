@@ -1,0 +1,4 @@
+notRecovered:
+F6PA:1 f6p_c <=> 1 dha_c + 1 g3p_c (1 M_D_Fructose_6_phosphate_ <=> 1 M_Dihydroxyacetone_ + 1 M_Glyceraldehyde_3_phosphate_)
+
+

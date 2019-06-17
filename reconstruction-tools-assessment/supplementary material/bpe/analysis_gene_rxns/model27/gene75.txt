@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+R00257:1 C00002_c + 1 C00001_c + 1 C00857_c + 1 C00064_c <=> 1 C00003_c + 1 C00013_c + 1 C00020_c + 1 C00025_c (1 ATP + 1 H2O + 1 Deamino-NAD+ + 1 L-Glutamine <=> 1 NAD+ + 1 Diphosphate + 1 AMP + 1 L-Glutamate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00002_c (ATP)
+C00003_c (NAD+)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00025_c (L-Glutamate)
+C00064_c (L-Glutamine)
+C00857_c (Deamino-NAD+)
+
+

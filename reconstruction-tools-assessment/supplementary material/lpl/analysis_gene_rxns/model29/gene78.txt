@@ -1,0 +1,23 @@
+AdditionalNotInModel:
+R08245:1 C07648_c + 1 C00119_c <=> 1 C16619_c + 1 C00013_c (1 Thioguanine + 1 5-Phospho-alpha-D-ribose 1-diphosphate <=> 1 6-Thioguanosine monophosphate + 1 Diphosphate)
+R02142:1 C00655_c + 1 C00013_c <=> 1 C00385_c + 1 C00119_c (1 Xanthosine 5''-phosphate + 1 Diphosphate <=> 1 Xanthine + 1 5-Phospho-alpha-D-ribose 1-diphosphate)
+R08237:1 C02380_c + 1 C00119_c <=> 1 C04646_c + 1 C00013_c (1 6-Mercaptopurine + 1 5-Phospho-alpha-D-ribose 1-diphosphate <=> 1 6-Thioinosine-5''-monophosphate + 1 Diphosphate)
+R08238:1 C16614_c + 1 C00119_c <=> 1 C16615_c + 1 C00013_c (1 6-Methylmercaptopurine + 1 5-Phospho-alpha-D-ribose 1-diphosphate <=> 1 6-Methylthiopurine 5''-monophosphate ribonucleotide + 1 Diphosphate)
+R00190:1 C00020_c + 1 C00013_c <=> 1 C00147_c + 1 C00119_c (1 AMP + 1 Diphosphate <=> 1 Adenine + 1 5-Phospho-alpha-D-ribose 1-diphosphate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00119_c (5-Phospho-alpha-D-ribose 1-diphosphate)
+C00147_c (Adenine)
+C00385_c (Xanthine)
+C00655_c (Xanthosine 5''-phosphate)
+C02380_c (6-Mercaptopurine)
+C04646_c (6-Thioinosine-5''-monophosphate)
+C07648_c (Thioguanine)
+C16614_c (6-Methylmercaptopurine)
+C16615_c (6-Methylthiopurine 5''-monophosphate ribonucleotide)
+C16619_c (6-Thioguanosine monophosphate)
+
+

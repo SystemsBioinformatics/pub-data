@@ -1,0 +1,4 @@
+notRecovered:
+OMBZLM:1 2ombzl_c + 1 amet_c -> 1 2ommbl_c + 1 ahcys_c + 1 h_c (1 2-Octaprenyl-6-methoxy-1,4-benzoquinol + 1 S-Adenosyl-L-methionine -> 1 2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol + 1 S-Adenosyl-L-homocysteine + 1 H+)
+
+

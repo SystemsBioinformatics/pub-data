@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R09365:1 C04489_c + 1 C05698_c <=> 1 C05335_c + 1 C04144_c (1 5-Methyltetrahydropteroyltri-L-glutamate + 1 Selenohomocysteine <=> 1 L-Selenomethionine + 1 Tetrahydropteroyltri-L-glutamate)
+
+
+AdditionalMetabolites:
+C04144_c (Tetrahydropteroyltri-L-glutamate)
+C04489_c (5-Methyltetrahydropteroyltri-L-glutamate)
+C05335_c (L-Selenomethionine)
+C05698_c (Selenohomocysteine)
+
+

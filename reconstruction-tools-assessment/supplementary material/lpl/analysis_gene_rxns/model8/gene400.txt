@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+FMNRy:1 nadph_c + 1 fmn_c + 1 h_c -> 1 fmnRD_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 FMN C17H19N4O9P + 1 H+ -> 1 Flavin mononucleotide reduced C17H21N4O9P + 1 Nicotinamide adenine dinucleotide phosphate)
+FLVR_1:1 nadph_c + 1 ribflv_c + 1 h_c -> 1 ribflvRD_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Riboflavin C17H20N4O6 + 1 H+ -> 1 Reduced riboflavin C17H22N4O6 + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+fmnRD_c (Flavin mononucleotide reduced C17H21N4O9P)
+ribflvRD_c (Reduced riboflavin C17H22N4O6)
+
+

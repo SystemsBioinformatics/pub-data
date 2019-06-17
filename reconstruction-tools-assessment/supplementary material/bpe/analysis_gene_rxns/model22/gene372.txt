@@ -1,0 +1,4 @@
+notRecovered:
+PPOR:1 o2_c + 1 phpyr_c -> 1 2hyoxplac_c + 1 co2_c (1 O2 + 1 Phenylpyruvate -> 1 2-hydroxy-phenylacetic acid + 1 CO2)
+
+

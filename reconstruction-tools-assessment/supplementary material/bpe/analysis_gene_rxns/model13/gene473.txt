@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+rxn00655:1 cpd00001_c + 1 cpd00003_c + 1 cpd01489_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00085_c + 1 cpd00020_c (1 H2O_c0 + 1 NAD_c0 + 1 beta_Alanopine_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 beta_Alanine_c0 + 1 Pyruvate_c0)
+rxn01602:1 cpd00006_c + 1 cpd00330_c <=> 1 cpd00067_c + 1 cpd00005_c + 1 cpd00393_c (1 NADP_c0 + 1 Dihydrofolate_c0 <=> 1 H_plus__c0 + 1 NADPH_c0 + 1 Folate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00020_c (Pyruvate_c0)
+cpd00067_c (H_plus__c0)
+cpd00085_c (beta_Alanine_c0)
+cpd00330_c (Dihydrofolate_c0)
+cpd00393_c (Folate_c0)
+cpd01489_c (beta_Alanopine_c0)
+
+

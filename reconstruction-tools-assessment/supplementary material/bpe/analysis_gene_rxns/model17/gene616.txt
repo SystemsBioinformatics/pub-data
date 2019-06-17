@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R03083:1 C04691_c <=> 1 C00009_c + 1 C00944_c (1 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate <=> 1 Orthophosphate + 1 3-Dehydroquinate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00944_c (3-Dehydroquinate)
+C04691_c (2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate)
+
+

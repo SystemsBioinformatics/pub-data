@@ -1,0 +1,14 @@
+notRecovered:
+ACONTb:1 acon_C_c + 1 h2o_c -> 1 icit_c (1 cis-Aconitate + 1 H2O -> 1 Isocitrate)
+
+
+AdditionalNotInModel:
+4.2.1.99-RXN:1 CPD-618_c <=> 1 CPD-1136_c + 1 WATER_c (1 (2R,3S)-2-methylisocitrate <=> 1 cis-2-methylaconitate + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-1136_c (cis-2-methylaconitate)
+CPD-618_c ((2R,3S)-2-methylisocitrate)
+WATER_c (H2O)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00407:1 cpd00067_c + 1 cpd00001_c + 1 cpd00052_c -> 1 cpd00013_c + 1 cpd00062_c (1 H_plus__c0 + 1 H2O_c0 + 1 CTP_c0 -> 1 NH3_c0 + 1 UTP_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00052_c (CTP_c0)
+cpd00062_c (UTP_c0)
+cpd00067_c (H_plus__c0)
+
+

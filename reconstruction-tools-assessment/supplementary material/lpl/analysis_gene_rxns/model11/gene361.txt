@@ -1,0 +1,10 @@
+notRecovered:
+3OAS160:1 h_c + 1 malACP_c + 1 myrsACP_c -> 1 3opalmACP_c + 1 ACP_c + 1 co2_c (1 M_H_ + 1 M_Malonyl_acyl_carrier_protein_ + 1 M_Tetradecanoyl_acyl_carrier_protein_ -> 1 M_3_Oxohexadecanoyl_acp_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+3OAS140:1 ddcaACP_c + 1 h_c + 1 malACP_c -> 1 3omrsACP_c + 1 ACP_c + 1 co2_c (1 M_Dodecanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_3_Oxotetradecanoyl_acyl_carrier_protein_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+3OAS100:1 h_c + 1 malACP_c + 1 ocACP_c -> 1 3odecACP_c + 1 ACP_c + 1 co2_c (1 M_H_ + 1 M_Malonyl_acyl_carrier_protein_ + 1 M_Octanoyl_acyl_carrier_protein_ -> 1 M_3_Oxodecanoyl_acyl_carrier_protein_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+3OAS80:1 h_c + 1 hexACP_c + 1 malACP_c -> 1 3ooctACP_c + 1 ACP_c + 1 co2_c (1 M_H_ + 1 M_Hexanoyl_acyl_carrier_protein_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_3_Oxooctanoyl_acyl_carrier_protein_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+3OAS60:1 butACP_c + 1 h_c + 1 malACP_c -> 1 3ohexACP_c + 1 ACP_c + 1 co2_c (1 M_Butyryl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_3_Oxohexanoyl_acyl_carrier_protein_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+3OAS180:1 h_c + 1 palmACP_c + 1 malACP_c -> 1 3ooctdACP_c + 1 ACP_c + 1 co2_c (1 M_H_ + 1 M_Hexadecanoyl_acyl_carrier_protein_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_3_Oxooctadecanoyl_acp_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+3OAS120:1 dcaACP_c + 1 h_c + 1 malACP_c -> 1 3oddecACP_c + 1 ACP_c + 1 co2_c (1 M_Decanoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Malonyl_acyl_carrier_protein_ -> 1 M_3_Oxododecanoyl_acyl_carrier_protein_ + 1 M_Acyl_carrier_Protein_ + 1 M_CO2_)
+
+

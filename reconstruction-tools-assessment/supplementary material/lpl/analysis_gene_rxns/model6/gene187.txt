@@ -1,0 +1,15 @@
+notRecovered:
+MANpts:1 man_e + 1 pep_c -> 1 man6p_c + 1 pyr_c (1 M_D_Mannose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Mannose_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+GALAMPTSpp:1 galam_p + 1 pep_c -> 1 galam6p_c + 1 pyr_c (1 D Galactosamine C6H13NO5 + 1 Phosphoenolpyruvate -> 1 D Galactosamine 6 phosphate C6H14NO8P + 1 Pyruvate)
+ACGALptspp:1 acgal_p + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 N-Acetyl-D-galactosamine + 1 Phosphoenolpyruvate -> 1 N Acetyl D galactosamine 6 phosphate C8H16NO9P + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+acgal_p (N-Acetyl-D-galactosamine)
+galam6p_c (D Galactosamine 6 phosphate C6H14NO8P)
+galam_p (D Galactosamine C6H13NO5)
+
+

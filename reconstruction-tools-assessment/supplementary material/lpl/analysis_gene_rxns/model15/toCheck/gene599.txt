@@ -1,0 +1,19 @@
+notRecovered:
+FMETDF:1 fmet_c + 1 h2o_c -> 1 for_c + 1 met__L_c (1 M_N_Formyl_L_methionine_ + 1 M_H2O_ -> 1 M_Formate_ + 1 M_L_Methionine_)
+
+
+AdditionalNotInModel:
+rxn03848:1 cpd00067_c + 1 cpd00001_c + 1 cpd03963_c <=> 1 cpd00011_c + 1 cpd00013_c + 1 cpd00073_c (1 H_plus__c0 + 1 H2O_c0 + 1 Biuret_c0 <=> 1 CO2_c0 + 1 NH3_c0 + 1 Urea_c0)
+rxn03849:1 cpd00001_c + 1 cpd03963_c <=> 1 cpd00013_c + 1 cpd00742_c (1 H2O_c0 + 1 Biuret_c0 <=> 1 NH3_c0 + 1 Allophanate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00011_c (CO2_c0)
+cpd00013_c (NH3_c0)
+cpd00067_c (H_plus__c0)
+cpd00073_c (Urea_c0)
+cpd00742_c (Allophanate_c0)
+cpd03963_c (Biuret_c0)
+
+

@@ -1,0 +1,28 @@
+notRecovered:
+CU1Opp:4 cu_p + 4 h_p + 1 o2_p -> 4 cu2_p + 2 h2o_p (4 Cu+ + 4 H+ + 1 O2 -> 4 Cu2+ + 2 H2O)
+FEROpp:4 fe2_p + 4 h_p + 1 o2_p -> 4 fe3_p + 2 h2o_p (4 Fe2+ + 4 H+ + 1 O2 -> 4 Fe3+ + 2 H2O)
+
+
+AdditionalNotInModel:
+R00068:1 C00007_c + 2 C00072_c <=> 2 C00001_c + 2 C05422_c (1 Oxygen + 2 Ascorbate <=> 2 H2O + 2 Dehydroascorbate)
+R00783:1 C00001_c + 1 C00125_c + 1 C00533_c <=> 1 C00080_c + 1 C00088_c + 1 C00126_c (1 H2O + 1 Ferricytochrome c + 1 Nitric oxide <=> 1 H+ + 1 Nitrite + 1 Ferrocytochrome c)
+R00785:1 C00001_c + 1 C00533_c + 1 C05357_c <=> 1 C00080_c + 1 C00088_c + 1 C05358_c (1 H2O + 1 Nitric oxide + 1 Oxidized azurin <=> 1 H+ + 1 Nitrite + 1 Reduced azurin)
+R02394:1 C00007_c + 2 C00486_c <=> 2 C00001_c + 2 C00500_c (1 Oxygen + 2 Bilirubin <=> 2 H2O + 2 Biliverdin)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00072_c (Ascorbate)
+C00080_c (H+)
+C00088_c (Nitrite)
+C00125_c (Ferricytochrome c)
+C00126_c (Ferrocytochrome c)
+C00486_c (Bilirubin)
+C00500_c (Biliverdin)
+C00533_c (Nitric oxide)
+C05357_c (Oxidized azurin)
+C05358_c (Reduced azurin)
+C05422_c (Dehydroascorbate)
+
+

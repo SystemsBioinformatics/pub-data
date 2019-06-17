@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn03933:1 cpd00037_c + 1 cpd02948_c <=> 1 cpd00014_c + 1 cpd03491_c (1 UDP_N_acetylglucosamine_c0 + 1 MurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_diphospho__undecaprenol_c0 <=> 1 UDP_c0 + 1 Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_gamma_D_glutamyl_L_lysyl_D_alanyl_D_alanine_c0)
+
+
+AdditionalMetabolites:
+cpd00014_c (UDP_c0)
+cpd00037_c (UDP_N_acetylglucosamine_c0)
+cpd02948_c (MurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_diphospho__undecaprenol_c0)
+cpd03491_c (Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_gamma_D_glutamyl_L_lysyl_D_alanyl_D_alanine_c0)
+
+

@@ -1,0 +1,7 @@
+notRecovered:
+RNTR4:1 trdrd_c + 1 utp_c -> 1 dutp_c + 1 h2o_c + 1 trdox_c (1 M_Reduced_thioredoxin_ + 1 M_UTP_ -> 1 M_dUTP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNTR2:1 gtp_c + 1 trdrd_c -> 1 dgtp_c + 1 h2o_c + 1 trdox_c (1 M_GTP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dGTP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNTR3:1 ctp_c + 1 trdrd_c -> 1 dctp_c + 1 h2o_c + 1 trdox_c (1 M_CTP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dCTP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+RNTR1:1 atp_c + 1 trdrd_c -> 1 datp_c + 1 h2o_c + 1 trdox_c (1 M_ATP_ + 1 M_Reduced_thioredoxin_ -> 1 M_dATP_ + 1 M_H2O_ + 1 M_Oxidized_thioredoxin_)
+
+

@@ -1,0 +1,21 @@
+notRecovered:
+TDSR2:1 dsbdrd_c + 1 dsbgox_p -> 1 dsbdox_c + 1 dsbgrd_p (1 fused thiol:disulfide interchange protein (reduced) + 1 periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized) -> 1 fused thiol:disulfide interchange protein (oxidized) + 1 periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced))
+TDSR1:1 dsbcox_p + 1 dsbdrd_c -> 1 dsbcrd_p + 1 dsbdox_c (1 protein disulfide isomerase II (oxidized) + 1 fused thiol:disulfide interchange protein (reduced) -> 1 protein disulfide isomerase II (reduced) + 1 fused thiol:disulfide interchange protein (oxidized))
+DSBDR:1 dsbdox_c + 1 trdrd_c -> 1 dsbdrd_c + 1 trdox_c (1 fused thiol:disulfide interchange protein (oxidized) + 1 Reduced thioredoxin -> 1 fused thiol:disulfide interchange protein (reduced) + 1 Oxidized thioredoxin)
+
+
+AdditionalNotInModel:
+R03914:1 C02315_c + 1 C00006_c <=> 1 C02582_c + 1 C00005_c + 1 C00080_c (1 Protein dithiol + 1 NADP+ <=> 1 Protein disulfide + 1 NADPH + 1 H+)
+R03913:1 C02315_c + 1 C00003_c <=> 1 C02582_c + 1 C00004_c + 1 C00080_c (1 Protein dithiol + 1 NAD+ <=> 1 Protein disulfide + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C02315_c (Protein dithiol)
+C02582_c (Protein disulfide)
+
+

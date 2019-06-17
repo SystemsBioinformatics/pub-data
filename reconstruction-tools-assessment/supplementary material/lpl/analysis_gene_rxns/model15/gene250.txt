@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+rxn01701:1 cpd00134_c + 1 cpd00365_c <=> 1 cpd00010_c + 1 cpd01691_c (1 Palmitoyl_CoA_c0 + 1 Retinol_c0 <=> 1 CoA_c0 + 1 Retinol_palmitate_c0)
+rxn00670:1 cpd00009_c + 1 cpd00086_c <=> 1 cpd00010_c + 1 cpd01844_c (1 Phosphate_c0 + 1 Propionyl_CoA_c0 <=> 1 CoA_c0 + 1 Propionyl_phosphate_c0)
+rxn06160:1 cpd00365_c + 1 cpd11611_c <=> 1 cpd00067_c + 1 cpd00010_c + 1 cpd12018_c (1 Retinol_c0 + 1 Acyl_CoA_c0 <=> 1 H_plus__c0 + 1 CoA_c0 + 1 Retinyl_ester_c0)
+rxn11892:1 cpd00134_c + 1 cpd00667_c <=> 1 cpd00010_c + 1 cpd02184_c (1 Palmitoyl_CoA_c0 + 1 11_cis_Retinol_c0 <=> 1 CoA_c0 + 1 11_cis_Retinyl_palmitate_c0)
+
+
+AdditionalMetabolites:
+cpd00009_c (Phosphate_c0)
+cpd00010_c (CoA_c0)
+cpd00067_c (H_plus__c0)
+cpd00086_c (Propionyl_CoA_c0)
+cpd00134_c (Palmitoyl_CoA_c0)
+cpd00365_c (Retinol_c0)
+cpd00667_c (11_cis_Retinol_c0)
+cpd01691_c (Retinol_palmitate_c0)
+cpd01844_c (Propionyl_phosphate_c0)
+cpd02184_c (11_cis_Retinyl_palmitate_c0)
+cpd11611_c (Acyl_CoA_c0)
+cpd12018_c (Retinyl_ester_c0)
+
+

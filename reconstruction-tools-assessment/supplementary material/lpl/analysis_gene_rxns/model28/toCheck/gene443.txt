@@ -1,0 +1,17 @@
+notRecovered:
+UAAGLS1_1:1 atp_c + 1 lys__L_c + 1 uamag_c -> 1 adp_c + 2 h_c + 1 pi_c + 1 uAgl_c (1 M_ATP_ + 1 M_L_Lysine_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_ -> 1 M_ADP_ + 2 M_H_ + 1 M_Phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_L_lysine_)
+
+
+AdditionalNotInModel:
+R02788:1 C00002_c + 1 C00680_c + 1 C00692_c -> 1 C00008_c + 1 C00009_c + 1 C04877_c (1 ATP + 1 meso-2,6-Diaminoheptanedioate + 1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate -> 1 ADP + 1 Orthophosphate + 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00680_c (meso-2,6-Diaminoheptanedioate)
+C00692_c (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate)
+C04877_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate)
+
+

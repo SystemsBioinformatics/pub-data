@@ -1,0 +1,42 @@
+notRecovered:
+G3PAT120:1 ddcaACP_c + 1 glyc3p_c -> 1 1ddecg3p_c + 1 ACP_c (1 Dodecanoyl-ACP (n-C12:0ACP) + 1 Glycerol 3-phosphate -> 1 1-dodecanoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT141:1 glyc3p_c + 1 tdeACP_c -> 1 1tdec7eg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1) -> 1 1-tetradec-7-enoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT161:1 glyc3p_c + 1 hdeACP_c -> 1 1hdec9eg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) -> 1 1-hexadec-9-enoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT160:1 glyc3p_c + 1 palmACP_c -> 1 1hdecg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 1-hexadecanoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+G3PAT181:1 glyc3p_c + 1 octeACP_c -> 1 1odec11eg3p_c + 1 ACP_c (1 Glycerol 3-phosphate + 1 cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1) -> 1 1-octadec-11-enoyl-sn-glycerol 3-phosphate + 1 acyl carrier protein)
+
+
+AdditionalNotInModel:
+RXN-15045:1 OLEOYL-COA_c + 1 GLYCEROL-3P_c <=> 1 L-1-LYSOPHOSPHATIDATE_c + 1 CO-A_c (1 oleoyl-CoA + 1 sn-glycerol 3-phosphate <=> 1 1-oleoyl-sn-glycerol 3-phosphate + 1 coenzyme A)
+RXN-16117:1 CPD-17370_c + 1 GLYCEROL-3P_c <=> 1 CPD-17372_c + 1 CO-A_c (1 18-hydroxyoleoyl-CoA + 1 sn-glycerol 3-phosphate <=> 1 1-(18-hydroxyoleoyl)-sn-glycrol 3-phosphate + 1 coenzyme A)
+RXN-10462:1 ACYL-ACP_c + 1 GLYCEROL-3P_c -> 1 ACYL-SN-GLYCEROL-3P_c + 1 ACP_c (1 an acyl-[acyl-carrier protein] + 1 sn-glycerol 3-phosphate -> 1 a 1-acyl-sn-glycerol 3-phosphate + 1 a soluble [acyl-carrier protein])
+RXN-13805:1 CPD-14772_c + 1 GLYCEROL-3P_c <=> 1 CPD-14828_c + 1 CO-A_c (1 hexadecanedioyl-CoA + 1 sn-glycerol 3-phosphate <=> 1 1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate + 1 coenzyme A)
+RXN-1381-PALMITYL-COA/GLYCEROL-3P//1-PALMITOYLGLYCEROL-3-PHOSPHATE/CO-A.63.:1 PALMITYL-COA_c + 1 GLYCEROL-3P_c -> 1 1-PALMITOYLGLYCEROL-3-PHOSPHATE_c + 1 CO-A_c (1 palmitoyl-CoA + 1 sn-glycerol 3-phosphate -> 1 1-palmitoyl-sn-glycerol 3-phosphate + 1 coenzyme A)
+RXN-1381-STEAROYL-COA/GLYCEROL-3P//CPD0-2113/CO-A.41.:1 STEAROYL-COA_c + 1 GLYCEROL-3P_c -> 1 CPD0-2113_c + 1 CO-A_c (1 stearoyl-CoA + 1 sn-glycerol 3-phosphate -> 1 1-stearoyl-sn-glycerol 3-phosphate + 1 coenzyme A)
+RXN-1381-TETRADECANOYL-COA/GLYCEROL-3P//CPD-18379/CO-A.46.:1 TETRADECANOYL-COA_c + 1 GLYCEROL-3P_c -> 1 CO-A_c + 1 CPD-18379_c (1 myristoyl-CoA + 1 sn-glycerol 3-phosphate -> 1 coenzyme A + 1 1-myristoyl-sn-glycerol 3-phosphate)
+RXN-17016:1 Cis-vaccenoyl-ACPs_c + 1 GLYCEROL-3P_c -> 1 CPD-18348_c + 1 ACP_c (1 a cis-vaccenoyl-[acp] + 1 sn-glycerol 3-phosphate -> 1 1-cis-vaccenoyl-sn-glycerol-3-phosphate + 1 a soluble [acyl-carrier protein])
+RXN-17018:1 Palmitoyl-ACPs_c + 1 GLYCEROL-3P_c -> 1 1-PALMITOYLGLYCEROL-3-PHOSPHATE_c + 1 ACP_c (1 a palmitoyl-[acp] + 1 sn-glycerol 3-phosphate -> 1 1-palmitoyl-sn-glycerol 3-phosphate + 1 a soluble [acyl-carrier protein])
+
+
+AdditionalMetabolites:
+1-PALMITOYLGLYCEROL-3-PHOSPHATE_c (1-palmitoyl-sn-glycerol 3-phosphate)
+ACYL-ACP_c (an acyl-[acyl-carrier protein])
+ACYL-SN-GLYCEROL-3P_c (a 1-acyl-sn-glycerol 3-phosphate)
+CO-A_c (coenzyme A)
+CPD-14772_c (hexadecanedioyl-CoA)
+CPD-14828_c (1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate)
+CPD-17370_c (18-hydroxyoleoyl-CoA)
+CPD-17372_c (1-(18-hydroxyoleoyl)-sn-glycrol 3-phosphate)
+CPD-18348_c (1-cis-vaccenoyl-sn-glycerol-3-phosphate)
+CPD-18379_c (1-myristoyl-sn-glycerol 3-phosphate)
+CPD0-2113_c (1-stearoyl-sn-glycerol 3-phosphate)
+Cis-vaccenoyl-ACPs_c (a cis-vaccenoyl-[acp])
+GLYCEROL-3P_c (sn-glycerol 3-phosphate)
+L-1-LYSOPHOSPHATIDATE_c (1-oleoyl-sn-glycerol 3-phosphate)
+OLEOYL-COA_c (oleoyl-CoA)
+PALMITYL-COA_c (palmitoyl-CoA)
+Palmitoyl-ACPs_c (a palmitoyl-[acp])
+STEAROYL-COA_c (stearoyl-CoA)
+TETRADECANOYL-COA_c (myristoyl-CoA)
+
+

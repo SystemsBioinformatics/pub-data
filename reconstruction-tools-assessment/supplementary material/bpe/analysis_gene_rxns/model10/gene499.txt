@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+TRYPTOPHAN-AMINOTRANSFERASE-RXN:1 2-KETOGLUTARATE_c + 1 TRP_c <=> 1 GLT_c + 1 INDOLE_PYRUVATE_c (1 2-oxoglutarate + 1 L-tryptophan <=> 1 L-glutamate + 1 (indol-3-yl)pyruvate)
+RXN-10814:1 PHE_c + 1 2-KETOGLUTARATE_c <=> 1 PHENYL-PYRUVATE_c + 1 GLT_c (1 L-phenylalanine + 1 2-oxoglutarate <=> 1 keto-phenylpyruvate + 1 L-glutamate)
+RXN-15200:1 TYR_c + 1 PHENYL-PYRUVATE_c <=> 1 P-HYDROXY-PHENYLPYRUVATE_c + 1 PHE_c (1 L-tyrosine + 1 keto-phenylpyruvate <=> 1 4-hydroxyphenylpyruvate + 1 L-phenylalanine)
+TYROSINE-AMINOTRANSFERASE-RXN:1 TYR_c + 1 2-KETOGLUTARATE_c <=> 1 P-HYDROXY-PHENYLPYRUVATE_c + 1 GLT_c (1 L-tyrosine + 1 2-oxoglutarate <=> 1 4-hydroxyphenylpyruvate + 1 L-glutamate)
+2.6.1.57-RXN-PHE/2-KETOGLUTARATE//PHENYL-PYRUVATE/GLT.41.:1 PHE_c + 1 2-KETOGLUTARATE_c <=> 1 PHENYL-PYRUVATE_c + 1 GLT_c (1 L-phenylalanine + 1 2-oxoglutarate <=> 1 keto-phenylpyruvate + 1 L-glutamate)
+PHEAMINOTRANS-RXN:1 PHENYL-PYRUVATE_c + 1 GLT_c <=> 1 PHE_c + 1 2-KETOGLUTARATE_c (1 keto-phenylpyruvate + 1 L-glutamate <=> 1 L-phenylalanine + 1 2-oxoglutarate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+GLT_c (L-glutamate)
+INDOLE_PYRUVATE_c ((indol-3-yl)pyruvate)
+P-HYDROXY-PHENYLPYRUVATE_c (4-hydroxyphenylpyruvate)
+PHENYL-PYRUVATE_c (keto-phenylpyruvate)
+PHE_c (L-phenylalanine)
+TRP_c (L-tryptophan)
+TYR_c (L-tyrosine)
+
+

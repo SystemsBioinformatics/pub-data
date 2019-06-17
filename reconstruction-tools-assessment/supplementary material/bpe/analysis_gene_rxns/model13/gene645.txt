@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00735:1 cpd00004_c + 1 cpd00011_c + 1 cpd00094_c <=> 1 cpd00003_c + 1 cpd03593_c (1 NADH_c0 + 1 CO2_c0 + 1 2_Oxobutyrate_c0 <=> 1 NAD_c0 + 1 D_erythro_3_Methylmalate_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00011_c (CO2_c0)
+cpd00094_c (2_Oxobutyrate_c0)
+cpd03593_c (D_erythro_3_Methylmalate_c0)
+
+

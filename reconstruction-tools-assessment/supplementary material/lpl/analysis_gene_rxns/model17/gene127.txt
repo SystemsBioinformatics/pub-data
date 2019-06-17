@@ -1,0 +1,17 @@
+notRecovered:
+PHETA1:1 akg_c + 1 phe__L_c <=> 1 glu__L_c + 1 phpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Phenylalanine_ <=> 1 M_L_Glutamate_ + 1 M_Phenylpyruvate_)
+TYRTA:1 akg_c + 1 tyr__L_c <=> 1 34hpp_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Tyrosine_ <=> 1 M_3__4_Hydroxyphenyl_pyruvate_ + 1 M_L_Glutamate_)
+TRPTA:1 akg_c + 1 trp__L_c <=> 1 glu__L_c + 1 indpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Tryptophan_ <=> 1 M_L_Glutamate_ + 1 M_Indolepyruvate_)
+
+
+AdditionalNotInModel:
+R04467:1 C00026_c + 1 C04390_c <=> 1 C00025_c + 1 C05539_c (1 2-Oxoglutarate + 1 N6-Acetyl-LL-2,6-diaminoheptanedioate <=> 1 L-Glutamate + 1 N-Acetyl-L-2-amino-6-oxopimelate)
+
+
+AdditionalMetabolites:
+C00025_c (L-Glutamate)
+C00026_c (2-Oxoglutarate)
+C04390_c (N6-Acetyl-LL-2,6-diaminoheptanedioate)
+C05539_c (N-Acetyl-L-2-amino-6-oxopimelate)
+
+

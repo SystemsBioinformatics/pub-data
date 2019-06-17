@@ -1,0 +1,5 @@
+notRecovered:
+IMPC:1 h2o_c + 1 imp_c <=> 1 fprica_c (1 M_H2O_ + 1 M_IMP_ <=> 1 M_5_Formamido_1__5_phospho_D_ribosyl_imidazole_4_carboxamide_)
+AICART:1 10fthf_c + 1 aicar_c <=> 1 fprica_c + 1 thf_c (1 M_10_Formyltetrahydrofolate_ + 1 M_5_Amino_1__5_Phospho_D_ribosyl_imidazole_4_carboxamide_ <=> 1 M_5_Formamido_1__5_phospho_D_ribosyl_imidazole_4_carboxamide_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+

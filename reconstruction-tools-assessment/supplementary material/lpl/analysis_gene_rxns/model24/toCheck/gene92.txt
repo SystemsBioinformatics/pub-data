@@ -1,0 +1,17 @@
+notRecovered:
+CPSS_LPL2:2 dtdprmn_c + 4 h2o_c + 1 udpg_c + 1 udpgal_c <=> 1 CPS_LPL2_c + 2 dtdp_c + 5 h_c + 1 udp_c + 1 ump_c (2 M_dTDP_6_deoxy_L_mannose_ + 4 M_H2O_ + 1 M_UDPglucose_ + 1 M_UDPgalactose_ <=> 1 M_capsular_polysaccharide_linkage_unit__LPL_specific_ + 2 M_dTDP_ + 5 M_H_ + 1 M_UDP_ + 1 M_UMP_)
+CPSS_LPL:1 dtdprmn_c + 5 h2o_c + 2 udpg_c + 2 udpgal_c <=> 1 CPS_LPL_c + 1 dtdp_c + 6 h_c + 3 udp_c + 1 ump_c (1 M_dTDP_6_deoxy_L_mannose_ + 5 M_H2O_ + 2 M_UDPglucose_ + 2 M_UDPgalactose_ <=> 1 M_capsular_polysaccharide_linkage_unit__LPL_specific_ + 1 M_dTDP_ + 6 M_H_ + 3 M_UDP_ + 1 M_UMP_)
+
+
+AdditionalNotInModel:
+RXN-18119:1 ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE_c + 1 CPD-14553_c -> 1 CPD-19418_c + 1 PROTON_c + 1 UDP_c (1 N-acetyl-alpha-D-glucosaminyldiphospho-ditrans,octacis-undecaprenol + 1 UDP-alpha-D-galactose -> 1 alpha-D-galactosyl-(1rarr3)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol + 1 H+ + 1 UDP)
+
+
+AdditionalMetabolites:
+ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE_c (N-acetyl-alpha-D-glucosaminyldiphospho-ditrans,octacis-undecaprenol)
+CPD-14553_c (UDP-alpha-D-galactose)
+CPD-19418_c (alpha-D-galactosyl-(1rarr3)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol)
+PROTON_c (H+)
+UDP_c (UDP)
+
+

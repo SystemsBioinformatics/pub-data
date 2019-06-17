@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+RXN0-7219:1 CPD-3785_c + 1 WATER_c -> 1 D-ARABINOSE_c + 1 GALACTOSE_c (1 3-O-beta-D-galactopyranosyl-D-arabinose + 1 H2O -> 1 D-ARABINOSE + 1 beta-D-galactose)
+RXN-17726:1 CPD-3561_c + 1 WATER_c -> 1 Fructofuranose_c + 1 GALACTOSE_c (1 lactulose + 1 H2O -> 1 Fructofuranose + 1 beta-D-galactose)
+RXN0-5363:1 Alpha-lactose_c <=> 1 ALLOLACTOSE_c (1 alpha-lactose <=> 1 allolactose)
+
+
+AdditionalMetabolites:
+ALLOLACTOSE_c (allolactose)
+Alpha-lactose_c (alpha-lactose)
+CPD-3561_c (lactulose)
+CPD-3785_c (3-O-beta-D-galactopyranosyl-D-arabinose)
+D-ARABINOSE_c (D-ARABINOSE)
+Fructofuranose_c (Fructofuranose)
+GALACTOSE_c (beta-D-galactose)
+WATER_c (H2O)
+
+

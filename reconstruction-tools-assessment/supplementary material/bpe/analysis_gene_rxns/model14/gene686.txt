@@ -1,0 +1,21 @@
+notRecovered:
+NACODA:1 acg5sa_c + 1 h2o_c -> 1 ac_c + 1 glu5sa_c (1 N-Acetyl-L-glutamate 5-semialdehyde + 1 H2O -> 1 Acetate + 1 L-Glutamate 5-semialdehyde)
+
+
+AdditionalNotInModel:
+rxn00795:1 cpd00001_c + 1 cpd03293_c <=> 1 cpd00104_c + 1 cpd00039_c (1 H2O_c0 + 1 Biocytin_c0 <=> 1 BIOT_c0 + 1 L_Lysine_c0)
+rxn07056:1 cpd00001_c + 1 cpd11636_c <=> 1 cpd00049_c + 1 cpd00013_c (1 H2O_c0 + 1 Amide_c0 <=> 1 Carboxylic_acid_c0 + 1 NH3_c0)
+rxn00794:1 cpd00001_c + 1 cpd01301_c <=> 1 cpd00104_c + 1 cpd00013_c (1 H2O_c0 + 1 Biotin_amide_c0 <=> 1 BIOT_c0 + 1 NH3_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00013_c (NH3_c0)
+cpd00039_c (L_Lysine_c0)
+cpd00049_c (Carboxylic_acid_c0)
+cpd00104_c (BIOT_c0)
+cpd01301_c (Biotin_amide_c0)
+cpd03293_c (Biocytin_c0)
+cpd11636_c (Amide_c0)
+
+

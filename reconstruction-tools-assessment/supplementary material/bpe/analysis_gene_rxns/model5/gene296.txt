@@ -1,0 +1,36 @@
+AdditionalNotInModel:
+LPLIPAL1E120pp:1 1agpe120_p + 1 h2o_p -> 1 ddca_p + 1 g3pe_p + 1 h_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0) + 1 H2O H2O -> 1 Dodecanoate (n-C12:0) + 1 Sn-Glycero-3-phosphoethanolamine + 1 H+)
+LPLIPAL1E140pp:1 1agpe140_p + 1 h2o_p -> 1 g3pe_p + 1 h_p + 1 ttdca_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0) + 1 H2O H2O -> 1 Sn-Glycero-3-phosphoethanolamine + 1 H+ + 1 Tetradecanoate (n-C14:0))
+LPLIPAL1E141pp:1 1agpe141_p + 1 h2o_p -> 1 g3pe_p + 1 h_p + 1 ttdcea_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1) + 1 H2O H2O -> 1 Sn-Glycero-3-phosphoethanolamine + 1 H+ + 1 Tetradecenoate (n-C14:1))
+LPLIPAL1E160pp:1 1agpe160_p + 1 h2o_p -> 1 g3pe_p + 1 h_p + 1 hdca_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0) + 1 H2O H2O -> 1 Sn-Glycero-3-phosphoethanolamine + 1 H+ + 1 Hexadecanoate (n-C16:0))
+LPLIPAL1E161pp:1 1agpe161_p + 1 h2o_p -> 1 g3pe_p + 1 h_p + 1 hdcea_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1) + 1 H2O H2O -> 1 Sn-Glycero-3-phosphoethanolamine + 1 H+ + 1 Hexadecenoate (n-C16:1))
+LPLIPAL1E180pp:1 1agpe180_p + 1 h2o_p -> 1 g3pe_p + 1 h_p + 1 ocdca_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0) + 1 H2O H2O -> 1 Sn-Glycero-3-phosphoethanolamine + 1 H+ + 1 Octadecanoate (n-C18:0))
+LPLIPAL1E181pp:1 1agpe181_p + 1 h2o_p -> 1 g3pe_p + 1 h_p + 1 ocdcea_p (1 1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1) + 1 H2O H2O -> 1 Sn-Glycero-3-phosphoethanolamine + 1 H+ + 1 Octadecenoate (n-C18:1))
+LPLIPAL1G120pp:1 1agpg120_p + 1 h2o_p -> 1 ddca_p + 1 g3pg_p + 1 h_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0) + 1 H2O H2O -> 1 Dodecanoate (n-C12:0) + 1 Glycerophosphoglycerol + 1 H+)
+LPLIPAL1G140pp:1 1agpg140_p + 1 h2o_p -> 1 g3pg_p + 1 h_p + 1 ttdca_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0) + 1 H2O H2O -> 1 Glycerophosphoglycerol + 1 H+ + 1 Tetradecanoate (n-C14:0))
+LPLIPAL1G141pp:1 1agpg141_p + 1 h2o_p -> 1 g3pg_p + 1 h_p + 1 ttdcea_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1) + 1 H2O H2O -> 1 Glycerophosphoglycerol + 1 H+ + 1 Tetradecenoate (n-C14:1))
+LPLIPAL1G160pp:1 1agpg160_p + 1 h2o_p -> 1 g3pg_p + 1 h_p + 1 hdca_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0) + 1 H2O H2O -> 1 Glycerophosphoglycerol + 1 H+ + 1 Hexadecanoate (n-C16:0))
+LPLIPAL1G161pp:1 1agpg161_p + 1 h2o_p -> 1 g3pg_p + 1 h_p + 1 hdcea_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1) + 1 H2O H2O -> 1 Glycerophosphoglycerol + 1 H+ + 1 Hexadecenoate (n-C16:1))
+LPLIPAL1G180pp:1 1agpg180_p + 1 h2o_p -> 1 g3pg_p + 1 h_p + 1 ocdca_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0) + 1 H2O H2O -> 1 Glycerophosphoglycerol + 1 H+ + 1 Octadecanoate (n-C18:0))
+LPLIPAL1G181pp:1 1agpg181_p + 1 h2o_p -> 1 g3pg_p + 1 h_p + 1 ocdcea_p (1 1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) + 1 H2O H2O -> 1 Glycerophosphoglycerol + 1 H+ + 1 Octadecenoate (n-C18:1))
+
+
+AdditionalMetabolites:
+1agpe120_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0))
+1agpe140_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0))
+1agpe141_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1))
+1agpe160_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0))
+1agpe161_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1))
+1agpe180_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0))
+1agpe181_p (1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1))
+1agpg120_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0))
+1agpg140_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0))
+1agpg141_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1))
+1agpg160_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0))
+1agpg161_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1))
+1agpg180_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0))
+1agpg181_p (1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1))
+g3pe_p (Sn-Glycero-3-phosphoethanolamine)
+g3pg_p (Glycerophosphoglycerol)
+
+

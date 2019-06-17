@@ -1,0 +1,26 @@
+AdditionalNotInModel:
+MOTH4:1 maltpttre_c + 1 h2o_c -> 1 maltpt_c + 1 tre_c (1 Maltopentaosyltrehalose + 1 H2O H2O -> 1 Maltopentaose + 1 Trehalose)
+MOTH3:1 maltttrtre_c + 1 h2o_c -> 1 tre_c + 1 maltttr_c (1 Maltotetraosyltrehalose + 1 H2O H2O -> 1 Trehalose + 1 Maltotetraose)
+MOTH2:1 malttrtre_c + 1 h2o_c -> 1 tre_c + 1 malttr_c (1 Maltotriosyltrehalose + 1 H2O H2O -> 1 Trehalose + 1 Maltotriose C18H32O16)
+MOTH1:1 malttre_c + 1 h2o_c -> 1 malt_c + 1 tre_c (1 Maltosyltrehalose + 1 H2O H2O -> 1 Maltose C12H22O11 + 1 Trehalose)
+GLCBRAN3:1 14glucan_c + 1 adpglc_c -> 1 glycogen_c + 1 adp_c + 1 h_c (1 1,4-alpha-D-glucan + 1 ADPglucose C16H23N5O15P2 -> 1 Glycogen C6H10O5 + 1 ADP C10H12N5O10P2 + 1 H+)
+GBEZY:1 14glun_c -> 1 glycogen_c (1  1 4 alpha D Glucosyl n C6H12O6 -> 1 Glycogen C6H10O5)
+GLBRAN2:1 glycogen_c -> 1 bglycogen_c (1 Glycogen C6H10O5 -> 1 Branching glycogen)
+
+
+AdditionalMetabolites:
+14glucan_c (1,4-alpha-D-glucan)
+14glun_c ( 1 4 alpha D Glucosyl n C6H12O6)
+bglycogen_c (Branching glycogen)
+maltpt_c (Maltopentaose)
+maltpttre_c (Maltopentaosyltrehalose)
+malttr_c (Maltotriose C18H32O16)
+malttre_c (Maltosyltrehalose)
+malttrtre_c (Maltotriosyltrehalose)
+maltttr_c (Maltotetraose)
+maltttrtre_c (Maltotetraosyltrehalose)
+tre_c (Trehalose)
+
+
+AdditionalInModel:
+GLCP:1 glycogen_c + 1 pi_c -> 1 g1p_c (1 Glycogen C6H10O5 + 1 Phosphate -> 1 D-Glucose 1-phosphate)

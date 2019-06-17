@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+HOMOSERDEHYDROG-RXN-HOMO-SER/NAD//L-ASPARTATE-SEMIALDEHYDE/NADH/PROTON.51.:1 L-ASPARTATE-SEMIALDEHYDE_c + 1 NADH_c + 1 PROTON_c -> 1 HOMO-SER_c + 1 NAD_c (1 L-aspartate-semialdehyde + 1 NADH + 1 H+ -> 1 L-homoserine + 1 NAD+)
+
+
+AdditionalMetabolites:
+HOMO-SER_c (L-homoserine)
+L-ASPARTATE-SEMIALDEHYDE_c (L-aspartate-semialdehyde)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

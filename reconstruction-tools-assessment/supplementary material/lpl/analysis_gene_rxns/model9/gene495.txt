@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+PEPCK_re:1 oaa_c + 1 gtp_c -> 1 co2_c + 1 pep_c + 1 gdp_c (1 Oxaloacetate + 1 GTP C10H12N5O14P3 -> 1 CO2 CO2 + 1 Phosphoenolpyruvate + 1 GDP C10H12N5O11P2)
+
+

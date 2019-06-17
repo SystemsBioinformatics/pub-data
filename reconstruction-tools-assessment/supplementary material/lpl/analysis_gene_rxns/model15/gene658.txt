@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+rxn00258:1 cpd00020_c + 1 cpd00070_c <=> 1 cpd00022_c + 1 cpd00032_c (1 Pyruvate_c0 + 1 Malonyl_CoA_c0 <=> 1 Acetyl_CoA_c0 + 1 Oxaloacetate_c0)
+rxn00678:1 cpd00020_c + 1 cpd00519_c <=> 1 cpd00032_c + 1 cpd00086_c (1 Pyruvate_c0 + 1 D_methylmalonyl_CoA_c0 <=> 1 Oxaloacetate_c0 + 1 Propionyl_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00032_c (Oxaloacetate_c0)
+cpd00070_c (Malonyl_CoA_c0)
+cpd00086_c (Propionyl_CoA_c0)
+cpd00519_c (D_methylmalonyl_CoA_c0)
+
+

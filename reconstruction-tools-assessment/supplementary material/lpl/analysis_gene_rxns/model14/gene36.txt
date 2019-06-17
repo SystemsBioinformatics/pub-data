@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-14189:1 METOH_c + 1 HYDROGEN-PEROXIDE_c -> 1 FORMALDEHYDE_c + 2 WATER_c (1 methanol + 1 hydrogen peroxide -> 1 formaldehyde + 2 H2O)
+RXN66-1:1 ETOH_c + 1 HYDROGEN-PEROXIDE_c <=> 1 ACETALD_c + 2 WATER_c (1 ethanol + 1 hydrogen peroxide <=> 1 acetaldehyde + 2 H2O)
+
+
+AdditionalMetabolites:
+ACETALD_c (acetaldehyde)
+ETOH_c (ethanol)
+FORMALDEHYDE_c (formaldehyde)
+HYDROGEN-PEROXIDE_c (hydrogen peroxide)
+METOH_c (methanol)
+WATER_c (H2O)
+
+

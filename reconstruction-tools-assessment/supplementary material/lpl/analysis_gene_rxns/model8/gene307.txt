@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+GTHPe:1 h2o2_e + 2 gthrd_e <=> 2 h2o_e + 1 gthox_e (1 Hydrogen peroxide + 2 Reduced glutathione <=> 2 H2O H2O + 1 Oxidized glutathione)
+
+
+AdditionalMetabolites:
+gthox_e (Oxidized glutathione)
+gthrd_e (Reduced glutathione)
+h2o2_e (Hydrogen peroxide)
+
+

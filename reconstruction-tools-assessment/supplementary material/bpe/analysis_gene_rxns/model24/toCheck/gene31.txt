@@ -1,0 +1,23 @@
+notRecovered:
+3OAS120:1 dcaACP_c + 1 h_c + 1 malACP_c -> 1 3oddecACP_c + 1 ACP_c + 1 co2_c (1 Decanoyl-ACP (n-C10:0ACP) + 1 H+ + 1 Malonyl-[acyl-carrier protein] -> 1 3-Oxododecanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS180:1 h_c + 1 malACP_c + 1 palmACP_c -> 1 3ooctdACP_c + 1 ACP_c + 1 co2_c (1 H+ + 1 Malonyl-[acyl-carrier protein] + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 3-Oxooctadecanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS100:1 h_c + 1 malACP_c + 1 ocACP_c -> 1 3odecACP_c + 1 ACP_c + 1 co2_c (1 H+ + 1 Malonyl-[acyl-carrier protein] + 1 Octanoyl-ACP (n-C8:0ACP) -> 1 3-Oxodecanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS60:1 butACP_c + 1 h_c + 1 malACP_c -> 1 3ohexACP_c + 1 ACP_c + 1 co2_c (1 Butyryl-ACP (n-C4:0ACP) + 1 H+ + 1 Malonyl-[acyl-carrier protein] -> 1 3-Oxohexanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS160:1 h_c + 1 malACP_c + 1 myrsACP_c -> 1 3opalmACP_c + 1 ACP_c + 1 co2_c (1 H+ + 1 Malonyl-[acyl-carrier protein] + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 3-Oxohexadecanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS181:1 h_c + 1 hdeACP_c + 1 malACP_c -> 1 3ocvac11eACP_c + 1 ACP_c + 1 co2_c (1 H+ + 1 cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1) + 1 Malonyl-[acyl-carrier protein] -> 1 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS80:1 h_c + 1 hexACP_c + 1 malACP_c -> 1 3ooctACP_c + 1 ACP_c + 1 co2_c (1 H+ + 1 Hexanoyl-ACP (n-C6:0ACP) + 1 Malonyl-[acyl-carrier protein] -> 1 3-Oxooctanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+3OAS140:1 ddcaACP_c + 1 h_c + 1 malACP_c -> 1 3omrsACP_c + 1 ACP_c + 1 co2_c (1 Dodecanoyl-ACP (n-C12:0ACP) + 1 H+ + 1 Malonyl-[acyl-carrier protein] -> 1 3-Oxotetradecanoyl-[acyl-carrier protein] + 1 acyl carrier protein + 1 CO2)
+
+
+AdditionalNotInModel:
+2.3.1.179-RXN:1 MALONYL-ACP_c + 1 PROTON_c + 1 Palmitoleoyl-ACPs_c -> 1 3-oxo-cis-vaccenoyl-ACPs_c + 1 ACP_c + 1 CARBON-DIOXIDE_c (1 MALONYL-ACP + 1 H+ + 1 Palmitoleoyl-ACPs -> 1 3-oxo-cis-vaccenoyl-ACPs + 1 ACP + 1 CO2)
+
+
+AdditionalMetabolites:
+3-oxo-cis-vaccenoyl-ACPs_c (3-oxo-cis-vaccenoyl-ACPs)
+CARBON-DIOXIDE_c (CO2)
+MALONYL-ACP_c (MALONYL-ACP)
+PROTON_c (H+)
+Palmitoleoyl-ACPs_c (Palmitoleoyl-ACPs)
+
+

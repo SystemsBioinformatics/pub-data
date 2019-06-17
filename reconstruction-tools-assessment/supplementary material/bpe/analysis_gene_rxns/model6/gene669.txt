@@ -1,0 +1,4 @@
+notRecovered:
+ASPCT:1 asp__L_c + 1 cbp_c -> 1 cbasp_c + 1 h_c + 1 pi_c (1 L-Aspartate + 1 Carbamoyl phosphate -> 1 N-Carbamoyl-L-aspartate + 1 H+ + 1 Phosphate)
+
+

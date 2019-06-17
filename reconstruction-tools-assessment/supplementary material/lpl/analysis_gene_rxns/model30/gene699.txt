@@ -1,0 +1,4 @@
+notRecovered:
+GTPCI:1 gtp_c + 1 h2o_c -> 1 ahdt_c + 1 for_c + 1 h_c (1 M_GTP_ + 1 M_H2O_ -> 1 M_2_Amino_4_hydroxy_6__erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_ + 1 M_Formate_ + 1 M_H_)
+
+

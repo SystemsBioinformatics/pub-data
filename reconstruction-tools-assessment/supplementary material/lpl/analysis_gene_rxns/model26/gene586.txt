@@ -1,0 +1,4 @@
+notRecovered:
+MI1PP:1 h2o_c + 1 mi1p__D_c -> 1 inost_c + 1 pi_c (1 M_H2O_ + 1 M_1D_myo_Inositol_1_phosphate_ -> 1 M_myo_Inositol_ + 1 M_Phosphate_)
+
+

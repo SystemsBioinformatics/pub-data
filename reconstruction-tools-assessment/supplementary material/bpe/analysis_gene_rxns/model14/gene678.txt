@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn02819:1 cpd00017_c + 1 cpd02787_c <=> 1 cpd00067_c + 1 cpd00019_c + 1 cpd01736_c (1 S_Adenosyl_L_methionine_c0 + 1 16_Methoxy_2_3_dihydro_3_hydroxytabersonine_c0 <=> 1 H_plus__c0 + 1 S_Adenosyl_homocysteine_c0 + 1 Deacetoxyvindoline_c0)
+
+
+AdditionalMetabolites:
+cpd00017_c (S_Adenosyl_L_methionine_c0)
+cpd00019_c (S_Adenosyl_homocysteine_c0)
+cpd00067_c (H_plus__c0)
+cpd01736_c (Deacetoxyvindoline_c0)
+cpd02787_c (16_Methoxy_2_3_dihydro_3_hydroxytabersonine_c0)
+
+

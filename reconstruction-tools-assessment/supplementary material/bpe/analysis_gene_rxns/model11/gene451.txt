@@ -1,0 +1,4 @@
+notRecovered:
+CORELPSPPEAGLCNT_BP:1 coreLPSppea_BP_p + 1 undpglcn_BP_p <=> 1 coreLPSppeag_BP_p + 1 h_c + 1 udcpdp_p (1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA (B. pertussis specific) + 1 undecaprenyl-diphosphate-glucosamine <=> 1 glucosamine-(glucurono-)heptosyl-(heptosyl-glucosamine-(galactosaminuronate-)gluco-)heptosyl-(pyrophosphorylethanolamine-)KDO-lipidA-glucosamine (B. pertussis specific) + 1 H+ + 1 Undecaprenyl diphosphate)
+
+

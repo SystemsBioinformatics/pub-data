@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+FBA2:1 f1p_c <=> 1 glyald_c + 1 dhap_c (1 D-Fructose 1-phosphate <=> 1 D-Glyceraldehyde + 1 Dihydroxyacetone phosphate)
+FBA3:1 s17bp_c <=> 1 e4p_c + 1 dhap_c (1 Sedoheptulose 1,7-bisphosphate <=> 1 D-Erythrose 4-phosphate + 1 Dihydroxyacetone phosphate)
+
+
+AdditionalMetabolites:
+s17bp_c (Sedoheptulose 1,7-bisphosphate)
+
+

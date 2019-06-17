@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn00783:1 cpd00945_c <=> 1 cpd00020_c + 1 cpd00102_c (1 2_Dehydro_3_deoxy_D_galactonate_6_phosphate_c0 <=> 1 Pyruvate_c0 + 1 Glyceraldehyde3_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00102_c (Glyceraldehyde3_phosphate_c0)
+cpd00945_c (2_Dehydro_3_deoxy_D_galactonate_6_phosphate_c0)
+
+

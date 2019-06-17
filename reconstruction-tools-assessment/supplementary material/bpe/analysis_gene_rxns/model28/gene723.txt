@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R03277:1 C01146_c + 1 C00022_c <=> 1 C03921_c (1 2-Hydroxy-3-oxopropanoate + 1 Pyruvate <=> 1 2-Dehydro-3-deoxy-D-glucarate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C01146_c (2-Hydroxy-3-oxopropanoate)
+C03921_c (2-Dehydro-3-deoxy-D-glucarate)
+
+

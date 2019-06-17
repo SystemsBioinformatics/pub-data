@@ -1,0 +1,19 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+FLNDPR2r:2 flxr_c + 1 h_c + 1 nadh_c + 2 nadp_c <=> 2 flxso_c + 1 nad_c + 2 nadph_c (2 Flavodoxin reduced + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 2 Nicotinamide adenine dinucleotide phosphate <=> 2 Flavodoxin semi oxidized + 1 Nicotinamide adenine dinucleotide + 2 Nicotinamide adenine dinucleotide phosphate - reduced)
+FRNDPR2r:1 fdxr_42_c + 1 h_c + 1 nadh_c + 2 nadp_c <=> 1 fdxo_42_c + 1 nad_c + 2 nadph_c (1 Ferredoxin (reduced form 4:2) + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 2 Nicotinamide adenine dinucleotide phosphate <=> 1 Ferredoxin (oxidized form 4:2) + 1 Nicotinamide adenine dinucleotide + 2 Nicotinamide adenine dinucleotide phosphate - reduced)
+NADPHQR3:1 h_c + 1 mqn8_c + 1 nadph_c -> 1 mql8_c + 1 nadp_c (1 H+ + 1 Menaquinone 8 + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Menaquinol 8 + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+fdxo_42_c (Ferredoxin (oxidized form 4:2))
+fdxr_42_c (Ferredoxin (reduced form 4:2))
+flxr_c (Flavodoxin reduced)
+flxso_c (Flavodoxin semi oxidized)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+
+

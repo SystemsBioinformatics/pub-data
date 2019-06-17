@@ -1,0 +1,2 @@
+AdditionalInModel:
+CITL:1 cit_c -> 1 oaa_c + 1 ac_c (1 Citrate -> 1 Oxaloacetate + 1 Acetate)

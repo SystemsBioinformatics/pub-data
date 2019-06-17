@@ -1,0 +1,6 @@
+notRecovered:
+ACCOAPT:1 2maacoa_c + 1 coa_c + 2 h2o_c -> 1 accoa_c + 1 ppcoa_c (1 2-methylacetoacetyl-coenzyme A + 1 Coenzyme A + 2 H2O -> 1 Acetyl-CoA + 1 Propanoyl-CoA)
+
+
+AdditionalInModel:
+ACACT1r:2 accoa_c <=> 1 aacoa_c + 1 coa_c (2 Acetyl-CoA <=> 1 Acetoacetyl-CoA + 1 Coenzyme A)

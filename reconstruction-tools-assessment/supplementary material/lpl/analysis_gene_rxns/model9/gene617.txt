@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+SALCNH:1 h2o_c + 1 salcn_c -> 1 glc__D_c + 1 2hymeph_c (1 H2O H2O + 1 Salicin C13H18O7 -> 1 D-Glucose + 1 2-(Hydroxymethyl)phenol)
+S6PG:1 salcn6p_c + 1 h2o_c -> 1 g6p_c + 1 2hxmp_c (1 Salicin 6-phosphate + 1 H2O H2O -> 1 D-Glucose 6-phosphate + 1 2  Hydroxymethyl phenol C7H8O2)
+CLB6PH:1 cellb6p_c -> 1 g6p_c + 1 glc__D_c (1 Cellobiose 6 phosphate C12H21O14P -> 1 D-Glucose 6-phosphate + 1 D-Glucose)
+AB6PGH:1 arbt6p_c + 1 h2o_c -> 1 g6p_c + 1 hqn_c (1 Arbutin 6-phosphate + 1 H2O H2O -> 1 D-Glucose 6-phosphate + 1 Hydroquinone)
+CLBH:1 cellb_c -> 2 glc__D_c (1 Cellobiose -> 2 D-Glucose)
+6PHBG:1 salcn6p_c + 1 h2o_c -> 1 g6p_c + 1 2hymeph_c (1 Salicin 6-phosphate + 1 H2O H2O -> 1 D-Glucose 6-phosphate + 1 2-(Hydroxymethyl)phenol)
+
+
+AdditionalMetabolites:
+2hxmp_c (2  Hydroxymethyl phenol C7H8O2)
+2hymeph_c (2-(Hydroxymethyl)phenol)
+arbt6p_c (Arbutin 6-phosphate)
+cellb6p_c (Cellobiose 6 phosphate C12H21O14P)
+cellb_c (Cellobiose)
+hqn_c (Hydroquinone)
+salcn6p_c (Salicin 6-phosphate)
+salcn_c (Salicin C13H18O7)
+
+

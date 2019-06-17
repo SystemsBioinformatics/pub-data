@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-14228:1 CPD0-2231_c + 1 ATP_c <=> 1 DITP_c + 1 ADP_c (1 dIDP + 1 ATP <=> 1 dITP + 1 ADP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CPD0-2231_c (dIDP)
+DITP_c (dITP)
+
+

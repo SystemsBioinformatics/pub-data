@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R03321:1 C01172_c <=> 1 C05345_c (1 beta-D-Glucose 6-phosphate <=> 1 beta-D-Fructose 6-phosphate)
+
+
+AdditionalMetabolites:
+C01172_c (beta-D-Glucose 6-phosphate)
+C05345_c (beta-D-Fructose 6-phosphate)
+
+

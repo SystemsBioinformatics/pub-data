@@ -1,0 +1,16 @@
+notRecovered:
+MOADCST:1 MCOOH_c + 1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 MCOSH_c + 1 amp_c + 1 ppi_c + 1 ser__L_c (1 M_MPT_synthase_small_subunit_MoaD_ + 1 M_ATP_ + 1 M_L_Cysteine_ + 1 M_H2O_ -> 1 M_MPT_synthase_sulfurylated_small_subunit__MoaD_SH__ + 1 M_AMP_ + 1 M_Diphosphate_ + 1 M_L_Serine_)
+
+
+AdditionalNotInModel:
+THZSN:1 cys__L_c + 1 tyr__L_c + 1 dxyl_c -> 1 co2_c + 1 pyr_c + 1 nh4_c + 1 4mhetz_c + 1 h_c + 1 h2o_c + 1 4hba_c (1 L-Cysteine + 1 L-Tyrosine + 1 1-deoxy-D-xylulose -> 1 CO2 CO2 + 1 Pyruvate + 1 Ammonium + 1 4-Methyl-5-(2-hydroxyethyl)-thiazole + 1 H+ + 1 H2O H2O + 1 4-Hydroxy-benzyl alcohol)
+MPTSS:1 atp_c + 1 moadcoo_c + 1 h_c -> 1 ppi_c + 1 moadamp_c (1 ATP C10H12N5O13P3 + 1 MoaD Protein with carboxylate + 1 H+ -> 1 Diphosphate + 1 MoaD Protein with bound AMP)
+
+
+AdditionalMetabolites:
+4hba_c (4-Hydroxy-benzyl alcohol)
+dxyl_c (1-deoxy-D-xylulose)
+moadamp_c (MoaD Protein with bound AMP)
+moadcoo_c (MoaD Protein with carboxylate)
+
+

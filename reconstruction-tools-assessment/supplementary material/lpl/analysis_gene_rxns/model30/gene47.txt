@@ -1,0 +1,15 @@
+notRecovered:
+DHAPT:1 dha_c + 1 pep_c -> 1 dhap_c + 1 pyr_c (1 M_Dihydroxyacetone_ + 1 M_Phosphoenolpyruvate_ -> 1 M_Dihydroxyacetone_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R01011:1 C00184_c + 1 C00002_c <=> 1 C00111_c + 1 C00008_c (1 Glycerone + 1 ATP <=> 1 Glycerone phosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00111_c (Glycerone phosphate)
+C00184_c (Glycerone)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+GLYCLTDx:1 glx_c + 1 h_c + 1 nadh_c -> 1 glyclt_c + 1 nad_c (1 Glyoxylate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Glycolate + 1 Nicotinamide adenine dinucleotide)
+HPYRRx:1 h_c + 1 hpyr_c + 1 nadh_c -> 1 glyc__R_c + 1 nad_c (1 H+ + 1 Hydroxypyruvate + 1 Nicotinamide adenine dinucleotide - reduced -> 1 (R)-Glycerate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+R02527:1 C00937_c + 1 C00003_c <=> 1 C00546_c + 1 C00004_c + 1 C00080_c (1 (R)-Lactaldehyde + 1 NAD+ <=> 1 Methylglyoxal + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00546_c (Methylglyoxal)
+C00937_c ((R)-Lactaldehyde)
+
+

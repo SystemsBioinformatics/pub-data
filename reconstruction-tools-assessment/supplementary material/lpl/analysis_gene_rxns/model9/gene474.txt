@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+GALM2pp:1 gal_bD_p -> 1 gal_p (1 Beta D-Galactose -> 1 D-Galactose)
+
+
+AdditionalMetabolites:
+gal_bD_p (Beta D-Galactose)
+gal_p (D-Galactose)
+
+

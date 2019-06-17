@@ -1,0 +1,30 @@
+notRecovered:
+NTD8pp:1 dgmp_p + 1 h2o_p -> 1 dgsn_p + 1 pi_p (1 dGMP + 1 H2O -> 1 Deoxyguanosine + 1 Phosphate)
+NTD7pp:1 amp_p + 1 h2o_p -> 1 adn_p + 1 pi_p (1 AMP + 1 H2O -> 1 Adenosine + 1 Phosphate)
+NTD9pp:1 gmp_p + 1 h2o_p -> 1 gsn_p + 1 pi_p (1 GMP + 1 H2O -> 1 Guanosine + 1 Phosphate)
+NTD11pp:1 h2o_p + 1 imp_p -> 1 ins_p + 1 pi_p (1 H2O + 1 IMP -> 1 Inosine + 1 Phosphate)
+NTD10pp:1 h2o_p + 1 xmp_p -> 1 pi_p + 1 xtsn_p (1 H2O + 1 Xanthosine 5'-phosphate -> 1 Phosphate + 1 Xanthosine)
+NTD1pp:1 dump_p + 1 h2o_p -> 1 duri_p + 1 pi_p (1 dUMP + 1 H2O -> 1 Deoxyuridine + 1 Phosphate)
+NTD2pp:1 h2o_p + 1 ump_p -> 1 pi_p + 1 uri_p (1 H2O + 1 UMP -> 1 Phosphate + 1 Uridine)
+NTD5pp:1 dtmp_p + 1 h2o_p -> 1 pi_p + 1 thymd_p (1 dTMP + 1 H2O -> 1 Phosphate + 1 Thymidine)
+NTD6pp:1 damp_p + 1 h2o_p -> 1 dad_2_p + 1 pi_p (1 dAMP + 1 H2O -> 1 Deoxyadenosine + 1 Phosphate)
+NTD12pp:1 dimp_p + 1 h2o_p -> 1 din_p + 1 pi_p (1 dIMP + 1 H2O -> 1 Deoxyinosine + 1 Phosphate)
+NTD3pp:1 dcmp_p + 1 h2o_p -> 1 dcyt_p + 1 pi_p (1 dCMP + 1 H2O -> 1 Deoxycytidine + 1 Phosphate)
+NTD4pp:1 cmp_p + 1 h2o_p -> 1 cytd_p + 1 pi_p (1 CMP + 1 H2O -> 1 Cytidine + 1 Phosphate)
+
+
+AdditionalNotInModel:
+NTD11:1 imp_c + 1 h2o_c -> 1 ins_c + 1 pi_c (1 IMP C10H11N4O8P + 1 H2O H2O -> 1 Inosine + 1 Phosphate)
+NTD1:1 dump_c + 1 h2o_c -> 1 pi_c + 1 duri_c (1 DUMP C9H11N2O8P + 1 H2O H2O -> 1 Phosphate + 1 Deoxyuridine)
+NTD2:1 h2o_c + 1 ump_c -> 1 uri_c + 1 pi_c (1 H2O H2O + 1 UMP C9H11N2O9P -> 1 Uridine + 1 Phosphate)
+
+
+AdditionalMetabolites:
+duri_c (Deoxyuridine)
+ins_c (Inosine)
+uri_c (Uridine)
+
+
+AdditionalInModel:
+PPA2:1 h2o_c + 1 pppi_c -> 1 ppi_c + 1 h_c + 1 pi_c (1 H2O H2O + 1 Inorganic triphosphate -> 1 Diphosphate + 1 H+ + 1 Phosphate)
+PPA:1 ppi_c + 1 h2o_c -> 1 h_c + 2 pi_c (1 Diphosphate + 1 H2O H2O -> 1 H+ + 2 Phosphate)

@@ -1,0 +1,15 @@
+notRecovered:
+AGMT:1 agm_c + 1 h2o_c -> 1 ptrc_c + 1 urea_c (1 Agmatine + 1 H2O -> 1 Putrescine + 1 Urea)
+
+
+AdditionalNotInModel:
+rxn01142:1 cpd00001_c + 1 cpd00250_c <=> 1 cpd00073_c + 1 cpd00183_c (1 H2O_c0 + 1 Creatine_c0 <=> 1 Urea_c0 + 1 Sarcosine_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00073_c (Urea_c0)
+cpd00183_c (Sarcosine_c0)
+cpd00250_c (Creatine_c0)
+
+

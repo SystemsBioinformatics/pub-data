@@ -1,0 +1,13 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 M_UDPglucose_ <=> 1 M_UDPgalactose_)
+
+
+AdditionalNotInModel:
+AGMHE:1 adphep_DD_c -> 1 adphep_LD_c (1 ADP-D-glycero-D-manno-heptose -> 1 ADP-L-glycero-D-manno-heptose)
+
+
+AdditionalMetabolites:
+adphep_DD_c (ADP-D-glycero-D-manno-heptose)
+adphep_LD_c (ADP-L-glycero-D-manno-heptose)
+
+

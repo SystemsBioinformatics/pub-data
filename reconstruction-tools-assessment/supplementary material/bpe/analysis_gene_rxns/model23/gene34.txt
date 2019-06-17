@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+OHMETPYRKIN-RXN:1 ATP_c + 1 HMP_c -> 1 ADP_c + 1 AMINO-HYDROXYMETHYL-METHYL-PYR-P_c + 1 PROTON_c (1 ATP + 1 4-amino-2-methyl-5-pyrimidinemethanol -> 1 ADP + 1 4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+AMINO-HYDROXYMETHYL-METHYL-PYR-P_c (4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine)
+ATP_c (ATP)
+HMP_c (4-amino-2-methyl-5-pyrimidinemethanol)
+PROTON_c (H+)
+
+

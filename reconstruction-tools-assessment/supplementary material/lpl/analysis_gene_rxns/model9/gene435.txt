@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+GLUt2rpp:1 glu__L_p + 1 h_p <=> 1 h_c + 1 glu__L_c (1 L-Glutamate + 1 H+ <=> 1 H+ + 1 L-Glutamate)
+FUMt2r:1 fum_e + 1 h_e <=> 1 fum_c + 1 h_c (1 Fumarate + 1 H+ <=> 1 Fumarate + 1 H+)
+ASPt2pp:1 asp__L_p + 1 h_p -> 1 asp__L_c + 1 h_c (1 L-Aspartate + 1 H+ -> 1 L-Aspartate + 1 H+)
+GLUt4:1 na1_e + 1 glu__L_e -> 1 na1_c + 1 glu__L_c (1 Sodium + 1 L-Glutamate -> 1 Sodium + 1 L-Glutamate)
+ASPt2pp_copy1:1 asp__L_p + 1 h_p -> 1 asp__L_c + 1 h_c (1 L-Aspartate + 1 H+ -> 1 L-Aspartate + 1 H+)
+
+
+AdditionalMetabolites:
+asp__L_p (L-Aspartate)
+fum_e (Fumarate)
+glu__L_p (L-Glutamate)
+h_p (H+)
+
+
+AdditionalInModel:
+SUCCt2r:1 succ_e + 1 h_e <=> 1 succ_c + 1 h_c (1 Succinate + 1 H+ <=> 1 Succinate + 1 H+)
+GLUt2r:1 h_e + 1 glu__L_e <=> 1 h_c + 1 glu__L_c (1 H+ + 1 L-Glutamate <=> 1 H+ + 1 L-Glutamate)
+GLUt2r_copy1:1 h_e + 1 glu__L_e -> 1 h_c + 1 glu__L_c (1 H+ + 1 L-Glutamate -> 1 H+ + 1 L-Glutamate)
+MALt2r:1 h_e + 1 mal__L_e <=> 1 h_c + 1 mal__L_c (1 H+ + 1 L-Malate <=> 1 H+ + 1 L-Malate)

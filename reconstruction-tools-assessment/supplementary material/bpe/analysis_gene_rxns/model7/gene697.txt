@@ -1,0 +1,12 @@
+notRecovered:
+USHD_BP:1 h2o_c + 1 u23ga_BP_c -> 2 h_c + 1 lipidX_BP_c + 1 ump_c (1 H2O + 1 UDP-2-(3-hydroxytetradecanoyl),3-(3-hydroxydecanoyl)-glucosamine -> 2 H+ + 1 2-(3-hydroxytetradecanoyl),3-(3-hydroxydecanoyl)-beta-D-glucosaminyl 1-phosphate + 1 UMP)
+
+
+AdditionalNotInModel:
+USHD:1 u23ga_c + 1 h2o_c -> 2 h_c + 1 ump_c + 1 lipidX_c (1 UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine + 1 H2O H2O -> 2 H+ + 1 UMP C9H11N2O9P + 1 2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate)
+
+
+AdditionalMetabolites:
+lipidX_c (2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate)
+
+

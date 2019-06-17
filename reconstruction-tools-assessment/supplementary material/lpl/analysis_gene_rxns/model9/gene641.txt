@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+ADPT2:1 aicar_c + 1 ppi_c <=> 1 prpp_c + 1 C04051_c (1 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide + 1 Diphosphate <=> 1 5-Phospho-alpha-D-ribose 1-diphosphate + 1 C04051)
+
+
+AdditionalMetabolites:
+C04051_c (C04051)
+
+
+AdditionalInModel:
+GUAPRT:1 prpp_c + 1 gua_c -> 1 gmp_c + 1 ppi_c (1 5-Phospho-alpha-D-ribose 1-diphosphate + 1 Guanine -> 1 GMP C10H12N5O8P + 1 Diphosphate)

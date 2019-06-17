@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R10221:1 C00003_c + 1 C00345_c <=> 1 C00004_c + 1 C00011_c + 1 C00080_c + 1 C00199_c (1 NAD+ + 1 6-Phospho-D-gluconate <=> 1 NADH + 1 CO2 + 1 H+ + 1 D-Ribulose 5-phosphate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00011_c (CO2)
+C00080_c (H+)
+C00199_c (D-Ribulose 5-phosphate)
+C00345_c (6-Phospho-D-gluconate)
+
+

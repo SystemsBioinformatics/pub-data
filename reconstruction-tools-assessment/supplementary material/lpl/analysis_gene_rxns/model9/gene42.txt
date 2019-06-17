@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+SERTRS2:1 atp_c + 1 ser__L_c + 1 trnasecys_c -> 1 amp_c + 1 ppi_c + 1 sertrna_sec_c (1 ATP C10H12N5O13P3 + 1 L-Serine + 1 TRNA(SeCys) -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 L-Seryl-tRNA(Sec))
+
+
+AdditionalMetabolites:
+sertrna_sec_c (L-Seryl-tRNA(Sec))
+trnasecys_c (TRNA(SeCys))
+
+
+AdditionalInModel:
+SERTRS_1:1 atp_c + 1 ser__L_c + 1 trnaser_c -> 1 amp_c + 1 ppi_c + 1 h_c + 1 sertrna_c (1 ATP C10H12N5O13P3 + 1 L-Serine + 1 TRNA(Ser) -> 1 AMP C10H12N5O7P + 1 Diphosphate + 1 H+ + 1 L-Seryl-tRNA(Ser))

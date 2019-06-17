@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn02835:1 cpd00001_c + 1 cpd01777_c <=> 1 cpd02979_c (1 H2O_c0 + 1 Phosphoribosyl_AMP_c0 <=> 1 phosphoribosylformiminoaicar_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd01777_c (Phosphoribosyl_AMP_c0)
+cpd02979_c (phosphoribosylformiminoaicar_phosphate_c0)
+
+

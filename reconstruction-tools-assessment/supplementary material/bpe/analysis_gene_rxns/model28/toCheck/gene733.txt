@@ -1,0 +1,18 @@
+notRecovered:
+ANTHDIODC:1 anth_c + 3 h_c + 1 nadh_c + 1 o2_c -> 1 catechol_c + 1 co2_c + 1 nad_c + 1 nh4_c (1 Anthranilate + 3 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 O2 -> 1 Catechol + 1 CO2 + 1 Nicotinamide adenine dinucleotide + 1 Ammonium)
+
+
+AdditionalNotInModel:
+R01033:1 C02357_c + 1 C00004_c + 1 C00007_c <=> 1 C00698_c + 1 C00011_c + 1 C00003_c + 1 C00090_c (1 2-Chlorobenzoate + 1 NADH + 1 Oxygen <=> 1 Cl- + 1 CO2 + 1 NAD+ + 1 Catechol)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00007_c (Oxygen)
+C00011_c (CO2)
+C00090_c (Catechol)
+C00698_c (Cl-)
+C02357_c (2-Chlorobenzoate)
+
+

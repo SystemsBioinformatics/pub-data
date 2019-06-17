@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+METR:1 5mthf_c + 1 cfesp_c <=> 1 mecfsp_c + 1 thf_c (1 5-Methyltetrahydrofolate + 1 Corrinoid Iron sulfur protein <=> 1 Methylcorrinoid iron sulfur protein + 1 5,6,7,8-Tetrahydrofolate)
+MTHFR:1 fadh2_c + 1 mlthf_c + 1 h_c -> 1 5mthf_c + 1 fad_c (1 Flavin adenine dinucleotide reduced + 1 5,10-Methylenetetrahydrofolate + 1 H+ -> 1 5-Methyltetrahydrofolate + 1 Flavin adenine dinucleotide oxidized)
+
+
+AdditionalMetabolites:
+cfesp_c (Corrinoid Iron sulfur protein)
+fadh2_c (Flavin adenine dinucleotide reduced)
+mecfsp_c (Methylcorrinoid iron sulfur protein)
+
+
+AdditionalInModel:
+MTHFR3:1 nadph_c + 1 mlthf_c + 2 h_c -> 1 5mthf_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 5,10-Methylenetetrahydrofolate + 2 H+ -> 1 5-Methyltetrahydrofolate + 1 Nicotinamide adenine dinucleotide phosphate)
+MTHFR3_1:1 nadph_c + 1 mlthf_c + 1 h_c -> 1 5mthf_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 5,10-Methylenetetrahydrofolate + 1 H+ -> 1 5-Methyltetrahydrofolate + 1 Nicotinamide adenine dinucleotide phosphate)
+HCYSMT:1 hcys__L_c + 1 amet_c -> 1 met__L_c + 1 h_c + 1 ahcys_c (1 L-Homocysteine + 1 S-Adenosyl-L-methionine -> 1 L-Methionine + 1 H+ + 1 S-Adenosyl-L-homocysteine)

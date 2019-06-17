@@ -1,0 +1,16 @@
+notRecovered:
+HEX7:1 atp_c + 1 fru_c -> 1 adp_c + 1 f6p_c + 1 h_c (1 M_ATP_ + 1 M_D_Fructose_ -> 1 M_ADP_ + 1 M_D_Fructose_6_phosphate_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+FRUCTOKINASE-RXN:1 BETA-D-FRUCTOSE_c + 1 ATP_c <=> 1 FRUCTOSE-6P_c + 1 ADP_c + 1 PROTON_c (1 beta-D-fructofuranose + 1 ATP <=> 1 beta-D-fructofuranose 6-phosphate + 1 ADP + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+BETA-D-FRUCTOSE_c (beta-D-fructofuranose)
+FRUCTOSE-6P_c (beta-D-fructofuranose 6-phosphate)
+PROTON_c (H+)
+
+

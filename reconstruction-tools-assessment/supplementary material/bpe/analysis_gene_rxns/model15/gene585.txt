@@ -1,0 +1,5 @@
+notRecovered:
+FDXR2:1 coa_c + 1 fdxox_c + 1 h_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 fdxrd_c (1 Coenzyme A + 1 ferredoxin (oxidized) + 1 H+ + 1 Pyruvate -> 1 Acetyl-CoA + 1 CO2 + 1 ferredoxin (reduced))
+PFOR:1 coa_c + 1 fldox_c + 1 h_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 fldrd_c (1 Coenzyme A + 1 flavodoxin (oxidized) + 1 H+ + 1 Pyruvate -> 1 Acetyl-CoA + 1 CO2 + 1 flavodoxin (reduced))
+
+

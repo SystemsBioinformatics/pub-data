@@ -1,0 +1,23 @@
+notRecovered:
+UACGALDH_BP:1 h2o_c + 2 nad_c + 1 udpacgal_c -> 3 h_c + 2 nadh_c + 1 uacgalu_c (1 H2O + 2 Nicotinamide adenine dinucleotide + 1 UDP-N-acetyl-D-galactosamine -> 3 H+ + 2 Nicotinamide adenine dinucleotide - reduced + 1 UDP-N-acetyl-D-galactosaminuronate)
+UDPGLCNACDH_BP:1 h2o_c + 2 nad_c + 1 uacgam_c <=> 3 h_c + 2 nadh_c + 1 uacgama_c (1 H2O + 2 Nicotinamide adenine dinucleotide + 1 UDP-N-acetyl-D-glucosamine <=> 3 H+ + 2 Nicotinamide adenine dinucleotide - reduced + 1 UDP-N-acetylglucosaminuronate)
+
+
+AdditionalNotInModel:
+RXN-14756:1 CPD-14795_c + 2 NAD-P-OR-NOP_c + 1 WATER_c -> 1 CPD-15639_c + 2 NADH-P-OR-NOP_c + 3 PROTON_c (1 UDP-N-acetyl-alpha-D-galactosamine + 2 NAD-P-OR-NOP + 1 H2O -> 1 UDP-N-acetyl-alpha-D-galactosaminouronate + 2 NADH-P-OR-NOP + 3 H+)
+1.1.1.136-RXN:2 NAD_c + 1 UDP-N-ACETYL-D-GLUCOSAMINE_c + 1 WATER_c -> 2 NADH_c + 3 PROTON_c + 1 UDP-N-ACETYL-2-AMINO-D-GLUCURONATE_c (2 NAD+ + 1 UDP-N-acetyl-alpha-D-glucosamine + 1 H2O -> 2 NADH + 3 H+ + 1 UDP-N-acetyl-alpha-D-glucosaminouronate)
+
+
+AdditionalMetabolites:
+CPD-14795_c (UDP-N-acetyl-alpha-D-galactosamine)
+CPD-15639_c (UDP-N-acetyl-alpha-D-galactosaminouronate)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+UDP-N-ACETYL-2-AMINO-D-GLUCURONATE_c (UDP-N-acetyl-alpha-D-glucosaminouronate)
+UDP-N-ACETYL-D-GLUCOSAMINE_c (UDP-N-acetyl-alpha-D-glucosamine)
+WATER_c (H2O)
+
+

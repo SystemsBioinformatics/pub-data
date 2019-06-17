@@ -1,0 +1,19 @@
+notRecovered:
+PZS:1 gtp_c -> 1 cpmp_c + 1 ppi_c (1 M_GTP_ -> 1 M_Precursor_Z_in_molybdenum_cofactor_biosynthesis_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+RXN-8340:1 Donor-H2_c + 1 GTP_c + 1 S-ADENOSYLMETHIONINE_c -> 1 Acceptor_c + 1 CH33ADO_c + 1 CPD-19179_c + 1 MET_c + 1 PROTON_c (1 Donor-H2 + 1 GTP + 1 S-adenosyl-L-methionine -> 1 Acceptor + 1 5'-deoxyadenosine + 1 (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate + 1 L-methionine + 1 H+)
+
+
+AdditionalMetabolites:
+Acceptor_c (Acceptor)
+CH33ADO_c (5'-deoxyadenosine)
+CPD-19179_c ((8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate)
+Donor-H2_c (Donor-H2)
+GTP_c (GTP)
+MET_c (L-methionine)
+PROTON_c (H+)
+S-ADENOSYLMETHIONINE_c (S-adenosyl-L-methionine)
+
+

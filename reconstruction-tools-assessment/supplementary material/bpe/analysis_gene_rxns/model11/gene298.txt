@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+RXN-14325:1 UTP_c + 1 AMMONIUM_c + 1 ATP_c -> 1 CTP_c + 1 Pi_c + 1 ADP_c + 2 PROTON_c (1 UTP + 1 ammonium + 1 ATP -> 1 CTP + 1 phosphate + 1 ADP + 2 H+)
+GLUTAMIN-RXN:1 GLN_c + 1 WATER_c -> 1 AMMONIUM_c + 1 GLT_c (1 L-glutamine + 1 H2O -> 1 ammonium + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+AMMONIUM_c (ammonium)
+ATP_c (ATP)
+CTP_c (CTP)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+PROTON_c (H+)
+Pi_c (phosphate)
+UTP_c (UTP)
+WATER_c (H2O)
+
+

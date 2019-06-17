@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+SLCYSS:1 acser_c + 1 tsul_c -> 1 ac_c + 1 scys__L_c (1 O-Acetyl-L-serine + 1 Thiosulfate -> 1 Acetate + 1 S-Sulfo-L-cysteine)
+CHOLS_ex:1 chols_e <=> 1 chols_p (1 Choline sulfate <=> 1 Choline sulfate)
+CYS:1 ser__L_c + 1 h2s_c <=> 1 cys__L_c + 1 h2o_c (1 L-Serine + 1 Hydrogen sulfide <=> 1 L-Cysteine + 1 H2O H2O)
+CYSTS:1 hcys__L_c + 1 ser__L_c -> 1 cyst__L_c + 1 h2o_c (1 L-Homocysteine + 1 L-Serine -> 1 L-Cystathionine + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+chols_e (Choline sulfate)
+chols_p (Choline sulfate)
+scys__L_c (S-Sulfo-L-cysteine)
+tsul_c (Thiosulfate)
+
+
+AdditionalInModel:
+CYSS:1 acser_c + 1 h2s_c -> 1 cys__L_c + 1 ac_c + 1 h_c (1 O-Acetyl-L-serine + 1 Hydrogen sulfide -> 1 L-Cysteine + 1 Acetate + 1 H+)

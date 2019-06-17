@@ -1,0 +1,21 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+
+
+AdditionalNotInModel:
+3-OXOACYL-ACP-SYNTH-BASE-RXN:1 ACETYL-ACP_c + 1 MALONYL-ACP_c + 1 PROTON_c -> 1 ACP_c + 1 Acetoacetyl-ACPs_c + 1 CARBON-DIOXIDE_c (1 ACETYL-ACP + 1 MALONYL-ACP + 1 H+ -> 1 ACP + 1 Acetoacetyl-ACPs + 1 CO2)
+RXN-12567:1 OH-HEXANOYL-COA_c -> 1 CPD0-2121_c + 1 WATER_c (1 (S)-3-hydroxyhexanoyl-CoA -> 1 trans-hex-2-enoyl-CoA + 1 H2O)
+
+
+AdditionalMetabolites:
+ACETYL-ACP_c (ACETYL-ACP)
+Acetoacetyl-ACPs_c (Acetoacetyl-ACPs)
+CARBON-DIOXIDE_c (CO2)
+CPD0-2121_c (trans-hex-2-enoyl-CoA)
+MALONYL-ACP_c (MALONYL-ACP)
+OH-HEXANOYL-COA_c ((S)-3-hydroxyhexanoyl-CoA)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

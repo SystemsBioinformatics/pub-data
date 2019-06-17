@@ -1,0 +1,24 @@
+notRecovered:
+GLUTCOADHc:1 fad_c + 1 glutcoa_c + 1 h_c <=> 1 b2coa_c + 1 co2_c + 1 fadh2_c (1 Flavin adenine dinucleotide oxidized + 1 glutaryl-coenzyme A + 1 H+ <=> 1 Crotonoyl-CoA + 1 CO2 + 1 Flavin adenine dinucleotide reduced)
+
+
+AdditionalNotInModel:
+RXN-12518:1 OXYGEN-MOLECULE_c + 1 cis-5-enoyl-CoA_c -> 1 HYDROGEN-PEROXIDE_c + 1 trans-2-cis-5-dienoyl-CoA_c (1 oxygen + 1 cis-5-enoyl-CoA -> 1 hydrogen peroxide + 1 trans-2-cis-5-dienoyl-CoA)
+RXN-11026:1 OXYGEN-MOLECULE_c + 1 Saturated-Fatty-Acyl-CoA_c -> 1 HYDROGEN-PEROXIDE_c + 1 TRANS-D2-ENOYL-COA_c (1 oxygen + 1 Saturated-Fatty-Acyl-CoA -> 1 hydrogen peroxide + 1 TRANS-D2-ENOYL-COA)
+RXN-18383:1 4-HYDROXY-BUTYRYL-COA_c + 1 OXYGEN-MOLECULE_c -> 1 HYDROGEN-PEROXIDE_c + 1 OH-CROTONYL-COA_c (1 4-hydroxybutanoyl-CoA + 1 oxygen -> 1 hydrogen peroxide + 1 4-hydroxycrotonyl-CoA)
+RXN-15977:1 OXYGEN-MOLECULE_c + 1 PROPIONYL-COA_c -> 1 ACRYLYL-COA_c + 1 HYDROGEN-PEROXIDE_c (1 oxygen + 1 propanoyl-CoA -> 1 acryloyl-CoA + 1 hydrogen peroxide)
+
+
+AdditionalMetabolites:
+4-HYDROXY-BUTYRYL-COA_c (4-hydroxybutanoyl-CoA)
+ACRYLYL-COA_c (acryloyl-CoA)
+HYDROGEN-PEROXIDE_c (hydrogen peroxide)
+OH-CROTONYL-COA_c (4-hydroxycrotonyl-CoA)
+OXYGEN-MOLECULE_c (oxygen)
+PROPIONYL-COA_c (propanoyl-CoA)
+Saturated-Fatty-Acyl-CoA_c (Saturated-Fatty-Acyl-CoA)
+TRANS-D2-ENOYL-COA_c (TRANS-D2-ENOYL-COA)
+cis-5-enoyl-CoA_c (cis-5-enoyl-CoA)
+trans-2-cis-5-dienoyl-CoA_c (trans-2-cis-5-dienoyl-CoA)
+
+

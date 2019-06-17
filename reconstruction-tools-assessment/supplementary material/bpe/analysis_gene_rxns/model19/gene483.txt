@@ -1,0 +1,16 @@
+notRecovered:
+NAt3pp:1 h_p + 1 na1_c -> 1 h_c + 1 na1_p (1 H+ + 1 Sodium -> 1 H+ + 1 Sodium)
+Kt3pp:1 h_p + 1 k_c -> 1 h_c + 1 k_p (1 H+ + 1 potassium -> 1 H+ + 1 potassium)
+
+
+AdditionalNotInModel:
+R02166:1 C00028_c + 1 C00390_c <=> 1 C00030_c + 1 C00399_c (1 Acceptor + 1 Ubiquinol <=> 1 Reduced acceptor + 1 Ubiquinone)
+
+
+AdditionalMetabolites:
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00390_c (Ubiquinol)
+C00399_c (Ubiquinone)
+
+

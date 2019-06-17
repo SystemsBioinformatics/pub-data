@@ -1,0 +1,4 @@
+notRecovered:
+DMATT:1 dmpp_c + 1 ipdp_c -> 1 grdp_c + 1 ppi_c (1 Dimethylallyl diphosphate + 1 Isopentenyl diphosphate -> 1 Geranyl diphosphate + 1 Diphosphate)
+
+

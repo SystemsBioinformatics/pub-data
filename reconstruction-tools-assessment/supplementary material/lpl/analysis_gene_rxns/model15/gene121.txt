@@ -1,0 +1,13 @@
+notRecovered:
+DHAt:1 dha_e <=> 1 dha_c (1 M_Dihydroxyacetone_ <=> 1 M_Dihydroxyacetone_)
+
+
+AdditionalNotInModel:
+rxn05581:1 cpd00100_c <=> 1 cpd00100_e (1 Glycerol_c0 <=> 1 Glycerol_e0)
+
+
+AdditionalMetabolites:
+cpd00100_c (Glycerol_c0)
+cpd00100_e (Glycerol_e0)
+
+

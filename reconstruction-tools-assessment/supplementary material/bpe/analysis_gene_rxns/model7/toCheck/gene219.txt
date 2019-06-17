@@ -1,0 +1,19 @@
+notRecovered:
+UAC3NGAMANACET_BP:1 accoa_c + 1 uac3ngama_c -> 1 coa_c + 1 uac3nacgama_c (1 Acetyl-CoA + 1 UDP-2-N-acetyl-3-amino-glucosaminuronate -> 1 Coenzyme A + 1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate)
+
+
+AdditionalNotInModel:
+MALTATr:1 malt_c + 1 accoa_c <=> 1 acmalt_c + 1 coa_c (1 Maltose C12H22O11 + 1 Acetyl-CoA <=> 1 Acetyl-maltose + 1 Coenzyme A)
+O16AT:1 ragund_c + 1 accoa_c -> 1 aragund_c + 1 coa_c (1 Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate + 1 Acetyl-CoA -> 1 O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate + 1 Coenzyme A)
+GLCATr:1 glc__D_c + 1 accoa_c <=> 1 coa_c + 1 acglc__D_c (1 D-Glucose + 1 Acetyl-CoA <=> 1 Coenzyme A + 1 6-Acetyl-D-glucose)
+
+
+AdditionalMetabolites:
+acglc__D_c (6-Acetyl-D-glucose)
+acmalt_c (Acetyl-maltose)
+aragund_c (O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate)
+glc__D_c (D-Glucose)
+malt_c (Maltose C12H22O11)
+ragund_c (Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate)
+
+

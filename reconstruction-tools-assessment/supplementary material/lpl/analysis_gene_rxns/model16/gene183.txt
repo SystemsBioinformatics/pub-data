@@ -1,0 +1,4 @@
+notRecovered:
+GF6PTA:1 f6p_c + 1 gln__L_c -> 1 gam6p_c + 1 glu__L_c (1 M_D_Fructose_6_phosphate_ + 1 M_L_Glutamine_ -> 1 M_D_Glucosamine_6_phosphate_ + 1 M_L_Glutamate_)
+
+

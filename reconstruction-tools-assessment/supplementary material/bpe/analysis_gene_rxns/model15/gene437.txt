@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R05637:1 C11436_c <=> 1 C00055_c + 1 C11453_c (1 2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol <=> 1 CMP + 1 2-C-Methyl-D-erythritol 2,4-cyclodiphosphate)
+
+
+AdditionalMetabolites:
+C00055_c (CMP)
+C11436_c (2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol)
+C11453_c (2-C-Methyl-D-erythritol 2,4-cyclodiphosphate)
+
+

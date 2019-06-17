@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+R00650:1 C00019_c + 1 C00155_c <=> 1 C00021_c + 1 C00073_c (1 S-Adenosyl-L-methionine + 1 L-Homocysteine <=> 1 S-Adenosyl-L-homocysteine + 1 L-Methionine)
+R09365:1 C04489_c + 1 C05698_c -> 1 C04144_c + 1 C05335_c (1 5-Methyltetrahydropteroyltri-L-glutamate + 1 Selenohomocysteine -> 1 Tetrahydropteroyltri-L-glutamate + 1 L-Selenomethionine)
+
+
+AdditionalMetabolites:
+C00019_c (S-Adenosyl-L-methionine)
+C00021_c (S-Adenosyl-L-homocysteine)
+C00073_c (L-Methionine)
+C00155_c (L-Homocysteine)
+C04144_c (Tetrahydropteroyltri-L-glutamate)
+C04489_c (5-Methyltetrahydropteroyltri-L-glutamate)
+C05335_c (L-Selenomethionine)
+C05698_c (Selenohomocysteine)
+
+

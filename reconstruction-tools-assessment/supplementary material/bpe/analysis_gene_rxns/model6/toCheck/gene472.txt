@@ -1,0 +1,13 @@
+notRecovered:
+KARA2:1 2ahbut_c + 1 h_c + 1 nadph_c <=> 1 23dhmp_c + 1 nadp_c (1 (S)-2-Aceto-2-hydroxybutanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced <=> 1 (R)-2,3-Dihydroxy-3-methylpentanoate + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalNotInModel:
+KARI_1:1 2ahbut_c -> 1 3hmop_c (1 (S)-2-Aceto-2-hydroxybutanoate -> 1 (R)-3-Hydroxy-3-methyl-2-oxopentanoate)
+KARI_23dhmp_1:1 3hmop_c + 1 h_c + 1 nadph_c -> 1 23dhmp_c + 1 nadp_c (1 (R)-3-Hydroxy-3-methyl-2-oxopentanoate + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 (R)-2,3-Dihydroxy-3-methylpentanoate + 1 Nicotinamide adenine dinucleotide phosphate)
+
+
+AdditionalMetabolites:
+3hmop_c ((R)-3-Hydroxy-3-methyl-2-oxopentanoate)
+
+

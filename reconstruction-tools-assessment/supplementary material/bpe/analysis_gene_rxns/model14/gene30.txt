@@ -1,0 +1,53 @@
+notRecovered:
+PGPP141pp:1 h2o_p + 1 pgp141_p -> 1 pg141_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1) -> 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) + 1 Phosphate)
+PGPP161pp:1 h2o_p + 1 pgp161_p -> 1 pg161_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1) -> 1 Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1) + 1 Phosphate)
+PGPP120:1 h2o_c + 1 pgp120_c -> 1 pg120_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) -> 1 Phosphatidylglycerol (didodecanoyl, n-C12:0) + 1 Phosphate)
+PGPP140:1 h2o_c + 1 pgp140_c -> 1 pg140_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) -> 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) + 1 Phosphate)
+PGPP180pp:1 h2o_p + 1 pgp180_p -> 1 pg180_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0) -> 1 Phosphatidylglycerol (dioctadecanoyl, n-C18:0) + 1 Phosphate)
+PGPP181pp:1 h2o_p + 1 pgp181_p -> 1 pg181_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) -> 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) + 1 Phosphate)
+PGPP120pp:1 h2o_p + 1 pgp120_p -> 1 pg120_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (didodecanoyl, n-C12:0) -> 1 Phosphatidylglycerol (didodecanoyl, n-C12:0) + 1 Phosphate)
+PGPP141:1 h2o_c + 1 pgp141_c -> 1 pg141_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1) -> 1 Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1) + 1 Phosphate)
+PGPP140pp:1 h2o_p + 1 pgp140_p -> 1 pg140_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0) -> 1 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) + 1 Phosphate)
+PGPP160pp:1 h2o_p + 1 pgp160_p -> 1 pg160_p + 1 pi_p (1 H2O + 1 Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0) -> 1 Phosphatidylglycerol (dihexadecanoyl, n-C16:0) + 1 Phosphate)
+PGPP181:1 h2o_c + 1 pgp181_c -> 1 pg181_c + 1 pi_c (1 H2O + 1 Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1) -> 1 Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1) + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn10270:1 cpd00001_c + 1 cpd15721_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15727_c (1 H2O_c0 + 1 Diisohexadecanoylphosphatidylglycerophosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Diisohexadecanoylphosphatidylglycerol_c0)
+rxn09103:1 cpd00001_c + 1 cpd15544_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15537_c (1 H2O_c0 + 1 Phosphatidylglycerophosphate_ditetradec_7_enoyl_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Phosphatidylglycerol_ditetradec_7_enoyl_c0)
+rxn10265:1 cpd00001_c + 1 cpd15716_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15722_c (1 H2O_c0 + 1 Diisoheptadecanoylphosphatidylglycerophosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Diisoheptadecanoylphosphatidylglycerol_c0)
+rxn10269:1 cpd00001_c + 1 cpd15720_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15726_c (1 H2O_c0 + 1 Dianteisopentadecanoylphosphatidylglycerophosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Dianteisopentadecanoylphosphatidylglycerol_c0)
+rxn10266:1 cpd00001_c + 1 cpd15717_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15723_c (1 H2O_c0 + 1 Dianteisoheptadecanoylphosphatidylglycerophosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Dianteisoheptadecanoylphosphatidylglycerol_c0)
+rxn09102:1 cpd00001_c + 1 cpd15543_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15536_c (1 H2O_c0 + 1 Phosphatidylglycerophosphate_ditetradecanoyl_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Phosphatidylglycerol_ditetradecanoyl_c0)
+rxn09101:1 cpd00001_c + 1 cpd15542_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15535_c (1 H2O_c0 + 1 Phosphatidylglycerophosphate_didodecanoyl_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Phosphatidylglycerol_didodecanoyl_c0)
+rxn10267:1 cpd00001_c + 1 cpd15718_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15724_c (1 H2O_c0 + 1 Diisotetradecanoylphosphatidylglycerophosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Diisotetradecanoylphosphatidylglycerol_c0)
+rxn09107:1 cpd00001_c + 1 cpd15548_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15541_c (1 H2O_c0 + 1 Phosphatidylglycerophosphate_dioctadec_11_enoyl_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Phosphatidylglycerol_dioctadec_11_enoyl_c0)
+rxn10268:1 cpd00001_c + 1 cpd15719_c -> 1 cpd00067_c + 1 cpd00009_c + 1 cpd15725_c (1 H2O_c0 + 1 Diisopentadecanoylphosphatidylglycerophosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 1 Diisopentadecanoylphosphatidylglycerol_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd15535_c (Phosphatidylglycerol_didodecanoyl_c0)
+cpd15536_c (Phosphatidylglycerol_ditetradecanoyl_c0)
+cpd15537_c (Phosphatidylglycerol_ditetradec_7_enoyl_c0)
+cpd15541_c (Phosphatidylglycerol_dioctadec_11_enoyl_c0)
+cpd15542_c (Phosphatidylglycerophosphate_didodecanoyl_c0)
+cpd15543_c (Phosphatidylglycerophosphate_ditetradecanoyl_c0)
+cpd15544_c (Phosphatidylglycerophosphate_ditetradec_7_enoyl_c0)
+cpd15548_c (Phosphatidylglycerophosphate_dioctadec_11_enoyl_c0)
+cpd15716_c (Diisoheptadecanoylphosphatidylglycerophosphate_c0)
+cpd15717_c (Dianteisoheptadecanoylphosphatidylglycerophosphate_c0)
+cpd15718_c (Diisotetradecanoylphosphatidylglycerophosphate_c0)
+cpd15719_c (Diisopentadecanoylphosphatidylglycerophosphate_c0)
+cpd15720_c (Dianteisopentadecanoylphosphatidylglycerophosphate_c0)
+cpd15721_c (Diisohexadecanoylphosphatidylglycerophosphate_c0)
+cpd15722_c (Diisoheptadecanoylphosphatidylglycerol_c0)
+cpd15723_c (Dianteisoheptadecanoylphosphatidylglycerol_c0)
+cpd15724_c (Diisotetradecanoylphosphatidylglycerol_c0)
+cpd15725_c (Diisopentadecanoylphosphatidylglycerol_c0)
+cpd15726_c (Dianteisopentadecanoylphosphatidylglycerol_c0)
+cpd15727_c (Diisohexadecanoylphosphatidylglycerol_c0)
+
+

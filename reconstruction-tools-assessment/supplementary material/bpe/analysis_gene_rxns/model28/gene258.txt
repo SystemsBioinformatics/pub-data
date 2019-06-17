@@ -1,0 +1,4 @@
+notRecovered:
+SDPDS:1 h2o_c + 1 sl26da_c -> 1 26dap_LL_c + 1 succ_c (1 H2O + 1 N-Succinyl-LL-2,6-diaminoheptanedioate -> 1 LL-2,6-Diaminoheptanedioate + 1 Succinate)
+
+

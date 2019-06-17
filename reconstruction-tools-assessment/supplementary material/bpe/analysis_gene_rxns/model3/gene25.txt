@@ -1,0 +1,6 @@
+AdditionalNotInModel:
+ACONT:1 cit_c <=> 1 icit_c (1 Citrate <=> 1 Isocitrate)
+
+
+AdditionalInModel:
+MICITDr:1 h2o_c + 1 2mcacn_c <=> 1 micit_c (1 H2O + 1 Cis-2-Methylaconitate <=> 1 Methylisocitrate)

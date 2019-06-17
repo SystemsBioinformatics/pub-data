@@ -1,0 +1,30 @@
+AdditionalNotInModel:
+HPYRRy:1 nadph_c + 1 hpyr_c + 1 h_c -> 1 nadp_c + 1 glyc__R_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Hydroxypyruvate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-Glycerate)
+2DGULRx:1 nadh_c + 1 2dhguln_c + 1 h_c -> 1 nad_c + 1 idon__L_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2-Dehydro-L-gulonate + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 L-Idonate)
+PGLCNDH:1 nadph_c + 1 6p2dhglcn_c <=> 1 nadp_c + 1 6pgc_c + 2 h_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 6-Phospho-2-dehydro-D-gluconate <=> 1 Nicotinamide adenine dinucleotide phosphate + 1 6-Phospho-D-gluconate + 2 H+)
+2DGLCNRx:1 nadh_c + 1 2dhglcn_c + 1 h_c -> 1 glcn_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2-Dehydro-D-gluconate + 1 H+ -> 1 D-Gluconate + 1 Nicotinamide adenine dinucleotide)
+HPYRRx:1 nadh_c + 1 hpyr_c + 1 h_c -> 1 nad_c + 1 glyc__R_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Hydroxypyruvate + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 (R)-Glycerate)
+2DGLCNRy:1 nadph_c + 1 2dhglcn_c + 1 h_c -> 1 glcn_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-Dehydro-D-gluconate + 1 H+ -> 1 D-Gluconate + 1 Nicotinamide adenine dinucleotide phosphate)
+2DGULRy:1 nadph_c + 1 2dhguln_c + 1 h_c -> 1 nadp_c + 1 idon__L_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-Dehydro-L-gulonate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 L-Idonate)
+2DGULRGy:1 nadph_c + 1 2dhguln_c + 1 h_c -> 1 glcn_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-Dehydro-L-gulonate + 1 H+ -> 1 D-Gluconate + 1 Nicotinamide adenine dinucleotide phosphate)
+PERD:1 4per_c + 1 nad_c <=> 1 nadh_c + 1 ohpb_c + 1 h_c (1 4-Phospho-D-erythronate + 1 Nicotinamide adenine dinucleotide <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 2-Oxo-3-hydroxy-4-phosphobutanoate + 1 H+)
+2DGULRGx:1 nadh_c + 1 2dhguln_c + 1 h_c -> 1 glcn_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 2-Dehydro-L-gulonate + 1 H+ -> 1 D-Gluconate + 1 Nicotinamide adenine dinucleotide)
+GLYCLTDy:1 nadph_c + 1 glx_c + 1 h_c -> 1 nadp_c + 1 glyclt_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Glyoxylate + 1 H+ -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Glycolate C2H3O3)
+DKGLCNR2y:1 nadph_c + 1 h_c + 1 25dkglcn_c -> 1 5dglcn_c + 1 nadp_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 H+ + 1 2,5-diketo-D-gluconate -> 1 5-Dehydro-D-gluconate + 1 Nicotinamide adenine dinucleotide phosphate)
+DKGLCNR2x:1 nadh_c + 1 h_c + 1 25dkglcn_c -> 1 5dglcn_c + 1 nad_c (1 Nicotinamide adenine dinucleotide - reduced + 1 H+ + 1 2,5-diketo-D-gluconate -> 1 5-Dehydro-D-gluconate + 1 Nicotinamide adenine dinucleotide)
+GLYCLTDx:1 nadh_c + 1 glx_c + 1 h_c -> 1 nad_c + 1 glyclt_c (1 Nicotinamide adenine dinucleotide - reduced + 1 Glyoxylate + 1 H+ -> 1 Nicotinamide adenine dinucleotide + 1 Glycolate C2H3O3)
+
+
+AdditionalMetabolites:
+25dkglcn_c (2,5-diketo-D-gluconate)
+2dhglcn_c (2-Dehydro-D-gluconate)
+2dhguln_c (2-Dehydro-L-gulonate)
+4per_c (4-Phospho-D-erythronate)
+5dglcn_c (5-Dehydro-D-gluconate)
+6p2dhglcn_c (6-Phospho-2-dehydro-D-gluconate)
+glx_c (Glyoxylate)
+hpyr_c (Hydroxypyruvate)
+idon__L_c (L-Idonate)
+ohpb_c (2-Oxo-3-hydroxy-4-phosphobutanoate)
+
+

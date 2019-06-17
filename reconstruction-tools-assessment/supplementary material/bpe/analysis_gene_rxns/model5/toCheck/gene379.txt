@@ -1,0 +1,12 @@
+notRecovered:
+HCO3E:1 co2_c + 1 h2o_c <=> 1 h_c + 1 hco3_c (1 CO2 + 1 H2O <=> 1 H+ + 1 Bicarbonate)
+
+
+AdditionalNotInModel:
+H2CO3D:1 co2_c + 1 h2o_c <=> 1 h2co3_c (1 CO2 CO2 + 1 H2O H2O <=> 1 Carbonic acid)
+
+
+AdditionalMetabolites:
+h2co3_c (Carbonic acid)
+
+

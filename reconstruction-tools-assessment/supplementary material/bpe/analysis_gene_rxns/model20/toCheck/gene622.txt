@@ -1,0 +1,18 @@
+notRecovered:
+ALCC2:1 atp_c + 1 dihshptrc_c -> 1 alcaligin_c + 1 amp_c + 1 h_c + 1 ppi_c (1 ATP + 1 di-(N4-succinyl-N4-hydroxy-2-hydroxyputrescine) -> 1 alcaligin + 1 AMP + 1 H+ + 1 Diphosphate)
+ALCC1:1 atp_c + 2 hshptrc_c -> 1 amp_c + 1 dihshptrc_c + 1 h_c + 1 ppi_c (1 ATP + 2 N4-succinyl-N4-hydroxy-2-hydroxyputrescine -> 1 AMP + 1 di-(N4-succinyl-N4-hydroxy-2-hydroxyputrescine) + 1 H+ + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+R10091:1 C00002_c + 1 C03955_c + 1 C20333_c <=> 1 C00013_c + 1 C00020_c + 1 C05554_c (1 ATP + 1 N6-Acetyl-N6-hydroxy-L-lysine + 1 N2-Citryl-N6-acetyl-N6-hydroxy-L-lysine <=> 1 Diphosphate + 1 AMP + 1 Aerobactin)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C03955_c (N6-Acetyl-N6-hydroxy-L-lysine)
+C05554_c (Aerobactin)
+C20333_c (N2-Citryl-N6-acetyl-N6-hydroxy-L-lysine)
+
+

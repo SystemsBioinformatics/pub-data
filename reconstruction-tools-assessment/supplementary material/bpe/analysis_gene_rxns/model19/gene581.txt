@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R04972:1 C05766_c <=> 4 C00011_c + 1 C05768_c (1 Uroporphyrinogen I <=> 4 CO2 + 1 Coproporphyrinogen I)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C05766_c (Uroporphyrinogen I)
+C05768_c (Coproporphyrinogen I)
+
+

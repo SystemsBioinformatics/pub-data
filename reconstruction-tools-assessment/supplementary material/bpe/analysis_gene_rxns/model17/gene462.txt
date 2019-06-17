@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R10712:1 C04752_c + 1 C20247_c <=> 1 C00011_c + 1 C00013_c + 1 C01081_c (1 4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 1 2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate <=> 1 CO2 + 1 Diphosphate + 1 Thiamin monophosphate)
+
+
+AdditionalMetabolites:
+C00011_c (CO2)
+C00013_c (Diphosphate)
+C01081_c (Thiamin monophosphate)
+C04752_c (4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate)
+C20247_c (2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate)
+
+

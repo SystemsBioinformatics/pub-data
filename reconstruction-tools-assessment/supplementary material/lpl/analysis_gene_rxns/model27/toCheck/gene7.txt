@@ -1,0 +1,19 @@
+notRecovered:
+GLCpts:1 glc__D_e + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 M_D_Glucose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_Pyruvate_)
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+
+AdditionalNotInModel:
+TRANS-RXN-157:1 Glucopyranose_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 D-glucopyranose-6-phosphate_c + 1 Hpr-Histidine_c (1 Glucopyranose + 1 Hpr-pi-phospho-L-histidines -> 1 D-glucopyranose-6-phosphate + 1 Hpr-Histidine)
+TRANS-RXN-153A:1 CPD-1142_c + 1 Hpr-pi-phospho-L-histidines_c -> 1 CPD-1181_c + 1 Hpr-Histidine_c (1 salicin + 1 Hpr-pi-phospho-L-histidines -> 1 salicin 6-phosphate + 1 Hpr-Histidine)
+
+
+AdditionalMetabolites:
+CPD-1142_c (salicin)
+CPD-1181_c (salicin 6-phosphate)
+D-glucopyranose-6-phosphate_c (D-glucopyranose-6-phosphate)
+Glucopyranose_c (Glucopyranose)
+Hpr-Histidine_c (Hpr-Histidine)
+Hpr-pi-phospho-L-histidines_c (Hpr-pi-phospho-L-histidines)
+
+

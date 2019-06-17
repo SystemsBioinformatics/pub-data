@@ -1,29 +1,31 @@
 function identifyNewRelationships(models, idsType, metOtherIDs, metMNXIDs, bigg, species, modelsFileName)
 
-if exist('D:\Dropbox\Databases\MNX\SysBio_keys.mat','file')==2
-    load('D:\Dropbox\Databases\MNX\SysBio_keys.mat')
-    load('D:\Dropbox\Databases\MNX\SysBio_values.mat')
+global rootFolder
+
+if exist(fullfile(rootFolder, 'MNX', 'SysBio_keys.mat'),'file')==2
+    load(fullfile(rootFolder, 'MNX', 'SysBio_keys.mat'))
+    load(fullfile(rootFolder, 'MNX', 'SysBio_values.mat'))
 else
     SysBio_keys = {'keys'};
     SysBio_values = {'values'};
-    save('D:\Dropbox\Databases\MNX\SysBio_keys.mat','SysBio_keys');
-    save('D:\Dropbox\Databases\MNX\SysBio_values.mat','SysBio_values');
+    save(fullfile(rootFolder, 'MNX', 'SysBio_keys.mat'),'SysBio_keys');
+    save(fullfile(rootFolder, 'MNX', 'SysBio_values.mat'),'SysBio_values');
 end
 
-if exist('D:\Dropbox\Databases\MNX\SysBioRej_keys.mat','file')==2
-    load('D:\Dropbox\Databases\MNX\SysBioRej_keys.mat')
-    load('D:\Dropbox\Databases\MNX\SysBioRej_values.mat')
+if exist(fullfile(rootFolder, 'MNX', 'SysBioRej_keys.mat'),'file')==2
+    load(fullfile(rootFolder, 'MNX', 'SysBioRej_keys.mat'))
+    load(fullfile(rootFolder, 'MNX', 'SysBioRej_values.mat'))
 else
     SysBioRej_keys = {'keys'};
     SysBioRej_values = {'values'};
-    save('D:\Dropbox\Databases\MNX\SysBioRej_keys.mat','SysBioRej_keys');
-    save('D:\Dropbox\Databases\MNX\SysBioRej_values.mat','SysBioRej_values');
+    save(fullfile(rootFolder, 'MNX', 'SysBioRej_keys.mat'),'SysBioRej_keys');
+    save(fullfile(rootFolder, 'MNX', 'SysBioRej_values.mat'),'SysBioRej_values');
 end
 
 for i = 2:length(models)
     fprintf('analyzing models: progress %2.0f %%\n', 100*(i-1)/(length(models)-1));
 
-    if ~strcmp(idsType(i), 'bigg')
+    if ~strcmp(idsType(i), idsType{1})
         manualModel = models{1};
         model_i = models{i};
         posProtonsInModel = find(~cellfun(@isempty, regexp(model_i.mets, '^h_.*$')));
@@ -117,9 +119,11 @@ for i = 2:length(models)
                 break;
             end
             
-            eqs = getRxn_cobraFormat(models{i}, posCandidateRxns);
+            posI = arrayfun(@(x) findEquivalentRxnsWithMissingMetRelationship(models{i}, x, manualModel, manualModelWOP), posCandidateRxns, 'UniformOutput', 0);
             
-            posI = cellfun(@(x) findEquivalentRxnsWithMissingMetRelationship(models{i}, x, manualModel, manualModelWOP), eqs, 'UniformOutput', 0);
+%             eqs = getRxn_cobraFormat(models{i}, posCandidateRxns);
+%             posI = cellfun(@(x) findEquivalentRxnsWithMissingMetRelationship(models{i}, x, manualModel, manualModelWOP), eqs, 'UniformOutput', 0);
+            
             notEmpty = find(~cellfun(@isempty, posI));
             if isempty(notEmpty)
                 break;

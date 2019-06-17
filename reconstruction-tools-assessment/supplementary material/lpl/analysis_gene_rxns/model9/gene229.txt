@@ -1,0 +1,2 @@
+AdditionalInModel:
+PGL:1 6pgl_c + 1 h2o_c -> 1 6pgc_c + 1 h_c (1 6-phospho-D-glucono-1,5-lactone + 1 H2O H2O -> 1 6-Phospho-D-gluconate + 1 H+)

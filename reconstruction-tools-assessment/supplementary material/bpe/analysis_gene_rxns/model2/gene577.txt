@@ -1,0 +1,6 @@
+notRecovered:
+GMHEPPA:1 gmhep17bp_c + 1 h2o_c -> 1 gmhep1p_c + 1 pi_c (1 D-Glycero-D-manno-heptose 1,7-bisphosphate + 1 H2O -> 1 D-Glycero-D-manno-heptose 1-phosphate + 1 Phosphate)
+
+
+AdditionalInModel:
+HISTP:1 h2o_c + 1 hisp_c -> 1 pi_c + 1 histd_c (1 H2O + 1 L-Histidinol phosphate -> 1 Phosphate + 1 L-Histidinol)

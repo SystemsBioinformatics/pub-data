@@ -1,0 +1,4 @@
+notRecovered:
+DBTS:1 atp_c + 1 co2_c + 1 dann_c -> 1 adp_c + 1 dtbt_c + 3 h_c + 1 pi_c (1 ATP + 1 CO2 + 1 7,8-Diaminononanoate -> 1 ADP + 1 Dethiobiotin + 3 H+ + 1 Phosphate)
+
+

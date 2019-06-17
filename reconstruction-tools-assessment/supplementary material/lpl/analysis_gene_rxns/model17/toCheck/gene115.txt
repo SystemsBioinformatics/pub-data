@@ -1,0 +1,16 @@
+notRecovered:
+ACODA_1:1 acorn_c + 1 h2o_c -> 1 ac_c + 1 orn__L_c (1 M_N2_Acetyl_L_ornithine_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_L_Ornithine_)
+ACGK:1 acglu_c + 1 atp_c -> 1 acg5p_c + 1 adp_c (1 M_N_Acetyl_L_glutamate_ + 1 M_ATP_ -> 1 M_N_Acetyl_L_glutamyl_5_phosphate_ + 1 M_ADP_)
+
+
+AdditionalNotInModel:
+R10933:1 C00001_c + 1 C20951_c <=> 1 C00077_c + 1 C19885_c (1 H2O + 1 LysW-L-ornithine <=> 1 L-Ornithine + 1 alpha-Aminoadipate carrier protein LysW)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00077_c (L-Ornithine)
+C19885_c (alpha-Aminoadipate carrier protein LysW)
+C20951_c (LysW-L-ornithine)
+
+

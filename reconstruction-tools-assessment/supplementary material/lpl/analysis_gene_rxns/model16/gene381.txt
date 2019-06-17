@@ -1,0 +1,4 @@
+notRecovered:
+AHMMPS_1:1 air_c + 1 h2o_c -> 1 4ahmmp_c + 1 gcald_c + 0.5 o2_c + 1 pi_c (1 M_5_amino_1__5_phospho_D_ribosyl_imidazole_ + 1 M_H2O_ -> 1 M_4_Amino_5_hydroxymethyl_2_methylpyrimidine_ + 1 M_Glycolaldehyde_ + 0.5 M_O2_ + 1 M_Phosphate_)
+
+

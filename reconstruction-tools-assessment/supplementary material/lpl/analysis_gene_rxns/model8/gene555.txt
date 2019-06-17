@@ -1,0 +1,16 @@
+notRecovered:
+UNAGAMAMT:1 uacmam_c + 1 unaga_c -> 1 h_c + 1 udp_c + 1 unagama_c (1 M_UDP_N_acetyl_D_mannosamine_ + 1 M_Undecaprenyl_diphospho_N_acetyl_glucosamine_ -> 1 M_H_ + 1 M_UDP_ + 1 M_Undecaprenyl_diphospho_N_acetylglucosamine_N_acetylmannosamine_)
+
+
+AdditionalNotInModel:
+TECA1S45:1 uacgam_c + 45 cdpglyc_c + 1 uacmam_c -> 1 gtca1_45_BS_c + 45 cmp_c + 1 udp_c + 1 ump_c + 46 h_c (1 UDP-N-acetyl-D-glucosamine + 45 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine -> 1 Glycerol teichoic acid  n45   unlinked  unsubstituted C151H297N2O238P46 + 45 CMP C9H12N3O8P + 1 UDP C9H11N2O12P2 + 1 UMP C9H11N2O9P + 46 H+)
+TECA2S45:1 uacgam_c + 45 h2o_c + 45 cdpglyc_c + 1 uacmam_c + 45 atp_c + 45 ala__D_c -> 45 amp_c + 45 cmp_c + 1 udp_c + 45 ppi_c + 1 gtca2_45_BS_c + 1 ump_c + 91 h_c (1 UDP-N-acetyl-D-glucosamine + 45 H2O H2O + 45 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine + 45 ATP C10H12N5O13P3 + 45 D-Alanine -> 45 AMP C10H12N5O7P + 45 CMP C9H12N3O8P + 1 UDP C9H11N2O12P2 + 45 Diphosphate + 1 Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46 + 1 UMP C9H11N2O9P + 91 H+)
+TECA3S45:1 uacgam_c + 1 h2o_c + 45 cdpglyc_c + 1 uacmam_c + 45 udpg_c -> 45 cmp_c + 46 udp_c + 1 ump_c + 91 h_c + 1 gtca3_45_BS_c (1 UDP-N-acetyl-D-glucosamine + 1 H2O H2O + 45 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine + 45 UDPglucose -> 45 CMP C9H12N3O8P + 46 UDP C9H11N2O12P2 + 1 UMP C9H11N2O9P + 91 H+ + 1 Glycerol teichoic acid  n45   unlinked  glucose substituted C421H749N2O464P46)
+
+
+AdditionalMetabolites:
+gtca1_45_BS_c (Glycerol teichoic acid  n45   unlinked  unsubstituted C151H297N2O238P46)
+gtca2_45_BS_c (Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46)
+gtca3_45_BS_c (Glycerol teichoic acid  n45   unlinked  glucose substituted C421H749N2O464P46)
+
+

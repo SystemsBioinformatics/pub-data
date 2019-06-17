@@ -1,0 +1,4 @@
+notRecovered:
+NTPTP2:1 gtp_c + 1 h2o_c -> 1 gsn_c + 1 pppi_c (1 GTP + 1 H2O -> 1 Guanosine + 1 Inorganic triphosphate)
+
+

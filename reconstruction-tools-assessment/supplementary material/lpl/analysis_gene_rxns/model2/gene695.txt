@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+URATEt_1:1 h_e + 1 urate_e <=> 1 h_c + 1 urate_c (1 H+ + 1 Urate <=> 1 H+ + 1 Urate)
+
+
+AdditionalMetabolites:
+urate_c (Urate)
+urate_e (Urate)
+
+
+AdditionalInModel:
+XANt:1 xan_e <=> 1 xan_c (1 Xanthine <=> 1 Xanthine)

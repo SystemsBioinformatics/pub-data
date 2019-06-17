@@ -1,0 +1,4 @@
+notRecovered:
+SERD_D:1 ser__D_c -> 1 nh4_c + 1 pyr_c (1 M_D_Serine_ -> 1 M_Ammonium_ + 1 M_Pyruvate_)
+
+

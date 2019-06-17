@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn02421:1 cpd00052_c + 1 cpd00888_c <=> 1 cpd00012_c + 1 cpd02200_c (1 CTP_c0 + 1 N_Methylethanolamine_phosphate_c0 <=> 1 PPi_c0 + 1 CDP_N_methylethanolamine_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00052_c (CTP_c0)
+cpd00888_c (N_Methylethanolamine_phosphate_c0)
+cpd02200_c (CDP_N_methylethanolamine_c0)
+
+

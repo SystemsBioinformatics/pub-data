@@ -1,0 +1,24 @@
+notRecovered:
+GLYCL:1 gly_c + 1 nad_c + 1 thf_c -> 1 co2_c + 1 mlthf_c + 1 nadh_c + 1 nh4_c (1 Glycine + 1 Nicotinamide adenine dinucleotide + 1 5,6,7,8-Tetrahydrofolate -> 1 CO2 + 1 5,10-Methylenetetrahydrofolate + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ammonium)
+PDH:1 coa_c + 1 nad_c + 1 pyr_c -> 1 accoa_c + 1 co2_c + 1 nadh_c (1 Coenzyme A + 1 Nicotinamide adenine dinucleotide + 1 Pyruvate -> 1 Acetyl-CoA + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD3:1 3mop_c + 1 coa_c + 1 nad_c -> 1 2mbcoa_c + 1 co2_c + 1 nadh_c (1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 (S)-2-methylbutanoyl-coenzyme A + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 3-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide - reduced)
+AKGDH:1 akg_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 nadh_c + 1 succoa_c (1 2-Oxoglutarate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced + 1 Succinyl-CoA)
+OIVD2:1 3mob_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ibcoa_c + 1 nadh_c (1 3-Methyl-2-oxobutanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+RXN-15365:1 CPD-16586_c + 1 NADH_c + 1 PROTON_c -> 2 CPD-7673_c + 1 NAD_c (1 3,3'-dithiodipropanoate + 1 NADH + 1 H+ -> 2 3-mercaptopropanoate + 1 NAD+)
+1.8.1.4-RXN:1 Dihydro-Lipoyl-Proteins_c + 1 NAD_c -> 1 Lipoyl-Protein-N6-lipoyllysine_c + 1 NADH_c + 1 PROTON_c (1 Dihydro-Lipoyl-Proteins + 1 NAD+ -> 1 Lipoyl-Protein-N6-lipoyllysine + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-16586_c (3,3'-dithiodipropanoate)
+CPD-7673_c (3-mercaptopropanoate)
+Dihydro-Lipoyl-Proteins_c (Dihydro-Lipoyl-Proteins)
+Lipoyl-Protein-N6-lipoyllysine_c (Lipoyl-Protein-N6-lipoyllysine)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

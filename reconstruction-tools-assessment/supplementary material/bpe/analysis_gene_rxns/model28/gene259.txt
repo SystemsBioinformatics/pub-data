@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R00229:1 C00002_c + 1 C00010_c + 1 C00033_c <=> 1 C00024_c + 1 C00009_c + 1 C00008_c (1 ATP + 1 CoA + 1 Acetate <=> 1 Acetyl-CoA + 1 Orthophosphate + 1 ADP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00010_c (CoA)
+C00024_c (Acetyl-CoA)
+C00033_c (Acetate)
+
+

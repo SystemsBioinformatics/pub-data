@@ -1,0 +1,5 @@
+notRecovered:
+PSD141:1 h_c + 1 ps141_c -> 1 co2_c + 1 pe141_c (1 H+ + 1 phosphatidylserine (ditetradec-7-enoyl, n-C14:1) -> 1 CO2 + 1 phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1))
+PSD140:1 h_c + 1 ps140_c -> 1 co2_c + 1 pe140_c (1 H+ + 1 phosphatidylserine (ditetradecanoyl, n-C14:0) -> 1 CO2 + 1 phosphatidylethanolamine (ditetradecanoyl, n-C14:0))
+
+

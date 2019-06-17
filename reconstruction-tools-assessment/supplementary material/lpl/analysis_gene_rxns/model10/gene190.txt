@@ -1,0 +1,4 @@
+notRecovered:
+THFGLUS:1 atp_c + 1 glu__L_c + 1 thf_c <=> 1 adp_c + 1 h_c + 1 pi_c + 1 thfglu_c (1 M_ATP_ + 1 M_L_Glutamate_ + 1 M_5_6_7_8_Tetrahydrofolate_ <=> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_Tetrahydrofolyl_Glu_2__)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+ORPT:1 orot5p_c + 1 ppi_c <=> 1 orot_c + 1 prpp_c (1 M_Orotidine_5__phosphate_ + 1 M_Diphosphate_ <=> 1 M_Orotate_ + 1 M_5_Phospho_alpha_D_ribose_1_diphosphate_)
+
+

@@ -1,0 +1,22 @@
+AdditionalNotInModel:
+R06174:1 G10556_c + 1 G10610_c <=> 1 G10555_c + 1 G10619_c (1 M_01181 + 1 UDP-N-acetyl-D-glucosamine <=> 1 M_01184 + 1 UDP)
+R06173:1 G10552_c + 1 G10610_c <=> 1 G10619_c + 1 G10553_c (1 M_01219 + 1 UDP-N-acetyl-D-glucosamine <=> 1 UDP + 1 M_01190)
+R06172:1 G10551_c + 1 G10610_c <=> 1 G10550_c + 1 G10619_c (1 M_01225 + 1 UDP-N-acetyl-D-glucosamine <=> 1 M_01226 + 1 UDP)
+R05662:1 C00043_c + 1 C04851_c <=> 1 C05893_c + 1 C00015_c (1 UDP-N-acetyl-alpha-D-glucosamine + 1 MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol <=> 1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 UDP)
+
+
+AdditionalMetabolites:
+C00015_c (UDP)
+C00043_c (UDP-N-acetyl-alpha-D-glucosamine)
+C04851_c (MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol)
+C05893_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+G10550_c (M_01226)
+G10551_c (M_01225)
+G10552_c (M_01219)
+G10553_c (M_01190)
+G10555_c (M_01184)
+G10556_c (M_01181)
+G10610_c (UDP-N-acetyl-D-glucosamine)
+G10619_c (UDP)
+
+

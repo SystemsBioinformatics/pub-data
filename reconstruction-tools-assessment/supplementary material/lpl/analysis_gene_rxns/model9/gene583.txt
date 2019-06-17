@@ -1,0 +1,25 @@
+notRecovered:
+DHORD6:1 dhor__S_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 orot_c (1 M__S__Dihydroorotate_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Orotate_)
+
+
+AdditionalNotInModel:
+DHORD3um:1 pq_um + 1 dhor__S_c -> 1 pqh2_um + 1 orot_c (1 Plastoquinone + 1 (S)-Dihydroorotate -> 1 Plastoquinol + 1 Orotate C5H3N2O4)
+DHORD5:1 mqn8_c + 1 dhor__S_c -> 1 orot_c + 1 mql8_c (1 Menaquinone 8 + 1 (S)-Dihydroorotate -> 1 Orotate C5H3N2O4 + 1 Menaquinol 8)
+DHORD3:1 mqn6_c + 1 dhor__S_c <=> 1 mql6_c + 1 orot_c (1 Menaquinone 6 + 1 (S)-Dihydroorotate <=> 1 Menaquinol 6 + 1 Orotate C5H3N2O4)
+DHORDi:1 o2_c + 1 dhor__S_c <=> 1 orot_c + 1 h2o2_c (1 O2 O2 + 1 (S)-Dihydroorotate <=> 1 Orotate C5H3N2O4 + 1 Hydrogen peroxide)
+DURAD:1 56dura_c + 1 nadp_c <=> 1 nadph_c + 1 ura_c + 1 h_c (1 5,6-dihydrouracil + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Uracil + 1 H+)
+DHORD2:1 q8_c + 1 dhor__S_c -> 1 q8h2_c + 1 orot_c (1 Ubiquinone-8 + 1 (S)-Dihydroorotate -> 1 Ubiquinol-8 + 1 Orotate C5H3N2O4)
+
+
+AdditionalMetabolites:
+56dura_c (5,6-dihydrouracil)
+mql6_c (Menaquinol 6)
+mql8_c (Menaquinol 8)
+mqn6_c (Menaquinone 6)
+mqn8_c (Menaquinone 8)
+pq_um (Plastoquinone)
+pqh2_um (Plastoquinol)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+

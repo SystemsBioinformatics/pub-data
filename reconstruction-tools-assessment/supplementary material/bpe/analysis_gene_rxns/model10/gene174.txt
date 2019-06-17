@@ -1,0 +1,7 @@
+notRecovered:
+FLVR:1 h_c + 1 nadph_c + 1 ribflv_c -> 1 nadp_c + 1 rbflvrd_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Riboflavin -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Reduced riboflavin)
+FADRx2:1 fad_c + 1 h_c + 1 nadph_c -> 1 fadh2_c + 1 nadp_c (1 Flavin adenine dinucleotide oxidized + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Flavin adenine dinucleotide reduced + 1 Nicotinamide adenine dinucleotide phosphate)
+SULR:5 h_c + 3 nadph_c + 1 so3_c -> 3 h2o_c + 1 h2s_c + 3 nadp_c (5 H+ + 3 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Sulfite -> 3 H2O + 1 Hydrogen sulfide + 3 Nicotinamide adenine dinucleotide phosphate)
+FMNRx2:1 fmn_c + 1 h_c + 1 nadph_c -> 1 fmnh2_c + 1 nadp_c (1 FMN + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Reduced FMN + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

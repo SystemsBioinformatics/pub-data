@@ -1,0 +1,16 @@
+notRecovered:
+DAGGT_LPL:0.01 dag_LPL_c + 2 udpg_c -> 0.01 dgdag_LPL_c + 2 h_c + 2 udp_c (0.01 M_1_2_Diacylglycerol__LPL_specific_ + 2 M_UDPglucose_ -> 0.01 M_Diglucosyl_diacylglycerol_ + 2 M_H_ + 2 M_UDP_)
+
+
+AdditionalNotInModel:
+2.4.1.157-RXN:1 CPD-12575_c + 1 DIACYLGLYCEROL_c -> 1 12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL_c + 1 PROTON_c + 1 UDP_c (1 UDP-alpha-D-glucose + 1 DIACYLGLYCEROL -> 1 12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL + 1 H+ + 1 UDP)
+
+
+AdditionalMetabolites:
+12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL_c (12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL)
+CPD-12575_c (UDP-alpha-D-glucose)
+DIACYLGLYCEROL_c (DIACYLGLYCEROL)
+PROTON_c (H+)
+UDP_c (UDP)
+
+

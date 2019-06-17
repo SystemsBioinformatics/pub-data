@@ -1,0 +1,15 @@
+notRecovered:
+ALCB:1 hptrc_c + 1 succoa_c -> 1 coa_c + 1 shptrc_c (1 N4-hydroxyputrescine + 1 Succinyl-CoA -> 1 Coenzyme A + 1 N4-succinyl-N4-hydroxyputrescine)
+
+
+AdditionalNotInModel:
+RXN-11007:1 CPD-11963_c + 1 SUC-COA_c -> 1 CO-A_c + 1 CPD-11964_c (1 N-hydroxyputrescine + 1 succinyl-CoA -> 1 coenzyme A + 1 N-hydroxy-N-succinyl-putrescine)
+
+
+AdditionalMetabolites:
+CO-A_c (coenzyme A)
+CPD-11963_c (N-hydroxyputrescine)
+CPD-11964_c (N-hydroxy-N-succinyl-putrescine)
+SUC-COA_c (succinyl-CoA)
+
+

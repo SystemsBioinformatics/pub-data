@@ -1,0 +1,5 @@
+notRecovered:
+FADRx2:1 fad_c + 1 h_c + 1 nadph_c -> 1 fadh2_c + 1 nadp_c (1 Flavin adenine dinucleotide oxidized + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Flavin adenine dinucleotide reduced + 1 Nicotinamide adenine dinucleotide phosphate)
+FMNRx2:1 fmn_c + 1 h_c + 1 nadph_c -> 1 fmnh2_c + 1 nadp_c (1 FMN + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced -> 1 Reduced FMN + 1 Nicotinamide adenine dinucleotide phosphate)
+
+

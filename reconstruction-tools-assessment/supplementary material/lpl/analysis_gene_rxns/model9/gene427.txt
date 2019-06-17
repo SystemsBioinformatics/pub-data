@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+HCYSMT2:1 hcys__L_c + 1 mmet_c -> 2 met__L_c + 1 h_c (1 L-Homocysteine + 1 S-Methyl-L-methionine -> 2 L-Methionine + 1 H+)
+
+
+AdditionalMetabolites:
+mmet_c (S-Methyl-L-methionine)
+
+

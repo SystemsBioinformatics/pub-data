@@ -1,0 +1,14 @@
+notRecovered:
+PGM:1 2pg_c <=> 1 3pg_c (1 M_D_Glycerate_2_phosphate_ <=> 1 M_3_Phospho_D_glycerate_)
+
+
+AdditionalNotInModel:
+ENTCS:3 seramp_c + 3 23dhba_c -> 1 enter_c + 6 amp_c + 9 h_c (3 L-seryl-AMP + 3 (2,3-Dihydroxybenzoyl)adenylate -> 1 Enterochelin + 6 AMP C10H12N5O7P + 9 H+)
+
+
+AdditionalMetabolites:
+23dhba_c ((2,3-Dihydroxybenzoyl)adenylate)
+enter_c (Enterochelin)
+seramp_c (L-seryl-AMP)
+
+

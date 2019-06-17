@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+R06131:1 C05167_c <=> 1 C00014_c + 1 C00161_c (1 alpha-Amino acid <=> 1 Ammonia + 1 2-Oxo acid)
+R00590:1 C00065_c <=> 1 C02218_c + 1 C00001_c (1 L-Serine <=> 1 Dehydroalanine + 1 H2O)
+R11100:1 C02218_c <=> 1 C20904_c (1 Dehydroalanine <=> 1 2-Iminopropanoate)
+R11099:1 C20904_c + 1 C00001_c <=> 1 C00022_c + 1 C00014_c (1 2-Iminopropanoate + 1 H2O <=> 1 Pyruvate + 1 Ammonia)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00065_c (L-Serine)
+C00161_c (2-Oxo acid)
+C02218_c (Dehydroalanine)
+C05167_c (alpha-Amino acid)
+C20904_c (2-Iminopropanoate)
+
+

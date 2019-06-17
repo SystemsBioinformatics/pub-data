@@ -1,0 +1,21 @@
+notRecovered:
+MLTGY2pp:1 murein4p3p_p -> 1 anhgm3p_p + 1 anhgm4p_p (1 two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain) -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide + 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+MLTGY1pp:1 murein4p4p_p -> 2 anhgm4p_p (1 two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain) -> 2 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide)
+MLTGY4pp:1 murein4px4p4p_p -> 1 anhgm4p_p + 1 murein4px4p_p (1 three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain) -> 1 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide + 1 two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain))
+MLTGY3pp:1 murein3p3p_p -> 2 anhgm3p_p (1 two linked disacharide tripeptide murein units (uncrosslinked, middle of chain) -> 2 N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide)
+
+
+AdditionalNotInModel:
+RXN0-5190:1 Peptidoglycan-dimer_c -> 1 GlcNAc-1-6-anhydro-MurNAc-pentapeptide_c + 1 NAcMur-Peptide-NAcGlc-Undecaprenols_c (1 Peptidoglycan-dimer -> 1 GlcNAc-1-6-anhydro-MurNAc-pentapeptide + 1 NAcMur-Peptide-NAcGlc-Undecaprenols)
+RXN-17392:1 CPD-18804_c -> 1 CPD-18805_c + 1 CPD-18806_c (1 a mature peptidoglycan (meso-diaminopimelate containing) -> 1 a mature peptidoglycan strand with GlcNAc terminus + 1 a mature peptidoglycan strand with 1,6-anhydro-MurNAc terminus)
+
+
+AdditionalMetabolites:
+CPD-18804_c (a mature peptidoglycan (meso-diaminopimelate containing))
+CPD-18805_c (a mature peptidoglycan strand with GlcNAc terminus)
+CPD-18806_c (a mature peptidoglycan strand with 1,6-anhydro-MurNAc terminus)
+GlcNAc-1-6-anhydro-MurNAc-pentapeptide_c (GlcNAc-1-6-anhydro-MurNAc-pentapeptide)
+NAcMur-Peptide-NAcGlc-Undecaprenols_c (NAcMur-Peptide-NAcGlc-Undecaprenols)
+Peptidoglycan-dimer_c (Peptidoglycan-dimer)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+PROTRS:1 atp_c + 1 pro__L_c + 1 trnapro_c -> 1 amp_c + 1 ppi_c + 1 protrna_c (1 ATP + 1 L-Proline + 1 tRNA(Pro) -> 1 AMP + 1 Diphosphate + 1 L-Prolyl-tRNA(Pro))
+
+

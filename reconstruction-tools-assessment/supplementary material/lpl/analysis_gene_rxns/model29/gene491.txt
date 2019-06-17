@@ -1,0 +1,5 @@
+notRecovered:
+ADSL2r:1 25aics_c -> 1 aicar_c + 1 fum_c (1 M__S__2_5_Amino_1__5_phospho_D_ribosyl_imidazole_4_carboxamidosuccinate_ -> 1 M_5_Amino_1__5_Phospho_D_ribosyl_imidazole_4_carboxamide_ + 1 M_Fumarate_)
+ADSL1r:1 dcamp_c -> 1 amp_c + 1 fum_c (1 M_N6__1_2_Dicarboxyethyl__AMP_ -> 1 M_AMP_ + 1 M_Fumarate_)
+
+

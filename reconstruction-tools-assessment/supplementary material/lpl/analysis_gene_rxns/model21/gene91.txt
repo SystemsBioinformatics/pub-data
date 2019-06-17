@@ -1,0 +1,20 @@
+notRecovered:
+CPSS_LPL2:2 dtdprmn_c + 4 h2o_c + 1 udpg_c + 1 udpgal_c <=> 1 CPS_LPL2_c + 2 dtdp_c + 5 h_c + 1 udp_c + 1 ump_c (2 M_dTDP_6_deoxy_L_mannose_ + 4 M_H2O_ + 1 M_UDPglucose_ + 1 M_UDPgalactose_ <=> 1 M_capsular_polysaccharide_linkage_unit__LPL_specific_ + 2 M_dTDP_ + 5 M_H_ + 1 M_UDP_ + 1 M_UMP_)
+CPSS_LPL:1 dtdprmn_c + 5 h2o_c + 2 udpg_c + 2 udpgal_c <=> 1 CPS_LPL_c + 1 dtdp_c + 6 h_c + 3 udp_c + 1 ump_c (1 M_dTDP_6_deoxy_L_mannose_ + 5 M_H2O_ + 2 M_UDPglucose_ + 2 M_UDPgalactose_ <=> 1 M_capsular_polysaccharide_linkage_unit__LPL_specific_ + 1 M_dTDP_ + 6 M_H_ + 3 M_UDP_ + 1 M_UMP_)
+
+
+AdditionalNotInModel:
+R09641:1 C00029_c + 1 C17556_c <=> 1 C00105_c + 1 C19772_c (1 UDP-glucose + 1 di-trans,poly-cis-Undecaprenyl phosphate <=> 1 UMP + 1 alpha-D-Glucopyranosyl-diphospho-ditrans,octacis-undecaprenol)
+R10184:1 C20357_c + 1 C20420_c <=> 1 C00105_c + 1 C20421_c (1 UDP-N,N'-Diacetylbacillosamine + 1 tritrans,heptacis-Undecaprenyl phosphate <=> 1 UMP + 1 N,N'-Diacetyl-alpha-D-bacillosaminyldiphospho-tritrans,heptacis-undecaprenol)
+
+
+AdditionalMetabolites:
+C00029_c (UDP-glucose)
+C00105_c (UMP)
+C17556_c (di-trans,poly-cis-Undecaprenyl phosphate)
+C19772_c (alpha-D-Glucopyranosyl-diphospho-ditrans,octacis-undecaprenol)
+C20357_c (UDP-N,N'-Diacetylbacillosamine)
+C20420_c (tritrans,heptacis-Undecaprenyl phosphate)
+C20421_c (N,N'-Diacetyl-alpha-D-bacillosaminyldiphospho-tritrans,heptacis-undecaprenol)
+
+

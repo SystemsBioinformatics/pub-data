@@ -1,0 +1,13 @@
+notRecovered:
+MICITDr:1 2mcacn_c + 1 h2o_c -> 1 micit_c (1 cis-2-Methylaconitate + 1 H2O -> 1 methylisocitrate)
+
+
+AdditionalNotInModel:
+RXN-14047:1 CIT_c <=> 1 THREO-DS-ISO-CITRATE_c (1 citrate <=> 1 D-threo-isocitrate)
+
+
+AdditionalMetabolites:
+CIT_c (citrate)
+THREO-DS-ISO-CITRATE_c (D-threo-isocitrate)
+
+

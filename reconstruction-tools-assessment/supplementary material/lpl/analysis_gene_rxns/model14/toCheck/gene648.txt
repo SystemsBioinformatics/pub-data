@@ -1,0 +1,18 @@
+notRecovered:
+CYTB_B2:2 h_c + 1 mql7_c + 0.5 o2_c -> 1 h2o_c + 2 h_e + 1 mqn7_c (2 M_H_ + 1 M_Menaquinol_7_ + 0.5 M_O2_ -> 1 M_H2O_ + 2 M_H_ + 1 M_Menaquinone_7_)
+
+
+AdditionalNotInModel:
+RXN-6883:1 OXYGEN-MOLECULE_c + 2 Ubiquinols_c -> 2 Ubiquinones_c + 2 WATER_c (1 oxygen + 2 an ubiquinol -> 2 a ubiquinone + 2 H2O)
+RXN0-5266:1 OXYGEN-MOLECULE_c + 2 Ubiquinols_c + 4 PROTON_c -> 4 PROTON_e + 2 Ubiquinones_c + 2 WATER_c (1 oxygen + 2 an ubiquinol + 4 H+ -> 4 H+ + 2 a ubiquinone + 2 H2O)
+
+
+AdditionalMetabolites:
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+PROTON_e (H+)
+Ubiquinols_c (an ubiquinol)
+Ubiquinones_c (a ubiquinone)
+WATER_c (H2O)
+
+

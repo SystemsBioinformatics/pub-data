@@ -1,0 +1,6 @@
+notRecovered:
+HMR_6515:1 mercppyr_c + 1 so3_c -> 1 pyr_c + 1 tsul_c (1 Mercaptopyruvate + 1 Sulfite -> 1 Pyruvate + 1 Thiosulfate)
+CYANSTpp:1 cyan_p + 1 tsul_p <=> 1 h_p + 1 so3_p + 1 tcynt_p (1 Hydrogen cyanide + 1 Thiosulfate <=> 1 H+ + 1 Sulfite + 1 Thiocyanate)
+CYANST:1 cyan_c + 1 tsul_c <=> 1 h_c + 1 so3_c + 1 tcynt_c (1 Hydrogen cyanide + 1 Thiosulfate <=> 1 H+ + 1 Sulfite + 1 Thiocyanate)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+METS:1 5mthf_c + 1 hcys__L_c -> 1 h_c + 1 met__L_c + 1 thf_c (1 M_5_Methyltetrahydrofolate_ + 1 M_L_Homocysteine_ -> 1 M_H_ + 1 M_L_Methionine_ + 1 M_5_6_7_8_Tetrahydrofolate_)
+
+

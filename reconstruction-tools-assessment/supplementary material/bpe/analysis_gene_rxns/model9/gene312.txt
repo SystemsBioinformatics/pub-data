@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-11347:1 CPD-12258_c + 1 CPD-9646_c <=> 1 CPD-12303_c + 1 UMP_c (1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine + 1 di-trans,octa-cis-undecaprenyl phosphate <=> 1 undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanine + 1 UMP)
+RXN-8975:1 C3_c + 1 CPD-9646_c <=> 1 C4_c + 1 UMP_c (1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 di-trans,octa-cis-undecaprenyl phosphate <=> 1 undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanyl-D-alanine + 1 UMP)
+
+
+AdditionalMetabolites:
+C3_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+C4_c (undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanyl-D-alanine)
+CPD-12258_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine)
+CPD-12303_c (undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanine)
+CPD-9646_c (di-trans,octa-cis-undecaprenyl phosphate)
+UMP_c (UMP)
+
+

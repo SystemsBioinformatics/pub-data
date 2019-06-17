@@ -1,0 +1,13 @@
+notRecovered:
+ACGALpts:1 acgala_e + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 M_N_Acetyl_D_galactosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_acetylgalactosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+GALAMPTSpp:1 galam_p + 1 pep_c -> 1 galam6p_c + 1 pyr_c (1 D Galactosamine C6H13NO5 + 1 Phosphoenolpyruvate -> 1 D Galactosamine 6 phosphate C6H14NO8P + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+galam6p_c (D Galactosamine 6 phosphate C6H14NO8P)
+galam_p (D Galactosamine C6H13NO5)
+
+

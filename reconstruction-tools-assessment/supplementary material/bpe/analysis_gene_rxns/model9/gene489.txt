@@ -1,0 +1,4 @@
+notRecovered:
+CLPNS140pp:2 pg140_p <=> 1 clpn140_p + 1 glyc_p (2 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) <=> 1 cardiolipin (tetratetradecanoyl, n-C14:0) + 1 Glycerol)
+
+

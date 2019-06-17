@@ -1,0 +1,15 @@
+notRecovered:
+GNNUC:1 gsn_c + 1 h2o_c -> 1 gua_c + 1 rib__D_c (1 M_Guanosine_ + 1 M_H2O_ -> 1 M_Guanine_ + 1 M_D_Ribose_)
+
+
+AdditionalNotInModel:
+URIDINE-NUCLEOSIDASE-RXN:1 URIDINE_c + 1 WATER_c -> 1 D-Ribofuranose_c + 1 URACIL_c (1 uridine + 1 H2O -> 1 D-Ribofuranose + 1 uracil)
+
+
+AdditionalMetabolites:
+D-Ribofuranose_c (D-Ribofuranose)
+URACIL_c (uracil)
+URIDINE_c (uridine)
+WATER_c (H2O)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+DXPS:1 g3p_c + 1 h_c + 1 pyr_c -> 1 co2_c + 1 dxyl5p_c (1 M_Glyceraldehyde_3_phosphate_ + 1 M_H_ + 1 M_Pyruvate_ -> 1 M_CO2_ + 1 M_1_deoxy_D_xylulose_5_phosphate_)
+
+

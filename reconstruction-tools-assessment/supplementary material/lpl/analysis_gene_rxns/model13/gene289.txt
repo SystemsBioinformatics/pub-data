@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+RXN-12002:1 UMP_c + 1 ATP_c -> 1 UDP_c + 1 ADP_c (1 UMP + 1 ATP -> 1 UDP + 1 ADP)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+UDP_c (UDP)
+UMP_c (UMP)
+
+

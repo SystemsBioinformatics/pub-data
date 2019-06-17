@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+rxn01269:1 cpd00006_c + 1 cpd00219_c -> 1 cpd00011_c + 1 cpd00005_c + 1 cpd00868_c (1 NADP_c0 + 1 Prephenate_c0 -> 1 CO2_c0 + 1 NADPH_c0 + 1 p_hydroxyphenylpyruvate_c0)
+rxn00719:1 cpd00003_c + 1 cpd00337_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00092_c (1 NAD_c0 + 1 Hydrouracil_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Uracil_c0)
+rxn01027:1 cpd00003_c + 1 cpd00673_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00151_c (1 NAD_c0 + 1 Dihydrothymine_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Thymine_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00005_c (NADPH_c0)
+cpd00006_c (NADP_c0)
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd00092_c (Uracil_c0)
+cpd00151_c (Thymine_c0)
+cpd00219_c (Prephenate_c0)
+cpd00337_c (Hydrouracil_c0)
+cpd00673_c (Dihydrothymine_c0)
+cpd00868_c (p_hydroxyphenylpyruvate_c0)
+
+

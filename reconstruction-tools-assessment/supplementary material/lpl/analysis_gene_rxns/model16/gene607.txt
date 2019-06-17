@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+rxn00351:1 cpd00002_c + 1 cpd00033_c + 1 cpd00506_c -> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00042_c (1 ATP_c0 + 1 Glycine_c0 + 1 gamma_Glutamylcysteine_c0 -> 1 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 GSH_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00033_c (Glycine_c0)
+cpd00042_c (GSH_c0)
+cpd00067_c (H_plus__c0)
+cpd00506_c (gamma_Glutamylcysteine_c0)
+
+

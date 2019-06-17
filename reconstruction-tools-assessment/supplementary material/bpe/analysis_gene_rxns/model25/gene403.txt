@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+SUCCINYLDIAMINOPIMTRANS-RXN:1 2-KETOGLUTARATE_c + 1 N-SUCCINYLLL-2-6-DIAMINOPIMELATE_c <=> 1 GLT_c + 1 N-SUCCINYL-2-AMINO-6-KETOPIMELATE_c (1 2-oxoglutarate + 1 N-succinyl-L,L-2,6-diaminopimelate <=> 1 L-glutamate + 1 N-succinyl-2-amino-6-ketopimelate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+GLT_c (L-glutamate)
+N-SUCCINYL-2-AMINO-6-KETOPIMELATE_c (N-succinyl-2-amino-6-ketopimelate)
+N-SUCCINYLLL-2-6-DIAMINOPIMELATE_c (N-succinyl-L,L-2,6-diaminopimelate)
+
+

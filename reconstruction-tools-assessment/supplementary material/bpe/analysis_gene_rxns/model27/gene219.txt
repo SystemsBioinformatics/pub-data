@@ -1,0 +1,16 @@
+notRecovered:
+UAC3NGAMANACET_BP:1 accoa_c + 1 uac3ngama_c -> 1 coa_c + 1 uac3nacgama_c (1 Acetyl-CoA + 1 UDP-2-N-acetyl-3-amino-glucosaminuronate -> 1 Coenzyme A + 1 UDP-2-N-acetyl-3-N-acetyl-glucosaminuronate)
+
+
+AdditionalNotInModel:
+R04364:1 C00024_c + 1 C03972_c + 1 C00001_c <=> 1 C00010_c + 1 C05539_c (1 Acetyl-CoA + 1 2,3,4,5-Tetrahydrodipicolinate + 1 H2O <=> 1 CoA + 1 N-Acetyl-L-2-amino-6-oxopimelate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00010_c (CoA)
+C00024_c (Acetyl-CoA)
+C03972_c (2,3,4,5-Tetrahydrodipicolinate)
+C05539_c (N-Acetyl-L-2-amino-6-oxopimelate)
+
+

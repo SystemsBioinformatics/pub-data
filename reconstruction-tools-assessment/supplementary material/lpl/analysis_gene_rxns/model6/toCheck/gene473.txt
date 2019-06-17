@@ -1,0 +1,12 @@
+notRecovered:
+TDPDRR:1 dtdp4d6dm_c + 1 h_c + 1 nadph_c <=> 1 dtdprmn_c + 1 nadp_c (1 M_dTDP_4_dehydro_6_deoxy_L_mannose_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ <=> 1 M_dTDP_6_deoxy_L_mannose_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+
+
+AdditionalNotInModel:
+TDPDRR_1:1 dtdp6dm_c + 1 nadp_c <=> 1 dtdp4d6dm_c + 1 h_c + 1 nadph_c (1 DTDP 6 deoxy L mannose + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 DTDP-4-dehydro-6-deoxy-L-mannose + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalMetabolites:
+dtdp6dm_c (DTDP 6 deoxy L mannose)
+
+

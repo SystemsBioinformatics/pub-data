@@ -1,0 +1,14 @@
+notRecovered:
+SARCOX:1 h2o_c + 1 o2_c + 1 sarcs_c -> 1 fald_c + 1 gly_c + 1 h2o2_c (1 H2O + 1 O2 + 1 Sarcosine -> 1 Formaldehyde + 1 Glycine + 1 Hydrogen peroxide)
+
+
+AdditionalNotInModel:
+THZSN_1:1 cys__L_c + 1 dxyl_c + 1 fdxo_2_2_c + 1 tyr__L_c -> 1 4hba_c + 1 4mhetz_c + 1 co2_c + 1 fdxrd_c + 1 h2o_c + 1 h_c + 1 nh4_c + 1 pyr_c (1 L-Cysteine + 1 1-deoxy-D-xylulose + 1 Oxidized ferredoxin + 1 L-Tyrosine -> 1 4-Hydroxy-benzyl alcohol + 1 4-Methyl-5-(2-hydroxyethyl)-thiazole + 1 CO2 CO2 + 1 Reduced ferredoxin + 1 H2O H2O + 1 H+ + 1 Ammonium + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+4mhetz_c (4-Methyl-5-(2-hydroxyethyl)-thiazole)
+dxyl_c (1-deoxy-D-xylulose)
+fdxo_2_2_c (Oxidized ferredoxin)
+
+

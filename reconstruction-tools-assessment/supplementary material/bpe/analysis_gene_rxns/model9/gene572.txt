@@ -1,0 +1,16 @@
+AdditionalNotInModel:
+GLUTAMIN-RXN:1 GLN_c + 1 WATER_c -> 1 GLT_c + 1 AMMONIUM_c (1 L-glutamine + 1 H2O -> 1 L-glutamate + 1 ammonium)
+GLUTDEHYD-RXN:1 NADP_c + 1 GLT_c + 1 WATER_c <=> 1 NADPH_c + 1 2-KETOGLUTARATE_c + 1 PROTON_c + 1 AMMONIUM_c (1 NADP+ + 1 L-glutamate + 1 H2O <=> 1 NADPH + 1 2-oxoglutarate + 1 H+ + 1 ammonium)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+AMMONIUM_c (ammonium)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

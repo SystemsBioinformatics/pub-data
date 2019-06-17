@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00181:1 cpd00067_c + 1 cpd00002_c + 1 cpd00023_c <=> 1 cpd00008_c + 1 cpd03413_c (1 H_plus__c0 + 1 ATP_c0 + 1 L_Glutamate_c0 <=> 1 ADP_c0 + 1 L_Glutamyl_1_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00067_c (H_plus__c0)
+cpd03413_c (L_Glutamyl_1_phosphate_c0)
+
+

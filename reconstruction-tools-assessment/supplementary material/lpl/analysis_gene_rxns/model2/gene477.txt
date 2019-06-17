@@ -1,0 +1,8 @@
+notRecovered:
+GK2:1 datp_c + 1 gmp_c <=> 1 dadp_c + 1 gdp_c (1 M_dATP_ + 1 M_GMP_ <=> 1 M_dADP_ + 1 M_GDP_)
+
+
+AdditionalNotInModel:
+DGK1:1 atp_c + 1 dgmp_c <=> 1 adp_c + 1 dgdp_c (1 ATP + 1 DGMP <=> 1 ADP + 1 DGDP)
+
+

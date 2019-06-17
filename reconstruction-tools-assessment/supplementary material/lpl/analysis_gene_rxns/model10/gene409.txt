@@ -1,0 +1,4 @@
+notRecovered:
+ORNTAC_1:1 acorn_c + 1 glu__L_c <=> 1 acglu_c + 1 orn__L_c (1 M_N2_Acetyl_L_ornithine_ + 1 M_L_Glutamate_ <=> 1 M_N_Acetyl_L_glutamate_ + 1 M_L_Ornithine_)
+
+

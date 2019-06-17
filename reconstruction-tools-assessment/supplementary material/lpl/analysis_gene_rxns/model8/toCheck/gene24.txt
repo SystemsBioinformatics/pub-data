@@ -1,0 +1,15 @@
+notRecovered:
+SBTD_L:1 nad_c + 1 sbt__L_c -> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_L_Sorbitol_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD:1 idt_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_L_Iditol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+
+
+AdditionalNotInModel:
+GLTPD:1 nad_c + 1 galt1p_c <=> 1 nadh_c + 1 tag6p__D_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 Galactitol 1-phosphate <=> 1 Nicotinamide adenine dinucleotide - reduced + 1 D-Tagatose 6-phosphate + 1 H+)
+THRD:1 nad_c + 1 thr__L_c -> 1 2aobut_c + 1 nadh_c + 1 h_c (1 Nicotinamide adenine dinucleotide + 1 L-Threonine -> 1 L-2-Amino-3-oxobutanoate + 1 Nicotinamide adenine dinucleotide - reduced + 1 H+)
+
+
+AdditionalMetabolites:
+2aobut_c (L-2-Amino-3-oxobutanoate)
+tag6p__D_c (D-Tagatose 6-phosphate)
+
+

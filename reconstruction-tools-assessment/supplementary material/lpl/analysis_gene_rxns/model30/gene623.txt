@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R02984:1 C00842_c <=> 1 C02097_c (1 dTDP-glucose <=> 1 dTDP-galactose)
+R00418:1 C00043_c <=> 1 C00203_c (1 UDP-N-acetyl-alpha-D-glucosamine <=> 1 UDP-N-acetyl-D-galactosamine)
+
+
+AdditionalMetabolites:
+C00043_c (UDP-N-acetyl-alpha-D-glucosamine)
+C00203_c (UDP-N-acetyl-D-galactosamine)
+C00842_c (dTDP-glucose)
+C02097_c (dTDP-galactose)
+
+

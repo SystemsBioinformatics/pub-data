@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R01859:1 C00002_c + 1 C00100_c + 1 C00288_c <=> 1 C00008_c + 1 C00009_c + 1 C00683_c (1 ATP + 1 Propanoyl-CoA + 1 HCO3- <=> 1 ADP + 1 Orthophosphate + 1 (S)-Methylmalonyl-CoA)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00100_c (Propanoyl-CoA)
+C00288_c (HCO3-)
+C00683_c ((S)-Methylmalonyl-CoA)
+
+

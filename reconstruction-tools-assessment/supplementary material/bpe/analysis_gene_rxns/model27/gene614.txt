@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00568:1 C00063_c + 1 C00001_c <=> 1 C00014_c + 1 C00075_c (1 CTP + 1 H2O <=> 1 Ammonia + 1 UTP)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00063_c (CTP)
+C00075_c (UTP)
+
+

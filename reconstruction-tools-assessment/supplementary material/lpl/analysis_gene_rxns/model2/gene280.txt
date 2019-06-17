@@ -1,0 +1,16 @@
+notRecovered:
+MOCOS_LPL:1 mpt_c <=> 1 moco_c (1 M_molybdopterin_ <=> 1 M_Molybdenum_cofactor_)
+
+
+AdditionalNotInModel:
+BMOCOS:1 moco_c + 1 mptamp_c -> 1 amp_c + 1 bmoco_c + 1 cu2_c (1 Molybdenum cofactor + 1 Adenylated molybdopterin -> 1 AMP + 1 Bis-molybdenum cofactor + 1 Cu2+)
+MOCOS:2 h_c + 1 mptamp_c + 1 mobd_c -> 1 h2o_c + 1 amp_c + 1 cu2_c + 1 moco_c (2 H+ + 1 Adenylated molybdopterin + 1 Molybdate -> 1 H2O + 1 AMP + 1 Cu2+ + 1 Molybdenum cofactor)
+
+
+AdditionalMetabolites:
+bmoco_c (Bis-molybdenum cofactor)
+cu2_c (Cu2+)
+mobd_c (Molybdate)
+mptamp_c (Adenylated molybdopterin)
+
+

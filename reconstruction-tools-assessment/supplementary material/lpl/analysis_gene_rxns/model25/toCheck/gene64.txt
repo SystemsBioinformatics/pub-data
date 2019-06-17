@@ -1,0 +1,16 @@
+notRecovered:
+SBTPD:1 nad_c + 1 sbt6p_c <=> 1 f6p_c + 1 h_c + 1 nadh_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_D_Sorbitol_6_phosphate_ <=> 1 M_D_Fructose_6_phosphate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+SORB6PDEHYDROG-RXN:1 D-SORBITOL-6-P_c + 1 NAD_c <=> 1 CPD-15709_c + 1 NADH_c + 1 PROTON_c (1 D-sorbitol 6-phosphate + 1 NAD+ <=> 1 CPD-15709 + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-15709_c (CPD-15709)
+D-SORBITOL-6-P_c (D-sorbitol 6-phosphate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

@@ -1,0 +1,15 @@
+notRecovered:
+DTDP4D6ACGAMAT_BP:1 dtdp4d6dacgam_c + 1 glu__L_c <=> 1 akg_c + 1 dtdp4a6dacgam_c (1 dTDP-2-N-acetyl-4,6-dideoxy-glucosamine + 1 L-Glutamate <=> 1 2-Oxoglutarate + 1 dTDP-2-N-acetyl-4-amino-6-deoxy-galactosamine (=dTDP-2-N-acetyl-4-amino-fucose))
+
+
+AdditionalNotInModel:
+RXN0-1863:1 2-KETOGLUTARATE_c + 1 UDP-4-AMINO-4-DEOXY-L-ARABINOSE_c <=> 1 5-BETA-L-THREO-PENTAPYRANOSYL-4-ULOSE-_c + 1 GLT_c (1 2-oxoglutarate + 1 UDP-4-amino-4-deoxy-beta-L-arabinopyranose <=> 1 UDP-beta-L-threo-pentapyranos-4-ulose + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+5-BETA-L-THREO-PENTAPYRANOSYL-4-ULOSE-_c (UDP-beta-L-threo-pentapyranos-4-ulose)
+GLT_c (L-glutamate)
+UDP-4-AMINO-4-DEOXY-L-ARABINOSE_c (UDP-4-amino-4-deoxy-beta-L-arabinopyranose)
+
+

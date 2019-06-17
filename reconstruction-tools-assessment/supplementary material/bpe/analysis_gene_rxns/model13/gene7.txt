@@ -1,0 +1,15 @@
+notRecovered:
+3HAD40:1 3haACP_c -> 1 but2eACP_c + 1 h2o_c (1 (3R)-3-Hydroxyacyl-[acyl-carrier protein] -> 1 But-2-enoyl-[acyl-carrier protein] + 1 H2O)
+3HAD161:1 3hcpalm9eACP_c -> 1 h2o_c + 1 t3c9palmeACP_c (1 (R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-3-cis-9-palmitoleoyl-[acyl-carrier protein])
+3HAD160:1 3hpalmACP_c -> 1 h2o_c + 1 tpalm2eACP_c (1 R-3-hydroxypalmitoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-Hexadec-2-enoyl-[acyl-carrier protein])
+3HAD80:1 3hoctACP_c -> 1 h2o_c + 1 toct2eACP_c (1 (R)-3-Hydroxyoctanoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-Oct-2-enoyl-[acyl-carrier protein])
+3HAD60:1 3hhexACP_c -> 1 h2o_c + 1 thex2eACP_c (1 (R)-3-Hydroxyhexanoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-Hex-2-enoyl-[acyl-carrier protein])
+3HAD181:1 3hcvac11eACP_c -> 1 h2o_c + 1 t3c11vaceACP_c (1 (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-3-cis-11-vacceoyl-[acyl-carrier protein])
+3HAD180:1 3hoctaACP_c -> 1 h2o_c + 1 toctd2eACP_c (1 (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-octadec-2-enoyl-[acyl-carrier protein])
+3HAD100:1 3hdecACP_c -> 1 h2o_c + 1 tdec2eACP_c (1 (R)-3-Hydroxydecanoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-Dec-2-enoyl-[acyl-carrier protein])
+3HAD121:1 3hcddec5eACP_c -> 1 h2o_c + 1 t3c5ddeceACP_c (1 (R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-3-cis-5-dodecenoyl-[acyl-carrier protein])
+3HAD120:1 3hddecACP_c -> 1 h2o_c + 1 tddec2eACP_c (1 (R)-3-Hydroxydodecanoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-Dodec-2-enoyl-[acyl-carrier protein])
+3HAD141:1 3hcmrs7eACP_c -> 1 h2o_c + 1 t3c7mrseACP_c (1 (R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-3-cis-7-myristoleoyl-[acyl-carrier protein])
+3HAD140:1 3hmrsACP_c -> 1 h2o_c + 1 tmrs2eACP_c (1 (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] -> 1 H2O + 1 trans-Tetradec-2-enoyl-[acyl-carrier protein])
+
+

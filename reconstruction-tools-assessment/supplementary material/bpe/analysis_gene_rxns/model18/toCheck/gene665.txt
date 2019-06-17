@@ -1,0 +1,21 @@
+notRecovered:
+PHEMEabcpp2:1 atp_c + 1 h2o_c + 1 pheme_p -> 1 adp_c + 1 h_c + 1 pheme_c + 1 pi_c (1 ATP + 1 H2O + 1 Protoheme -> 1 ADP + 1 H+ + 1 Protoheme + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R10468:4 C00007_c + 5 C00030_c + 1 C00032_c -> 4 C00001_c + 5 C00028_c + 1 C00067_c + 1 C14818_c + 1 C20666_c (4 Oxygen + 5 Reduced acceptor + 1 Heme -> 4 H2O + 5 Acceptor + 1 Formaldehyde + 1 Fe2+ + 1 5-Oxo-delta-bilirubin)
+R10510:4 C00007_c + 5 C00030_c + 1 C00032_c <=> 4 C00001_c + 5 C00028_c + 1 C00067_c + 1 C14818_c + 1 C20667_c (4 Oxygen + 5 Reduced acceptor + 1 Heme <=> 4 H2O + 5 Acceptor + 1 Formaldehyde + 1 Fe2+ + 1 15-Oxo-beta-bilirubin)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00007_c (Oxygen)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00032_c (Heme)
+C00067_c (Formaldehyde)
+C14818_c (Fe2+)
+C20666_c (5-Oxo-delta-bilirubin)
+C20667_c (15-Oxo-beta-bilirubin)
+
+

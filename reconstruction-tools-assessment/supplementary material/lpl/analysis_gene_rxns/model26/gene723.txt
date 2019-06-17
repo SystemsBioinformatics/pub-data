@@ -1,0 +1,4 @@
+notRecovered:
+AGDC:1 acgam6p_c + 1 h2o_c -> 1 ac_c + 1 gam6p_c (1 M_N_Acetyl_D_glucosamine_6_phosphate_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_D_Glucosamine_6_phosphate_)
+
+

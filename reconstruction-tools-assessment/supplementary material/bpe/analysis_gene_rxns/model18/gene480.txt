@@ -1,0 +1,4 @@
+notRecovered:
+SO4t2pp:1 h_p + 1 so4_p -> 1 h_c + 1 so4_c (1 H+ + 1 Sulfate -> 1 H+ + 1 Sulfate)
+
+

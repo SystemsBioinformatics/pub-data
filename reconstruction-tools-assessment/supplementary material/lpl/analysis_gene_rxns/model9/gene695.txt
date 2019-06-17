@@ -1,0 +1,21 @@
+AdditionalNotInModel:
+ADEt2rpp:1 ade_p + 1 h_p <=> 1 h_c + 1 ade_c (1 Adenine + 1 H+ <=> 1 H+ + 1 Adenine)
+XANt2pp:1 h_p + 1 xan_p -> 1 h_c + 1 xan_c (1 H+ + 1 Xanthine -> 1 H+ + 1 Xanthine)
+GUAt2pp:1 h_p + 1 gua_p -> 1 gua_c + 1 h_c (1 H+ + 1 Guanine -> 1 Guanine + 1 H+)
+URATEt_1:1 urate_e + 1 h_e <=> 1 urate_c + 1 h_c (1 Urate C5H4N4O3 + 1 H+ <=> 1 Urate C5H4N4O3 + 1 H+)
+URATEtpp:1 urate_p + 1 h_p -> 1 urate_c + 1 h_c (1 Urate C5H4N4O3 + 1 H+ -> 1 Urate C5H4N4O3 + 1 H+)
+GUAtpp:1 gua_p <=> 1 gua_c (1 Guanine <=> 1 Guanine)
+
+
+AdditionalMetabolites:
+ade_p (Adenine)
+gua_p (Guanine)
+h_p (H+)
+urate_c (Urate C5H4N4O3)
+urate_e (Urate C5H4N4O3)
+urate_p (Urate C5H4N4O3)
+xan_p (Xanthine)
+
+
+AdditionalInModel:
+XANt:1 xan_e <=> 1 xan_c (1 Xanthine <=> 1 Xanthine)

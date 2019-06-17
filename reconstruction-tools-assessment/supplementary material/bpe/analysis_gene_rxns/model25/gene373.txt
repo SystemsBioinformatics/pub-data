@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+NUCLEOSIDE-DIP-KIN-RXN:1 ATP_c + 1 Nucleoside-Diphosphates_c -> 1 ADP_c + 1 Nucleoside-Triphosphates_c (1 ATP + 1 Nucleoside-Diphosphates -> 1 ADP + 1 Nucleoside-Triphosphates)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+Nucleoside-Diphosphates_c (Nucleoside-Diphosphates)
+Nucleoside-Triphosphates_c (Nucleoside-Triphosphates)
+
+

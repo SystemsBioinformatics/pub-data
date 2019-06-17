@@ -1,0 +1,4 @@
+notRecovered:
+SDPTA:1 akg_c + 1 sl26da_c <=> 1 glu__L_c + 1 sl2a6o_c (1 M_2_Oxoglutarate_ + 1 M_N_Succinyl_LL_2_6_diaminoheptanedioate_ <=> 1 M_L_Glutamate_ + 1 M_N_Succinyl_2_L_amino_6_oxoheptanedioate_)
+
+

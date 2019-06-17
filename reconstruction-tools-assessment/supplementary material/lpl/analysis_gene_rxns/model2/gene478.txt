@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+DGK1:1 atp_c + 1 dgmp_c <=> 1 adp_c + 1 dgdp_c (1 ATP + 1 DGMP <=> 1 ADP + 1 DGDP)
+
+

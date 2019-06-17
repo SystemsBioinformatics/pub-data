@@ -1,0 +1,23 @@
+notRecovered:
+PMANM:1 man1p_c <=> 1 man6p_c (1 M_D_Mannose_1_phosphate_ <=> 1 M_D_Mannose_6_phosphate_)
+
+
+AdditionalNotInModel:
+RXN-16998:1 Phosphoglucomutase_c + 1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c -> 1 Phosphorylated-phosphoglucomutase_c + 1 D-glucopyranose-6-phosphate_c (1 a phosphoglucomutase + 1 alpha-glucose 1,6-bisphosphate -> 1 a phosphorylated phosphoglucomutase + 1 D-glucopyranose 6-phosphate)
+RXN-16998-ALPHA-GLUCOSE-16-BISPHOSPHATE/Phosphoglucomutase//ALPHA-GLC-6-P/Phosphorylated-phosphoglucomutase.98.:1 Phosphoglucomutase_c + 1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c -> 1 Phosphorylated-phosphoglucomutase_c + 1 ALPHA-GLC-6-P_c (1 a phosphoglucomutase + 1 alpha-glucose 1,6-bisphosphate -> 1 a phosphorylated phosphoglucomutase + 1 alpha-D-glucose 6-phosphate)
+RXN-16998-ALPHA-GLUCOSE-16-BISPHOSPHATE/Phosphoglucomutase//GLC-6-P/Phosphorylated-phosphoglucomutase.92.:1 Phosphoglucomutase_c + 1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c -> 1 Phosphorylated-phosphoglucomutase_c + 1 GLC-6-P_c (1 a phosphoglucomutase + 1 alpha-glucose 1,6-bisphosphate -> 1 a phosphorylated phosphoglucomutase + 1 beta-D-glucose 6-phosphate)
+RXN-16997:1 Phosphorylated-phosphoglucomutase_c + 1 GLC-1-P_c -> 1 Phosphoglucomutase_c + 1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c (1 a phosphorylated phosphoglucomutase + 1 alpha-D-glucopyranose 1-phosphate -> 1 a phosphoglucomutase + 1 alpha-glucose 1,6-bisphosphate)
+PHOSPHOGLUCMUT-RXN-GLC-1-P//GLC-6-P.17.:1 GLC-1-P_c <=> 1 GLC-6-P_c (1 alpha-D-glucopyranose 1-phosphate <=> 1 beta-D-glucose 6-phosphate)
+PHOSPHOGLUCMUT-RXN:1 GLC-1-P_c <=> 1 D-glucopyranose-6-phosphate_c (1 alpha-D-glucopyranose 1-phosphate <=> 1 D-glucopyranose 6-phosphate)
+
+
+AdditionalMetabolites:
+ALPHA-GLC-6-P_c (alpha-D-glucose 6-phosphate)
+ALPHA-GLUCOSE-16-BISPHOSPHATE_c (alpha-glucose 1,6-bisphosphate)
+D-glucopyranose-6-phosphate_c (D-glucopyranose 6-phosphate)
+GLC-1-P_c (alpha-D-glucopyranose 1-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+Phosphoglucomutase_c (a phosphoglucomutase)
+Phosphorylated-phosphoglucomutase_c (a phosphorylated phosphoglucomutase)
+
+

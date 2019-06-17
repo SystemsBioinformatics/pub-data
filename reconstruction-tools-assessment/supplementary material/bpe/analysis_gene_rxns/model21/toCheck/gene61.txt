@@ -1,0 +1,15 @@
+notRecovered:
+CSPMDDC:1 cspmd_c + 1 h_c -> 1 co2_c + 1 spmd_c (1 Carboxyspermidine + 1 H+ -> 1 CO2 + 1 Spermidine)
+
+
+AdditionalNotInModel:
+RXN-9380:1 CPD-9995_c + 1 PROTON_c -> 1 CARBON-DIOXIDE_c + 1 NORSPERMIDINE_c (1 carboxynorspermidine + 1 H+ -> 1 CO2 + 1 norspermidine)
+
+
+AdditionalMetabolites:
+CARBON-DIOXIDE_c (CO2)
+CPD-9995_c (carboxynorspermidine)
+NORSPERMIDINE_c (norspermidine)
+PROTON_c (H+)
+
+

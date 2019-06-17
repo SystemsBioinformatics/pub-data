@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R03647:1 C01637_c + 1 C00002_c + 1 C00049_c <=> 1 C06113_c + 1 C00020_c + 1 C00013_c (1 tRNA(Asn) + 1 ATP + 1 L-Aspartate <=> 1 L-Aspartyl-tRNA(Asn) + 1 AMP + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00049_c (L-Aspartate)
+C01637_c (tRNA(Asn))
+C06113_c (L-Aspartyl-tRNA(Asn))
+
+

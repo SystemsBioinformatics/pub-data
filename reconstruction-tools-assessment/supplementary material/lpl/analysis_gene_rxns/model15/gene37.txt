@@ -1,0 +1,16 @@
+notRecovered:
+HPPK:1 2ahhmp_c + 1 atp_c -> 1 2ahhmd_c + 1 amp_c + 1 h_c (1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_ATP_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_diphosphate_ + 1 M_AMP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+rxn02503:1 cpd00002_c + 1 cpd00954_c <=> 1 cpd02920_c + 1 cpd00067_c + 1 cpd00018_c (1 ATP_c0 + 1 6_hydroxymethyl_dihydropterin_c0 <=> 1 2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridinediphosphate_c0 + 1 H_plus__c0 + 1 AMP_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00018_c (AMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00954_c (6_hydroxymethyl_dihydropterin_c0)
+cpd02920_c (2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridinediphosphate_c0)
+
+

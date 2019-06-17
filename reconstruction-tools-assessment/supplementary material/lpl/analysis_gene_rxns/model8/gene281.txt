@@ -1,0 +1,4 @@
+notRecovered:
+LPGS_LPL:1 lystrna_c + 0.01 pg_LPL_c -> 0.01 lyspg_LPL_c + 1 trnalys_c (1 M_L_Lysine_tRNA__Lys__ + 0.01 M_Phospatidylglycerol__LPL_specific__ -> 0.01 M_1_lysyl_phosphatidyl_glycerol__LPL_specific__ + 1 M_tRNA_Lys__)
+
+

@@ -1,0 +1,14 @@
+notRecovered:
+LacR:1 lac__L_c <=> 1 lac__D_c (1 M_L_Lactate_ <=> 1 M_D_Lactate_)
+
+
+AdditionalNotInModel:
+R11921:1 C21769_c <=> 1 C21767_c + 1 C19609_c (1 Ni(II)-pyridinium-3,5-bisthiocarboxylate mononucleotide <=> 1 Pyridinium-3,5-bisthiocarboxylate mononucleotide + 1 Nickel(2+))
+
+
+AdditionalMetabolites:
+C19609_c (Nickel(2+))
+C21767_c (Pyridinium-3,5-bisthiocarboxylate mononucleotide)
+C21769_c (Ni(II)-pyridinium-3,5-bisthiocarboxylate mononucleotide)
+
+

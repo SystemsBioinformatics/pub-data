@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn00193:1 cpd00023_c <=> 1 cpd00186_c (1 L_Glutamate_c0 <=> 1 D_Glutamate_c0)
+
+
+AdditionalMetabolites:
+cpd00023_c (L_Glutamate_c0)
+cpd00186_c (D_Glutamate_c0)
+
+

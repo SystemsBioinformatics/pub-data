@@ -1,0 +1,4 @@
+notRecovered:
+CAT:2 h2o2_c -> 2 h2o_c + 1 o2_c (2 Hydrogen peroxide -> 2 H2O + 1 O2)
+
+

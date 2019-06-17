@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R01174:1 C00009_c + 1 C00136_c <=> 1 C00010_c + 1 C02527_c (1 Orthophosphate + 1 Butanoyl-CoA <=> 1 CoA + 1 Butanoylphosphate)
+
+
+AdditionalMetabolites:
+C00009_c (Orthophosphate)
+C00010_c (CoA)
+C00136_c (Butanoyl-CoA)
+C02527_c (Butanoylphosphate)
+
+

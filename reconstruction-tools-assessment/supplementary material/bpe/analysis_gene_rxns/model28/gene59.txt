@@ -1,0 +1,5 @@
+notRecovered:
+ACt4pp:1 ac_p + 1 na1_p -> 1 ac_c + 1 na1_c (1 Acetate + 1 Sodium -> 1 Acetate + 1 Sodium)
+GLYCLTt4pp:1 glyclt_p + 1 na1_p -> 1 glyclt_c + 1 na1_c (1 Glycolate + 1 Sodium -> 1 Glycolate + 1 Sodium)
+
+

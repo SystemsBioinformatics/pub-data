@@ -1,0 +1,19 @@
+notRecovered:
+INDPYRD:1 h_c + 1 indpyr_c -> 1 co2_c + 1 id3acald_c (1 H+ + 1 Indolepyruvate -> 1 CO2 + 1 Indole-3-acetaldehyde)
+KMBADC:1 h_c + 1 2kmb_c -> 1 co2_c + 1 methal_c (1 H+ + 1 2-keto-4-methylthiobutanoate -> 1 CO2 + 1 Methional)
+
+
+AdditionalNotInModel:
+ACETOOHBUTSYN-RXN:1 2-OXOBUTANOATE_c + 1 PYRUVATE_c + 1 PROTON_c -> 1 2-ACETO-2-HYDROXY-BUTYRATE_c + 1 CARBON-DIOXIDE_c (1 2-oxobutanoate + 1 pyruvate + 1 H+ -> 1 (S)-2-aceto-2-hydroxybutanoate + 1 CO2)
+ACETOLACTSYN-RXN:2 PYRUVATE_c + 1 PROTON_c -> 1 2-ACETO-LACTATE_c + 1 CARBON-DIOXIDE_c (2 pyruvate + 1 H+ -> 1 (S)-2-acetolactate + 1 CO2)
+
+
+AdditionalMetabolites:
+2-ACETO-2-HYDROXY-BUTYRATE_c ((S)-2-aceto-2-hydroxybutanoate)
+2-ACETO-LACTATE_c ((S)-2-acetolactate)
+2-OXOBUTANOATE_c (2-oxobutanoate)
+CARBON-DIOXIDE_c (CO2)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+TARTD:1 tartr__L_c -> 1 h2o_c + 1 oaa_c (1 L-tartrate -> 1 H2O + 1 Oxaloacetate)
+
+
+AdditionalNotInModel:
+TARTRATE-DEHYDROGENASE-RXN:1 NAD_c + 1 TARTRATE_c <=> 1 CPD-66_c + 1 NADH_c + 1 PROTON_c (1 NAD+ + 1 L-tartrate <=> 1 2-hydroxy-3-oxosuccinate + 1 NADH + 1 H+)
+3-ISOPROPYLMALDEHYDROG-RXN:1 2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE_c + 1 NAD_c <=> 1 CPD-7100_c + 1 NADH_c + 1 PROTON_c (1 (2R,3S)-3-isopropylmalate + 1 NAD+ <=> 1 (2S)-2-isopropyl-3-oxosuccinate + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE_c ((2R,3S)-3-isopropylmalate)
+CPD-66_c (2-hydroxy-3-oxosuccinate)
+CPD-7100_c ((2S)-2-isopropyl-3-oxosuccinate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+TARTRATE_c (L-tartrate)
+
+

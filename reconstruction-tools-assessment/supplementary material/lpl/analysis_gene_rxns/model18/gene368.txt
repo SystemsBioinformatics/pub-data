@@ -1,0 +1,19 @@
+AdditionalNotInModel:
+R00837:1 C00001_c + 1 C00689_c -> 1 C00031_c + 1 C00092_c (1 H2O + 1 alpha,alpha'-Trehalose 6-phosphate -> 1 D-Glucose + 1 D-Glucose 6-phosphate)
+R01718:1 C00001_c + 1 C00252_c -> 1 C00031_c + 1 C00267_c (1 H2O + 1 Isomaltose -> 1 D-Glucose + 1 alpha-D-Glucose)
+R06113:1 C00001_c + 1 G09795_c <=> 1 C00031_c + 1 C00092_c (1 H2O + 1 Trehalose 6-phosphate <=> 1 D-Glucose + 1 D-Glucose 6-phosphate)
+R06199:1 C00001_c + 1 undefined_107_c <=> 1 C00267_c + 1 undefined_106_c (1 H2O + 1 G10545(n+1) <=> 1 alpha-D-Glucose + 1 G10545(n))
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00031_c (D-Glucose)
+C00092_c (D-Glucose 6-phosphate)
+C00252_c (Isomaltose)
+C00267_c (alpha-D-Glucose)
+C00689_c (alpha,alpha'-Trehalose 6-phosphate)
+G09795_c (Trehalose 6-phosphate)
+undefined_106_c (G10545(n))
+undefined_107_c (G10545(n+1))
+
+

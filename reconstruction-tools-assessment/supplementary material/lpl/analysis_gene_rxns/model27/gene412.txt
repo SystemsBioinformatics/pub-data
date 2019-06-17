@@ -1,0 +1,5 @@
+notRecovered:
+L_LACt2r:1 h_e + 1 lac__L_e <=> 1 h_c + 1 lac__L_c (1 M_H_ + 1 M_L_Lactate_ <=> 1 M_H_ + 1 M_L_Lactate_)
+D_LACt2:1 h_e + 1 lac__D_e <=> 1 h_c + 1 lac__D_c (1 M_H_ + 1 M_D_Lactate_ <=> 1 M_H_ + 1 M_D_Lactate_)
+
+

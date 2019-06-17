@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+DTARTD:1 tartr__D_c -> 1 oaa_c + 1 h2o_c (1 D-tartrate -> 1 Oxaloacetate + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+tartr__D_c (D-tartrate)
+
+
+AdditionalInModel:
+FUM:1 fum_c + 1 h2o_c <=> 1 mal__L_c (1 Fumarate + 1 H2O H2O <=> 1 L-Malate)

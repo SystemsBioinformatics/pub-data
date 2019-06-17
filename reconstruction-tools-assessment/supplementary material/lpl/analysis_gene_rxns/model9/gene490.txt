@@ -1,0 +1,2 @@
+AdditionalInModel:
+GLYTRS_1:1 atp_c + 1 gly_c + 1 trnagly_c -> 1 amp_c + 1 glytrna_c + 1 ppi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Glycine + 1 TRNA(Gly) -> 1 AMP C10H12N5O7P + 1 Glycyl-tRNA(Gly) + 1 Diphosphate + 1 H+)

@@ -1,0 +1,17 @@
+AdditionalNotInModel:
+R00158:1 C00002_c + 1 C00105_c <=> 1 C00008_c + 1 C00015_c (1 ATP + 1 UMP <=> 1 ADP + 1 UDP)
+R02473:1 C00002_c + 1 C00099_c + 1 C00522_c <=> 1 C00013_c + 1 C00020_c + 1 C00864_c (1 ATP + 1 beta-Alanine + 1 (R)-Pantoate <=> 1 Diphosphate + 1 AMP + 1 Pantothenate)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00013_c (Diphosphate)
+C00015_c (UDP)
+C00020_c (AMP)
+C00099_c (beta-Alanine)
+C00105_c (UMP)
+C00522_c ((R)-Pantoate)
+C00864_c (Pantothenate)
+
+

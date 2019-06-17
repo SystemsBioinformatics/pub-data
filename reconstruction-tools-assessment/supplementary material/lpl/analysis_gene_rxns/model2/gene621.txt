@@ -1,0 +1,4 @@
+notRecovered:
+G3PCT:1 ctp_c + 1 glyc3p_c + 1 h_c -> 1 cdpglyc_c + 1 ppi_c (1 M_CTP_ + 1 M_sn_Glycerol_3_phosphate_ + 1 M_H_ -> 1 M_CDPglycerol_ + 1 M_Diphosphate_)
+
+

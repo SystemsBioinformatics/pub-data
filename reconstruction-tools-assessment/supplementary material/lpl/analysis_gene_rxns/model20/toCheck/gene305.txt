@@ -1,0 +1,15 @@
+notRecovered:
+DAGGT_LPL:0.01 dag_LPL_c + 2 udpg_c -> 0.01 dgdag_LPL_c + 2 h_c + 2 udp_c (0.01 M_1_2_Diacylglycerol__LPL_specific_ + 2 M_UDPglucose_ -> 0.01 M_Diglucosyl_diacylglycerol_ + 2 M_H_ + 2 M_UDP_)
+
+
+AdditionalNotInModel:
+R10850:1 C00029_c + 1 C00641_c <=> 1 C00015_c + 1 C06364_c (1 UDP-glucose + 1 1,2-Diacyl-sn-glycerol <=> 1 UDP + 1 1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol)
+
+
+AdditionalMetabolites:
+C00015_c (UDP)
+C00029_c (UDP-glucose)
+C00641_c (1,2-Diacyl-sn-glycerol)
+C06364_c (1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+SBTD_L:1 nad_c + 1 sbt__L_c -> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_L_Sorbitol_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD:1 idt_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_L_Iditol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+
+
+AdditionalNotInModel:
+R01896:1 C00003_c + 1 C00379_c <=> 1 C00004_c + 1 C00080_c + 1 C00310_c (1 NAD+ + 1 Xylitol <=> 1 NADH + 1 H+ + 1 D-Xylulose)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00310_c (D-Xylulose)
+C00379_c (Xylitol)
+
+

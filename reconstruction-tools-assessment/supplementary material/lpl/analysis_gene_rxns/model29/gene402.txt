@@ -1,0 +1,4 @@
+notRecovered:
+PGAMT:1 gam1p_c <=> 1 gam6p_c (1 M_D_Glucosamine_1_phosphate_ <=> 1 M_D_Glucosamine_6_phosphate_)
+
+

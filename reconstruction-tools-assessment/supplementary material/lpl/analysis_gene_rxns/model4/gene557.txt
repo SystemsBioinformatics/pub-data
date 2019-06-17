@@ -1,0 +1,4 @@
+notRecovered:
+UDPGALM:1 udpgal_c -> 1 udpgalfur_c (1 M_UDPgalactose_ -> 1 M_UDP_D_galacto_1_4_furanose_)
+
+

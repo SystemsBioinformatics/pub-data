@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+rxn02264:1 cpd00755_c <=> 1 cpd00001_c + 1 cpd00774_c (1 Hydroxymethylbilane_c0 <=> 1 H2O_c0 + 1 UroporphyrinogenIII_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00755_c (Hydroxymethylbilane_c0)
+cpd00774_c (UroporphyrinogenIII_c0)
+
+

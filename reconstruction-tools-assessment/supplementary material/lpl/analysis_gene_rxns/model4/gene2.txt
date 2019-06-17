@@ -1,0 +1,4 @@
+notRecovered:
+ACNML:1 acnam_c -> 1 acmana_c + 1 pyr_c (1 M_N_Acetylneuraminate_ -> 1 M_N_Acetyl_D_mannosamine_ + 1 M_Pyruvate_)
+
+

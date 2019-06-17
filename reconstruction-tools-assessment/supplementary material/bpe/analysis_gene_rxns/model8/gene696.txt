@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-11484:1 Pimeloyl-ACPs_c + 1 L-ALPHA-ALANINE_c + 1 PROTON_c <=> 1 8-AMINO-7-OXONONANOATE_c + 1 CARBON-DIOXIDE_c + 1 ACP_c (1 a pimeloyl-[acp] + 1 L-alanine + 1 H+ <=> 1 8-amino-7-oxononanoate + 1 CO2 + 1 a soluble [acyl-carrier protein])
+
+
+AdditionalMetabolites:
+8-AMINO-7-OXONONANOATE_c (8-amino-7-oxononanoate)
+CARBON-DIOXIDE_c (CO2)
+L-ALPHA-ALANINE_c (L-alanine)
+PROTON_c (H+)
+Pimeloyl-ACPs_c (a pimeloyl-[acp])
+
+

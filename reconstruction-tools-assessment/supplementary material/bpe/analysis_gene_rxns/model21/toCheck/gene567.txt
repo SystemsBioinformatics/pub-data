@@ -1,0 +1,19 @@
+notRecovered:
+FRDO:1 fdxrd_c + 1 nadp_c -> 1 fdxox_c + 1 h_c + 1 nadph_c (1 ferredoxin (reduced) + 1 Nicotinamide adenine dinucleotide phosphate -> 1 ferredoxin (oxidized) + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+1.14.12.1-RXN:1 ANTHRANILATE_c + 1 NADH-P-OR-NOP_c + 1 OXYGEN-MOLECULE_c + 3 PROTON_c -> 1 AMMONIUM_c + 1 CARBON-DIOXIDE_c + 1 CATECHOL_c + 1 NAD-P-OR-NOP_c (1 anthranilate + 1 NADH-P-OR-NOP + 1 oxygen + 3 H+ -> 1 ammonium + 1 CO2 + 1 catechol + 1 NAD-P-OR-NOP)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+ANTHRANILATE_c (anthranilate)
+CARBON-DIOXIDE_c (CO2)
+CATECHOL_c (catechol)
+NAD-P-OR-NOP_c (NAD-P-OR-NOP)
+NADH-P-OR-NOP_c (NADH-P-OR-NOP)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+
+

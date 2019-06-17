@@ -1,0 +1,4 @@
+notRecovered:
+RPE:1 ru5p__D_c <=> 1 xu5p__D_c (1 D-Ribulose 5-phosphate <=> 1 D-Xylulose 5-phosphate)
+
+

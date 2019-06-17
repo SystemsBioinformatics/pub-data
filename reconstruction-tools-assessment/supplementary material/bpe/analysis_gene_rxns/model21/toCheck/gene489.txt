@@ -1,0 +1,14 @@
+notRecovered:
+CLPNS140pp:2 pg140_p <=> 1 clpn140_p + 1 glyc_p (2 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) <=> 1 cardiolipin (tetratetradecanoyl, n-C14:0) + 1 Glycerol)
+
+
+AdditionalNotInModel:
+CARDIOLIPSYN-RXN:2 L-1-PHOSPHATIDYL-GLYCEROL_c -> 1 CARDIOLIPIN_c + 1 GLYCEROL_c (2 L-1-PHOSPHATIDYL-GLYCEROL -> 1 CARDIOLIPIN + 1 glycerol)
+
+
+AdditionalMetabolites:
+CARDIOLIPIN_c (CARDIOLIPIN)
+GLYCEROL_c (glycerol)
+L-1-PHOSPHATIDYL-GLYCEROL_c (L-1-PHOSPHATIDYL-GLYCEROL)
+
+

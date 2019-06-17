@@ -1,0 +1,4 @@
+notRecovered:
+GHMT2r:1 ser__L_c + 1 thf_c <=> 1 gly_c + 1 h2o_c + 1 mlthf_c (1 M_L_Serine_ + 1 M_5_6_7_8_Tetrahydrofolate_ <=> 1 M_Glycine_ + 1 M_H2O_ + 1 M_5_10_Methylenetetrahydrofolate_)
+
+

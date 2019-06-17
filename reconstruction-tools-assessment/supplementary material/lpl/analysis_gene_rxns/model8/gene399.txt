@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+ADPDA:1 h2o_c + 1 26dapime_c <=> 1 26dap_LL_c + 1 ac_c (1 H2O H2O + 1 N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5 <=> 1 LL-2,6-Diaminoheptanedioate + 1 Acetate)
+
+
+AdditionalMetabolites:
+26dapime_c (N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5)
+
+

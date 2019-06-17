@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+RXN-15742:1 CPD-16965_c -> 1 CPD-7652_c + 1 FUM_c (1 4-(beta-D-ribofuranosyl)-N-succinylaminobenzene 5'-phosphate -> 1 4-(beta-D-ribofuranosyl)aminobenzene-5'-phosphate + 1 fumarate)
+
+
+AdditionalMetabolites:
+CPD-16965_c (4-(beta-D-ribofuranosyl)-N-succinylaminobenzene 5'-phosphate)
+CPD-7652_c (4-(beta-D-ribofuranosyl)aminobenzene-5'-phosphate)
+FUM_c (fumarate)
+
+

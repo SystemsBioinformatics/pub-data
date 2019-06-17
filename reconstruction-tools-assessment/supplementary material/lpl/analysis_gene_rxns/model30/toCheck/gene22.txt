@@ -1,0 +1,29 @@
+notRecovered:
+3OAR180:1 3ooctdACP_c + 1 h_c + 1 nadph_c -> 1 3hoctaACP_c + 1 nadp_c (1 M_3_Oxooctadecanoyl_acp_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxyoctadecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+3OAR40:1 actACP_c + 1 h_c + 1 nadph_c -> 1 3haACP_c + 1 nadp_c (1 M_Acetoacetyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M__3R__3_Hydroxybutanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_)
+
+
+AdditionalNotInModel:
+R07763:1 C16219_c + 1 C00005_c + 1 C00080_c <=> 1 C16220_c + 1 C00006_c (1 3-Oxostearoyl-[acp] + 1 NADPH + 1 H+ <=> 1 (R)-3-Hydroxyoctadecanoyl-[acp] + 1 NADP+)
+R02767:1 C01271_c + 1 C00006_c <=> 1 C00685_c + 1 C00005_c + 1 C00080_c (1 (3R)-3-Hydroxyacyl-[acyl-carrier protein] + 1 NADP+ <=> 1 3-Oxoacyl-[acyl-carrier protein] + 1 NADPH + 1 H+)
+R10116:1 C20372_c + 1 C00005_c + 1 C00080_c <=> 1 C20373_c + 1 C00006_c (1 3-Ketoglutaryl-[acp] methyl ester + 1 NADPH + 1 H+ <=> 1 3-Hydroxyglutaryl-[acp] methyl ester + 1 NADP+)
+R10120:1 C20376_c + 1 C00005_c + 1 C00080_c <=> 1 C20377_c + 1 C00006_c (1 3-Ketopimeloyl-[acp] methyl ester + 1 NADPH + 1 H+ <=> 1 3-Hydroxypimeloyl-[acp] methyl ester + 1 NADP+)
+R04533:1 C04618_c + 1 C00006_c <=> 1 C05744_c + 1 C00005_c + 1 C00080_c (1 (3R)-3-Hydroxybutanoyl-[acyl-carrier protein] + 1 NADP+ <=> 1 Acetoacetyl-[acp] + 1 NADPH + 1 H+)
+
+
+AdditionalMetabolites:
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00685_c (3-Oxoacyl-[acyl-carrier protein])
+C01271_c ((3R)-3-Hydroxyacyl-[acyl-carrier protein])
+C04618_c ((3R)-3-Hydroxybutanoyl-[acyl-carrier protein])
+C05744_c (Acetoacetyl-[acp])
+C16219_c (3-Oxostearoyl-[acp])
+C16220_c ((R)-3-Hydroxyoctadecanoyl-[acp])
+C20372_c (3-Ketoglutaryl-[acp] methyl ester)
+C20373_c (3-Hydroxyglutaryl-[acp] methyl ester)
+C20376_c (3-Ketopimeloyl-[acp] methyl ester)
+C20377_c (3-Hydroxypimeloyl-[acp] methyl ester)
+
+

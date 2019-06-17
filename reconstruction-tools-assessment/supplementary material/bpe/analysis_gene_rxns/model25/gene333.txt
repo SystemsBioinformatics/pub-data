@@ -1,0 +1,4 @@
+notRecovered:
+GTHRDHpp:1 gthrd_p + 1 h2o_p -> 1 cgly_p + 1 glu__L_p (1 Reduced glutathione + 1 H2O -> 1 Cys-Gly + 1 L-Glutamate)
+
+

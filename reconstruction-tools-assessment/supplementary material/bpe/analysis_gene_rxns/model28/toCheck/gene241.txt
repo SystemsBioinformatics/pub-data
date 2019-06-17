@@ -1,0 +1,16 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+R07358:1 C15602_c + 1 C00004_c + 1 C00080_c <=> 1 C15603_c + 1 C00003_c (1 Quinone + 1 NADH + 1 H+ <=> 1 Hydroquinone + 1 NAD+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C15602_c (Quinone)
+C15603_c (Hydroquinone)
+
+

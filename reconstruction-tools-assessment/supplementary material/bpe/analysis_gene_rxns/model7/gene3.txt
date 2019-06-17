@@ -1,0 +1,20 @@
+notRecovered:
+ALDD19xr:1 h2o_c + 1 nad_c + 1 pacald_c -> 2 h_c + 1 nadh_c + 1 pac_c (1 H2O + 1 Nicotinamide adenine dinucleotide + 1 Phenylacetaldehyde -> 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Phenylacetic acid)
+ABUTD:1 4abutn_c + 1 h2o_c + 1 nad_c <=> 1 4abut_c + 2 h_c + 1 nadh_c (1 4-Aminobutanal + 1 H2O + 1 Nicotinamide adenine dinucleotide <=> 1 4-Aminobutanoate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+ALDD2x:1 acald_c + 1 h2o_c + 1 nad_c -> 1 ac_c + 2 h_c + 1 nadh_c (1 Acetaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Acetate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+GLUSADH:1 oxptn_c + 1 h2o_c + 1 nadp_c <=> 1 glutar_c + 2 h_c + 1 nadph_c (1 Glutarate semialdehyde (5-oxopentanoate) + 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate <=> 1 Glutarate (1,3-propanedicarboxylic acid) + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalNotInModel:
+3HPADHi:1 nad_c + 1 h2o_c + 1 3hppnl_c -> 1 3hpp_c + 2 h_c + 1 nadh_c (1 Nicotinamide adenine dinucleotide + 1 H2O H2O + 1 3-Hydroxypropanal -> 1 3-Hydroxypropanoate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+GGGABADr:1 ggbutal_c + 1 nadp_c + 1 h2o_c <=> 1 gg4abut_c + 2 h_c + 1 nadph_c (1 Gamma-glutamyl-gamma-butyraldehyde + 1 Nicotinamide adenine dinucleotide phosphate + 1 H2O H2O <=> 1 Gamma-glutamyl-gamma aminobutyric acid + 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced)
+
+
+AdditionalMetabolites:
+3hpp_c (3-Hydroxypropanoate)
+3hppnl_c (3-Hydroxypropanal)
+gg4abut_c (Gamma-glutamyl-gamma aminobutyric acid)
+ggbutal_c (Gamma-glutamyl-gamma-butyraldehyde)
+
+

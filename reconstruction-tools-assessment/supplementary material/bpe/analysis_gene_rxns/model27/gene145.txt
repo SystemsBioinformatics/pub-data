@@ -1,0 +1,4 @@
+notRecovered:
+MCITS:1 h2o_c + 1 oaa_c + 1 ppcoa_c -> 1 2mcit_c + 1 coa_c + 1 h_c (1 H2O + 1 Oxaloacetate + 1 Propanoyl-CoA -> 1 2-Methylcitrate + 1 Coenzyme A + 1 H+)
+
+

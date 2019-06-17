@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+rxn00798:1 cpd00105_c <=> 1 cpd00258_c (1 D_Ribose_c0 <=> 1 D_Ribulose_c0)
+
+
+AdditionalMetabolites:
+cpd00105_c (D_Ribose_c0)
+cpd00258_c (D_Ribulose_c0)
+
+

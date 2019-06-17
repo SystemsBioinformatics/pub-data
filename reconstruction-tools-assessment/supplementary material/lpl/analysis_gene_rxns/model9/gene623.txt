@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+GLA:1 nad_c + 1 udpgalur_c <=> 1 nadh_c + 2 h_c + 1 udpglcur_c (1 Nicotinamide adenine dinucleotide + 1 UDPgalacturonate <=> 1 Nicotinamide adenine dinucleotide - reduced + 2 H+ + 1 UDP-D-glucuronate)
+AGMHE:1 adphep_DD_c -> 1 adphep_LD_c (1 ADP-D-glycero-D-manno-heptose -> 1 ADP-L-glycero-D-manno-heptose)
+UAG4E:1 uacgam_c -> 1 uacgala_c (1 UDP-N-acetyl-D-glucosamine -> 1 UDP N acetyl D galactosamine C17H25N3O17P2)
+
+
+AdditionalMetabolites:
+adphep_DD_c (ADP-D-glycero-D-manno-heptose)
+adphep_LD_c (ADP-L-glycero-D-manno-heptose)
+uacgala_c (UDP N acetyl D galactosamine C17H25N3O17P2)
+udpgalur_c (UDPgalacturonate)
+udpglcur_c (UDP-D-glucuronate)
+
+

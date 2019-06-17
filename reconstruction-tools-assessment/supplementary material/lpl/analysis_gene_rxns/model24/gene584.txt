@@ -1,0 +1,16 @@
+notRecovered:
+HIBD:1 3hmp_c + 1 nad_c -> 1 2mop_c + 1 h_c + 1 nadh_c (1 M_3_Hydroxy_2_methylpropanoate_ + 1 M_Nicotinamide_adenine_dinucleotide_ -> 1 M_2_Methyl_3_oxopropanoate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+
+
+AdditionalNotInModel:
+RXN0-5289:1 GLYCERATE_c + 1 NAD_c <=> 1 NADH_c + 1 PROTON_c + 1 TARTRONATE-S-ALD_c (1 D-glycerate + 1 NAD+ <=> 1 NADH + 1 H+ + 1 tartronate semialdehyde)
+
+
+AdditionalMetabolites:
+GLYCERATE_c (D-glycerate)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+TARTRONATE-S-ALD_c (tartronate semialdehyde)
+
+

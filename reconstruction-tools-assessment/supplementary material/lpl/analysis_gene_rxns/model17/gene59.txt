@@ -1,0 +1,4 @@
+notRecovered:
+NO2t3:1 h_e + 1 no2_c -> 1 h_c + 1 no2_e (1 M_H_ + 1 M_Nitrite_ -> 1 M_H_ + 1 M_Nitrite_)
+
+

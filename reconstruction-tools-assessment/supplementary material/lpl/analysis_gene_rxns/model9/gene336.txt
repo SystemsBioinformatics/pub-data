@@ -1,0 +1,33 @@
+AdditionalNotInModel:
+MALTTRabcpp:1 atp_c + 1 malttr_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 h_c + 1 malttr_c (1 ATP C10H12N5O13P3 + 1 Maltotriose C18H32O16 + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 Maltotriose C18H32O16)
+MALTTTRabcpp:1 atp_c + 1 maltttr_p + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 maltttr_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Maltotetraose + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 Maltotetraose + 1 H+)
+GALabc:1 atp_c + 1 h2o_c + 1 gal_e -> 1 adp_c + 1 pi_c + 1 h_c + 1 gal_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 D-Galactose -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+ + 1 D-Galactose)
+RAFFabc:1 atp_c + 1 raffin_e + 1 h2o_c -> 1 raffin_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Raffinose C18H32O16 + 1 H2O H2O -> 1 Raffinose C18H32O16 + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+GLYC3Pabc:1 atp_c + 1 glyc3p_e + 1 h2o_c -> 1 glyc3p_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Glycerol 3-phosphate + 1 H2O H2O -> 1 Glycerol 3-phosphate + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+GLCabc:1 atp_c + 1 glc__D_e + 1 h2o_c -> 1 glc__D_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 D-Glucose + 1 H2O H2O -> 1 D-Glucose + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+14GLUCANabcpp:1 atp_c + 1 14glucan_p + 1 h2o_c -> 1 14glucan_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 1,4-alpha-D-glucan + 1 H2O H2O -> 1 1,4-alpha-D-glucan + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+MELIBabc:1 atp_c + 1 melib_e + 1 h2o_c -> 1 melib_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Melibiose C12H22O11 + 1 H2O H2O -> 1 Melibiose C12H22O11 + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+MALTTTRabc:1 atp_c + 1 maltttr_e + 1 h2o_c -> 1 adp_c + 1 pi_c + 1 maltttr_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Maltotetraose + 1 H2O H2O -> 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 Maltotetraose + 1 H+)
+MALTabcpp:1 atp_c + 1 malt_p + 1 h2o_c -> 1 malt_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Maltose C12H22O11 + 1 H2O H2O -> 1 Maltose C12H22O11 + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+MALTHXabcpp:1 atp_c + 1 h2o_c + 1 malthx_p -> 1 malthx_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 H2O H2O + 1 Maltohexaose -> 1 Maltohexaose + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+MALTPTabcpp:1 atp_c + 1 maltpt_p + 1 h2o_c -> 1 maltpt_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 Maltopentaose + 1 H2O H2O -> 1 Maltopentaose + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+14glucan_c (1,4-alpha-D-glucan)
+14glucan_p (1,4-alpha-D-glucan)
+gal_e (D-Galactose)
+glyc3p_e (Glycerol 3-phosphate)
+malt_p (Maltose C12H22O11)
+malthx_c (Maltohexaose)
+malthx_p (Maltohexaose)
+maltpt_c (Maltopentaose)
+maltpt_p (Maltopentaose)
+malttr_c (Maltotriose C18H32O16)
+malttr_p (Maltotriose C18H32O16)
+maltttr_c (Maltotetraose)
+maltttr_e (Maltotetraose)
+maltttr_p (Maltotetraose)
+raffin_e (Raffinose C18H32O16)
+
+

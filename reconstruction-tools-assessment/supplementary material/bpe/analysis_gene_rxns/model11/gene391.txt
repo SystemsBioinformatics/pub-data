@@ -1,0 +1,25 @@
+notRecovered:
+PROD2:1 fad_c + 1 pro__L_c <=> 1 1pyr5c_c + 1 fadh2_c + 1 h_c (1 Flavin adenine dinucleotide oxidized + 1 L-Proline <=> 1 1-Pyrroline-5-carboxylate + 1 Flavin adenine dinucleotide reduced + 1 H+)
+
+
+AdditionalNotInModel:
+RXN-14116:1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 NAD_c + 1 WATER_c -> 1 GLT_c + 1 NADH_c + 2 PROTON_c (1 L-glutamate-5-semialdehyde + 1 NAD+ + 1 H2O -> 1 L-glutamate + 1 NADH + 2 H+)
+RXN-14903:1 ETR-Quinones_c + 1 PRO_c -> 1 ETR-Quinols_c + 1 L-DELTA1-PYRROLINE_5-CARBOXYLATE_c + 1 PROTON_c (1 an electron-transfer quinone + 1 L-proline -> 1 an electron-transfer quinol + 1 (S)-1-pyrroline-5-carboxylate + 1 H+)
+RXN0-7008:1 Ubiquinones_c + 1 PRO_c -> 1 Ubiquinols_c + 1 L-DELTA1-PYRROLINE_5-CARBOXYLATE_c + 1 PROTON_c (1 a ubiquinone + 1 L-proline -> 1 an ubiquinol + 1 (S)-1-pyrroline-5-carboxylate + 1 H+)
+
+
+AdditionalMetabolites:
+ETR-Quinols_c (an electron-transfer quinol)
+ETR-Quinones_c (an electron-transfer quinone)
+GLT_c (L-glutamate)
+L-DELTA1-PYRROLINE_5-CARBOXYLATE_c ((S)-1-pyrroline-5-carboxylate)
+L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c (L-glutamate-5-semialdehyde)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+PRO_c (L-proline)
+Ubiquinols_c (an ubiquinol)
+Ubiquinones_c (a ubiquinone)
+WATER_c (H2O)
+
+

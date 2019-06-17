@@ -1,0 +1,31 @@
+notRecovered:
+GLCpts:1 glc__D_e + 1 pep_c -> 1 g6p_c + 1 pyr_c (1 M_D_Glucose_ + 1 M_Phosphoenolpyruvate_ -> 1 M_D_Glucose_6_phosphate_ + 1 M_Pyruvate_)
+SUCpts:1 pep_c + 1 sucr_e -> 1 pyr_c + 1 suc6p_c (1 M_Phosphoenolpyruvate_ + 1 M_Sucrose_ -> 1 M_Pyruvate_ + 1 M_Sucrose_6_phosphate_)
+
+
+AdditionalNotInModel:
+R02738:1 C00031_c + 1 C04261_c -> 1 C00615_c + 1 C00668_c (1 D-Glucose + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 alpha-D-Glucose 6-phosphate)
+R02780:1 C01083_c + 1 C04261_c -> 1 C00615_c + 1 C00689_c (1 alpha,alpha-Trehalose + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 alpha,alpha'-Trehalose 6-phosphate)
+R04111:1 C00208_c + 1 C04261_c -> 1 C00615_c + 1 C02995_c (1 Maltose + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 Maltose 6'-phosphate)
+R04394:1 C01451_c + 1 C04261_c -> 1 C00615_c + 1 C06188_c (1 Salicin + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 Salicin 6-phosphate)
+R05132:1 C04261_c + 1 C06186_c -> 1 C00615_c + 1 C06187_c (1 Protein N(pi)-phospho-L-histidine + 1 Arbutin -> 1 Protein histidine + 1 Arbutin 6-phosphate)
+R08559:1 C02713_c + 1 C04261_c -> 1 C00615_c + 1 C16698_c (1 N-Acetylmuramate + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 N-Acetylmuramic acid 6-phosphate)
+
+
+AdditionalMetabolites:
+C00031_c (D-Glucose)
+C00208_c (Maltose)
+C00615_c (Protein histidine)
+C00668_c (alpha-D-Glucose 6-phosphate)
+C00689_c (alpha,alpha'-Trehalose 6-phosphate)
+C01083_c (alpha,alpha-Trehalose)
+C01451_c (Salicin)
+C02713_c (N-Acetylmuramate)
+C02995_c (Maltose 6'-phosphate)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+C06186_c (Arbutin)
+C06187_c (Arbutin 6-phosphate)
+C06188_c (Salicin 6-phosphate)
+C16698_c (N-Acetylmuramic acid 6-phosphate)
+
+

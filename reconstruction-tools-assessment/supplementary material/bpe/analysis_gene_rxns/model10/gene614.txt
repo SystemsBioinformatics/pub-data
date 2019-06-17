@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-14118:1 CTP_c + 1 PROTON_c + 1 WATER_c -> 1 AMMONIUM_c + 1 UTP_c (1 CTP + 1 H+ + 1 H2O -> 1 ammonium + 1 UTP)
+
+
+AdditionalMetabolites:
+AMMONIUM_c (ammonium)
+CTP_c (CTP)
+PROTON_c (H+)
+UTP_c (UTP)
+WATER_c (H2O)
+
+

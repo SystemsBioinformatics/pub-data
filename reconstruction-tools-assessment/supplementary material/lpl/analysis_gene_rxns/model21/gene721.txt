@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R04037:1 C00001_c + 1 C02741_c <=> 1 C04896_c (1 H2O + 1 Phosphoribosyl-AMP <=> 1 5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C02741_c (Phosphoribosyl-AMP)
+C04896_c (5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide)
+
+

@@ -1,0 +1,12 @@
+notRecovered:
+MUCLACISO:1 muclac_c <=> 1 5odhf2a_c (1 Muconolactone <=> 1 3-Oxoadipate enol-lactone)
+
+
+AdditionalNotInModel:
+MUCLI:1 mucl_c <=> 1 5odhf2a_c (1 Mucolactone <=> 1 5-Oxo-4,5-dihydrofuran-2-acetate)
+
+
+AdditionalMetabolites:
+mucl_c (Mucolactone)
+
+

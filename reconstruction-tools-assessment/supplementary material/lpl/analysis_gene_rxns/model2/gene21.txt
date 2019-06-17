@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+GLYCK2:1 atp_c + 1 glyc__R_c -> 1 adp_c + 1 h_c + 1 2pg_c (1 ATP + 1 (R)-Glycerate -> 1 ADP + 1 H+ + 1 D-Glycerate 2-phosphate)
+
+

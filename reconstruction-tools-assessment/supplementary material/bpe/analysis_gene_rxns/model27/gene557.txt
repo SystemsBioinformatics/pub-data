@@ -1,0 +1,4 @@
+notRecovered:
+DPHEDH:1 fad_c + 1 h2o_c + 1 phe_D_c -> 1 fadh2_c + 1 nh4_c + 1 phpyr_c (1 Flavin adenine dinucleotide oxidized + 1 H2O + 1 D-Phenylalanine -> 1 Flavin adenine dinucleotide reduced + 1 Ammonium + 1 Phenylpyruvate)
+
+

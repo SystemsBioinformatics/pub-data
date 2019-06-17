@@ -1,0 +1,6 @@
+notRecovered:
+VALabc:1 atp_c + 1 h2o_c + 1 val__L_e -> 1 adp_c + 1 h_c + 1 pi_c + 1 val__L_c (1 M_ATP_ + 1 M_H2O_ + 1 M_L_Valine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Phosphate_ + 1 M_L_Valine_)
+ILEabc:1 atp_c + 1 h2o_c + 1 ile__L_e -> 1 adp_c + 1 h_c + 1 ile__L_c + 1 pi_c (1 M_ATP_ + 1 M_H2O_ + 1 M_L_Isoleucine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_L_Isoleucine_ + 1 M_Phosphate_)
+LEUabc:1 atp_c + 1 h2o_c + 1 leu__L_e -> 1 adp_c + 1 h_c + 1 leu__L_c + 1 pi_c (1 M_ATP_ + 1 M_H2O_ + 1 M_L_Leucine_ -> 1 M_ADP_ + 1 M_H_ + 1 M_L_Leucine_ + 1 M_Phosphate_)
+
+

@@ -1,0 +1,47 @@
+notRecovered:
+MDDCP4pp:1 h2o_p + 1 murein5p4p_p -> 1 ala__D_p + 1 murein4p4p_p (1 H2O + 1 two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanine + 1 two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain))
+MDDCP5pp:1 h2o_p + 1 murein5p3p_p -> 1 ala__D_p + 1 murein4p3p_p (1 H2O + 1 two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanine + 1 two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain))
+MDDCP2pp:1 h2o_p + 1 murein5px4px4p_p -> 1 ala__D_p + 1 murein4px4px4p_p (1 H2O + 1 three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain) -> 1 D-Alanine + 1 three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain))
+MDDCP1pp:1 h2o_p + 1 murein5px4p_p -> 1 ala__D_p + 1 murein4px4p_p (1 H2O + 1 two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain) -> 1 D-Alanine + 1 two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain))
+MDDCP3pp:1 h2o_p + 1 murein5p5p_p -> 1 ala__D_p + 1 murein5p4p_p (1 H2O + 1 two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain) -> 1 D-Alanine + 1 two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain))
+
+
+AdditionalNotInModel:
+3.4.16.4-RXN:1 NAcMur-Peptide-NAcGlc-Undecaprenols_c + 1 WATER_c -> 1 NAcMur-4Peptide-NAcGlc-Undecaprenols_c + 1 D-ALANINE_c (1 a lipid II + 1 H2O -> 1 a N-acetylglucosamine--N-acetylmuramyl-(tetrapeptide) pyrophosphoryl-undecaprenol + 1 D-alanine)
+RXN-19249:1 CPD0-1965_c + 1 WATER_c <=> 1 CPD-20746_c + 1 D-ALANINE_c + 1 PROTON_c (1 Nalpha,Nepsilon-diacetyl-lysyl-D-alanyl-D-alanine + 1 H2O <=> 1 Nalpha,Nepsilon-diacetyl-lysyl-D-alanine + 1 D-alanine + 1 H+)
+RXN-16649:1 CPD-17927_c + 1 WATER_c -> 1 CPD-17926_c + 1 D-ALANINE_c (1 a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine) pentapeptide + 1 H2O -> 1 a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine) tetrapeptide + 1 D-alanine)
+RXN-11065:2 CPD-12259_c -> 1 CPD-12230_c + 1 D-ALANINE_c (2 a peptidoglycan dimer (S. aureus) -> 1 a peptidoglycan with D,D cross-link (S. aureus) + 1 D-alanine)
+RXN-19256:1 CPD-20756_c + 1 WATER_c <=> 1 CPD-20757_c + 1 D-ALANINE_c (1 N-acetyl-muramoyl-(L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine) + 1 H2O <=> 1 N-acetyl-muramoyl-(L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine) + 1 D-alanine)
+3.4.17.8-RXN:1 C1_c + 1 WATER_c -> 1 UDP-MURNAC-TETRAPEPTIDE_c + 1 D-ALANINE_c (1 UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 H2O -> 1 UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine + 1 D-alanine)
+RXN-11302:2 CPD-12231_c -> 1 CPD-12261_c + 1 D-ALANINE_c (2 a peptidoglycan dimer (meso-diaminopimelate containing) -> 1 a peptidoglycan with D,D cross-links (meso-diaminopimelate containing) + 1 D-alanine)
+RXN-16659:1 CPD-17931_c + 1 CPD-17927_c -> 1 CPD-17932_c + 1 D-ALANINE_c (1 a peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine) tetrapeptide + 1 a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine) pentapeptide -> 1 a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing) + 1 D-alanine)
+RXN-11351:2 CPD-12310_c + 1 PROTON_c -> 1 CPD-12311_c + 1 D-ALANINE_c (2 a peptidoglycan dimer (E. faeciums) + 1 H+ -> 1 a peptidoglycan tetramer with a D,D cross-link (Enterococcus faecium) + 1 D-alanine)
+RXN-19253:1 CPD-15384_c + 1 WATER_c <=> 1 CPD-20750_c + 1 D-ALANINE_c (1 L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine + 1 H2O <=> 1 L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine + 1 D-alanine)
+
+
+AdditionalMetabolites:
+C1_c (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+CPD-12230_c (a peptidoglycan with D,D cross-link (S. aureus))
+CPD-12231_c (a peptidoglycan dimer (meso-diaminopimelate containing))
+CPD-12259_c (a peptidoglycan dimer (S. aureus))
+CPD-12261_c (a peptidoglycan with D,D cross-links (meso-diaminopimelate containing))
+CPD-12310_c (a peptidoglycan dimer (E. faeciums))
+CPD-12311_c (a peptidoglycan tetramer with a D,D cross-link (Enterococcus faecium))
+CPD-15384_c (L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+CPD-17926_c (a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine) tetrapeptide)
+CPD-17927_c (a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine) pentapeptide)
+CPD-17931_c (a peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine) tetrapeptide)
+CPD-17932_c (a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing))
+CPD-20746_c (Nalpha,Nepsilon-diacetyl-lysyl-D-alanine)
+CPD-20750_c (L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine)
+CPD-20756_c (N-acetyl-muramoyl-(L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine))
+CPD-20757_c (N-acetyl-muramoyl-(L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine))
+CPD0-1965_c (Nalpha,Nepsilon-diacetyl-lysyl-D-alanyl-D-alanine)
+D-ALANINE_c (D-alanine)
+NAcMur-4Peptide-NAcGlc-Undecaprenols_c (a N-acetylglucosamine--N-acetylmuramyl-(tetrapeptide) pyrophosphoryl-undecaprenol)
+NAcMur-Peptide-NAcGlc-Undecaprenols_c (a lipid II)
+PROTON_c (H+)
+UDP-MURNAC-TETRAPEPTIDE_c (UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanine)
+WATER_c (H2O)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+RMI:1 rmn_c <=> 1 rml_c (1 M_L_Rhamnose_ <=> 1 M_L_Rhamnulose_)
+
+

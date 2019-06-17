@@ -1,0 +1,4 @@
+notRecovered:
+FMETDF:1 fmet_c + 1 h2o_c -> 1 for_c + 1 met__L_c (1 M_N_Formyl_L_methionine_ + 1 M_H2O_ -> 1 M_Formate_ + 1 M_L_Methionine_)
+
+

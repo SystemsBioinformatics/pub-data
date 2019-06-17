@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+LACpts:1 pep_c + 1 lcts_e -> 1 pyr_c + 1 lac6p_c (1 Phosphoenolpyruvate + 1 Lactose C12H22O11 -> 1 Pyruvate + 1 Lactose-6-phosphate)
+CHITOBpts:1 chitob_p + 1 pep_c -> 1 pyr_c + 1 chit6p_c (1 Chitobiose C16H28N2O11 + 1 Phosphoenolpyruvate -> 1 Pyruvate + 1 Chitobiose-6-phosphate)
+CHTBSptspp:1 chtbs_p + 1 pep_c -> 1 chtbs6p_c + 1 pyr_c (1 N,N'-diacetylchitobiose + 1 Phosphoenolpyruvate -> 1 Diacetylchitobiose-6-phosphate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+chit6p_c (Chitobiose-6-phosphate)
+chitob_p (Chitobiose C16H28N2O11)
+chtbs6p_c (Diacetylchitobiose-6-phosphate)
+chtbs_p (N,N'-diacetylchitobiose)
+lac6p_c (Lactose-6-phosphate)
+
+

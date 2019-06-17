@@ -1,0 +1,4 @@
+notRecovered:
+SARCOX:1 h2o_c + 1 o2_c + 1 sarcs_c -> 1 fald_c + 1 gly_c + 1 h2o2_c (1 H2O + 1 O2 + 1 Sarcosine -> 1 Formaldehyde + 1 Glycine + 1 Hydrogen peroxide)
+
+

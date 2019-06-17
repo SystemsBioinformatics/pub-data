@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00134:1 cpd00002_c + 1 cpd00182_c <=> 1 cpd00067_c + 1 cpd00008_c + 1 cpd00018_c (1 ATP_c0 + 1 Adenosine_c0 <=> 1 H_plus__c0 + 1 ADP_c0 + 1 AMP_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00018_c (AMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00182_c (Adenosine_c0)
+
+

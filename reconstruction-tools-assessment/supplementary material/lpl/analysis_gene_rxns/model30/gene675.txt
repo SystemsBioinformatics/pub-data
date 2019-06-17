@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+R09030:1 C02962_c <=> 1 C18096_c (1 D-Allose 6-phosphate <=> 1 D-Allulose 6-phosphate)
+
+
+AdditionalMetabolites:
+C02962_c (D-Allose 6-phosphate)
+C18096_c (D-Allulose 6-phosphate)
+
+

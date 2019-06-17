@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+rxn01620:1 cpd00806_c <=> 1 cpd00095_c + 1 cpd00334_c (1 L_Fuculose1_phosphate_c0 <=> 1 Glycerone_phosphate_c0 + 1 L_Lactaldehyde_c0)
+rxn02346:1 cpd00020_c + 1 cpd00843_c <=> 1 cpd02439_c (1 Pyruvate_c0 + 1 Tartronate_semialdehyde_c0 <=> 1 2_Dehydro_3_deoxy_D_glucarate_c0)
+
+
+AdditionalMetabolites:
+cpd00020_c (Pyruvate_c0)
+cpd00095_c (Glycerone_phosphate_c0)
+cpd00334_c (L_Lactaldehyde_c0)
+cpd00806_c (L_Fuculose1_phosphate_c0)
+cpd00843_c (Tartronate_semialdehyde_c0)
+cpd02439_c (2_Dehydro_3_deoxy_D_glucarate_c0)
+
+

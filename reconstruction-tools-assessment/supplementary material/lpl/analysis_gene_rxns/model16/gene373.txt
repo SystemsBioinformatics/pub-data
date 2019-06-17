@@ -1,0 +1,15 @@
+notRecovered:
+PGGT4:1 uaagmdalac_c -> 1 PGlac2_c + 1 udcpdp_c (1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_peptidoglycan_with_D_lac_as_C_terminal_residue_to_form_pentadepsipeptide_ + 1 M_Undecaprenyl_diphosphate_)
+
+
+AdditionalNotInModel:
+rxn10199:1 cpd03495_c + 1 cpd15666_c <=> 1 cpd02229_c + 1 cpd15665_c (1 Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine_L_ala_D_glu_meso_2_6_diaminopimeloyl_D_ala_D_ala_c0 + 1 Peptidoglycan_polymer_n_1_subunits_c0 <=> 1 Bactoprenyl_diphosphate_c0 + 1 Peptidoglycan_polymer_n_subunits_c0)
+
+
+AdditionalMetabolites:
+cpd02229_c (Bactoprenyl_diphosphate_c0)
+cpd03495_c (Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine_L_ala_D_glu_meso_2_6_diaminopimeloyl_D_ala_D_ala_c0)
+cpd15665_c (Peptidoglycan_polymer_n_subunits_c0)
+cpd15666_c (Peptidoglycan_polymer_n_1_subunits_c0)
+
+

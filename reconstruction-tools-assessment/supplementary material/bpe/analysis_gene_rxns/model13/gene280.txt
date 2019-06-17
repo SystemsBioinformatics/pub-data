@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn01303:1 cpd00022_c + 1 cpd00227_c -> 1 cpd00010_c + 1 cpd00790_c (1 Acetyl_CoA_c0 + 1 L_Homoserine_c0 -> 1 CoA_c0 + 1 O_Acetyl_L_homoserine_c0)
+
+
+AdditionalMetabolites:
+cpd00010_c (CoA_c0)
+cpd00022_c (Acetyl_CoA_c0)
+cpd00227_c (L_Homoserine_c0)
+cpd00790_c (O_Acetyl_L_homoserine_c0)
+
+

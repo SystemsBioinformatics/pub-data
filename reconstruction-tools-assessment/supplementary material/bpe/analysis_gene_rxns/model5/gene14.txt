@@ -1,0 +1,30 @@
+notRecovered:
+FECRMtonex:1 fecrm_e + 1 h_p -> 1 fecrm_p + 1 h_c (1 Ferrichrome + 1 H+ -> 1 Ferrichrome + 1 H+)
+FEALCtonex:1 fealc_e + 1 h_p -> 1 fealc_p + 1 h_c (1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+ -> 1 Ferric iron-bound alcaligin (3:2 molar ratio Fe2Alc3) + 1 H+)
+CPGNtonex:1 cpgn_e + 1 h_p -> 1 cpgn_p + 1 h_c (1 coprogen + 1 H+ -> 1 coprogen + 1 H+)
+ADOCBLtonex:1 adocbl_e + 1 h_p -> 1 adocbl_p + 1 h_c (1 Adenosylcobalamin + 1 H+ -> 1 Adenosylcobalamin + 1 H+)
+FE3DHBZStonex:1 fe3dhbzs_e + 1 h_p -> 1 fe3dhbzs_p + 1 h_c (1 ferric 2,3-dihydroxybenzoylserine + 1 H+ -> 1 ferric 2,3-dihydroxybenzoylserine + 1 H+)
+FE3HOXtonex:1 fe3hox_e + 1 h_p -> 1 fe3hox_p + 1 h_c (1 Fe(III)hydroxamate + 1 H+ -> 1 Fe(III)hydroxamate + 1 H+)
+ARBTNtonex:1 arbtn_fe3_e + 1 h_p -> 1 arbtn_fe3_p + 1 h_c (1 Aerobactin + 1 H+ -> 1 Aerobactin + 1 H+)
+FE3DCITtonex:1 fe3dcit_e + 1 h_p -> 1 fe3dcit_p + 1 h_c (1 Fe(III)dicitrate + 1 H+ -> 1 Fe(III)dicitrate + 1 H+)
+FEOXAMtonex:1 feoxam_e + 1 h_p -> 1 feoxam_p + 1 h_c (1 ferroxamine + 1 H+ -> 1 ferroxamine + 1 H+)
+FEENTERtonex:1 feenter_e + 1 h_p -> 1 feenter_p + 1 h_c (1 Fe-enterobactin + 1 H+ -> 1 Fe-enterobactin + 1 H+)
+PHEMEtonex:1 h_p + 1 pheme_e -> 1 h_c + 1 pheme_p (1 H+ + 1 Protoheme -> 1 H+ + 1 Protoheme)
+DESFXBtonex:1 desfxb_e + 1 h_p -> 1 desfxb_p + 1 h_c (1 Desferrixoamine B + 1 H+ -> 1 Desferrixoamine B + 1 H+)
+
+
+AdditionalNotInModel:
+DHBSZ3FEtonex:1 fe3dhbzs3_e + 1 h_p -> 1 fe3dhbzs3_p + 1 h_c (1 2-3-dihydroxybenzoylserine trimer-Fe-III + 1 H+ -> 1 2-3-dihydroxybenzoylserine trimer-Fe-III + 1 H+)
+FEROXGFEtonex:1 feroxGfe_e + 1 h_p -> 1 feroxGfe_p + 1 h_c (1 Ferrioxamine-G-fe + 1 H+ -> 1 Ferrioxamine-G-fe + 1 H+)
+SALCHS4FEtonex:1 h_p + 1 salchs4fe_e -> 1 h_c + 1 salchs4fe_p (1 H+ + 1 Salmochelin-S4-Fe-III -> 1 H+ + 1 Salmochelin-S4-Fe-III)
+
+
+AdditionalMetabolites:
+fe3dhbzs3_e (2-3-dihydroxybenzoylserine trimer-Fe-III)
+fe3dhbzs3_p (2-3-dihydroxybenzoylserine trimer-Fe-III)
+feroxGfe_e (Ferrioxamine-G-fe)
+feroxGfe_p (Ferrioxamine-G-fe)
+salchs4fe_e (Salmochelin-S4-Fe-III)
+salchs4fe_p (Salmochelin-S4-Fe-III)
+
+

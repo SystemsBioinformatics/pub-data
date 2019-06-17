@@ -1,0 +1,6 @@
+notRecovered:
+SUCR:1 h2o_c + 1 sucr_c -> 1 fru_c + 1 glc__D_c (1 M_H2O_ + 1 M_Sucrose_ -> 1 M_D_Fructose_ + 1 M_D_Glucose_)
+
+
+AdditionalInModel:
+MALT:1 h2o_c + 1 malt_c -> 2 glc__D_c (1 H2O H2O + 1 Maltose C12H22O11 -> 2 D-Glucose)

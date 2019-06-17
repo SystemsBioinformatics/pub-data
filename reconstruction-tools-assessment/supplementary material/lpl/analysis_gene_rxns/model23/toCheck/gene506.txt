@@ -1,0 +1,17 @@
+notRecovered:
+ALCD2x:1 etoh_c + 1 nad_c <=> 1 acald_c + 1 h_c + 1 nadh_c (1 M_Ethanol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_Acetaldehyde_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_)
+ALCD19:1 glyald_c + 1 h_c + 1 nadh_c <=> 1 glyc_c + 1 nad_c (1 M_D_Glyceraldehyde_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ <=> 1 M_Glycerol_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+RXN-11002:1 NADPH_c + 1 PROTON_c + 1 SUCC-S-ALD_c -> 1 4-HYDROXY-BUTYRATE_c + 1 NADP_c (1 NADPH + 1 H+ + 1 succinate semialdehyde -> 1 4-hydroxybutanoate + 1 NADP+)
+
+
+AdditionalMetabolites:
+4-HYDROXY-BUTYRATE_c (4-hydroxybutanoate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+SUCC-S-ALD_c (succinate semialdehyde)
+
+

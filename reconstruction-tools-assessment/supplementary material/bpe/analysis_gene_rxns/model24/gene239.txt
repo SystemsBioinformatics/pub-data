@@ -1,0 +1,15 @@
+notRecovered:
+NADH16pp:4 h_c + 1 nadh_c + 1 q8_c -> 3 h_p + 1 nad_c + 1 q8h2_c (4 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Ubiquinone-8 -> 3 H+ + 1 Nicotinamide adenine dinucleotide + 1 Ubiquinol-8)
+
+
+AdditionalNotInModel:
+HYDROGEN-DEHYDROGENASE-RXN:1 HYDROGEN-MOLECULE_c + 1 NAD_c <=> 1 NADH_c + 1 PROTON_c (1 H2 + 1 NAD+ <=> 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+HYDROGEN-MOLECULE_c (H2)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+
+

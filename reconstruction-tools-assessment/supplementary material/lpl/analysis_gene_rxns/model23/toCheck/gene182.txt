@@ -1,0 +1,17 @@
+notRecovered:
+DHDPRy:1 23dhdp_c + 1 h_c + 1 nadph_c -> 1 nadp_c + 1 thdp_c (1 M_2_3_Dihydrodipicolinate_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_2_3_4_5_Tetrahydrodipicolinate_)
+
+
+AdditionalNotInModel:
+RXN-14014:1 CPD-14443_c + 1 NADPH_c + 1 PROTON_c -> 1 DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE_c + 1 NADP_c + 1 WATER_c (1 (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + 1 NADPH + 1 H+ -> 1 (S)-2,3,4,5-tetrahydrodipicolinate + 1 NADP+ + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-14443_c ((2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate)
+DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE_c ((S)-2,3,4,5-tetrahydrodipicolinate)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

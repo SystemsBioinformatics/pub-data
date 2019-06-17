@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+R00985:1 C00251_c + 1 C00014_c <=> 1 C00108_c + 1 C00022_c + 1 C00001_c (1 Chorismate + 1 Ammonia <=> 1 Anthranilate + 1 Pyruvate + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00014_c (Ammonia)
+C00022_c (Pyruvate)
+C00108_c (Anthranilate)
+C00251_c (Chorismate)
+
+

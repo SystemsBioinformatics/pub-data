@@ -1,0 +1,5 @@
+notRecovered:
+FMNAT:1 atp_c + 1 fmn_c + 1 h_c -> 1 fad_c + 1 ppi_c (1 ATP + 1 FMN + 1 H+ -> 1 Flavin adenine dinucleotide oxidized + 1 Diphosphate)
+RBFK:1 atp_c + 1 ribflv_c -> 1 adp_c + 1 fmn_c + 1 h_c (1 ATP + 1 Riboflavin -> 1 ADP + 1 FMN + 1 H+)
+
+

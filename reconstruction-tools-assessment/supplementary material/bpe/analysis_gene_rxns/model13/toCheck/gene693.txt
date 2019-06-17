@@ -1,0 +1,17 @@
+notRecovered:
+MUCCI:1 ccmuac_c + 1 h_c <=> 1 muclac_c (1 cis,cis-muconate + 1 H+ <=> 1 Muconolactone)
+
+
+AdditionalNotInModel:
+rxn02782:1 cpd02536_c <=> 1 cpd00067_c + 1 cpd01630_c (1 Muconolactone_c0 <=> 1 H_plus__c0 + 1 cis_cis_Muconate_c0)
+rxn02290:1 cpd00776_c <=> 1 cpd01188_c (1 Squalene_2_3_oxide_c0 <=> 1 Lanosterol_c0)
+
+
+AdditionalMetabolites:
+cpd00067_c (H_plus__c0)
+cpd00776_c (Squalene_2_3_oxide_c0)
+cpd01188_c (Lanosterol_c0)
+cpd01630_c (cis_cis_Muconate_c0)
+cpd02536_c (Muconolactone_c0)
+
+

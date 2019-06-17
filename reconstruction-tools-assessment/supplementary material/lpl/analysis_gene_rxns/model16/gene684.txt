@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+rxn00412:1 cpd00002_c + 1 cpd00001_c + 1 cpd00062_c + 1 cpd00053_c -> 2 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00023_c + 1 cpd00052_c (1 ATP_c0 + 1 H2O_c0 + 1 UTP_c0 + 1 L_Glutamine_c0 -> 2 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 L_Glutamate_c0 + 1 CTP_c0)
+rxn00410:1 cpd00002_c + 1 cpd00062_c + 1 cpd00013_c <=> 2 cpd00067_c + 1 cpd00008_c + 1 cpd00009_c + 1 cpd00052_c (1 ATP_c0 + 1 UTP_c0 + 1 NH3_c0 <=> 2 H_plus__c0 + 1 ADP_c0 + 1 Phosphate_c0 + 1 CTP_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00013_c (NH3_c0)
+cpd00023_c (L_Glutamate_c0)
+cpd00052_c (CTP_c0)
+cpd00053_c (L_Glutamine_c0)
+cpd00062_c (UTP_c0)
+cpd00067_c (H_plus__c0)
+
+

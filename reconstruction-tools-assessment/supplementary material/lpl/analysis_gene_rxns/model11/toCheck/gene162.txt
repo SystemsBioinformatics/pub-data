@@ -1,0 +1,16 @@
+notRecovered:
+ACPS1:1 apoACP_c + 1 coa_c -> 1 ACP_c + 1 h_c + 1 pap_c (1 M_apoprotein_acyl_carrier_protein_ + 1 M_Coenzyme_A_ -> 1 M_Acyl_carrier_Protein_ + 1 M_H_ + 1 M_Adenosine_3__5__bisphosphate_)
+
+
+AdditionalNotInModel:
+RXN-17155:1 CPD-18550_c + 1 Aryl-Carrier-Proteins_c -> 1 QXC-ACP_c + 1 PROTON_c + 1 AMP_c (1 quinoxaline-2-carboxyl adenylate + 1 an aryl-carrier protein -> 1 a quinoxaline-2-carboxyl-[aryl-carrier protein] + 1 H+ + 1 AMP)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+Aryl-Carrier-Proteins_c (an aryl-carrier protein)
+CPD-18550_c (quinoxaline-2-carboxyl adenylate)
+PROTON_c (H+)
+QXC-ACP_c (a quinoxaline-2-carboxyl-[aryl-carrier protein])
+
+

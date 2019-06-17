@@ -1,0 +1,12 @@
+notRecovered:
+FLVR:1 h_c + 1 nadph_c + 1 ribflv_c -> 1 nadp_c + 1 rbflvrd_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Riboflavin_ -> 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Reduced_riboflavin_)
+
+
+AdditionalNotInModel:
+FMNRy:1 h_c + 1 nadph_c + 1 fmn_c -> 1 nadp_c + 1 fmnRD_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 FMN -> 1 Nicotinamide adenine dinucleotide phosphate + 1 Flavin mononucleotide reduced C17H21N4O9P)
+
+
+AdditionalMetabolites:
+fmnRD_c (Flavin mononucleotide reduced C17H21N4O9P)
+
+

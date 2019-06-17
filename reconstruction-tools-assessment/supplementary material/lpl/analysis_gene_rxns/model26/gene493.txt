@@ -1,0 +1,17 @@
+notRecovered:
+RBK:1 atp_c + 1 rib__D_c -> 1 adp_c + 1 h_c + 1 r5p_c (1 M_ATP_ + 1 M_D_Ribose_ -> 1 M_ADP_ + 1 M_H_ + 1 M_alpha_D_Ribose_5_phosphate_)
+DRBK:1 atp_c + 1 drib_c -> 1 2dr5p_c + 1 adp_c + 1 h_c (1 M_ATP_ + 1 M_Deoxyribose_ -> 1 M_2_Deoxy_D_ribose_5_phosphate_ + 1 M_ADP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+RIBOKIN-RXN:1 ATP_c + 1 CPD-10330_c -> 1 ADP_c + 1 CPD-15318_c + 1 PROTON_c (1 ATP + 1 alpha-D-ribofuranose -> 1 ADP + 1 alpha-D-ribose 5-phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CPD-10330_c (alpha-D-ribofuranose)
+CPD-15318_c (alpha-D-ribose 5-phosphate)
+PROTON_c (H+)
+
+

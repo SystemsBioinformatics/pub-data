@@ -1,0 +1,22 @@
+notRecovered:
+NITR:1 h_c + 1 nadh_c + 1 no3_c -> 1 h2o_c + 1 nad_c + 1 no2_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Nitrate_ -> 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Nitrite_)
+NTRARy:1 h_c + 1 nadph_c + 1 no3_c -> 1 h2o_c + 1 nadp_c + 1 no2_c (1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_Nitrate_ -> 1 M_H2O_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_Nitrite_)
+
+
+AdditionalNotInModel:
+rxn10121:2 cpd00067_c + 1 cpd15499_c + 1 cpd00209_c <=> 1 cpd00001_c + 2 cpd00067_e + 1 cpd00075_c + 1 cpd15500_c (2 H_plus__c0 + 1 Menaquinol_8_c0 + 1 Nitrate_c0 <=> 1 H2O_c0 + 2 H_plus__e0 + 1 Nitrite_c0 + 1 Menaquinone_8_c0)
+rxn10120:2 cpd00067_c + 1 cpd15561_c + 1 cpd00209_c -> 1 cpd00001_c + 2 cpd00067_e + 1 cpd00075_c + 1 cpd15560_c (2 H_plus__c0 + 1 Ubiquinol_8_c0 + 1 Nitrate_c0 -> 1 H2O_c0 + 2 H_plus__e0 + 1 Nitrite_c0 + 1 Ubiquinone_8_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00067_c (H_plus__c0)
+cpd00067_e (H_plus__e0)
+cpd00075_c (Nitrite_c0)
+cpd00209_c (Nitrate_c0)
+cpd15499_c (Menaquinol_8_c0)
+cpd15500_c (Menaquinone_8_c0)
+cpd15560_c (Ubiquinone_8_c0)
+cpd15561_c (Ubiquinol_8_c0)
+
+

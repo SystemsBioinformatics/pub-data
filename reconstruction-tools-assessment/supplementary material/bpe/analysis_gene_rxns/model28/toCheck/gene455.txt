@@ -1,0 +1,14 @@
+notRecovered:
+UDPG4E:1 udpg_c <=> 1 udpgal_c (1 UDPglucose <=> 1 UDPgalactose)
+
+
+AdditionalNotInModel:
+R06513:1 C00842_c <=> 1 C11907_c + 1 C00001_c (1 dTDP-glucose <=> 1 dTDP-4-oxo-6-deoxy-D-glucose + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00842_c (dTDP-glucose)
+C11907_c (dTDP-4-oxo-6-deoxy-D-glucose)
+
+

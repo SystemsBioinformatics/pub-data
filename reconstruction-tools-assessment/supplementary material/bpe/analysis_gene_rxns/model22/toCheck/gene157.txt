@@ -1,0 +1,20 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+ECOAH1:1 3hbcoa_c <=> 1 b2coa_c + 1 h2o_c (1 (S)-3-Hydroxybutanoyl-CoA <=> 1 Crotonoyl-CoA + 1 H2O)
+
+
+AdditionalNotInModel:
+RXN-12519:1 trans-2-cis-5-dienoyl-CoA_c -> 1 trans-3-cis-5-dienoyl-CoA_c (1 trans-2-cis-5-dienoyl-CoA -> 1 trans-3-cis-5-dienoyl-CoA)
+RXN-7836:1 Trans-3-enoyl-CoAs_c <=> 1 TRANS-D2-ENOYL-COA_c (1 Trans-3-enoyl-CoAs <=> 1 TRANS-D2-ENOYL-COA)
+ENOYL-COA-DELTA-ISOM-RXN:1 CIS-DELTA3-ENOYL-COA_c <=> 1 TRANS-D2-ENOYL-COA_c (1 CIS-DELTA3-ENOYL-COA <=> 1 TRANS-D2-ENOYL-COA)
+
+
+AdditionalMetabolites:
+CIS-DELTA3-ENOYL-COA_c (CIS-DELTA3-ENOYL-COA)
+TRANS-D2-ENOYL-COA_c (TRANS-D2-ENOYL-COA)
+Trans-3-enoyl-CoAs_c (Trans-3-enoyl-CoAs)
+trans-2-cis-5-dienoyl-CoA_c (trans-2-cis-5-dienoyl-CoA)
+trans-3-cis-5-dienoyl-CoA_c (trans-3-cis-5-dienoyl-CoA)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R08218:1 C00002_c + 1 C16636_c + 1 C00065_c <=> 1 C06481_c + 1 C00013_c + 1 C00020_c (1 ATP + 1 tRNA(Sec) + 1 L-Serine <=> 1 L-Seryl-tRNA(Sec) + 1 Diphosphate + 1 AMP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00065_c (L-Serine)
+C06481_c (L-Seryl-tRNA(Sec))
+C16636_c (tRNA(Sec))
+
+

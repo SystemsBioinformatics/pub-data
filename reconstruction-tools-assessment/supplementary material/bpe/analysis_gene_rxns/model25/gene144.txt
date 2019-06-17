@@ -1,0 +1,10 @@
+notRecovered:
+PSD161:1 h_c + 1 ps161_c -> 1 co2_c + 1 pe161_c (1 H+ + 1 phosphatidylserine (dihexadec-9-enoyl, n-C16:1) -> 1 CO2 + 1 phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1))
+PSD160:1 h_c + 1 ps160_c -> 1 co2_c + 1 pe160_c (1 H+ + 1 phosphatidylserine (dihexadecanoyl, n-C16:0) -> 1 CO2 + 1 phosphatidylethanolamine (dihexadecanoyl, n-C16:0))
+PSD181:1 h_c + 1 ps181_c -> 1 co2_c + 1 pe181_c (1 H+ + 1 phosphatidylserine (dioctadec-11-enoyl, n-C18:1) -> 1 CO2 + 1 phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1))
+PSD180:1 h_c + 1 ps180_c -> 1 co2_c + 1 pe180_c (1 H+ + 1 phosphatidylserine (dioctadecanoyl, n-C18:0) -> 1 CO2 + 1 phosphatidylethanolamine (dioctadecanoyl, n-C18:0))
+PSD120:1 h_c + 1 ps120_c -> 1 co2_c + 1 pe120_c (1 H+ + 1 phosphatidylserine (didodecanoyl, n-C12:0) -> 1 CO2 + 1 phosphatidylethanolamine (didodecanoyl, n-C12:0))
+PSD141:1 h_c + 1 ps141_c -> 1 co2_c + 1 pe141_c (1 H+ + 1 phosphatidylserine (ditetradec-7-enoyl, n-C14:1) -> 1 CO2 + 1 phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1))
+PSD140:1 h_c + 1 ps140_c -> 1 co2_c + 1 pe140_c (1 H+ + 1 phosphatidylserine (ditetradecanoyl, n-C14:0) -> 1 CO2 + 1 phosphatidylethanolamine (ditetradecanoyl, n-C14:0))
+
+

@@ -1,0 +1,13 @@
+notRecovered:
+UACGALDH_BP:1 h2o_c + 2 nad_c + 1 udpacgal_c -> 3 h_c + 2 nadh_c + 1 uacgalu_c (1 H2O + 2 Nicotinamide adenine dinucleotide + 1 UDP-N-acetyl-D-galactosamine -> 3 H+ + 2 Nicotinamide adenine dinucleotide - reduced + 1 UDP-N-acetyl-D-galactosaminuronate)
+UDPGLCNACDH_BP:1 h2o_c + 2 nad_c + 1 uacgam_c <=> 3 h_c + 2 nadh_c + 1 uacgama_c (1 H2O + 2 Nicotinamide adenine dinucleotide + 1 UDP-N-acetyl-D-glucosamine <=> 3 H+ + 2 Nicotinamide adenine dinucleotide - reduced + 1 UDP-N-acetylglucosaminuronate)
+
+
+AdditionalNotInModel:
+UACMAMO:1 h2o_c + 2 nad_c + 1 uacmam_c -> 3 h_c + 2 nadh_c + 1 uacmamu_c (1 H2O + 2 Nicotinamide adenine dinucleotide + 1 UDP-N-acetyl-D-mannosamine -> 3 H+ + 2 Nicotinamide adenine dinucleotide - reduced + 1 UDP-N-acetyl-D-mannosaminouronate)
+
+
+AdditionalMetabolites:
+uacmamu_c (UDP-N-acetyl-D-mannosaminouronate)
+
+

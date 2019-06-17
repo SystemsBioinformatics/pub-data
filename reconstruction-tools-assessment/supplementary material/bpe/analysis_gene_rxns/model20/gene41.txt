@@ -1,0 +1,4 @@
+notRecovered:
+GLUt4pp:1 glu__L_p + 1 na1_p <=> 1 glu__L_c + 1 na1_c (1 L-Glutamate + 1 Sodium <=> 1 L-Glutamate + 1 Sodium)
+
+

@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R04385:1 C00002_c + 1 C00288_c + 1 C06250_c <=> 1 C00008_c + 1 C00009_c + 1 C04419_c (1 ATP + 1 HCO3- + 1 Holo-[carboxylase] <=> 1 ADP + 1 Orthophosphate + 1 Carboxybiotin-carboxyl-carrier protein)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00009_c (Orthophosphate)
+C00288_c (HCO3-)
+C04419_c (Carboxybiotin-carboxyl-carrier protein)
+C06250_c (Holo-[carboxylase])
+
+

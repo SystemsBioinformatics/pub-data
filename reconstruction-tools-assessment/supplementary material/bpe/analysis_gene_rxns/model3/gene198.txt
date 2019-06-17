@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+MECDPDH:1 h_c + 1 2mecdp_c -> 1 h2o_c + 1 h2mb4p_c (1 H+ + 1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate -> 1 H2O + 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate)
+MECDPDH4:1 h_c + 1 fdxr_42_c + 1 2mecdp_c -> 1 h2o_c + 1 fdxo_42_c + 1 h2mb4p_c (1 H+ + 1 Ferredoxin (reduced form 4:2) + 1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate -> 1 H2O + 1 Ferredoxin (oxidized form 4:2) + 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate)
+MECDPDH5:1 h_c + 2 flxr_c + 1 2mecdp_c -> 1 h2o_c + 2 flxso_c + 1 h2mb4p_c (1 H+ + 2 Flavodoxin reduced + 1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate -> 1 H2O + 2 Flavodoxin semi oxidized + 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate)
+MECDPDH_syn:1 nadph_c + 1 2mecdp_c -> 1 h2o_c + 1 nadp_c + 1 h2mb4p_c (1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate -> 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate)
+
+
+AdditionalMetabolites:
+fdxo_42_c (Ferredoxin (oxidized form 4:2))
+fdxr_42_c (Ferredoxin (reduced form 4:2))
+flxr_c (Flavodoxin reduced)
+flxso_c (Flavodoxin semi oxidized)
+
+

@@ -1,0 +1,38 @@
+notRecovered:
+OIVD3:1 3mop_c + 1 coa_c + 1 nad_c -> 1 2mbcoa_c + 1 co2_c + 1 nadh_c (1 (S)-3-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 (S)-2-methylbutanoyl-coenzyme A + 1 CO2 + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD1r:1 4mop_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ivcoa_c + 1 nadh_c (1 4-Methyl-2-oxopentanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 3-methylbutanoyl-coenzyme A + 1 Nicotinamide adenine dinucleotide - reduced)
+OIVD2:1 3mob_c + 1 coa_c + 1 nad_c -> 1 co2_c + 1 ibcoa_c + 1 nadh_c (1 3-Methyl-2-oxobutanoate + 1 Coenzyme A + 1 Nicotinamide adenine dinucleotide -> 1 CO2 + 1 2-methylpropanoyl-coenzyme A (isobutyryl-coenzyme A) + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+RXN0-1147:1 SUC-COA_c + 1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c <=> 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c + 1 CO-A_c (1 succinyl-CoA + 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine <=> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine + 1 coenzyme A)
+2OXOGLUTDECARB-RXN:1 Oxo-glutarate-dehydrogenase-lipoyl_c + 1 2-KETOGLUTARATE_c + 1 PROTON_c -> 1 Oxo-glutarate-dehydro-suc-DH-lipoyl_c + 1 CARBON-DIOXIDE_c (1 a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 2-oxoglutarate + 1 H+ -> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine + 1 CO2)
+2OXOGLUTARATEDEH-RXN:1 2-KETOGLUTARATE_c + 1 CO-A_c + 1 NAD_c -> 1 SUC-COA_c + 1 CARBON-DIOXIDE_c + 1 NADH_c (1 2-oxoglutarate + 1 coenzyme A + 1 NAD+ -> 1 succinyl-CoA + 1 CO2 + 1 NADH)
+RXN-7716:1 Oxo-glutarate-dehydrogenase-DH-lipoyl_c + 1 NAD_c -> 1 Oxo-glutarate-dehydrogenase-lipoyl_c + 1 NADH_c + 1 PROTON_c (1 a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine + 1 NAD+ -> 1 a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 NADH + 1 H+)
+RXN-7719:1 BCAA-dehydrogenase-DH-lipoyl_c + 1 NAD_c <=> 1 BCAA-dehydrogenase-lipoyl_c + 1 NADH_c + 1 PROTON_c (1 an [apo BCAA dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine + 1 NAD+ <=> 1 an [apo BCAA dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 NADH + 1 H+)
+RXN0-1132:1 Pyruvate-dehydrogenase-dihydrolipoate_c + 1 NAD_c -> 1 Pyruvate-dehydrogenase-lipoate_c + 1 NADH_c + 1 PROTON_c (1 a [pyruvate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine + 1 NAD+ -> 1 a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine + 1 NADH + 1 H+)
+RXN-8629:1 DIHYDROLIPOYL-GCVH_c + 1 NAD_c <=> 1 PROTEIN-LIPOYLLYSINE_c + 1 NADH_c + 1 PROTON_c (1 a [glycine-cleavage complex H protein] N6-dihydrolipoyl-L-lysine + 1 NAD+ <=> 1 a [glycine-cleavage complex H protein] N6-lipoyl-L-lysine + 1 NADH + 1 H+)
+1.8.1.4-RXN:1 Dihydro-Lipoyl-Proteins_c + 1 NAD_c -> 1 Lipoyl-Protein-N6-lipoyllysine_c + 1 NADH_c + 1 PROTON_c (1 a [lipoyl-carrier protein] N6-dihydrolipoyl-L-lysine + 1 NAD+ -> 1 a [lipoyl-carrier protein]-N6-lipoyl-L-lysine + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+2-KETOGLUTARATE_c (2-oxoglutarate)
+BCAA-dehydrogenase-DH-lipoyl_c (an [apo BCAA dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine)
+BCAA-dehydrogenase-lipoyl_c (an [apo BCAA dehydrogenase E2 protein] N6-lipoyl-L-lysine)
+CARBON-DIOXIDE_c (CO2)
+CO-A_c (coenzyme A)
+DIHYDROLIPOYL-GCVH_c (a [glycine-cleavage complex H protein] N6-dihydrolipoyl-L-lysine)
+Dihydro-Lipoyl-Proteins_c (a [lipoyl-carrier protein] N6-dihydrolipoyl-L-lysine)
+Lipoyl-Protein-N6-lipoyllysine_c (a [lipoyl-carrier protein]-N6-lipoyl-L-lysine)
+NADH_c (NADH)
+NAD_c (NAD+)
+Oxo-glutarate-dehydro-suc-DH-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine)
+Oxo-glutarate-dehydrogenase-DH-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine)
+Oxo-glutarate-dehydrogenase-lipoyl_c (a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine)
+PROTEIN-LIPOYLLYSINE_c (a [glycine-cleavage complex H protein] N6-lipoyl-L-lysine)
+PROTON_c (H+)
+Pyruvate-dehydrogenase-dihydrolipoate_c (a [pyruvate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine)
+Pyruvate-dehydrogenase-lipoate_c (a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine)
+SUC-COA_c (succinyl-CoA)
+
+

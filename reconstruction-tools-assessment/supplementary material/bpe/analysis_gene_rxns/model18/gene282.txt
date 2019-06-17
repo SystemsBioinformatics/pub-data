@@ -1,0 +1,18 @@
+notRecovered:
+ALDD20x:1 h2o_c + 1 id3acald_c + 1 nad_c -> 2 h_c + 1 ind3ac_c + 1 nadh_c (1 H2O + 1 Indole-3-acetaldehyde + 1 Nicotinamide adenine dinucleotide -> 2 H+ + 1 Indole-3-acetate + 1 Nicotinamide adenine dinucleotide - reduced)
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+ALDD3y:1 h2o_c + 1 nadp_c + 1 ppal_c -> 2 h_c + 1 nadph_c + 1 ppa_c (1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Propanal -> 2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Propionate (n-C3:0))
+
+
+AdditionalNotInModel:
+R10703:1 C00003_c + 1 C01845_c <=> 1 C00004_c + 1 C00080_c + 1 C00207_c (1 NAD+ + 1 Propan-2-ol <=> 1 NADH + 1 H+ + 1 Acetone)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00207_c (Acetone)
+C01845_c (Propan-2-ol)
+
+

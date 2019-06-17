@@ -1,0 +1,4 @@
+notRecovered:
+SBTpts:1 pep_c + 1 sbt__D_e -> 1 pyr_c + 1 sbt6p_c (1 M_Phosphoenolpyruvate_ + 1 M_D_Sorbitol_ -> 1 M_Pyruvate_ + 1 M_D_Sorbitol_6_phosphate_)
+
+

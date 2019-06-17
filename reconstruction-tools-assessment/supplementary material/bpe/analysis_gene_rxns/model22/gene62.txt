@@ -1,0 +1,4 @@
+notRecovered:
+GUAPRT:1 gua_c + 1 prpp_c -> 1 gmp_c + 1 ppi_c (1 Guanine + 1 5-Phospho-alpha-D-ribose 1-diphosphate -> 1 GMP + 1 Diphosphate)
+
+

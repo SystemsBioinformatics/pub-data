@@ -1,0 +1,21 @@
+notRecovered:
+LOXD:1 lac__D_c + 1 o2_c -> 1 h2o2_c + 1 pyr_c (1 M_D_Lactate_ + 1 M_O2_ -> 1 M_Hydrogen_peroxide_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+GLYCTO1:1 glyclt_c + 1 o2_c -> 1 glx_c + 1 h2o2_c (1 Glycolate C2H3O3 + 1 O2 O2 -> 1 Glyoxylate + 1 Hydrogen peroxide)
+GLYCTO3:1 glyclt_c + 1 mqn8_c -> 1 glx_c + 1 mql8_c (1 Glycolate C2H3O3 + 1 Menaquinone 8 -> 1 Glyoxylate + 1 Menaquinol 8)
+GLYCTO4:1 2dmmq8_c + 1 glyclt_c -> 1 2dmmql8_c + 1 glx_c (1 2-Demethylmenaquinone 8 + 1 Glycolate C2H3O3 -> 1 2-Demethylmenaquinol 8 + 1 Glyoxylate)
+GLYCTO2:1 glyclt_c + 1 q8_c -> 1 glx_c + 1 q8h2_c (1 Glycolate C2H3O3 + 1 Ubiquinone-8 -> 1 Glyoxylate + 1 Ubiquinol-8)
+
+
+AdditionalMetabolites:
+2dmmq8_c (2-Demethylmenaquinone 8)
+2dmmql8_c (2-Demethylmenaquinol 8)
+glx_c (Glyoxylate)
+mql8_c (Menaquinol 8)
+mqn8_c (Menaquinone 8)
+q8_c (Ubiquinone-8)
+q8h2_c (Ubiquinol-8)
+
+

@@ -1,0 +1,4 @@
+notRecovered:
+UAGCVT:1 pep_c + 1 uacgam_c -> 1 pi_c + 1 uaccg_c (1 M_Phosphoenolpyruvate_ + 1 M_UDP_N_acetyl_D_glucosamine_ -> 1 M_Phosphate_ + 1 M_UDP_N_acetyl_3_O__1_carboxyvinyl__D_glucosamine_)
+
+

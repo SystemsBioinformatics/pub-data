@@ -1,0 +1,4 @@
+notRecovered:
+GLNTRS:1 atp_c + 1 gln__L_c + 1 trnagln_c -> 1 amp_c + 1 glntrna_c + 1 ppi_c (1 ATP + 1 L-Glutamine + 1 tRNA(Gln) -> 1 AMP + 1 L-Glutaminyl-tRNA(Gln) + 1 Diphosphate)
+
+

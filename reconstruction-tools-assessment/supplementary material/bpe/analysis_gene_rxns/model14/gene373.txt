@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00515:1 cpd00002_c + 1 cpd00090_c <=> 1 cpd00008_c + 1 cpd00068_c (1 ATP_c0 + 1 IDP_c0 <=> 1 ADP_c0 + 1 ITP_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00068_c (ITP_c0)
+cpd00090_c (IDP_c0)
+
+

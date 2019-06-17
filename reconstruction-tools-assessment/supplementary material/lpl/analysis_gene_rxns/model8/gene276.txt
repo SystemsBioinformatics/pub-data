@@ -1,0 +1,12 @@
+notRecovered:
+CRCT:1 ctp_c + 1 h_c + 1 rbt5p_c -> 1 cdprbtl_c + 1 ppi_c (1 M_CTP_ + 1 M_H_ + 1 M_D_Ribitol_5_phosphate_ -> 1 M_CDPribitol_ + 1 M_Diphosphate_)
+
+
+AdditionalNotInModel:
+MEPCT:1 2me4p_c + 1 ctp_c + 1 h_c -> 1 4c2me_c + 1 ppi_c (1 2-C-methyl-D-erythritol 4-phosphate + 1 CTP C9H12N3O14P3 + 1 H+ -> 1 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + 1 Diphosphate)
+
+
+AdditionalMetabolites:
+2me4p_c (2-C-methyl-D-erythritol 4-phosphate)
+
+

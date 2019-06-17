@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn03384:4 cpd00067_c + 1 cpd03414_c <=> 4 cpd00011_c + 1 cpd03416_c (4 H_plus__c0 + 1 UroporphyrinogenI_c0 <=> 4 CO2_c0 + 1 CoproporphyrinogenI_c0)
+
+
+AdditionalMetabolites:
+cpd00011_c (CO2_c0)
+cpd00067_c (H_plus__c0)
+cpd03414_c (UroporphyrinogenI_c0)
+cpd03416_c (CoproporphyrinogenI_c0)
+
+

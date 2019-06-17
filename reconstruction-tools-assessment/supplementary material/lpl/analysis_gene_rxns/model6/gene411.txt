@@ -1,0 +1,8 @@
+notRecovered:
+PPNCL:1 4ppan_c + 1 ctp_c + 1 cys__L_c -> 1 4ppcys_c + 1 cdp_c + 1 h_c + 1 pi_c (1 M_D_4__Phosphopantothenate_ + 1 M_CTP_ + 1 M_L_Cysteine_ -> 1 M_N___R__4_Phosphopantothenoyl__L_cysteine_ + 1 M_CDP_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+PPNCL2:1 4ppan_c + 1 ctp_c + 1 cys__L_c -> 1 4ppcys_c + 1 cmp_c + 1 h_c + 1 ppi_c (1 D-4'-Phosphopantothenate + 1 CTP C9H12N3O14P3 + 1 L-Cysteine -> 1 N-((R)-4-Phosphopantothenoyl)-L-cysteine + 1 CMP C9H12N3O8P + 1 H+ + 1 Diphosphate)
+
+

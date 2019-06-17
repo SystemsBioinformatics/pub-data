@@ -1,0 +1,13 @@
+notRecovered:
+CLPNS140pp:2 pg140_p <=> 1 clpn140_p + 1 glyc_p (2 Phosphatidylglycerol (ditetradecanoyl, n-C14:0) <=> 1 cardiolipin (tetratetradecanoyl, n-C14:0) + 1 Glycerol)
+
+
+AdditionalNotInModel:
+CLPNS2_BS:0.02 pgly_BS_c -> 0.01 cdlp_BS_c + 1 glyc_c (0.02 Phosphatidylglycerol  B subtils  C3736H7272O1000P100 -> 0.01 Cardiolipin  B subtilis  C7172H13744O1700P200 + 1 Glycerol)
+
+
+AdditionalMetabolites:
+cdlp_BS_c (Cardiolipin  B subtilis  C7172H13744O1700P200)
+pgly_BS_c (Phosphatidylglycerol  B subtils  C3736H7272O1000P100)
+
+

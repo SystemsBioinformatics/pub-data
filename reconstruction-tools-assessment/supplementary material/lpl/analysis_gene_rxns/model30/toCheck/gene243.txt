@@ -1,0 +1,29 @@
+notRecovered:
+UAGPT5:1 uacgam_c + 1 uagmdalac_c -> 1 h_c + 1 uaagmdalac_c + 1 udp_c (1 M_UDP_N_acetyl_D_glucosamine_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_H_ + 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl__N_acetylglucosamine__L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UDP_)
+
+
+AdditionalNotInModel:
+R05032:1 C00043_c + 1 C05897_c <=> 1 C05898_c + 1 C00015_c (1 UDP-N-acetyl-alpha-D-glucosamine + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine <=> 1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + 1 UDP)
+R06172:1 G10610_c + 1 G10551_c <=> 1 G10619_c + 1 G10550_c (1 UDP-N-acetyl-D-glucosamine + 1 M_00837 <=> 1 UDP + 1 M_00840)
+R06174:1 G10610_c + 1 G10556_c <=> 1 G10619_c + 1 G10555_c (1 UDP-N-acetyl-D-glucosamine + 1 M_00868 <=> 1 UDP + 1 M_00856)
+R06173:1 G10610_c + 1 G10552_c <=> 1 G10553_c + 1 G10619_c (1 UDP-N-acetyl-D-glucosamine + 1 M_00869 <=> 1 M_00817 + 1 UDP)
+R05662:1 C00043_c + 1 C04851_c <=> 1 C00015_c + 1 C05893_c (1 UDP-N-acetyl-alpha-D-glucosamine + 1 MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol <=> 1 UDP + 1 Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+
+
+AdditionalMetabolites:
+C00015_c (UDP)
+C00043_c (UDP-N-acetyl-alpha-D-glucosamine)
+C04851_c (MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol)
+C05893_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine)
+C05897_c (Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+C05898_c (Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine)
+G10550_c (M_00840)
+G10551_c (M_00837)
+G10552_c (M_00869)
+G10553_c (M_00817)
+G10555_c (M_00856)
+G10556_c (M_00868)
+G10610_c (UDP-N-acetyl-D-glucosamine)
+G10619_c (UDP)
+
+

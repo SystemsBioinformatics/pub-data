@@ -1,0 +1,12 @@
+notRecovered:
+ADPDS:1 al26da_c + 1 h2o_c + 1 h_c -> 1 26dap_LL_c + 1 ac_c (1 M_N6_Acetyl_LL_2_6_diaminoheptanedioate_ + 1 M_H2O_ + 1 M_H_ -> 1 M_LL_2_6_Diaminoheptanedioate_ + 1 M_Acetate_)
+
+
+AdditionalNotInModel:
+ADPDA:1 h2o_c + 1 26dapime_c <=> 1 ac_c + 1 26dap_LL_c (1 H2O + 1 N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5 <=> 1 Acetate + 1 LL-2,6-Diaminoheptanedioate)
+
+
+AdditionalMetabolites:
+26dapime_c (N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5)
+
+

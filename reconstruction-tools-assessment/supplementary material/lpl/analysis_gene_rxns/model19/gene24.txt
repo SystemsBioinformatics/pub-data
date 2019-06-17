@@ -1,0 +1,31 @@
+notRecovered:
+SBTD_L:1 nad_c + 1 sbt__L_c -> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_L_Sorbitol_ -> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+SBTD:1 idt_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 srb__L_c (1 M_L_Iditol_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_L_Sorbose_)
+
+
+AdditionalNotInModel:
+R01465:1 C00003_c + 1 C00188_c -> 1 C00004_c + 1 C00080_c + 1 C03508_c (1 NAD+ + 1 L-Threonine -> 1 NADH + 1 H+ + 1 L-2-Amino-3-oxobutanoic acid)
+R01896:1 C00003_c + 1 C00379_c <=> 1 C00004_c + 1 C00080_c + 1 C00310_c (1 NAD+ + 1 Xylitol <=> 1 NADH + 1 H+ + 1 D-Xylulose)
+R02855:1 C00004_c + 1 C00080_c + 1 C00741_c -> 1 C00003_c + 1 C00810_c (1 NADH + 1 H+ + 1 Diacetyl -> 1 NAD+ + 1 (R)-Acetoin)
+R02946:1 C00003_c + 1 C03044_c <=> 1 C00004_c + 1 C00080_c + 1 C00810_c (1 NAD+ + 1 (R,R)-Butane-2,3-diol <=> 1 NADH + 1 H+ + 1 (R)-Acetoin)
+R10504:1 C00003_c + 1 C20657_c <=> 1 C00004_c + 1 C00080_c + 1 C01769_c (1 NAD+ + 1 meso-2,3-Butanediol <=> 1 NADH + 1 H+ + 1 (S)-Acetoin)
+R10848:1 C00003_c + 1 C00800_c <=> 1 C00004_c + 1 C00080_c + 1 C00905_c (1 NAD+ + 1 L-Gulonate <=> 1 NADH + 1 H+ + 1 D-Fructuronate)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00188_c (L-Threonine)
+C00310_c (D-Xylulose)
+C00379_c (Xylitol)
+C00741_c (Diacetyl)
+C00800_c (L-Gulonate)
+C00810_c ((R)-Acetoin)
+C00905_c (D-Fructuronate)
+C01769_c ((S)-Acetoin)
+C03044_c ((R,R)-Butane-2,3-diol)
+C03508_c (L-2-Amino-3-oxobutanoic acid)
+C20657_c (meso-2,3-Butanediol)
+
+

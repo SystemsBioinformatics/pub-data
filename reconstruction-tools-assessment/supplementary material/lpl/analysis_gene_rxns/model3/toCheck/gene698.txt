@@ -1,0 +1,14 @@
+notRecovered:
+RBT5PDHy:1 nadp_c + 1 rbt5p_c <=> 1 h_c + 1 nadph_c + 1 ru5p__D_c (1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_D_Ribitol_5_phosphate_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_D_Ribulose_5_phosphate_)
+
+
+AdditionalNotInModel:
+IDOND:1 h_c + 1 nadh_c + 1 5dglcn_c <=> 1 nad_c + 1 idon__L_c (1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 5-Dehydro-D-gluconate <=> 1 Nicotinamide adenine dinucleotide + 1 L-Idonate)
+IDOND2:1 h_c + 1 nadph_c + 1 5dglcn_c -> 1 nadp_c + 1 idon__L_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 5-Dehydro-D-gluconate -> 1 Nicotinamide adenine dinucleotide phosphate + 1 L-Idonate)
+
+
+AdditionalMetabolites:
+5dglcn_c (5-Dehydro-D-gluconate)
+idon__L_c (L-Idonate)
+
+

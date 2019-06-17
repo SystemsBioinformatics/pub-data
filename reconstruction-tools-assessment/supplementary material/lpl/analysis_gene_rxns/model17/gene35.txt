@@ -1,0 +1,50 @@
+notRecovered:
+EAR180x:1 toctd2eACP_c + 1 h_c + 1 nadh_c -> 1 nad_c + 1 ocdcaACP_c (1 M_trans_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Octadecanoyl_acyl_carrier_protein_)
+EAR160x:1 tpalm2eACP_c + 1 h_c + 1 nadh_c -> 1 palmACP_c + 1 nad_c (1 M_trans_Hexadec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Hexadecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+R01404:1 C00006_c + 1 C00173_c <=> 1 C00005_c + 1 C00080_c + 1 C00693_c (1 NADP+ + 1 Acyl-[acyl-carrier protein] <=> 1 NADPH + 1 H+ + 1 trans-2,3-Dehydroacyl-[acyl-carrier protein])
+R04430:1 C00006_c + 1 C05745_c <=> 1 C00005_c + 1 C00080_c + 1 C04246_c (1 NADP+ + 1 Butyryl-[acp] <=> 1 NADPH + 1 H+ + 1 But-2-enoyl-[acyl-carrier protein])
+R04725:1 C00006_c + 1 C05223_c <=> 1 C00005_c + 1 C00080_c + 1 C05758_c (1 NADP+ + 1 Dodecanoyl-[acyl-carrier protein] <=> 1 NADPH + 1 H+ + 1 trans-Dodec-2-enoyl-[acp])
+R04956:1 C00006_c + 1 C05749_c <=> 1 C00005_c + 1 C00080_c + 1 C05748_c (1 NADP+ + 1 Hexanoyl-[acp] <=> 1 NADPH + 1 H+ + 1 trans-Hex-2-enoyl-[acp])
+R04959:1 C00006_c + 1 C05752_c <=> 1 C00005_c + 1 C00080_c + 1 C05751_c (1 NADP+ + 1 Octanoyl-[acp] <=> 1 NADPH + 1 H+ + 1 trans-Oct-2-enoyl-[acp])
+R04962:1 C00006_c + 1 C05755_c <=> 1 C00005_c + 1 C00080_c + 1 C05754_c (1 NADP+ + 1 Decanoyl-[acp] <=> 1 NADPH + 1 H+ + 1 trans-Dec-2-enoyl-[acp])
+R04967:1 C00006_c + 1 C05761_c <=> 1 C00005_c + 1 C00080_c + 1 C05760_c (1 NADP+ + 1 Tetradecanoyl-[acp] <=> 1 NADPH + 1 H+ + 1 trans-Tetradec-2-enoyl-[acp])
+R04969:1 C00003_c + 1 C05764_c <=> 1 C00004_c + 1 C00080_c + 1 C05763_c (1 NAD+ + 1 Hexadecanoyl-[acp] <=> 1 NADH + 1 H+ + 1 trans-Hexadec-2-enoyl-[acp])
+R04970:1 C00006_c + 1 C05764_c <=> 1 C00005_c + 1 C00080_c + 1 C05763_c (1 NADP+ + 1 Hexadecanoyl-[acp] <=> 1 NADPH + 1 H+ + 1 trans-Hexadec-2-enoyl-[acp])
+R07765:1 C00004_c + 1 C00080_c + 1 C16221_c <=> 1 C00003_c + 1 C04088_c (1 NADH + 1 H+ + 1 (2E)-Octadecenoyl-[acp] <=> 1 NAD+ + 1 Octadecanoyl-[acyl-carrier protein])
+R10118:1 C00005_c + 1 C00080_c + 1 C20374_c <=> 1 C00006_c + 1 C20375_c (1 NADPH + 1 H+ + 1 Enoylglutaryl-[acp] methyl ester <=> 1 NADP+ + 1 Glutaryl-[acp] methyl ester)
+R10122:1 C00005_c + 1 C00080_c + 1 C20378_c <=> 1 C00006_c + 1 C19846_c (1 NADPH + 1 H+ + 1 Enoylpimeloyl-[acp] methyl ester <=> 1 NADP+ + 1 Pimeloyl-[acyl-carrier protein] methyl ester)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00080_c (H+)
+C00173_c (Acyl-[acyl-carrier protein])
+C00693_c (trans-2,3-Dehydroacyl-[acyl-carrier protein])
+C04088_c (Octadecanoyl-[acyl-carrier protein])
+C04246_c (But-2-enoyl-[acyl-carrier protein])
+C05223_c (Dodecanoyl-[acyl-carrier protein])
+C05745_c (Butyryl-[acp])
+C05748_c (trans-Hex-2-enoyl-[acp])
+C05749_c (Hexanoyl-[acp])
+C05751_c (trans-Oct-2-enoyl-[acp])
+C05752_c (Octanoyl-[acp])
+C05754_c (trans-Dec-2-enoyl-[acp])
+C05755_c (Decanoyl-[acp])
+C05758_c (trans-Dodec-2-enoyl-[acp])
+C05760_c (trans-Tetradec-2-enoyl-[acp])
+C05761_c (Tetradecanoyl-[acp])
+C05763_c (trans-Hexadec-2-enoyl-[acp])
+C05764_c (Hexadecanoyl-[acp])
+C16221_c ((2E)-Octadecenoyl-[acp])
+C19846_c (Pimeloyl-[acyl-carrier protein] methyl ester)
+C20374_c (Enoylglutaryl-[acp] methyl ester)
+C20375_c (Glutaryl-[acp] methyl ester)
+C20378_c (Enoylpimeloyl-[acp] methyl ester)
+
+

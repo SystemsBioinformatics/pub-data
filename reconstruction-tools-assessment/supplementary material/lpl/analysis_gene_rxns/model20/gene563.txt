@@ -1,0 +1,20 @@
+AdditionalNotInModel:
+R00717:1 C00003_c + 1 C00160_c <=> 1 C00004_c + 1 C00048_c + 1 C00080_c (1 NAD+ + 1 Glycolate <=> 1 NADH + 1 Glyoxylate + 1 H+)
+R01388:1 C00003_c + 1 C00258_c <=> 1 C00004_c + 1 C00080_c + 1 C00168_c (1 NAD+ + 1 D-Glycerate <=> 1 NADH + 1 H+ + 1 Hydroxypyruvate)
+R01739:1 C00006_c + 1 C00257_c <=> 1 C00005_c + 1 C00080_c + 1 C06473_c (1 NADP+ + 1 D-Gluconic acid <=> 1 NADPH + 1 H+ + 1 2-Keto-D-gluconic acid)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00005_c (NADPH)
+C00006_c (NADP+)
+C00048_c (Glyoxylate)
+C00080_c (H+)
+C00160_c (Glycolate)
+C00168_c (Hydroxypyruvate)
+C00257_c (D-Gluconic acid)
+C00258_c (D-Glycerate)
+C06473_c (2-Keto-D-gluconic acid)
+
+

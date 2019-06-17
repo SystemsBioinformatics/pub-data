@@ -1,0 +1,4 @@
+notRecovered:
+PPCSCT:1 ppcoa_c + 1 succ_c -> 1 ppa_c + 1 succoa_c (1 Propanoyl-CoA + 1 Succinate -> 1 Propionate (n-C3:0) + 1 Succinyl-CoA)
+
+

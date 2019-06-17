@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN:1 GLN_c + 1 FRUCTOSE-6P_c <=> 1 D-GLUCOSAMINE-6-P_c + 1 GLT_c (1 L-glutamine + 1 beta-D-fructofuranose 6-phosphate <=> 1 D-glucosamine 6-phosphate + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+D-GLUCOSAMINE-6-P_c (D-glucosamine 6-phosphate)
+FRUCTOSE-6P_c (beta-D-fructofuranose 6-phosphate)
+GLN_c (L-glutamine)
+GLT_c (L-glutamate)
+
+

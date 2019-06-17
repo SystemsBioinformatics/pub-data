@@ -1,0 +1,26 @@
+AdditionalNotInModel:
+GLYt2pp:1 h_p + 1 gly_p -> 1 gly_c + 1 h_c (1 H+ + 1 Glycine -> 1 Glycine + 1 H+)
+ARSENBt2:1 arsenb_e + 1 h_e -> 1 h_c + 1 arsenb_c (1 ARSENOBETAINE C5H11AsO2 + 1 H+ -> 1 H+ + 1 ARSENOBETAINE C5H11AsO2)
+GLYt2pp_copy1:1 h_p + 1 gly_p -> 1 gly_c + 1 h_c (1 H+ + 1 Glycine -> 1 Glycine + 1 H+)
+CHLt2pp:1 chol_p + 1 h_p -> 1 chol_c + 1 h_c (1 Choline C5H14NO + 1 H+ -> 1 Choline C5H14NO + 1 H+)
+GLYBt2pp:1 glyb_p + 1 h_p -> 1 glyb_c + 1 h_c (1 Glycine betaine + 1 H+ -> 1 Glycine betaine + 1 H+)
+CRNt8pp:1 crn__D_c + 1 crn_p -> 1 crn_c + 1 crn__D_p (1 D-Carnitine + 1 L-Carnitine -> 1 L-Carnitine + 1 D-Carnitine)
+GLYBt2pp_copy1:1 glyb_p + 1 h_p -> 1 glyb_c + 1 h_c (1 Glycine betaine + 1 H+ -> 1 Glycine betaine + 1 H+)
+CRNt7pp:1 gbbtn_c + 1 crn_p -> 1 gbbtn_p + 1 crn_c (1 Gamma-butyrobetaine + 1 L-Carnitine -> 1 Gamma-butyrobetaine + 1 L-Carnitine)
+
+
+AdditionalMetabolites:
+arsenb_c (ARSENOBETAINE C5H11AsO2)
+arsenb_e (ARSENOBETAINE C5H11AsO2)
+chol_p (Choline C5H14NO)
+crn__D_c (D-Carnitine)
+crn__D_p (D-Carnitine)
+crn_c (L-Carnitine)
+crn_p (L-Carnitine)
+gbbtn_c (Gamma-butyrobetaine)
+gbbtn_p (Gamma-butyrobetaine)
+gly_p (Glycine)
+glyb_p (Glycine betaine)
+h_p (H+)
+
+

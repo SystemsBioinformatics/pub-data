@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn00337:1 cpd00002_c + 1 cpd00041_c <=> 1 cpd00008_c + 1 cpd01977_c (1 ATP_c0 + 1 L_Aspartate_c0 <=> 1 ADP_c0 + 1 4_Phospho_L_aspartate_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00041_c (L_Aspartate_c0)
+cpd01977_c (4_Phospho_L_aspartate_c0)
+
+

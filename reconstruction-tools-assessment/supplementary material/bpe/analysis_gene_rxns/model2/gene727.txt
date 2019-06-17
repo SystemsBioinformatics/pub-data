@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+GUDBUTNAH:1 h2o_c + 1 4gudbutn_c -> 1 4abut_c + 1 urea_c (1 H2O + 1 4 Guanidinobutanoate C5H11N3O2 -> 1 4-Aminobutanoate + 1 Urea)
+
+
+AdditionalMetabolites:
+4gudbutn_c (4 Guanidinobutanoate C5H11N3O2)
+
+

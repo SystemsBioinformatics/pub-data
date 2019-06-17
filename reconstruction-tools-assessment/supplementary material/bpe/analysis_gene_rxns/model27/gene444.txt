@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04090:1 C00001_c + 1 C03899_c <=> 1 C02929_c + 1 C00051_c (1 H2O + 1 S-(2-Hydroxyacyl)glutathione <=> 1 2-Hydroxy carboxylate + 1 Glutathione)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00051_c (Glutathione)
+C02929_c (2-Hydroxy carboxylate)
+C03899_c (S-(2-Hydroxyacyl)glutathione)
+
+

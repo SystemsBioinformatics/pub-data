@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+RXN-14116:1 L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c + 1 NAD_c + 1 WATER_c -> 1 NADH_c + 2 PROTON_c + 1 GLT_c (1 L-glutamate-5-semialdehyde + 1 NAD+ + 1 H2O -> 1 NADH + 2 H+ + 1 L-glutamate)
+
+
+AdditionalMetabolites:
+GLT_c (L-glutamate)
+L-GLUTAMATE_GAMMA-SEMIALDEHYDE_c (L-glutamate-5-semialdehyde)
+NADH_c (NADH)
+NAD_c (NAD+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

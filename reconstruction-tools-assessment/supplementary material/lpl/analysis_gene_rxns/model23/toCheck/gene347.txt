@@ -1,0 +1,15 @@
+notRecovered:
+MPL:1 malt_c + 1 pi_c <=> 1 g1p_B_c + 1 glc__D_c (1 M_Maltose_ + 1 M_Phosphate_ <=> 1 M_beta_D_Glucose_1_phosphate_ + 1 M_D_Glucose_)
+
+
+AdditionalNotInModel:
+2.4.1.216-RXN:1 Pi_c + 1 TREHALOSE-6P_c <=> 1 CPD-448_c + 1 GLC-6-P_c (1 phosphate + 1 alpha,alpha-trehalose 6-phosphate <=> 1 beta-D-glucopyranose 1-phosphate + 1 beta-D-glucose 6-phosphate)
+
+
+AdditionalMetabolites:
+CPD-448_c (beta-D-glucopyranose 1-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+Pi_c (phosphate)
+TREHALOSE-6P_c (alpha,alpha-trehalose 6-phosphate)
+
+

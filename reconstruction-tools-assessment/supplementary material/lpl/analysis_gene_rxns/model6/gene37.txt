@@ -1,0 +1,13 @@
+notRecovered:
+HPPK:1 2ahhmp_c + 1 atp_c -> 1 2ahhmd_c + 1 amp_c + 1 h_c (1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_ + 1 M_ATP_ -> 1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_diphosphate_ + 1 M_AMP_ + 1 M_H_)
+
+
+AdditionalNotInModel:
+HPPK2:1 6hmhpt_c + 1 atp_c -> 1 6hmhptpp_c + 1 amp_c + 1 h_c (1 6-hydroxymethyl dihydropterin + 1 ATP C10H12N5O13P3 -> 1 6-hydroxymethyl-dihydropterin pyrophosphate + 1 AMP C10H12N5O7P + 1 H+)
+
+
+AdditionalMetabolites:
+6hmhpt_c (6-hydroxymethyl dihydropterin)
+6hmhptpp_c (6-hydroxymethyl-dihydropterin pyrophosphate)
+
+

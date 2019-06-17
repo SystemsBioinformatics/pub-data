@@ -1,0 +1,2 @@
+AdditionalInModel:
+HISTRS_1:1 atp_c + 1 trnahis_c + 1 his__L_c -> 1 amp_c + 1 histrna_c + 1 ppi_c + 1 h_c (1 ATP C10H12N5O13P3 + 1 TRNA(His) + 1 L-Histidine -> 1 AMP C10H12N5O7P + 1 L-Histidyl-tRNA(His) + 1 Diphosphate + 1 H+)

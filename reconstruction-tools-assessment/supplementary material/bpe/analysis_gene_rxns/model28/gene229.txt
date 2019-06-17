@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R04187:1 C06002_c + 1 C00041_c <=> 1 C03284_c + 1 C00022_c (1 (S)-Methylmalonate semialdehyde + 1 L-Alanine <=> 1 L-3-Aminoisobutanoate + 1 Pyruvate)
+
+
+AdditionalMetabolites:
+C00022_c (Pyruvate)
+C00041_c (L-Alanine)
+C03284_c (L-3-Aminoisobutanoate)
+C06002_c ((S)-Methylmalonate semialdehyde)
+
+

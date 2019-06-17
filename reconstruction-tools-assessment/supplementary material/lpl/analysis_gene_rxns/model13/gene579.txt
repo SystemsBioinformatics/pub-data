@@ -1,0 +1,15 @@
+AdditionalNotInModel:
+1TRANSKETO-RXN-D-SEDOHEPTULOSE-7-P/GAP//CPD-15895/XYLULOSE-5-PHOSPHATE.56.:1 D-SEDOHEPTULOSE-7-P_c + 1 GAP_c <=> 1 CPD-15895_c + 1 XYLULOSE-5-PHOSPHATE_c (1 D-sedoheptulose 7-phosphate + 1 D-glyceraldehyde 3-phosphate <=> 1 aldehydo-D-ribose 5-phosphate + 1 D-xylulose 5-phosphate)
+1TRANSKETO-RXN-D-SEDOHEPTULOSE-7-P/GAP//CPD-16551/XYLULOSE-5-PHOSPHATE.56.:1 D-SEDOHEPTULOSE-7-P_c + 1 GAP_c <=> 1 CPD-16551_c + 1 XYLULOSE-5-PHOSPHATE_c (1 D-sedoheptulose 7-phosphate + 1 D-glyceraldehyde 3-phosphate <=> 1 beta-D-ribose 5-phosphate + 1 D-xylulose 5-phosphate)
+1TRANSKETO-RXN:1 D-SEDOHEPTULOSE-7-P_c + 1 GAP_c <=> 1 RIBOSE-5P_c + 1 XYLULOSE-5-PHOSPHATE_c (1 D-sedoheptulose 7-phosphate + 1 D-glyceraldehyde 3-phosphate <=> 1 D-ribose 5-phosphate + 1 D-xylulose 5-phosphate)
+
+
+AdditionalMetabolites:
+CPD-15895_c (aldehydo-D-ribose 5-phosphate)
+CPD-16551_c (beta-D-ribose 5-phosphate)
+D-SEDOHEPTULOSE-7-P_c (D-sedoheptulose 7-phosphate)
+GAP_c (D-glyceraldehyde 3-phosphate)
+RIBOSE-5P_c (D-ribose 5-phosphate)
+XYLULOSE-5-PHOSPHATE_c (D-xylulose 5-phosphate)
+
+

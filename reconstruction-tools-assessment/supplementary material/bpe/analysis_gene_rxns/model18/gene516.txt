@@ -1,0 +1,13 @@
+AdditionalNotInModel:
+R01825:1 C00001_c + 1 C00003_c + 1 C00279_c <=> 1 C00004_c + 1 C00080_c + 1 C03393_c (1 H2O + 1 NAD+ + 1 D-Erythrose 4-phosphate <=> 1 NADH + 1 H+ + 1 4-Phospho-D-erythronate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00080_c (H+)
+C00279_c (D-Erythrose 4-phosphate)
+C03393_c (4-Phospho-D-erythronate)
+
+

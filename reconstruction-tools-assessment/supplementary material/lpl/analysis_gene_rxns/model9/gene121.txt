@@ -1,0 +1,28 @@
+notRecovered:
+DHAt:1 dha_e <=> 1 dha_c (1 M_Dihydroxyacetone_ <=> 1 M_Dihydroxyacetone_)
+
+
+AdditionalNotInModel:
+12PPDStpp:1 12ppd__S_p <=> 1 12ppd__S_c (1 (S)-Propane-1,2-diol <=> 1 (S)-Propane-1,2-diol)
+GLYALDtpp:1 glyald_p <=> 1 glyald_c (1 D-Glyceraldehyde <=> 1 D-Glyceraldehyde)
+GLYtpp:1 gly_c <=> 1 gly_p (1 Glycine <=> 1 Glycine)
+GLYCtpp:1 glyc_c <=> 1 glyc_p (1 Glycerol <=> 1 Glycerol)
+UREAtpp:1 urea_p <=> 1 urea_c (1 Urea CH4N2O <=> 1 Urea CH4N2O)
+12PPDStpp_copy2:1 12ppd__S_p <=> 1 12ppd__S_c (1 (S)-Propane-1,2-diol <=> 1 (S)-Propane-1,2-diol)
+12PPDt:1 12ppd__S_e <=> 1 12ppd__S_c (1 (S)-Propane-1,2-diol <=> 1 (S)-Propane-1,2-diol)
+12PPDRtpp:1 12ppd__R_p <=> 1 12ppd__R_c (1 (R)-Propane-1,2-diol <=> 1 (R)-Propane-1,2-diol)
+
+
+AdditionalMetabolites:
+12ppd__R_c ((R)-Propane-1,2-diol)
+12ppd__R_p ((R)-Propane-1,2-diol)
+12ppd__S_c ((S)-Propane-1,2-diol)
+12ppd__S_e ((S)-Propane-1,2-diol)
+12ppd__S_p ((S)-Propane-1,2-diol)
+gly_p (Glycine)
+glyald_p (D-Glyceraldehyde)
+glyc_p (Glycerol)
+urea_c (Urea CH4N2O)
+urea_p (Urea CH4N2O)
+
+

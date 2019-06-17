@@ -1,0 +1,15 @@
+notRecovered:
+ACGALpts:1 acgala_e + 1 pep_c -> 1 acgal6p_c + 1 pyr_c (1 M_N_Acetyl_D_galactosamine_ + 1 M_Phosphoenolpyruvate_ -> 1 M_N_acetylgalactosamine_6_phosphate_ + 1 M_Pyruvate_)
+
+
+AdditionalNotInModel:
+R08367:1 C02262_c + 1 C04261_c -> 1 C00615_c + 1 C06377_c (1 D-Galactosamine + 1 Protein N(pi)-phospho-L-histidine -> 1 Protein histidine + 1 D-Galactosamine 6-phosphate)
+
+
+AdditionalMetabolites:
+C00615_c (Protein histidine)
+C02262_c (D-Galactosamine)
+C04261_c (Protein N(pi)-phospho-L-histidine)
+C06377_c (D-Galactosamine 6-phosphate)
+
+

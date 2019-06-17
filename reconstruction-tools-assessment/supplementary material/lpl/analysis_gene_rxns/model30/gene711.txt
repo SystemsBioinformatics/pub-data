@@ -1,0 +1,17 @@
+notRecovered:
+EPPP:1 h2o_c + 1 ppt_c -> 2 h_c + 1 pi_c (1 M_H2O_ + 1 M_Polyphosphate_ -> 2 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R03409:1 C04494_c + 1 C00001_c <=> 1 C01228_c + 1 C00009_c (1 Guanosine 3''-diphosphate 5''-triphosphate + 1 H2O <=> 1 Guanosine 3'',5''-bis(diphosphate) + 1 Orthophosphate)
+R03042:1 C00001_c <=> 1 C00404_c + 1 C00009_c (1 H2O <=> 1 Polyphosphate + 1 Orthophosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00009_c (Orthophosphate)
+C00404_c (Polyphosphate)
+C01228_c (Guanosine 3'',5''-bis(diphosphate))
+C04494_c (Guanosine 3''-diphosphate 5''-triphosphate)
+
+

@@ -1,0 +1,19 @@
+notRecovered:
+ACKr:1 ac_c + 1 atp_c <=> 1 actp_c + 1 adp_c (1 Acetate + 1 ATP <=> 1 Acetyl phosphate + 1 ADP)
+GART:1 atp_c + 1 for_c + 1 gar_c -> 1 adp_c + 1 fgam_c + 1 h_c + 1 pi_c (1 ATP + 1 Formate + 1 N1-(5-Phospho-D-ribosyl)glycinamide -> 1 ADP + 1 N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide + 1 H+ + 1 Phosphate)
+
+
+AdditionalNotInModel:
+R04325:1 C00234_c + 1 C03838_c <=> 1 C00101_c + 1 C04376_c (1 10-Formyltetrahydrofolate + 1 5'-Phosphoribosylglycinamide <=> 1 Tetrahydrofolate + 1 5'-Phosphoribosyl-N-formylglycinamide)
+R04326:1 C00001_c + 1 C00445_c + 1 C03838_c <=> 1 C00101_c + 1 C04376_c (1 H2O + 1 5,10-Methenyltetrahydrofolate + 1 5'-Phosphoribosylglycinamide <=> 1 Tetrahydrofolate + 1 5'-Phosphoribosyl-N-formylglycinamide)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00101_c (Tetrahydrofolate)
+C00234_c (10-Formyltetrahydrofolate)
+C00445_c (5,10-Methenyltetrahydrofolate)
+C03838_c (5'-Phosphoribosylglycinamide)
+C04376_c (5'-Phosphoribosyl-N-formylglycinamide)
+
+

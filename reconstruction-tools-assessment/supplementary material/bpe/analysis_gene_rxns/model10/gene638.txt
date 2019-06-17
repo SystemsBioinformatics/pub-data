@@ -1,0 +1,15 @@
+notRecovered:
+PPC:1 co2_c + 1 h2o_c + 1 pep_c -> 1 h_c + 1 oaa_c + 1 pi_c (1 CO2 + 1 H2O + 1 Phosphoenolpyruvate -> 1 H+ + 1 Oxaloacetate + 1 Phosphate)
+
+
+AdditionalNotInModel:
+PEPCARBOX-RXN:1 PHOSPHO-ENOL-PYRUVATE_c + 1 HCO3_c -> 1 OXALACETIC_ACID_c + 1 Pi_c (1 phosphoenolpyruvate + 1 hydrogencarbonate -> 1 oxaloacetate + 1 phosphate)
+
+
+AdditionalMetabolites:
+HCO3_c (hydrogencarbonate)
+OXALACETIC_ACID_c (oxaloacetate)
+PHOSPHO-ENOL-PYRUVATE_c (phosphoenolpyruvate)
+Pi_c (phosphate)
+
+

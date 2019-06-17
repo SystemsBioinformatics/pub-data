@@ -1,0 +1,17 @@
+notRecovered:
+ANTHDIODC:1 anth_c + 3 h_c + 1 nadh_c + 1 o2_c -> 1 catechol_c + 1 co2_c + 1 nad_c + 1 nh4_c (1 Anthranilate + 3 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 O2 -> 1 Catechol + 1 CO2 + 1 Nicotinamide adenine dinucleotide + 1 Ammonium)
+
+
+AdditionalNotInModel:
+RXN-15249:1 CPD-15475_c + 1 NADH_c + 1 OXYGEN-MOLECULE_c + 1 PROTON_c -> 1 CPD-16454_c + 1 NAD_c (1 N5-phenyl-L-glutamine + 1 NADH + 1 oxygen + 1 H+ -> 1 gamma-glutamylanilide diol + 1 NAD+)
+
+
+AdditionalMetabolites:
+CPD-15475_c (N5-phenyl-L-glutamine)
+CPD-16454_c (gamma-glutamylanilide diol)
+NADH_c (NADH)
+NAD_c (NAD+)
+OXYGEN-MOLECULE_c (oxygen)
+PROTON_c (H+)
+
+

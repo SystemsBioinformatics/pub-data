@@ -1,0 +1,16 @@
+notRecovered:
+PHEMEOX:3 fldrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 1 fe2_c + 3 fldox_c + 3 h2o_c (3 flavodoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 1 Fe2+ + 3 flavodoxin (oxidized) + 3 H2O)
+PHEMEOX2:3 fdxrd_c + 2 h_c + 3 o2_c + 1 pheme_c -> 1 biliverd_c + 1 co_c + 3 fdxox_c + 1 fe2_c + 3 h2o_c (3 ferredoxin (reduced) + 2 H+ + 3 O2 + 1 Protoheme -> 1 Biliverdin + 1 carbon monoxide (CO) + 3 ferredoxin (oxidized) + 1 Fe2+ + 3 H2O)
+
+
+AdditionalNotInModel:
+PACCOAE:1 o2_c + 1 h_c + 1 nadph_c + 1 phaccoa_c -> 1 h2o_c + 1 nadp_c + 1 rephaccoa_c (1 O2 + 1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Phenylacetyl-CoA -> 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 Ring 1,2-epoxyphenylacetyl-CoA)
+PHACOAOR:1 o2_c + 1 h2_c + 1 phaccoa_c -> 1 2dhphaccoa_c (1 O2 + 1 H2 + 1 Phenylacetyl-CoA -> 1 1,2-Dihydroxy-1,2-dihydrophenylacetyl-CoA)
+
+
+AdditionalMetabolites:
+2dhphaccoa_c (1,2-Dihydroxy-1,2-dihydrophenylacetyl-CoA)
+h2_c (H2)
+rephaccoa_c (Ring 1,2-epoxyphenylacetyl-CoA)
+
+

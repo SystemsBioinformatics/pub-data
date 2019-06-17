@@ -1,0 +1,17 @@
+notRecovered:
+GCALDD:1 gcald_c + 1 h2o_c + 1 nad_c -> 1 glyclt_c + 2 h_c + 1 nadh_c (1 Glycolaldehyde + 1 H2O + 1 Nicotinamide adenine dinucleotide -> 1 Glycolate + 2 H+ + 1 Nicotinamide adenine dinucleotide - reduced)
+
+
+AdditionalNotInModel:
+R00713:1 C00003_c + 1 C00001_c + 1 C00232_c <=> 1 C00080_c + 1 C00004_c + 1 C00042_c (1 NAD+ + 1 H2O + 1 Succinate semialdehyde <=> 1 H+ + 1 NADH + 1 Succinate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00003_c (NAD+)
+C00004_c (NADH)
+C00042_c (Succinate)
+C00080_c (H+)
+C00232_c (Succinate semialdehyde)
+
+

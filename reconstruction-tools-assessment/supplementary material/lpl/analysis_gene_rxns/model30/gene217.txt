@@ -1,0 +1,18 @@
+notRecovered:
+GLNabc:1 atp_c + 1 gln__L_e + 1 h2o_c -> 1 adp_c + 1 gln__L_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_L_Glutamine_ + 1 M_H2O_ -> 1 M_ADP_ + 1 M_L_Glutamine_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R01373:1 C00254_c <=> 1 C00011_c + 1 C00166_c + 1 C00001_c (1 Prephenate <=> 1 CO2 + 1 Phenylpyruvate + 1 H2O)
+R00691:1 C00826_c <=> 1 C00079_c + 1 C00011_c + 1 C00001_c (1 L-Arogenate <=> 1 L-Phenylalanine + 1 CO2 + 1 H2O)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00011_c (CO2)
+C00079_c (L-Phenylalanine)
+C00166_c (Phenylpyruvate)
+C00254_c (Prephenate)
+C00826_c (L-Arogenate)
+
+

@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn01544:1 cpd00103_c + 1 cpd00309_c -> 1 cpd00012_c + 1 cpd00067_c + 1 cpd00497_c (1 PRPP_c0 + 1 XAN_c0 -> 1 PPi_c0 + 1 H_plus__c0 + 1 XMP_c0)
+
+
+AdditionalMetabolites:
+cpd00012_c (PPi_c0)
+cpd00067_c (H_plus__c0)
+cpd00103_c (PRPP_c0)
+cpd00309_c (XAN_c0)
+cpd00497_c (XMP_c0)
+
+

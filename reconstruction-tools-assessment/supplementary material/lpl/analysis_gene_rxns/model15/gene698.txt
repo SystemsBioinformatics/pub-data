@@ -1,0 +1,16 @@
+notRecovered:
+RBT5PDHy:1 nadp_c + 1 rbt5p_c <=> 1 h_c + 1 nadph_c + 1 ru5p__D_c (1 M_Nicotinamide_adenine_dinucleotide_phosphate_ + 1 M_D_Ribitol_5_phosphate_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_ + 1 M_D_Ribulose_5_phosphate_)
+
+
+AdditionalNotInModel:
+rxn01385:1 cpd00003_c + 1 cpd00306_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00259_c (1 NAD_c0 + 1 Xylitol_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 D_Lyxulose_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00067_c (H_plus__c0)
+cpd00259_c (D_Lyxulose_c0)
+cpd00306_c (Xylitol_c0)
+
+

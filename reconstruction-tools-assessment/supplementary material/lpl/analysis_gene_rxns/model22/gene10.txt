@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+R01785:1 C06441_c <=> 1 C00111_c + 1 C00266_c (1 L-Xylulose 1-phosphate <=> 1 Glycerone phosphate + 1 Glycolaldehyde)
+
+
+AdditionalMetabolites:
+C00111_c (Glycerone phosphate)
+C00266_c (Glycolaldehyde)
+C06441_c (L-Xylulose 1-phosphate)
+
+

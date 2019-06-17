@@ -1,0 +1,13 @@
+notRecovered:
+MACACI:1 4mlacac_c <=> 1 4fumacac_c (1 4-maleylacetoacetate <=> 1 4-fumarylacetoacetate)
+
+
+AdditionalNotInModel:
+rxn03142:1 cpd02864_c <=> 1 cpd02880_c (1 cis_2_Chlorodienelactone_c0 <=> 1 trans_2_Chlorodienelactone_c0)
+
+
+AdditionalMetabolites:
+cpd02864_c (cis_2_Chlorodienelactone_c0)
+cpd02880_c (trans_2_Chlorodienelactone_c0)
+
+

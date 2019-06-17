@@ -1,0 +1,5 @@
+notRecovered:
+GPDDA5:1 g3pi_c + 1 h2o_c -> 1 glyc3p_c + 1 h_c + 1 inost_c (1 M_sn_Glycero_3_phospho_1_inositol_ + 1 M_H2O_ -> 1 M_sn_Glycerol_3_phosphate_ + 1 M_H_ + 1 M_myo_Inositol_)
+GPDDA3:1 g3ps_c + 1 h2o_c -> 1 glyc3p_c + 1 h_c + 1 ser__L_c (1 M_Glycerophosphoserine_ + 1 M_H2O_ -> 1 M_sn_Glycerol_3_phosphate_ + 1 M_H_ + 1 M_L_Serine_)
+
+

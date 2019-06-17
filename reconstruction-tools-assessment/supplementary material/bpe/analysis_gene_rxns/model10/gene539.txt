@@ -1,0 +1,18 @@
+AdditionalNotInModel:
+RXN-14192:1 DADP_c + 1 PHOSPHO-ENOL-PYRUVATE_c + 1 PROTON_c -> 1 DATP_c + 1 PYRUVATE_c (1 dADP + 1 phosphoenolpyruvate + 1 H+ -> 1 dATP + 1 pyruvate)
+RXN-14117:1 PHOSPHO-ENOL-PYRUVATE_c + 1 GDP_c + 1 PROTON_c -> 1 GTP_c + 1 PYRUVATE_c (1 phosphoenolpyruvate + 1 GDP + 1 H+ -> 1 GTP + 1 pyruvate)
+RXN-14207:1 DGDP_c + 1 PHOSPHO-ENOL-PYRUVATE_c + 1 PROTON_c -> 1 DGTP_c + 1 PYRUVATE_c (1 dGDP + 1 phosphoenolpyruvate + 1 H+ -> 1 dGTP + 1 pyruvate)
+
+
+AdditionalMetabolites:
+DADP_c (dADP)
+DATP_c (dATP)
+DGDP_c (dGDP)
+DGTP_c (dGTP)
+GDP_c (GDP)
+GTP_c (GTP)
+PHOSPHO-ENOL-PYRUVATE_c (phosphoenolpyruvate)
+PROTON_c (H+)
+PYRUVATE_c (pyruvate)
+
+

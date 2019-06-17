@@ -1,0 +1,4 @@
+notRecovered:
+GTPDPK:1 atp_c + 1 gtp_c -> 1 amp_c + 1 gdptp_c + 1 h_c (1 M_ATP_ + 1 M_GTP_ -> 1 M_AMP_ + 1 M_Guanosine_3__diphosphate_5__triphosphate_ + 1 M_H_)
+
+

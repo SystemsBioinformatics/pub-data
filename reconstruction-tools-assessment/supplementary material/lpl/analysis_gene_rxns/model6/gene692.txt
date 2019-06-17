@@ -1,0 +1,31 @@
+notRecovered:
+ACYP_2:1 actp_c + 1 h2o_c -> 1 ac_c + 1 h_c + 1 pi_c (1 M_Acetyl_phosphate_ + 1 M_H2O_ -> 1 M_Acetate_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+APH141:1 h2o_c + 1 ttdceap_c -> 2 h_c + 1 pi_c + 1 ttdcea_c (1 H2O H2O + 1 Tetradecanoyl-phosphate (n-C14:1) -> 2 H+ + 1 Phosphate + 1 Tetradecenoate (n-C14:1))
+APH140:1 h2o_c + 1 ttdcap_c -> 2 h_c + 1 pi_c + 1 ttdca_c (1 H2O H2O + 1 Tetradecanoyl-phosphate (n-C14:0) -> 2 H+ + 1 Phosphate + 1 Tetradecanoate (n-C14:0))
+APH161:1 h2o_c + 1 hdceap_c -> 2 h_c + 1 hdcea_c + 1 pi_c (1 H2O H2O + 1 Hexadecanoyl-phosphate (n-C16:1) -> 2 H+ + 1 Hexadecenoate (n-C16:1) + 1 Phosphate)
+APH181:1 h2o_c + 1 ocdceap_c -> 2 h_c + 1 ocdcea_c + 1 pi_c (1 H2O H2O + 1 Octadecanoyl-phosphate (n-C18:1) -> 2 H+ + 1 Octadecenoate (n-C18:1) + 1 Phosphate)
+APH180:1 h2o_c + 1 ocdcap_c -> 2 h_c + 1 ocdca_c + 1 pi_c (1 H2O H2O + 1 Octadecanoyl-phosphate (n-C18:0) -> 2 H+ + 1 Octadecanoate (n-C18:0) + 1 Phosphate)
+APH160:1 h2o_c + 1 hdcap_c -> 2 h_c + 1 hdca_c + 1 pi_c (1 H2O H2O + 1 Hexadecanoyl-phosphate (n-C16:0) -> 2 H+ + 1 Hexadecanoate (n-C16:0) + 1 Phosphate)
+APH120:1 ddcap_c + 1 h2o_c -> 1 ddca_c + 2 h_c + 1 pi_c (1 Dodecanoly-phosphate (n-C12:0) + 1 H2O H2O -> 1 Dodecanoate (n-C12:0) + 2 H+ + 1 Phosphate)
+
+
+AdditionalMetabolites:
+ddca_c (Dodecanoate (n-C12:0))
+ddcap_c (Dodecanoly-phosphate (n-C12:0))
+hdca_c (Hexadecanoate (n-C16:0))
+hdcap_c (Hexadecanoyl-phosphate (n-C16:0))
+hdcea_c (Hexadecenoate (n-C16:1))
+hdceap_c (Hexadecanoyl-phosphate (n-C16:1))
+ocdca_c (Octadecanoate (n-C18:0))
+ocdcap_c (Octadecanoyl-phosphate (n-C18:0))
+ocdcea_c (Octadecenoate (n-C18:1))
+ocdceap_c (Octadecanoyl-phosphate (n-C18:1))
+ttdca_c (Tetradecanoate (n-C14:0))
+ttdcap_c (Tetradecanoyl-phosphate (n-C14:0))
+ttdcea_c (Tetradecenoate (n-C14:1))
+ttdceap_c (Tetradecanoyl-phosphate (n-C14:1))
+
+

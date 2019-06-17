@@ -1,0 +1,21 @@
+notRecovered:
+GLCP:1 glycogen_c + 1 pi_c -> 1 g1p_c (1 M_glycogen_ + 1 M_Phosphate_ -> 1 M_D_Glucose_1_phosphate_)
+
+
+AdditionalNotInModel:
+RXN-14286:1 CPD0-1133_c + 1 Pi_c -> 1 GLC-1-P_c + 1 MALTOHEXAOSE_c (1 maltoheptaose + 1 phosphate -> 1 alpha-D-glucopyranose 1-phosphate + 1 maltohexaose)
+RXN-14284:1 MALTOPENTAOSE_c + 1 Pi_c -> 1 GLC-1-P_c + 1 MALTOTETRAOSE_c (1 maltopentaose + 1 phosphate -> 1 alpha-D-glucopyranose 1-phosphate + 1 maltotetraose)
+RXN-14285:1 MALTOHEXAOSE_c + 1 Pi_c -> 1 GLC-1-P_c + 1 MALTOPENTAOSE_c (1 maltohexaose + 1 phosphate -> 1 alpha-D-glucopyranose 1-phosphate + 1 maltopentaose)
+RXN0-5182:1 MALTOTETRAOSE_c + 1 Pi_c -> 1 GLC-1-P_c + 1 MALTOTRIOSE_c (1 maltotetraose + 1 phosphate -> 1 alpha-D-glucopyranose 1-phosphate + 1 maltotriose)
+
+
+AdditionalMetabolites:
+CPD0-1133_c (maltoheptaose)
+GLC-1-P_c (alpha-D-glucopyranose 1-phosphate)
+MALTOHEXAOSE_c (maltohexaose)
+MALTOPENTAOSE_c (maltopentaose)
+MALTOTETRAOSE_c (maltotetraose)
+MALTOTRIOSE_c (maltotriose)
+Pi_c (phosphate)
+
+

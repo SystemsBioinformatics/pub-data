@@ -1,0 +1,4 @@
+notRecovered:
+ACOATA:1 ACP_c + 1 accoa_c <=> 1 acACP_c + 1 coa_c (1 acyl carrier protein + 1 Acetyl-CoA <=> 1 Acetyl-ACP + 1 Coenzyme A)
+
+

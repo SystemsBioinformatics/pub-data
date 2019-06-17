@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+rxn00611:1 cpd00003_c + 1 cpd00080_c <=> 1 cpd00067_c + 1 cpd00004_c + 1 cpd00095_c (1 NAD_c0 + 1 Glycerol_3_phosphate_c0 <=> 1 H_plus__c0 + 1 NADH_c0 + 1 Glycerone_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00003_c (NAD_c0)
+cpd00004_c (NADH_c0)
+cpd00067_c (H_plus__c0)
+cpd00080_c (Glycerol_3_phosphate_c0)
+cpd00095_c (Glycerone_phosphate_c0)
+
+

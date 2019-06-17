@@ -1,0 +1,4 @@
+notRecovered:
+UNDPGLCNACDEACT_BP:1 h2o_c + 1 unaga_c -> 1 ac_c + 1 h_c + 1 undpglcn_BP_c (1 H2O + 1 undecaprenyl-diphosphate-N-acetyl-glucosamine -> 1 Acetate + 1 H+ + 1 undecaprenyl-diphosphate-glucosamine)
+
+

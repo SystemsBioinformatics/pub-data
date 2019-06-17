@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+R00669:1 C00001_c + 1 C00437_c <=> 1 C00033_c + 1 C00077_c (1 H2O + 1 N-Acetylornithine <=> 1 Acetate + 1 L-Ornithine)
+R09107:1 C00001_c + 1 C15532_c <=> 1 C00033_c + 1 C00327_c (1 H2O + 1 N-Acetyl-L-citrulline <=> 1 Acetate + 1 L-Citrulline)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00033_c (Acetate)
+C00077_c (L-Ornithine)
+C00327_c (L-Citrulline)
+C00437_c (N-Acetylornithine)
+C15532_c (N-Acetyl-L-citrulline)
+
+

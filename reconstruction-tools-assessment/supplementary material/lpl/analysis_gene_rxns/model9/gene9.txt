@@ -1,0 +1,20 @@
+notRecovered:
+NH3t:1 nh3_e <=> 1 nh3_c (1 M_Ammonia_ <=> 1 M_Ammonia_)
+
+
+AdditionalNotInModel:
+NH4t4pp:1 nh4_p + 1 k_c -> 1 nh4_c + 1 k_p (1 Ammonium + 1 Potassium -> 1 Ammonium + 1 Potassium)
+NH4tpp:1 nh4_p <=> 1 nh4_c (1 Ammonium <=> 1 Ammonium)
+NH4tpp_1:1 nh4_p + 1 h_p -> 1 nh4_c + 1 h_c (1 Ammonium + 1 H+ -> 1 Ammonium + 1 H+)
+NH4t:1 nh4_e <=> 1 nh4_c (1 Ammonium <=> 1 Ammonium)
+NH4t4:1 nh4_e + 1 k_c -> 1 nh4_c + 1 k_e (1 Ammonium + 1 Potassium -> 1 Ammonium + 1 Potassium)
+
+
+AdditionalMetabolites:
+h_p (H+)
+k_c (Potassium)
+k_e (Potassium)
+k_p (Potassium)
+nh4_p (Ammonium)
+
+

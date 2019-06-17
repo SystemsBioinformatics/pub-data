@@ -1,0 +1,14 @@
+notRecovered:
+CLPNS_LPL:0.02 pg_LPL_c <=> 0.01 clpn_LPL_c + 1 glyc_c (0.02 M_Phospatidylglycerol__LPL_specific__ <=> 0.01 M_Cardiolipin__LPL_specific__ + 1 M_Glycerol_)
+
+
+AdditionalNotInModel:
+R07390:2 C00344_c <=> 1 C00116_c + 1 C05980_c (2 Phosphatidylglycerol <=> 1 Glycerol + 1 Cardiolipin)
+
+
+AdditionalMetabolites:
+C00116_c (Glycerol)
+C00344_c (Phosphatidylglycerol)
+C05980_c (Cardiolipin)
+
+

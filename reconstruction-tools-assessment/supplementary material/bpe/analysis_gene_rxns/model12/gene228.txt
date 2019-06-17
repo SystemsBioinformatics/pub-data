@@ -1,0 +1,4 @@
+notRecovered:
+HEPT2_BP:1 adphep_LD_c + 1 hlipa_BP_c -> 1 adp_c + 1 h_c + 1 hhlipa_BP_c (1 ADP-L-glycero-D-manno-heptose + 1 heptosyl-KDO-lipidA (B. pertussis specific) -> 1 ADP + 1 H+ + 1 heptosyl-heptosyl-KDO-lipidA (B. pertussis specific))
+
+

@@ -1,0 +1,5 @@
+notRecovered:
+GTHRDabc2pp:1 atp_c + 1 gthrd_c + 1 h2o_c -> 1 adp_c + 1 gthrd_p + 1 h_c + 1 pi_c (1 ATP + 1 Reduced glutathione + 1 H2O -> 1 ADP + 1 Reduced glutathione + 1 H+ + 1 Phosphate)
+CYSabc2pp:1 atp_c + 1 cys__L_c + 1 h2o_c -> 1 adp_c + 1 cys__L_p + 1 h_c + 1 pi_c (1 ATP + 1 L-Cysteine + 1 H2O -> 1 ADP + 1 L-Cysteine + 1 H+ + 1 Phosphate)
+
+

@@ -1,0 +1,17 @@
+notRecovered:
+MECDPDH2:1 2mecdp_c + 1 nadh_c -> 1 h2mb4p_c + 1 h2o_c + 1 nad_c (1 2-C-methyl-D-erythritol 2,4-cyclodiphosphate + 1 Nicotinamide adenine dinucleotide - reduced -> 1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H2O + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+RXN-15878:1 2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE_c + 1 Reduced-flavodoxins_c -> 1 HYDROXY-METHYL-BUTENYL-DIP_c + 1 Oxidized-flavodoxins_c + 1 PROTON_c + 1 WATER_c (1 2-C-methyl-D-erythritol-2,4-cyclodiphosphate + 1 Reduced-flavodoxins -> 1 (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 1 Oxidized-flavodoxins + 1 H+ + 1 H2O)
+
+
+AdditionalMetabolites:
+2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE_c (2-C-methyl-D-erythritol-2,4-cyclodiphosphate)
+HYDROXY-METHYL-BUTENYL-DIP_c ((E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate)
+Oxidized-flavodoxins_c (Oxidized-flavodoxins)
+PROTON_c (H+)
+Reduced-flavodoxins_c (Reduced-flavodoxins)
+WATER_c (H2O)
+
+

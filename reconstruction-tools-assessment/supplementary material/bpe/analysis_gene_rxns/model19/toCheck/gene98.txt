@@ -1,0 +1,27 @@
+notRecovered:
+2AGPA141tipp:1 2tdec7eg3p_p -> 1 2tdec7eg3p_c (1 2-tetradec-7-enoyl-sn-glycerol 3-phosphate -> 1 2-tetradec-7-enoyl-sn-glycerol 3-phosphate)
+2AGPA181tipp:1 2odec11eg3p_p -> 1 2odec11eg3p_c (1 2-octadec-11-enoyl-sn-glycerol 3-phosphate -> 1 2-octadec-11-enoyl-sn-glycerol 3-phosphate)
+2AGPA120tipp:1 2ddecg3p_p -> 1 2ddecg3p_c (1 2-dodecanoyl-sn-glycerol 3-phosphate -> 1 2-dodecanoyl-sn-glycerol 3-phosphate)
+2AGPA160tipp:1 2hdecg3p_p -> 1 2hdecg3p_c (1 2-hexadecanoyl-sn-glycerol 3-phosphate -> 1 2-hexadecanoyl-sn-glycerol 3-phosphate)
+2AGPA140tipp:1 2tdecg3p_p -> 1 2tdecg3p_c (1 2-tetradecanoyl-sn-glycerol 3-phosphate -> 1 2-tetradecanoyl-sn-glycerol 3-phosphate)
+2AGPA161tipp:1 2hdec9eg3p_p -> 1 2hdec9eg3p_c (1 2-hexadec-9-enoyl-sn-glycerol 3-phosphate -> 1 2-hexadec-9-enoyl-sn-glycerol 3-phosphate)
+2AGPA180tipp:1 2odecg3p_p -> 1 2odecg3p_c (1 2-octadecanoyl-sn-glycerol 3-phosphate -> 1 2-octadecanoyl-sn-glycerol 3-phosphate)
+
+
+AdditionalNotInModel:
+R01406:1 C00002_c + 1 C00229_c + 1 C00638_c <=> 1 C00013_c + 1 C00020_c + 1 C20683_c (1 ATP + 1 Acyl-carrier protein + 1 Long-chain fatty acid <=> 1 Diphosphate + 1 AMP + 1 Long-chain acyl-[acyl-carrier protein])
+R04864:1 C00173_c + 1 C05973_c -> 1 C00229_c + 1 C00350_c (1 Acyl-[acyl-carrier protein] + 1 2-Acyl-sn-glycero-3-phosphoethanolamine -> 1 Acyl-carrier protein + 1 Phosphatidylethanolamine)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00013_c (Diphosphate)
+C00020_c (AMP)
+C00173_c (Acyl-[acyl-carrier protein])
+C00229_c (Acyl-carrier protein)
+C00350_c (Phosphatidylethanolamine)
+C00638_c (Long-chain fatty acid)
+C05973_c (2-Acyl-sn-glycero-3-phosphoethanolamine)
+C20683_c (Long-chain acyl-[acyl-carrier protein])
+
+

@@ -1,0 +1,20 @@
+notRecovered:
+DMPPS:1 h2mb4p_c + 1 h_c + 1 nadh_c -> 1 dmpp_c + 1 h2o_c + 1 nad_c (1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 Dimethylallyl diphosphate + 1 H2O + 1 Nicotinamide adenine dinucleotide)
+IPDPS:1 h2mb4p_c + 1 h_c + 1 nadh_c -> 1 h2o_c + 1 ipdp_c + 1 nad_c (1 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced -> 1 H2O + 1 Isopentenyl diphosphate + 1 Nicotinamide adenine dinucleotide)
+
+
+AdditionalNotInModel:
+R05884:2 C00080_c + 2 C00138_c + 1 C11811_c <=> 1 C00001_c + 1 C00129_c + 2 C00139_c (2 H+ + 2 Reduced ferredoxin + 1 1-Hydroxy-2-methyl-2-butenyl 4-diphosphate <=> 1 H2O + 1 Isopentenyl diphosphate + 2 Oxidized ferredoxin)
+R08210:1 C00001_c + 2 C00139_c + 1 C00235_c <=> 2 C00080_c + 2 C00138_c + 1 C11811_c (1 H2O + 2 Oxidized ferredoxin + 1 Dimethylallyl diphosphate <=> 2 H+ + 2 Reduced ferredoxin + 1 1-Hydroxy-2-methyl-2-butenyl 4-diphosphate)
+
+
+AdditionalMetabolites:
+C00001_c (H2O)
+C00080_c (H+)
+C00129_c (Isopentenyl diphosphate)
+C00138_c (Reduced ferredoxin)
+C00139_c (Oxidized ferredoxin)
+C00235_c (Dimethylallyl diphosphate)
+C11811_c (1-Hydroxy-2-methyl-2-butenyl 4-diphosphate)
+
+

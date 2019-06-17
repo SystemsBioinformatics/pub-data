@@ -1,0 +1,12 @@
+AdditionalNotInModel:
+RXN-12720:1 SELENATE_c + 1 ATP_c + 2 PROTON_c <=> 1 CPD-13713_c + 1 PPI_c (1 selenate + 1 ATP + 2 H+ <=> 1 adenosine 5'-phosphoselenate + 1 diphosphate)
+
+
+AdditionalMetabolites:
+ATP_c (ATP)
+CPD-13713_c (adenosine 5'-phosphoselenate)
+PPI_c (diphosphate)
+PROTON_c (H+)
+SELENATE_c (selenate)
+
+

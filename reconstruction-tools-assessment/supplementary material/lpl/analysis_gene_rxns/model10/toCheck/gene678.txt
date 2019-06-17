@@ -1,0 +1,17 @@
+notRecovered:
+CITL:1 cit_c -> 1 ac_c + 1 oaa_c (1 M_Citrate_ -> 1 M_Acetate_ + 1 M_Oxaloacetate_)
+
+
+AdditionalNotInModel:
+CITC-RXN:1 HOLO-CITRATE-LYASE_c + 1 ACET_c + 1 ATP_c -> 1 CITRATE-LYASE_c + 1 AMP_c + 1 PPI_c (1 a holo [citrate lyase acyl-carrier protein] + 1 acetate + 1 ATP -> 1 an acetyl-holo [citrate lyase acyl-carrier protein] + 1 AMP + 1 diphosphate)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+AMP_c (AMP)
+ATP_c (ATP)
+CITRATE-LYASE_c (an acetyl-holo [citrate lyase acyl-carrier protein])
+HOLO-CITRATE-LYASE_c (a holo [citrate lyase acyl-carrier protein])
+PPI_c (diphosphate)
+
+

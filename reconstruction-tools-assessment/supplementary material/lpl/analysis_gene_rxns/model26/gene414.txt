@@ -1,0 +1,4 @@
+notRecovered:
+PSCVT:1 pep_c + 1 skm5p_c <=> 1 3psme_c + 1 pi_c (1 M_Phosphoenolpyruvate_ + 1 M_Shikimate_5_phosphate_ <=> 1 M_5_O__1_Carboxyvinyl__3_phosphoshikimate_ + 1 M_Phosphate_)
+
+

@@ -1,0 +1,20 @@
+notRecovered:
+ANTHDIODC:1 anth_c + 3 h_c + 1 nadh_c + 1 o2_c -> 1 catechol_c + 1 co2_c + 1 nad_c + 1 nh4_c (1 Anthranilate + 3 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 O2 -> 1 Catechol + 1 CO2 + 1 Nicotinamide adenine dinucleotide + 1 Ammonium)
+
+
+AdditionalNotInModel:
+1.17.1.1-RXN-CPD-1078/NADP/WATER//CPD-658/NADPH/PROTON.42.:1 CPD-1078_c + 1 NADP_c + 1 WATER_c <=> 1 CPD-658_c + 1 NADPH_c + 1 PROTON_c (1 CDP-4-dehydro-3,6-dideoxy-D-glucose + 1 NADP+ + 1 H2O <=> 1 CDP-4-dehydro-6-deoxy-D-glucose + 1 NADPH + 1 H+)
+1.17.1.1-RXN-CPD-1078/NAD/WATER//CPD-658/NADH/PROTON.40.:1 CPD-1078_c + 1 NAD_c + 1 WATER_c <=> 1 CPD-658_c + 1 NADH_c + 1 PROTON_c (1 CDP-4-dehydro-3,6-dideoxy-D-glucose + 1 NAD+ + 1 H2O <=> 1 CDP-4-dehydro-6-deoxy-D-glucose + 1 NADH + 1 H+)
+
+
+AdditionalMetabolites:
+CPD-1078_c (CDP-4-dehydro-3,6-dideoxy-D-glucose)
+CPD-658_c (CDP-4-dehydro-6-deoxy-D-glucose)
+NADH_c (NADH)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+NAD_c (NAD+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

@@ -1,0 +1,20 @@
+notRecovered:
+ALCC2:1 atp_c + 1 dihshptrc_c -> 1 alcaligin_c + 1 amp_c + 1 h_c + 1 ppi_c (1 ATP + 1 di-(N4-succinyl-N4-hydroxy-2-hydroxyputrescine) -> 1 alcaligin + 1 AMP + 1 H+ + 1 Diphosphate)
+ALCC1:1 atp_c + 2 hshptrc_c -> 1 amp_c + 1 dihshptrc_c + 1 h_c + 1 ppi_c (1 ATP + 2 N4-succinyl-N4-hydroxy-2-hydroxyputrescine -> 1 AMP + 1 di-(N4-succinyl-N4-hydroxy-2-hydroxyputrescine) + 1 H+ + 1 Diphosphate)
+
+
+AdditionalNotInModel:
+RXN-11012:1 ATP_c + 1 CPD-11972_c -> 1 AMP_c + 1 CPD-11968_c + 1 PPI_c + 1 PROTON_c (1 ATP + 1 pre-alcaligin -> 1 AMP + 1 alcaligin + 1 diphosphate + 1 H+)
+RXN-11011:1 ATP_c + 2 CPD-11971_c -> 1 AMP_c + 1 CPD-11972_c + 1 PPI_c + 1 PROTON_c (1 ATP + 2 3-[4-amino-3-hydroxybutyl]-hydroxy-carbamoyl-propanoate -> 1 AMP + 1 pre-alcaligin + 1 diphosphate + 1 H+)
+
+
+AdditionalMetabolites:
+AMP_c (AMP)
+ATP_c (ATP)
+CPD-11968_c (alcaligin)
+CPD-11971_c (3-[4-amino-3-hydroxybutyl]-hydroxy-carbamoyl-propanoate)
+CPD-11972_c (pre-alcaligin)
+PPI_c (diphosphate)
+PROTON_c (H+)
+
+

@@ -1,0 +1,9 @@
+notRecovered:
+ASPabcpp:1 asp__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 asp__L_c + 1 h_c + 1 pi_c (1 L-Aspartate + 1 ATP + 1 H2O -> 1 ADP + 1 L-Aspartate + 1 H+ + 1 Phosphate)
+LYSabcpp:1 atp_c + 1 h2o_c + 1 lys__L_p -> 1 adp_c + 1 h_c + 1 lys__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Lysine -> 1 ADP + 1 H+ + 1 L-Lysine + 1 Phosphate)
+CYSabcpp:1 atp_c + 1 cys__L_p + 1 h2o_c -> 1 adp_c + 1 cys__L_c + 1 h_c + 1 pi_c (1 ATP + 1 L-Cysteine + 1 H2O -> 1 ADP + 1 L-Cysteine + 1 H+ + 1 Phosphate)
+HISabcpp:1 atp_c + 1 h2o_c + 1 his__L_p -> 1 adp_c + 1 h_c + 1 his__L_c + 1 pi_c (1 ATP + 1 H2O + 1 L-Histidine -> 1 ADP + 1 H+ + 1 L-Histidine + 1 Phosphate)
+ARGabcpp:1 arg__L_p + 1 atp_c + 1 h2o_c -> 1 adp_c + 1 arg__L_c + 1 h_c + 1 pi_c (1 L-Arginine + 1 ATP + 1 H2O -> 1 ADP + 1 L-Arginine + 1 H+ + 1 Phosphate)
+GLUabcpp:1 atp_c + 1 glu__L_p + 1 h2o_c -> 1 adp_c + 1 glu__L_c + 1 h_c + 1 pi_c (1 ATP + 1 L-Glutamate + 1 H2O -> 1 ADP + 1 L-Glutamate + 1 H+ + 1 Phosphate)
+
+

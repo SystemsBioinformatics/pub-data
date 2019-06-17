@@ -1,0 +1,43 @@
+notRecovered:
+DALTAL:0.01 LTA_LPL_c + 25 ala__D_c + 25 atp_c -> 0.01 LTAala_LPL_c + 25 adp_c + 25 pi_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_D_Alanine_ + 25 M_ATP_ -> 0.01 M_Lipoteichoic_acid__n25__with_100_D_Ala_substitutions__LPL_specific__ + 25 M_ADP_ + 25 M_Phosphate_)
+DARTAL:1 RTA_c + 25 ala__D_c + 25 atp_c -> 1 RTAala_c + 25 adp_c + 25 pi_c (1 M_teichoic_acid_containing_ribitol_P_ + 25 M_D_Alanine_ + 25 M_ATP_ -> 1 M_ribitol_teichoic_acid__n25__with_D_Ala_substitutions_ + 25 M_ADP_ + 25 M_Phosphate_)
+
+
+AdditionalNotInModel:
+rxn10317:24 cpd00002_c + 24 cpd00117_c + 1 cpd15747_c -> 24 cpd00012_c + 50 cpd00067_c + 24 cpd00018_c + 1 cpd15774_c (24 ATP_c0 + 24 D_Alanine_c0 + 1 Myristoyllipoteichoic_acid_n24__linked__unsubstituted_c0 -> 24 PPi_c0 + 50 H_plus__c0 + 24 AMP_c0 + 1 Myristoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10322:24 cpd00002_c + 1 cpd15752_c + 24 cpd00117_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15779_c (24 ATP_c0 + 1 Isopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 + 24 D_Alanine_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Isopentadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10321:24 cpd00002_c + 24 cpd00117_c + 1 cpd15751_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15778_c (24 ATP_c0 + 24 D_Alanine_c0 + 1 Isotetradecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Isotetradecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10316:24 cpd00002_c + 1 cpd15746_c + 24 cpd00117_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15773_c (24 ATP_c0 + 1 Palmitoyllipoteichoic_acid_n24__linked__unsubstituted_c0 + 24 D_Alanine_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Palmitoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10324:24 cpd00002_c + 1 cpd15754_c + 24 cpd00117_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15781_c (24 ATP_c0 + 1 Isohexadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 + 24 D_Alanine_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Isohexadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10323:24 cpd00002_c + 24 cpd00117_c + 1 cpd15753_c -> 24 cpd00012_c + 47 cpd00067_c + 24 cpd00018_c + 1 cpd15780_c (24 ATP_c0 + 24 D_Alanine_c0 + 1 Anteisopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 -> 24 PPi_c0 + 47 H_plus__c0 + 24 AMP_c0 + 1 Anteisopentadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10319:24 cpd00002_c + 24 cpd00117_c + 1 cpd15749_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15776_c (24 ATP_c0 + 24 D_Alanine_c0 + 1 Isoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Isoheptadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10320:24 cpd00002_c + 24 cpd00117_c + 1 cpd15750_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15777_c (24 ATP_c0 + 24 D_Alanine_c0 + 1 Anteisoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Anteisoheptadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+rxn10318:24 cpd00002_c + 24 cpd00117_c + 1 cpd15748_c -> 24 cpd00012_c + 48 cpd00067_c + 24 cpd00018_c + 1 cpd15775_c (24 ATP_c0 + 24 D_Alanine_c0 + 1 Stearoyllipoteichoic_acid_n24__linked__unsubstituted_c0 -> 24 PPi_c0 + 48 H_plus__c0 + 24 AMP_c0 + 1 Stearoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00012_c (PPi_c0)
+cpd00018_c (AMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00117_c (D_Alanine_c0)
+cpd15746_c (Palmitoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15747_c (Myristoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15748_c (Stearoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15749_c (Isoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15750_c (Anteisoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15751_c (Isotetradecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15752_c (Isopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15753_c (Anteisopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15754_c (Isohexadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c0)
+cpd15773_c (Palmitoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15774_c (Myristoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15775_c (Stearoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15776_c (Isoheptadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15777_c (Anteisoheptadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15778_c (Isotetradecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15779_c (Isopentadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15780_c (Anteisopentadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+cpd15781_c (Isohexadecanoyllipoteichoic_acid_n24__linked__D_alanine_substituted_c0)
+
+

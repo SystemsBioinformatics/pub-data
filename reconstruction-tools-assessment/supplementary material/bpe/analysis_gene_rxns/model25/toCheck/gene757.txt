@@ -1,0 +1,14 @@
+notRecovered:
+CITL:1 cit_c -> 1 ac_c + 1 oaa_c (1 Citrate -> 1 Acetate + 1 Oxaloacetate)
+
+
+AdditionalNotInModel:
+MALYL-COA-LYASE-RXN:1 CPD-208_c <=> 1 ACETYL-COA_c + 1 GLYOX_c (1 (S)-malyl-CoA <=> 1 acetyl-CoA + 1 glyoxylate)
+
+
+AdditionalMetabolites:
+ACETYL-COA_c (acetyl-CoA)
+CPD-208_c ((S)-malyl-CoA)
+GLYOX_c (glyoxylate)
+
+

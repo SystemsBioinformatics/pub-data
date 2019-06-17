@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R11396:1 C00063_c + 1 C21333_c <=> 1 C00013_c + 1 C21334_c (1 CTP + 1 8-Amino-3,8-dideoxy-D-manno-octulosonate <=> 1 Diphosphate + 1 CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate)
+
+
+AdditionalMetabolites:
+C00013_c (Diphosphate)
+C00063_c (CTP)
+C21333_c (8-Amino-3,8-dideoxy-D-manno-octulosonate)
+C21334_c (CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate)
+
+

@@ -1,0 +1,18 @@
+notRecovered:
+DHORD6:1 dhor__S_c + 1 nad_c <=> 1 h_c + 1 nadh_c + 1 orot_c (1 M__S__Dihydroorotate_ + 1 M_Nicotinamide_adenine_dinucleotide_ <=> 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ + 1 M_Orotate_)
+
+
+AdditionalNotInModel:
+DIHYDROOROTATE-DEHYDROGENASE-RXN:1 DI-H-OROTATE_c + 1 ETR-Quinones_c -> 1 OROTATE_c + 1 ETR-Quinols_c (1 (S)-dihydroorotate + 1 an electron-transfer quinone -> 1 orotate + 1 an electron-transfer quinol)
+RXN0-6491:1 DI-H-OROTATE_c + 1 Ubiquinones_c -> 1 OROTATE_c + 1 Ubiquinols_c (1 (S)-dihydroorotate + 1 a ubiquinone -> 1 orotate + 1 an ubiquinol)
+
+
+AdditionalMetabolites:
+DI-H-OROTATE_c ((S)-dihydroorotate)
+ETR-Quinols_c (an electron-transfer quinol)
+ETR-Quinones_c (an electron-transfer quinone)
+OROTATE_c (orotate)
+Ubiquinols_c (an ubiquinol)
+Ubiquinones_c (a ubiquinone)
+
+

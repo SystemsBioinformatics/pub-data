@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-11565:1 CPD-313_c + 1 L-ASPARTATE-SEMIALDEHYDE_c + 1 NADPH_c + 1 PROTON_c -> 1 CPD-9995_c + 1 NADP_c + 1 WATER_c (1 propane-1,3-diamine + 1 L-aspartate-semialdehyde + 1 NADPH + 1 H+ -> 1 carboxynorspermidine + 1 NADP+ + 1 H2O)
+
+
+AdditionalMetabolites:
+CPD-313_c (propane-1,3-diamine)
+CPD-9995_c (carboxynorspermidine)
+L-ASPARTATE-SEMIALDEHYDE_c (L-aspartate-semialdehyde)
+NADPH_c (NADPH)
+NADP_c (NADP+)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

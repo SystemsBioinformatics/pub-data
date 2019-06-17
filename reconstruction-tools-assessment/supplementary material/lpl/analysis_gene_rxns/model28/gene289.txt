@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+R00158:1 C00002_c + 1 C00105_c <=> 1 C00008_c + 1 C00015_c (1 ATP + 1 UMP <=> 1 ADP + 1 UDP)
+
+
+AdditionalMetabolites:
+C00002_c (ATP)
+C00008_c (ADP)
+C00015_c (UDP)
+C00105_c (UMP)
+
+

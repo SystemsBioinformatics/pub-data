@@ -1,0 +1,11 @@
+AdditionalNotInModel:
+rxn09320:1 cpd00002_c + 1 cpd00655_c <=> 1 cpd00128_c + 1 cpd15364_c (1 ATP_c0 + 1 Dephospho_CoA_c0 <=> 1 Adenine_c0 + 1 2_5_triphosphoribosyl_3_dephospho_CoA_c0)
+
+
+AdditionalMetabolites:
+cpd00002_c (ATP_c0)
+cpd00128_c (Adenine_c0)
+cpd00655_c (Dephospho_CoA_c0)
+cpd15364_c (2_5_triphosphoribosyl_3_dephospho_CoA_c0)
+
+

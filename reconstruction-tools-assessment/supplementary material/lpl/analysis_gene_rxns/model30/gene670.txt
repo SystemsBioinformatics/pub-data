@@ -1,0 +1,16 @@
+notRecovered:
+NADH4:1 h_c + 1 mqn7_c + 1 nadh_c -> 1 mql7_c + 1 nad_c (1 M_H_ + 1 M_Menaquinone_7_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Menaquinol_7_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+
+AdditionalNotInModel:
+R00281:1 C00028_c + 1 C00080_c + 1 C00004_c <=> 1 C00030_c + 1 C00003_c (1 Acceptor + 1 H+ + 1 NADH <=> 1 Reduced acceptor + 1 NAD+)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00028_c (Acceptor)
+C00030_c (Reduced acceptor)
+C00080_c (H+)
+
+

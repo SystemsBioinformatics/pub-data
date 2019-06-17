@@ -1,0 +1,16 @@
+notRecovered:
+RMK:1 atp_c + 1 rml_c -> 1 adp_c + 1 h_c + 1 rml1p_c (1 M_ATP_ + 1 M_L_Rhamnulose_ -> 1 M_ADP_ + 1 M_H_ + 1 M_L_Rhamnulose_1_phosphate_)
+
+
+AdditionalNotInModel:
+RHAMNULOKIN-RXN:1 ATP_c + 1 CPD-16567_c -> 1 ADP_c + 1 PROTON_c + 1 RHAMNULOSE-1P_c (1 ATP + 1 CPD-16567 -> 1 ADP + 1 H+ + 1 L-rhamnulose 1-phosphate)
+
+
+AdditionalMetabolites:
+ADP_c (ADP)
+ATP_c (ATP)
+CPD-16567_c (CPD-16567)
+PROTON_c (H+)
+RHAMNULOSE-1P_c (L-rhamnulose 1-phosphate)
+
+

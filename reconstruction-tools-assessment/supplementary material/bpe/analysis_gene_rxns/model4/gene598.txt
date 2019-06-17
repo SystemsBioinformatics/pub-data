@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+AMMQLT8:1 2dmmql8_c + 1 amet_c -> 1 ahcys_c + 1 h_c + 1 mql8_c (1 2-Demethylmenaquinol 8 + 1 S-Adenosyl-L-methionine -> 1 S-Adenosyl-L-homocysteine + 1 H+ + 1 Menaquinol 8)
+
+
+AdditionalMetabolites:
+2dmmql8_c (2-Demethylmenaquinol 8)
+mql8_c (Menaquinol 8)
+
+

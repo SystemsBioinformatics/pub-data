@@ -1,0 +1,9 @@
+AdditionalNotInModel:
+NDPK10:1 atp_c + 1 didp_c <=> 1 adp_c + 1 ditp_c (1 ATP C10H12N5O13P3 + 1 DIDP; 2'-deoxyinosine-5'-diphosphate(3-) <=> 1 ADP C10H12N5O10P2 + 1 DITP(4-))
+
+
+AdditionalMetabolites:
+didp_c (DIDP; 2'-deoxyinosine-5'-diphosphate(3-))
+ditp_c (DITP(4-))
+
+

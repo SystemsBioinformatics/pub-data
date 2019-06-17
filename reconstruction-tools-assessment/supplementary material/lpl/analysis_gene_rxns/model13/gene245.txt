@@ -1,0 +1,14 @@
+AdditionalNotInModel:
+RXN-16996-ALPHA-GLUCOSE-16-BISPHOSPHATE/Beta-phosphoglucomutase/PROTON//GLC-6-P/Phosphorylated-beta-phosphoglucomutase.109.:1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c + 1 Beta-phosphoglucomutase_c + 1 PROTON_c <=> 1 Phosphorylated-beta-phosphoglucomutase_c + 1 GLC-6-P_c (1 alpha-glucose 1,6-bisphosphate + 1 a beta-phosphoglucomutase + 1 H+ <=> 1 a phosphorylated beta-phosphoglucomutase + 1 beta-D-glucose 6-phosphate)
+RXN-16995-Phosphorylated-beta-phosphoglucomutase/CPD-448//ALPHA-GLUCOSE-16-BISPHOSPHATE/Beta-phosphoglucomutase/PROTON.109.:1 Phosphorylated-beta-phosphoglucomutase_c + 1 CPD-448_c <=> 1 ALPHA-GLUCOSE-16-BISPHOSPHATE_c + 1 Beta-phosphoglucomutase_c + 1 PROTON_c (1 a phosphorylated beta-phosphoglucomutase + 1 beta-D-glucopyranose 1-phosphate <=> 1 alpha-glucose 1,6-bisphosphate + 1 a beta-phosphoglucomutase + 1 H+)
+
+
+AdditionalMetabolites:
+ALPHA-GLUCOSE-16-BISPHOSPHATE_c (alpha-glucose 1,6-bisphosphate)
+Beta-phosphoglucomutase_c (a beta-phosphoglucomutase)
+CPD-448_c (beta-D-glucopyranose 1-phosphate)
+GLC-6-P_c (beta-D-glucose 6-phosphate)
+PROTON_c (H+)
+Phosphorylated-beta-phosphoglucomutase_c (a phosphorylated beta-phosphoglucomutase)
+
+

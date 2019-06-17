@@ -1,0 +1,27 @@
+notRecovered:
+PAPPT5:1 udcpp_c + 1 ugmdalac_c -> 1 uagmdalac_c + 1 ump_c (1 M_Undecaprenyl_phosphate_ + 1 M_UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ -> 1 M_Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_lactate_ + 1 M_UMP_)
+
+
+AdditionalNotInModel:
+rxn03903:1 cpd00286_c + 1 cpd02862_c <=> 1 cpd00091_c + 1 cpd02948_c (1 Undecaprenylphosphate_c0 + 1 UDPMurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_c0 <=> 1 UMP_c0 + 1 MurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_diphospho__undecaprenol_c0)
+rxn07261:2 cpd00067_c + 1 cpd00046_c + 1 cpd12606_c <=> 1 cpd00444_c + 1 cpd12322_c (2 H_plus__c0 + 1 CMP_c0 + 1 Plasmenylethanolamine_c0 <=> 1 CDPethanolamine_c0 + 1 1_Alkenyl_2_acylglycerol_c0)
+rxn07100:1 cpd00444_c + 1 cpd12273_c <=> 2 cpd00067_c + 1 cpd00046_c + 1 cpd12554_c (1 CDPethanolamine_c0 + 1 1_Alkyl_2_acylglycerol_c0 <=> 2 H_plus__c0 + 1 CMP_c0 + 1 1_Alkyl_2_acylglycerophosphoethanolamine_c0)
+rxn03904:1 cpd00286_c + 1 cpd02968_c <=> 1 cpd03494_c + 1 cpd00091_c (1 Undecaprenylphosphate_c0 + 1 UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_6_carboxy_L_lysyl_D_alanyl__D_alanine_c0 <=> 1 Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_c0 + 1 UMP_c0)
+
+
+AdditionalMetabolites:
+cpd00046_c (CMP_c0)
+cpd00067_c (H_plus__c0)
+cpd00091_c (UMP_c0)
+cpd00286_c (Undecaprenylphosphate_c0)
+cpd00444_c (CDPethanolamine_c0)
+cpd02862_c (UDPMurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_c0)
+cpd02948_c (MurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_diphospho__undecaprenol_c0)
+cpd02968_c (UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_6_carboxy_L_lysyl_D_alanyl__D_alanine_c0)
+cpd03494_c (Undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_c0)
+cpd12273_c (1_Alkyl_2_acylglycerol_c0)
+cpd12322_c (1_Alkenyl_2_acylglycerol_c0)
+cpd12554_c (1_Alkyl_2_acylglycerophosphoethanolamine_c0)
+cpd12606_c (Plasmenylethanolamine_c0)
+
+

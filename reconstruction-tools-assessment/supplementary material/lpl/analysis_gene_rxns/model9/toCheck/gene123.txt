@@ -1,0 +1,12 @@
+notRecovered:
+ALALAC:1 ala__D_c + 1 atp_c + 1 lac__D_c <=> 1 adp_c + 1 alalac_c + 1 pi_c (1 M_D_Alanine_ + 1 M_ATP_ + 1 M_D_Lactate_ <=> 1 M_ADP_ + 1 M_D_Alanyl_D_lactate_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+ALAALAr:1 atp_c + 2 ala__D_c <=> 1 alaala_c + 1 adp_c + 1 pi_c + 1 h_c (1 ATP C10H12N5O13P3 + 2 D-Alanine <=> 1 D-Alanyl-D-alanine + 1 ADP C10H12N5O10P2 + 1 Phosphate + 1 H+)
+
+
+AdditionalMetabolites:
+alaala_c (D-Alanyl-D-alanine)
+
+

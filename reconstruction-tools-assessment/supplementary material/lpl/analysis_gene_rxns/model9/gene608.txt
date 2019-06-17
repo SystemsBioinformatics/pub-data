@@ -1,0 +1,8 @@
+AdditionalNotInModel:
+H4THDPS:1 pyr_c + 1 aspsa_c -> 1 4hthdp_c + 1 h_c + 1 h2o_c (1 Pyruvate + 1 L-Aspartate 4-semialdehyde -> 1 (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + 1 H+ + 1 H2O H2O)
+
+
+AdditionalMetabolites:
+4hthdp_c ((2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate)
+
+

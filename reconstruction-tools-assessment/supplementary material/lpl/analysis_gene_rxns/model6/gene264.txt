@@ -1,0 +1,4 @@
+AdditionalNotInModel:
+CYTDH:1 cytd_c + 1 h2o_c -> 1 csn_c + 1 rib__D_c (1 Cytidine + 1 H2O H2O -> 1 Cytosine + 1 D-Ribose)
+
+

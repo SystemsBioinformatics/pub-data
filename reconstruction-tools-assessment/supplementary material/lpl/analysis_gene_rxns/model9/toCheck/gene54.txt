@@ -1,0 +1,19 @@
+notRecovered:
+DALTAL:0.01 LTA_LPL_c + 25 ala__D_c + 25 atp_c -> 0.01 LTAala_LPL_c + 25 adp_c + 25 pi_c (0.01 M_lipoteichoic_acid__n25__LPL_specific__ + 25 M_D_Alanine_ + 25 M_ATP_ -> 0.01 M_Lipoteichoic_acid__n25__with_100_D_Ala_substitutions__LPL_specific__ + 25 M_ADP_ + 25 M_Phosphate_)
+DARTAL:1 RTA_c + 25 ala__D_c + 25 atp_c -> 1 RTAala_c + 25 adp_c + 25 pi_c (1 M_teichoic_acid_containing_ribitol_P_ + 25 M_D_Alanine_ + 25 M_ATP_ -> 1 M_ribitol_teichoic_acid__n25__with_D_Ala_substitutions_ + 25 M_ADP_ + 25 M_Phosphate_)
+
+
+AdditionalNotInModel:
+LIPO3S24_BS:2400 atp_c + 2400 ala__D_c + 2400 cdpglyc_c + 1 d12dg_BS_c + 2400 h2o_c -> 2400 amp_c + 2400 ppi_c + 4800 h_c + 2400 cmp_c + 1 lipo3_24_BS_c (2400 ATP C10H12N5O13P3 + 2400 D-Alanine + 2400 CDPglycerol C12H19N3O13P2 + 1 Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400 H2O H2O -> 2400 AMP C10H12N5O7P + 2400 Diphosphate + 4800 H+ + 2400 CMP C9H12N3O8P + 1 Lipoteichoic acid  n24   linked  D alanine substituted C19036H39872N2400O18300P2400)
+TECA2S45:45 atp_c + 45 ala__D_c + 45 cdpglyc_c + 1 uacmam_c + 1 uacgam_c + 45 h2o_c -> 45 amp_c + 1 udp_c + 45 ppi_c + 1 ump_c + 91 h_c + 45 cmp_c + 1 gtca2_45_BS_c (45 ATP C10H12N5O13P3 + 45 D-Alanine + 45 CDPglycerol C12H19N3O13P2 + 1 UDP-N-acetyl-D-mannosamine + 1 UDP-N-acetyl-D-glucosamine + 45 H2O H2O -> 45 AMP C10H12N5O7P + 1 UDP C9H11N2O12P2 + 45 Diphosphate + 1 UMP C9H11N2O9P + 91 H+ + 45 CMP C9H12N3O8P + 1 Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46)
+DALTAL_LLA:6 atp_c + 0.01 LTA_LLA_c + 6 ala__D_c -> 6 adp_c + 6 pi_c + 0.01 LTAala_LLA_c (6 ATP C10H12N5O13P3 + 0.01 Lipoteichoic acid  n16  Lactis specific  + 6 D-Alanine -> 6 ADP C10H12N5O10P2 + 6 Phosphate + 0.01 Lipoteichoic acid  n16  with 038 ala substitutions)
+
+
+AdditionalMetabolites:
+LTA_LLA_c (Lipoteichoic acid  n16  Lactis specific)
+LTAala_LLA_c (Lipoteichoic acid  n16  with 038 ala substitutions)
+d12dg_BS_c (Diglucosyl 1 2 diacylglycerol C4636H8672O1500)
+gtca2_45_BS_c (Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46)
+lipo3_24_BS_c (Lipoteichoic acid  n24   linked  D alanine substituted C19036H39872N2400O18300P2400)
+
+

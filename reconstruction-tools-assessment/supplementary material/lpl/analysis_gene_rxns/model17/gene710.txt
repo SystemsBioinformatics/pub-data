@@ -1,0 +1,31 @@
+AdditionalNotInModel:
+R00754:1 C00003_c + 1 C00469_c <=> 1 C00004_c + 1 C00080_c + 1 C00084_c (1 NAD+ + 1 Ethanol <=> 1 NADH + 1 H+ + 1 Acetaldehyde)
+R01172:1 C00003_c + 1 C00010_c + 1 C01412_c <=> 1 C00004_c + 1 C00080_c + 1 C00136_c (1 NAD+ + 1 CoA + 1 Butanal <=> 1 NADH + 1 H+ + 1 Butanoyl-CoA)
+R04880:1 C00003_c + 1 C05576_c <=> 1 C00004_c + 1 C00080_c + 1 C05577_c (1 NAD+ + 1 3,4-Dihydroxyphenylethyleneglycol <=> 1 NADH + 1 H+ + 1 3,4-Dihydroxymandelaldehyde)
+R05233:1 C00003_c + 1 C06611_c <=> 1 C00004_c + 1 C00080_c + 1 C06613_c (1 NAD+ + 1 trans-3-Chloro-2-propene-1-ol <=> 1 NADH + 1 H+ + 1 trans-3-Chloroallyl aldehyde)
+R05234:1 C00003_c + 1 C06612_c <=> 1 C00004_c + 1 C00080_c + 1 C16348_c (1 NAD+ + 1 cis-3-Chloro-2-propene-1-ol <=> 1 NADH + 1 H+ + 1 cis-3-Chloroallyl aldehyde)
+R06917:1 C00003_c + 1 C14089_c <=> 1 C00004_c + 1 C00080_c + 1 C14090_c (1 NAD+ + 1 1-Hydroxymethylnaphthalene <=> 1 NADH + 1 H+ + 1 1-Naphthaldehyde)
+R06927:1 C00003_c + 1 C02909_c <=> 1 C00004_c + 1 C00080_c + 1 C14099_c (1 NAD+ + 1 (2-Naphthyl)methanol <=> 1 NADH + 1 H+ + 1 2-Naphthaldehyde)
+
+
+AdditionalMetabolites:
+C00003_c (NAD+)
+C00004_c (NADH)
+C00010_c (CoA)
+C00080_c (H+)
+C00084_c (Acetaldehyde)
+C00136_c (Butanoyl-CoA)
+C00469_c (Ethanol)
+C01412_c (Butanal)
+C02909_c ((2-Naphthyl)methanol)
+C05576_c (3,4-Dihydroxyphenylethyleneglycol)
+C05577_c (3,4-Dihydroxymandelaldehyde)
+C06611_c (trans-3-Chloro-2-propene-1-ol)
+C06612_c (cis-3-Chloro-2-propene-1-ol)
+C06613_c (trans-3-Chloroallyl aldehyde)
+C14089_c (1-Hydroxymethylnaphthalene)
+C14090_c (1-Naphthaldehyde)
+C14099_c (2-Naphthaldehyde)
+C16348_c (cis-3-Chloroallyl aldehyde)
+
+

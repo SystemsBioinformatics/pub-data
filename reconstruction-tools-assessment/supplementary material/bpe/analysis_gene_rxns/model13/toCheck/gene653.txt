@@ -1,0 +1,17 @@
+notRecovered:
+PDX5PS:1 dxyl5p_c + 1 nad_c + 1 phthr_c -> 1 co2_c + 2 h2o_c + 1 h_c + 1 nadh_c + 1 pdx5p_c + 1 pi_c (1 1-deoxy-D-xylulose 5-phosphate + 1 Nicotinamide adenine dinucleotide + 1 O-Phospho-4-hydroxy-L-threonine -> 1 CO2 + 2 H2O + 1 H+ + 1 Nicotinamide adenine dinucleotide - reduced + 1 Pyridoxine 5'-phosphate + 1 Phosphate)
+
+
+AdditionalNotInModel:
+rxn04070:1 cpd08289_c + 1 cpd08449_c -> 1 cpd00067_c + 1 cpd00009_c + 2 cpd00001_c + 1 cpd00478_c (1 1_deoxy_D_xylulose5_phosphate_c0 + 1 3_Amino_2_oxopropyl_phosphate_c0 -> 1 H_plus__c0 + 1 Phosphate_c0 + 2 H2O_c0 + 1 Pyridoxine_phosphate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00009_c (Phosphate_c0)
+cpd00067_c (H_plus__c0)
+cpd00478_c (Pyridoxine_phosphate_c0)
+cpd08289_c (1_deoxy_D_xylulose5_phosphate_c0)
+cpd08449_c (3_Amino_2_oxopropyl_phosphate_c0)
+
+

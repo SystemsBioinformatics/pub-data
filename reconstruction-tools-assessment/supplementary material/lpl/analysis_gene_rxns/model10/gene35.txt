@@ -1,0 +1,11 @@
+notRecovered:
+EAR100x:1 tdec2eACP_c + 1 h_c + 1 nadh_c -> 1 dcaACP_c + 1 nad_c (1 M_trans_Dec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Decanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+EAR140x:1 tmrs2eACP_c + 1 h_c + 1 nadh_c -> 1 nad_c + 1 myrsACP_c (1 M_trans_Tetradec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Tetradecanoyl_acyl_carrier_protein_)
+EAR80x:1 toct2eACP_c + 1 h_c + 1 nadh_c -> 1 nad_c + 1 ocACP_c (1 M_trans_Oct_2_enoyl_acp_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Octanoyl_acyl_carrier_protein_)
+EAR120x:1 tddec2eACP_c + 1 h_c + 1 nadh_c -> 1 ddcaACP_c + 1 nad_c (1 M_trans_Dodec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Dodecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+EAR180x:1 toctd2eACP_c + 1 h_c + 1 nadh_c -> 1 nad_c + 1 ocdcaACP_c (1 M_trans_Octadec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Nicotinamide_adenine_dinucleotide_ + 1 M_Octadecanoyl_acyl_carrier_protein_)
+EAR160x:1 tpalm2eACP_c + 1 h_c + 1 nadh_c -> 1 palmACP_c + 1 nad_c (1 M_trans_Hexadec_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Hexadecanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+EAR40x:1 but2eACP_c + 1 h_c + 1 nadh_c -> 1 butACP_c + 1 nad_c (1 M_But_2_enoyl_acyl_carrier_protein_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Butyryl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+EAR60x:1 thex2eACP_c + 1 h_c + 1 nadh_c -> 1 hexACP_c + 1 nad_c (1 M_trans_Hex_2_enoyl_acp_ + 1 M_H_ + 1 M_Nicotinamide_adenine_dinucleotide___reduced_ -> 1 M_Hexanoyl_acyl_carrier_protein_ + 1 M_Nicotinamide_adenine_dinucleotide_)
+
+

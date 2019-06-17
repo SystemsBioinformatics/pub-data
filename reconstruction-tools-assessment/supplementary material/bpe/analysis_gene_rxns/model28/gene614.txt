@@ -1,0 +1,4 @@
+notRecovered:
+DCTPD:1 dctp_c + 1 h2o_c + 1 h_c -> 1 dutp_c + 1 nh4_c (1 dCTP + 1 H2O + 1 H+ -> 1 dUTP + 1 Ammonium)
+
+

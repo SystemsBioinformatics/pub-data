@@ -1,0 +1,8 @@
+notRecovered:
+PHETA1:1 akg_c + 1 phe__L_c <=> 1 glu__L_c + 1 phpyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Phenylalanine_ <=> 1 M_L_Glutamate_ + 1 M_Phenylpyruvate_)
+ASPTA4:1 akg_c + 1 cys__L_c + 1 h_c <=> 1 glu__L_c + 1 mercppyr_c (1 M_2_Oxoglutarate_ + 1 M_L_Cysteine_ + 1 M_H_ <=> 1 M_L_Glutamate_ + 1 M_Mercaptopyruvate_)
+TYRTA:1 akg_c + 1 tyr__L_c <=> 1 34hpp_c + 1 glu__L_c (1 M_2_Oxoglutarate_ + 1 M_L_Tyrosine_ <=> 1 M_3__4_Hydroxyphenyl_pyruvate_ + 1 M_L_Glutamate_)
+ASPTA2:1 4hglu_c + 1 akg_c <=> 1 4h2oxg_c + 1 glu__L_c (1 M_4_Hydroxy_L_glutamate_ + 1 M_2_Oxoglutarate_ <=> 1 M_D_4_Hydroxy_2_oxoglutarate_ + 1 M_L_Glutamate_)
+ASPTA:1 akg_c + 1 asp__L_c <=> 1 glu__L_c + 1 oaa_c (1 M_2_Oxoglutarate_ + 1 M_L_Aspartate_ <=> 1 M_L_Glutamate_ + 1 M_Oxaloacetate_)
+
+

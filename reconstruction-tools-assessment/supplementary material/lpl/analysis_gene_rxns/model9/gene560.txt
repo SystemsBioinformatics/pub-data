@@ -1,0 +1,13 @@
+notRecovered:
+GTHS:1 atp_c + 1 glucys_c + 1 gly_c -> 1 adp_c + 1 gthrd_c + 1 h_c + 1 pi_c (1 M_ATP_ + 1 M_gamma_L_Glutamyl_L_cysteine_ + 1 M_Glycine_ -> 1 M_ADP_ + 1 M_Reduced_glutathione_ + 1 M_H_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+CYPHYS:2 atp_c + 1 precyanphy_c + 1 asp__L_c + 1 arg__L_c -> 2 adp_c + 2 pi_c + 2 h_c + 1 cyanphy_c (2 ATP C10H12N5O13P3 + 1 Cyanophycin (multi-Larginyl-poli [L--aspartic acid]) polimer (n) + 1 L-Aspartate + 1 L-Arginine -> 2 ADP C10H12N5O10P2 + 2 Phosphate + 2 H+ + 1 Cyanophycin (multi-Larginyl-poli [L--aspartic acid]) polimer (n+2))
+
+
+AdditionalMetabolites:
+cyanphy_c (Cyanophycin (multi-Larginyl-poli [L--aspartic acid]) polimer (n+2))
+precyanphy_c (Cyanophycin (multi-Larginyl-poli [L--aspartic acid]) polimer (n))
+
+

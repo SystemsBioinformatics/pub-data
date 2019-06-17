@@ -1,0 +1,15 @@
+notRecovered:
+ACCOAC:1 accoa_c + 1 atp_c + 1 hco3_c -> 1 adp_c + 1 h_c + 1 malcoa_c + 1 pi_c (1 M_Acetyl_CoA_ + 1 M_ATP_ + 1 M_Bicarbonate_ -> 1 M_ADP_ + 1 M_H_ + 1 M_Malonyl_CoA_ + 1 M_Phosphate_)
+
+
+AdditionalNotInModel:
+R04386:1 C00024_c + 1 C04419_c <=> 1 C06250_c + 1 C00083_c (1 Acetyl-CoA + 1 Carboxybiotin-carboxyl-carrier protein <=> 1 Holo-[carboxylase] + 1 Malonyl-CoA)
+
+
+AdditionalMetabolites:
+C00024_c (Acetyl-CoA)
+C00083_c (Malonyl-CoA)
+C04419_c (Carboxybiotin-carboxyl-carrier protein)
+C06250_c (Holo-[carboxylase])
+
+

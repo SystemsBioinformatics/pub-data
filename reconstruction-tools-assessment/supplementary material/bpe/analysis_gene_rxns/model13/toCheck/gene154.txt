@@ -1,0 +1,31 @@
+notRecovered:
+MTCCOAH:1 h2o_c + 1 2mp2coa_c -> 1 hibcoa_c (1 H2O + 1 2-methylprop-2-enoyl-coenzyme A (methacrylyl-coenzyme A) -> 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A)
+2MCRCOAH:1 2mb2coa_c -> 1 3hmbcoa_c + 1 h2o_c (1 trans-2-methylbut-2-enoyl-coenzyme A (2-methylcrotonyl-coenzyme A) -> 1 (2S,3S)-3-hydroxy-2-methylbutanoyl-coenzyme A + 1 H2O)
+HIBCOAH:1 h2o_c + 1 hibcoa_c -> 1 coa_c + 1 3hmp_c (1 H2O + 1 (S)-3-hydroxy-2-methylpropanoyl-coenzyme A -> 1 Coenzyme A + 1 (S)-3-hydroxy-2-methylpropanoate)
+ECOAH1:1 3hbcoa_c <=> 1 b2coa_c + 1 h2o_c (1 (S)-3-Hydroxybutanoyl-CoA <=> 1 Crotonoyl-CoA + 1 H2O)
+
+
+AdditionalNotInModel:
+rxn03433:1 cpd00001_c + 1 cpd03572_c -> 1 cpd00067_c + 1 cpd00010_c + 1 cpd00876_c (1 H2O_c0 + 1 S_3_Hydroxyisobutyryl_CoA_c0 -> 1 H_plus__c0 + 1 CoA_c0 + 1 3_Hydroxyisobutyrate_c0)
+rxn02261:2 cpd00067_c + 1 cpd00010_c + 1 cpd00745_c <=> 1 cpd00001_c + 1 cpd03375_c (2 H_plus__c0 + 1 CoA_c0 + 1 Hydracrylic_acid_c0 <=> 1 H2O_c0 + 1 3_Hydroxypropanoyl_CoA_c0)
+rxn05049:1 cpd00001_c + 1 cpd01237_c <=> 2 cpd00067_c + 1 cpd00010_c + 1 cpd00526_c (1 H2O_c0 + 1 Choloyl_CoA_c0 <=> 2 H_plus__c0 + 1 CoA_c0 + 1 Cholate_c0)
+rxn02260:1 cpd00008_c + 1 cpd00009_c + 1 cpd03375_c <=> 1 cpd00067_c + 1 cpd00002_c + 1 cpd00010_c + 1 cpd00745_c (1 ADP_c0 + 1 Phosphate_c0 + 1 3_Hydroxypropanoyl_CoA_c0 <=> 1 H_plus__c0 + 1 ATP_c0 + 1 CoA_c0 + 1 Hydracrylic_acid_c0)
+rxn02406:1 cpd00001_c + 1 cpd02503_c <=> 2 cpd00067_c + 1 cpd00010_c + 1 cpd00876_c (1 H2O_c0 + 1 3_Hydroxyisobutyryl_CoA_c0 <=> 2 H_plus__c0 + 1 CoA_c0 + 1 3_Hydroxyisobutyrate_c0)
+
+
+AdditionalMetabolites:
+cpd00001_c (H2O_c0)
+cpd00002_c (ATP_c0)
+cpd00008_c (ADP_c0)
+cpd00009_c (Phosphate_c0)
+cpd00010_c (CoA_c0)
+cpd00067_c (H_plus__c0)
+cpd00526_c (Cholate_c0)
+cpd00745_c (Hydracrylic_acid_c0)
+cpd00876_c (3_Hydroxyisobutyrate_c0)
+cpd01237_c (Choloyl_CoA_c0)
+cpd02503_c (3_Hydroxyisobutyryl_CoA_c0)
+cpd03375_c (3_Hydroxypropanoyl_CoA_c0)
+cpd03572_c (S_3_Hydroxyisobutyryl_CoA_c0)
+
+

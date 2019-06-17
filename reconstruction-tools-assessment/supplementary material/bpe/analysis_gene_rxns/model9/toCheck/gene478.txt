@@ -1,0 +1,38 @@
+notRecovered:
+SFGTHi:1 Sfglutth_c + 1 h2o_c -> 1 for_c + 1 gthrd_c + 1 h_c (1 S-Formylglutathione + 1 H2O -> 1 Formate + 1 Reduced glutathione + 1 H+)
+
+
+AdditionalNotInModel:
+RXN-19416:1 CPD-20984_c + 1 WATER_c -> 1 CPD-20985_c + 1 ACET_c + 1 PROTON_c (1 cis-vaccenyl acetate + 1 H2O -> 1 cis-vaccenyl alcohol + 1 acetate + 1 H+)
+RXNQT-4366:1 CPD-6442_c + 1 WATER_c -> 1 METOH_c + 1 CPD-110_c + 1 PROTON_c (1 methylsalicylate + 1 H2O -> 1 methanol + 1 salicylate + 1 H+)
+RXN-10711:1 CPD-10546_c + 1 WATER_c -> 1 METOH_c + 1 INDOLE_ACETATE_AUXIN_c + 1 PROTON_c (1 methyl (indol-3-yl)acetate + 1 H2O -> 1 methanol + 1 (indol-3-yl)acetate + 1 H+)
+RXN-12252:1 CPD-13174_c + 1 WATER_c -> 1 CPD-13172_c + 1 CPD-173_c + 1 PROTON_c (1 salicyl-6-hydroxy-2-cyclohexene-on-oyl + 1 H2O -> 1 6-hydroxy-2-cyclohexen-one-carboxylate + 1 salicyl alcohol + 1 H+)
+3.1.1.64-RXN:1 CHOCOLA_A_c + 1 WATER_c -> 1 CPD-13524_c + 1 PALMITATE_c + 1 PROTON_c (1 all-trans-retinyl palmitate + 1 H2O -> 1 all-trans-retinol + 1 palmitate + 1 H+)
+CARBOXYLESTERASE-RXN:1 Carboxylic-esters_c + 1 WATER_c -> 1 Carboxylates_c + 1 Alcohols_c + 1 PROTON_c (1 a carboxylic ester + 1 H2O -> 1 a carboxylate + 1 an alcohol + 1 H+)
+RXN-10767:1 CPD1F-2_c + 1 WATER_c -> 1 METOH_c + 1 CPD-734_c + 1 PROTON_c (1 (-)-methyl jasmonate + 1 H2O -> 1 methanol + 1 (-)-jasmonate + 1 H+)
+
+
+AdditionalMetabolites:
+ACET_c (acetate)
+Alcohols_c (an alcohol)
+CHOCOLA_A_c (all-trans-retinyl palmitate)
+CPD-10546_c (methyl (indol-3-yl)acetate)
+CPD-110_c (salicylate)
+CPD-13172_c (6-hydroxy-2-cyclohexen-one-carboxylate)
+CPD-13174_c (salicyl-6-hydroxy-2-cyclohexene-on-oyl)
+CPD-13524_c (all-trans-retinol)
+CPD-173_c (salicyl alcohol)
+CPD-20984_c (cis-vaccenyl acetate)
+CPD-20985_c (cis-vaccenyl alcohol)
+CPD-6442_c (methylsalicylate)
+CPD-734_c ((-)-jasmonate)
+CPD1F-2_c ((-)-methyl jasmonate)
+Carboxylates_c (a carboxylate)
+Carboxylic-esters_c (a carboxylic ester)
+INDOLE_ACETATE_AUXIN_c ((indol-3-yl)acetate)
+METOH_c (methanol)
+PALMITATE_c (palmitate)
+PROTON_c (H+)
+WATER_c (H2O)
+
+

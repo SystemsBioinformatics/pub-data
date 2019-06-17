@@ -1,0 +1,31 @@
+AdditionalNotInModel:
+3OAR121:1 h_c + 1 nadph_c + 1 3ocddec5eACP_c -> 1 nadp_c + 1 3hcddec5eACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein])
+3OAR141:1 h_c + 1 nadph_c + 1 3ocmrs7eACP_c -> 1 nadp_c + 1 3hcmrs7eACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein])
+3OAR161:1 h_c + 1 nadph_c + 1 3ocpalm9eACP_c -> 1 nadp_c + 1 3hcpalm9eACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-palm-9-eoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein])
+3OAR181:1 h_c + 1 nadph_c + 1 3ocvac11eACP_c -> 1 nadp_c + 1 3hcvac11eACP_c (1 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein] -> 1 Nicotinamide adenine dinucleotide phosphate + 1 (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein])
+C100SN:11 h_c + 8 nadph_c + 1 actACP_c + 3 malACP_c -> 4 h2o_c + 8 nadp_c + 3 co2_c + 3 ACP_c + 1 dcaACP_c (11 H+ + 8 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Acetoacetyl-ACP + 3 Malonyl-[acyl-carrier protein] -> 4 H2O + 8 Nicotinamide adenine dinucleotide phosphate + 3 CO2 + 3 Acyl carrier protein + 1 Decanoyl-ACP (n-C10:0ACP))
+FASC120ACP:3 h_c + 2 nadph_c + 1 malACP_c + 1 dcaACP_c -> 1 h2o_c + 2 nadp_c + 1 co2_c + 1 ACP_c + 1 ddcaACP_c (3 H+ + 2 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Decanoyl-ACP (n-C10:0ACP) -> 1 H2O + 2 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Dodecanoyl-ACP (n-C12:0ACP))
+FASC140ACP:3 h_c + 2 nadph_c + 1 malACP_c + 1 ddcaACP_c -> 1 h2o_c + 2 nadp_c + 1 co2_c + 1 ACP_c + 1 myrsACP_c (3 H+ + 2 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Dodecanoyl-ACP (n-C12:0ACP) -> 1 H2O + 2 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Myristoyl-ACP (n-C14:0ACP))
+FASC141ACP:2 h_c + 1 nadph_c + 1 malACP_c + 1 ddcaACP_c -> 1 h2o_c + 1 nadp_c + 1 co2_c + 1 ACP_c + 1 tdeACP_c (2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Dodecanoyl-ACP (n-C12:0ACP) -> 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1))
+FASC160ACP:3 h_c + 2 nadph_c + 1 malACP_c + 1 myrsACP_c -> 1 h2o_c + 2 nadp_c + 1 co2_c + 1 ACP_c + 1 palmACP_c (3 H+ + 2 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 H2O + 2 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Palmitoyl-ACP (n-C16:0ACP))
+FASC161ACP:2 h_c + 1 nadph_c + 1 malACP_c + 1 myrsACP_c -> 1 h2o_c + 1 nadp_c + 1 co2_c + 1 ACP_c + 1 hdeACP_c (2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1))
+FASC180ACP:3 h_c + 2 nadph_c + 1 malACP_c + 1 palmACP_c -> 1 h2o_c + 2 nadp_c + 1 co2_c + 1 ACP_c + 1 ocdcaACP_c (3 H+ + 2 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 H2O + 2 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Octadecanoyl-ACP (n-C18:0ACP))
+FASC181ACP:2 h_c + 1 nadph_c + 1 malACP_c + 1 palmACP_c -> 1 h2o_c + 1 nadp_c + 1 co2_c + 1 ACP_c + 1 octeACP_c (2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 H2O + 1 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1))
+KAS_HP:2 h_c + 1 nadph_c + 1 malACP_c + 1 myrsACP_c -> 1 nadp_c + 1 co2_c + 1 ACP_c + 1 3hpalmACP_c (2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Myristoyl-ACP (n-C14:0ACP) -> 1 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 R-3-hydroxypalmitoyl-[acyl-carrier protein])
+KAS_HP2:2 h_c + 1 nadph_c + 1 malACP_c + 1 palmACP_c -> 1 nadp_c + 1 co2_c + 1 ACP_c + 1 3hoctaACP_c (2 H+ + 1 Nicotinamide adenine dinucleotide phosphate - reduced + 1 Malonyl-[acyl-carrier protein] + 1 Palmitoyl-ACP (n-C16:0ACP) -> 1 Nicotinamide adenine dinucleotide phosphate + 1 CO2 + 1 Acyl carrier protein + 1 (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein])
+
+
+AdditionalMetabolites:
+3hcddec5eACP_c ((R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein])
+3hcmrs7eACP_c ((R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein])
+3hcpalm9eACP_c ((R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein])
+3hcvac11eACP_c ((R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein])
+3ocddec5eACP_c (3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein])
+3ocmrs7eACP_c (3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein])
+3ocpalm9eACP_c (3-oxo-cis-palm-9-eoyl-[acyl-carrier protein])
+3ocvac11eACP_c (3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein])
+hdeACP_c (Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1))
+octeACP_c (Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1))
+tdeACP_c (Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1))
+
+

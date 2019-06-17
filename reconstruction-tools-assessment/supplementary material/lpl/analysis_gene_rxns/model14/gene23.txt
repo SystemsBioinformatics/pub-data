@@ -1,0 +1,4 @@
+notRecovered:
+FOLD3:1 2ahhmd_c + 1 4abz_c -> 1 dhpt_c + 1 ppi_c (1 M_2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_diphosphate_ + 1 M_4_Aminobenzoate_ -> 1 M_Dihydropteroate_ + 1 M_Diphosphate_)
+
+

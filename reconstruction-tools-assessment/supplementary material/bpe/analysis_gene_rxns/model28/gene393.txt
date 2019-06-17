@@ -1,0 +1,5 @@
+notRecovered:
+IPPMIa:1 3c2hmp_c <=> 1 2ippm_c + 1 h2o_c (1 3-Carboxy-2-hydroxy-4-methylpentanoate <=> 1 2-Isopropylmaleate + 1 H2O)
+IPPMIb:1 2ippm_c + 1 h2o_c <=> 1 3c3hmp_c (1 2-Isopropylmaleate + 1 H2O <=> 1 3-Carboxy-3-hydroxy-4-methylpentanoate)
+
+

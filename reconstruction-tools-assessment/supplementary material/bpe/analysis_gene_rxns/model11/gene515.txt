@@ -1,0 +1,4 @@
+notRecovered:
+MCITL2:1 micit_c -> 1 pyr_c + 1 succ_c (1 methylisocitrate -> 1 Pyruvate + 1 Succinate)
+
+

@@ -1,0 +1,10 @@
+AdditionalNotInModel:
+H2NEOPTERINALDOL-RXN:1 DIHYDRO-NEO-PTERIN_c -> 1 GLYCOLALDEHYDE_c + 1 AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c (1 7,8-dihydroneopterin -> 1 glycolaldehyde + 1 6-(hydroxymethyl)-7,8-dihydropterin)
+
+
+AdditionalMetabolites:
+AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE_c (6-(hydroxymethyl)-7,8-dihydropterin)
+DIHYDRO-NEO-PTERIN_c (7,8-dihydroneopterin)
+GLYCOLALDEHYDE_c (glycolaldehyde)
+
+
